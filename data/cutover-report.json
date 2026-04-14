@@ -1,32 +1,37 @@
 {
-  "generatedAt": "2026-04-14T00:00:00.000Z",
+  "generatedAt": "2026-04-14T16:07:52.982Z",
   "merchants": {
-    "total": 2,
-    "withEvidence": 2,
-    "withWebsite": 2,
-    "highConfidence": 1,
-    "mediumConfidence": 1,
+    "total": 8156,
+    "withEvidence": 8156,
+    "withWebsite": 0,
+    "highConfidence": 3,
+    "mediumConfidence": 8153,
     "lowConfidence": 0
   },
   "stats": {
-    "totalMerchants": 2,
+    "totalMerchants": 8156,
     "modeBreakdown": {
-      "direct": 1,
-      "processor": 1
+      "direct": 8114,
+      "bridge": 39,
+      "processor": 3
     },
     "confidenceBreakdown": {
-      "medium": 1,
-      "high": 1
+      "medium": 8153,
+      "high": 3
     },
     "countryBreakdown": {
-      "Japan": 1,
-      "Germany": 1
+      "AQ": 2,
+      "CH": 673,
+      "ZA": 900,
+      "IT": 896,
+      "MX": 276,
+      "BR": 1432,
+      "US": 3744,
+      "SV": 233
     },
-    "processorBreakdown": {
-      "OpenNode": 1
-    }
+    "processorBreakdown": {}
   },
   "reviewQueue": {
-    "total": 1
+    "total": 4597
   }
 }

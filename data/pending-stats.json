@@ -1,0 +1,30 @@
+{
+  "totalMerchants": 4597,
+  "modeBreakdown": {
+    "direct": 4593,
+    "unknown": 3,
+    "bridge": 1
+  },
+  "confidenceBreakdown": {
+    "medium": 4593,
+    "low": 4
+  },
+  "countryBreakdown": {
+    "AQ": 2,
+    "ZA": 423,
+    "BR": 911,
+    "US": 1368,
+    "SV": 1106,
+    "TH": 76,
+    "DE": 56,
+    "GB": 78,
+    "MX": 139,
+    "CH": 115,
+    "IT": 169,
+    "AR": 89,
+    "JP": 40,
+    "FR": 19,
+    "CA": 6
+  },
+  "processorBreakdown": {}
+}
