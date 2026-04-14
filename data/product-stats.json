@@ -1,0 +1,18 @@
+{
+  "totalMerchants": 2,
+  "modeBreakdown": {
+    "direct": 1,
+    "processor": 1
+  },
+  "confidenceBreakdown": {
+    "medium": 1,
+    "high": 1
+  },
+  "countryBreakdown": {
+    "Japan": 1,
+    "Germany": 1
+  },
+  "processorBreakdown": {
+    "OpenNode": 1
+  }
+}
