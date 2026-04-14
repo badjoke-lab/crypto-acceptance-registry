@@ -1,0 +1,27 @@
+{
+  "legacy_id": "legacy:example-merchant-1",
+  "display_name": "Example Merchant",
+  "country": "Japan",
+  "city": "Tokyo",
+  "website": "https://example.com/payments",
+  "verification_status": "community",
+  "accepted_assets": ["BTC", "ETH"],
+  "accepted_chains": ["Lightning", "Ethereum"],
+  "payment_methods": ["invoice", "qr"],
+  "payment_processors": [],
+  "payment_notes": ["Lightning available at checkout"],
+  "social_links": [
+    {
+      "platform": "x",
+      "url": "https://x.com/example",
+      "handle": "example"
+    }
+  ],
+  "proposed_mode": "direct",
+  "confidence": "medium",
+  "review_reasons": [],
+  "evidence_refs": [
+    "https://example.com/payments",
+    "https://x.com/example"
+  ]
+}
