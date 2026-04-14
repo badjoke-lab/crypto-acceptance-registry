@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2026-04-14T00:00:00.000Z",
+  "merchants": {
+    "total": 2,
+    "withEvidence": 2,
+    "withWebsite": 2,
+    "highConfidence": 1,
+    "mediumConfidence": 1,
+    "lowConfidence": 0
+  },
+  "stats": {
+    "totalMerchants": 2,
+    "modeBreakdown": {
+      "direct": 1,
+      "processor": 1
+    },
+    "confidenceBreakdown": {
+      "medium": 1,
+      "high": 1
+    },
+    "countryBreakdown": {
+      "Japan": 1,
+      "Germany": 1
+    },
+    "processorBreakdown": {
+      "OpenNode": 1
+    }
+  },
+  "reviewQueue": {
+    "total": 1
+  }
+}
