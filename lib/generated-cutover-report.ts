@@ -1,0 +1,29 @@
+import cutoverReport from '../data/cutover-report.json'
+
+type CutoverReport = {
+  generatedAt: string
+  merchants: {
+    total: number
+    withEvidence: number
+    withWebsite: number
+    highConfidence: number
+    mediumConfidence: number
+    lowConfidence: number
+  }
+  stats: {
+    totalMerchants: number
+    modeBreakdown: Record<string, number>
+    confidenceBreakdown: Record<string, number>
+    countryBreakdown: Record<string, number>
+    processorBreakdown: Record<string, number>
+  }
+  reviewQueue: {
+    total: number
+  }
+}
+
+const report = cutoverReport as CutoverReport
+
+export function getGeneratedCutoverReport(): CutoverReport {
+  return report
+}
