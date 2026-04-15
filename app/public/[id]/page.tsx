@@ -7,6 +7,15 @@ type PublicDetailPageProps = {
   }
 }
 
+function whyReadyBlocks(merchant: NonNullable<ReturnType<typeof getGeneratedProductMerchantById>>) {
+  return [
+    { label: 'References', value: merchant.evidence_refs.length > 0 ? `${merchant.evidence_refs.length}` : '0' },
+    { label: 'Website', value: merchant.website ? 'yes' : 'no' },
+    { label: 'Processors', value: merchant.payment_processors.join(', ') || '—' },
+    { label: 'Assets', value: merchant.accepted_assets.join(', ') || '—' },
+  ]
+}
+
 export default function PublicDetailPage({ params }: PublicDetailPageProps) {
   const merchant = getGeneratedProductMerchantById(params.id)
 
@@ -25,6 +34,32 @@ export default function PublicDetailPage({ params }: PublicDetailPageProps) {
       <p><Link href="/public">← Back to public catalog</Link></p>
       <h1>{merchant.display_name}</h1>
       <p>{[merchant.city, merchant.country].filter(Boolean).join(', ') || 'Unknown location'}</p>
+
+      <section
+        style={{
+          display: 'grid',
+          gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))',
+          gap: 14,
+          padding: '6px 0 20px',
+        }}
+      >
+        {whyReadyBlocks(merchant).map((item) => (
+          <div
+            key={item.label}
+            style={{
+              border: '1px solid #dbeafe',
+              borderRadius: 14,
+              padding: 16,
+              background: '#f8fbff',
+            }}
+          >
+            <div style={{ fontSize: 12, color: '#6b7280', textTransform: 'uppercase', letterSpacing: '0.08em' }}>
+              {item.label}
+            </div>
+            <div style={{ fontSize: 18, fontWeight: 700, marginTop: 6 }}>{item.value}</div>
+          </div>
+        ))}
+      </section>
 
       <h2>Classification</h2>
       <ul>
