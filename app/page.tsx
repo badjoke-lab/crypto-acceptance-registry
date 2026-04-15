@@ -2,30 +2,40 @@ import Link from 'next/link'
 
 const cards = [
   {
-    href: '/generated',
-    title: 'Generated catalog',
-    desc: 'Public-ready merchant records backed by the ready dataset.',
+    href: '/public-hub',
+    title: 'Public hub',
+    desc: 'Main entry to the ready baseline and the pending review backlog.',
   },
   {
-    href: '/generated-stats',
-    title: 'Generated stats',
-    desc: 'Mode, confidence, country, and processor breakdowns for the ready baseline.',
+    href: '/public-search',
+    title: 'Search',
+    desc: 'Search ready merchants by name, place, asset, chain, processor, or note text.',
   },
   {
-    href: '/generated-checks',
-    title: 'Generated checks',
+    href: '/public-browse',
+    title: 'Browse',
+    desc: 'Fast entrypoints into the ready baseline by country, mode, and processor coverage.',
+  },
+  {
+    href: '/public-proofs',
+    title: 'Proofs',
+    desc: 'Ready merchants ranked by visible proof signals such as references and website presence.',
+  },
+  {
+    href: '/public-overview',
+    title: 'Overview',
+    desc: 'One-screen summary of ready baseline, confidence, top countries, and pending reasons.',
+  },
+  {
+    href: '/public-checks',
+    title: 'Checks',
     desc: 'Pending records that still need external reference review.',
-  },
-  {
-    href: '/cutover',
-    title: 'Cutover report',
-    desc: 'Current readiness snapshot for public vs pending records.',
   },
 ]
 
 export default function HomePage() {
   return (
-    <main style={{ padding: 32, maxWidth: 1100, margin: '0 auto' }}>
+    <main style={{ padding: 32, maxWidth: 1180, margin: '0 auto' }}>
       <section style={{ padding: '32px 0 20px' }}>
         <p
           style={{
@@ -37,7 +47,7 @@ export default function HomePage() {
             color: '#2563eb',
           }}
         >
-          Public baseline
+          Public-ready baseline
         </p>
         <h1
           style={{
@@ -47,7 +57,7 @@ export default function HomePage() {
             letterSpacing: '-0.04em',
           }}
         >
-          Ready merchants are now the mainline surface.
+          Ready merchants are the mainline surface.
         </h1>
         <p
           style={{
@@ -58,15 +68,15 @@ export default function HomePage() {
             color: '#4b5563',
           }}
         >
-          Use the generated routes as the primary product surface. Pending records remain
-          separate until they gain reference-backed evidence.
+          The public surface shows the ready baseline only. Records without usable external
+          reference coverage stay in the pending backlog until reviewed.
         </p>
       </section>
 
       <section
         style={{
           display: 'grid',
-          gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))',
+          gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))',
           gap: 16,
           paddingTop: 20,
         }}

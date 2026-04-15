@@ -1,41 +1,28 @@
 import Link from 'next/link'
 
 const cards = [
-  {
-    href: '/public',
-    title: 'Public catalog',
-    desc: 'Ready baseline only. Merchant records intended for public-facing browsing.',
-  },
-  {
-    href: '/public-stats',
-    title: 'Public stats',
-    desc: 'Aggregates for the ready baseline: mode, confidence, country, and processor counts.',
-  },
-  {
-    href: '/public-checks',
-    title: 'Public checks',
-    desc: 'Pending records that still need external reference review before promotion.',
-  },
-  {
-    href: '/public-cutover',
-    title: 'Public cutover',
-    desc: 'Current split between ready baseline and pending backlog.',
-  },
-  {
-    href: '/public-status',
-    title: 'Public status',
-    desc: 'Snapshot of the current ready baseline and pending review backlog.',
-  },
-  {
-    href: '/public-methodology',
-    title: 'Public methodology',
-    desc: 'How records are classified and why missing-reference records remain outside the public baseline.',
-  },
+  { href: '/public', title: 'Catalog', desc: 'Ready baseline catalog.' },
+  { href: '/public-search', title: 'Search', desc: 'Search the ready baseline.' },
+  { href: '/public-browse', title: 'Browse', desc: 'Quick browse entrypoints.' },
+  { href: '/public-overview', title: 'Overview', desc: 'One-screen summary of ready and pending.' },
+  { href: '/public-stats', title: 'Stats', desc: 'Counts for the ready baseline.' },
+  { href: '/public-countries', title: 'Countries', desc: 'Browse ready merchants by country.' },
+  { href: '/public-cities', title: 'Cities', desc: 'Browse ready merchants by city.' },
+  { href: '/public-assets', title: 'Assets', desc: 'Browse ready merchants by asset.' },
+  { href: '/public-modes', title: 'Modes', desc: 'Browse ready merchants by acceptance mode.' },
+  { href: '/public-confidence', title: 'Confidence', desc: 'Browse ready merchants by confidence level.' },
+  { href: '/public-proofs', title: 'Proofs', desc: 'See proof-heavy ready merchants first.' },
+  { href: '/public-checks', title: 'Checks', desc: 'Pending review backlog.' },
+  { href: '/public-review-gaps', title: 'Review gaps', desc: 'Why records remain outside the public baseline.' },
+  { href: '/public-status', title: 'Status', desc: 'Current ready vs pending snapshot.' },
+  { href: '/public-cutover', title: 'Cutover', desc: 'Readiness split for public vs pending.' },
+  { href: '/public-methodology', title: 'Methodology', desc: 'How the split and classification work.' },
+  { href: '/public-faq', title: 'FAQ', desc: 'Short answers about ready vs pending.' },
 ]
 
 export default function PublicHubPage() {
   return (
-    <main style={{ padding: 32, maxWidth: 1100, margin: '0 auto' }}>
+    <main style={{ padding: 32, maxWidth: 1180, margin: '0 auto' }}>
       <h1>Public Hub</h1>
       <p style={{ maxWidth: 760, lineHeight: 1.6, color: '#4b5563' }}>
         Public-ready routes for the current baseline. Use these surfaces when treating ready merchants

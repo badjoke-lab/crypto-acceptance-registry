@@ -2,10 +2,17 @@ import Link from 'next/link'
 
 const navItems = [
   { href: '/', label: 'Home' },
-  { href: '/generated', label: 'Generated' },
-  { href: '/generated-stats', label: 'Stats' },
-  { href: '/generated-checks', label: 'Checks' },
-  { href: '/cutover', label: 'Cutover' },
+  { href: '/public-hub', label: 'Hub' },
+  { href: '/public-search', label: 'Search' },
+  { href: '/public-browse', label: 'Browse' },
+  { href: '/public-countries', label: 'Countries' },
+  { href: '/public-cities', label: 'Cities' },
+  { href: '/public-assets', label: 'Assets' },
+  { href: '/public-modes', label: 'Modes' },
+  { href: '/public-confidence', label: 'Confidence' },
+  { href: '/public-proofs', label: 'Proofs' },
+  { href: '/public-overview', label: 'Overview' },
+  { href: '/public-stats', label: 'Stats' },
 ]
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -32,7 +39,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         >
           <div
             style={{
-              maxWidth: 1100,
+              maxWidth: 1180,
               margin: '0 auto',
               padding: '14px 24px',
               display: 'flex',
@@ -46,14 +53,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               style={{
                 textDecoration: 'none',
                 color: '#111827',
-                fontWeight: 700,
+                fontWeight: 800,
                 letterSpacing: '-0.02em',
               }}
             >
               Crypto Acceptance Registry
             </Link>
 
-            <nav style={{ display: 'flex', gap: 16, flexWrap: 'wrap' }}>
+            <nav style={{ display: 'flex', gap: 14, flexWrap: 'wrap' }}>
               {navItems.map((item) => (
                 <Link
                   key={item.href}
