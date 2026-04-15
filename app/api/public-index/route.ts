@@ -1,0 +1,45 @@
+import { NextResponse } from 'next/server'
+
+export function GET() {
+  return NextResponse.json({
+    routes: [
+      '/',
+      '/public-hub',
+      '/public',
+      '/public-search',
+      '/public-browse',
+      '/public-overview',
+      '/public-stats',
+      '/public-countries',
+      '/public-cities',
+      '/public-assets',
+      '/public-modes',
+      '/public-confidence',
+      '/public-proofs',
+      '/public-checks',
+      '/public-review-gaps',
+      '/public-status',
+      '/public-cutover',
+      '/public-methodology',
+      '/public-faq',
+      '/public-downloads',
+    ],
+    apis: [
+      '/api/public-index',
+      '/api/public-ready',
+      '/api/public-pending',
+      '/api/public-overview',
+      '/api/public-status',
+      '/api/public-countries',
+      '/api/public-cities',
+      '/api/public-assets',
+      '/api/public-modes',
+      '/api/public-confidence',
+      '/api/public-checks',
+      '/api/public-review-gaps',
+      '/api/public-cutover',
+      '/api/public-proof-rank',
+      '/api/public-search?q=btc',
+    ],
+  })
+}
