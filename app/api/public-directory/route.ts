@@ -1,0 +1,45 @@
+import { NextResponse } from 'next/server'
+
+export function GET() {
+  return NextResponse.json({
+    surfaces: {
+      home: '/',
+      hub: '/public-hub',
+      catalog: '/public',
+      search: '/public-search',
+      browse: '/public-browse',
+      overview: '/public-overview',
+      stats: '/public-stats',
+      countries: '/public-countries',
+      cities: '/public-cities',
+      assets: '/public-assets',
+      modes: '/public-modes',
+      confidence: '/public-confidence',
+      proofs: '/public-proofs',
+      checks: '/public-checks',
+      reviewGaps: '/public-review-gaps',
+      status: '/public-status',
+      cutover: '/public-cutover',
+      methodology: '/public-methodology',
+      faq: '/public-faq',
+      downloads: '/public-downloads',
+    },
+    apis: {
+      ready: '/api/public-ready',
+      pending: '/api/public-pending',
+      overview: '/api/public-overview',
+      status: '/api/public-status',
+      stats: '/api/public-stats',
+      countries: '/api/public-countries',
+      cities: '/api/public-cities',
+      assets: '/api/public-assets',
+      modes: '/api/public-modes',
+      confidence: '/api/public-confidence',
+      proofs: '/api/public-proofs',
+      proofRank: '/api/public-proof-rank',
+      checks: '/api/public-checks',
+      reviewGaps: '/api/public-review-gaps',
+      cutover: '/api/public-cutover',
+    },
+  })
+}
