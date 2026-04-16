@@ -1,0 +1,97 @@
+[
+  {
+    "legacy_id": "seed:official:amc-theatres-bitpay",
+    "display_name": "AMC Theatres",
+    "country": "US",
+    "city": null,
+    "website": "https://www.amctheatres.com/pay-your-way",
+    "verification_status": "official",
+    "accepted_assets": ["BTC", "BCH", "ETH", "DOGE", "LTC", "SHIB", "WBTC"],
+    "accepted_chains": [],
+    "payment_methods": ["online checkout"],
+    "payment_processors": ["BitPay"],
+    "payment_notes": [
+      "Official AMC payment page says BitPay can be used on the app or website for tickets, food, and drinks.",
+      "Select payment methods are online only, not available in theatres."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.amctheatres.com/pay-your-way"
+    ]
+  },
+  {
+    "legacy_id": "seed:official:newegg-bitpay",
+    "display_name": "Newegg",
+    "country": "US",
+    "city": null,
+    "website": "https://kb.newegg.com/knowledge-base/using-crypto-on-newegg/",
+    "verification_status": "official",
+    "accepted_assets": ["BTC", "BCH", "ETH", "LTC", "DOGE", "SHIB", "USDC", "USDT"],
+    "accepted_chains": [],
+    "payment_methods": ["online checkout"],
+    "payment_processors": ["BitPay"],
+    "payment_notes": [
+      "Official Newegg knowledge base says customers can pay with crypto using BitPay.",
+      "Official U.S. payment methods page lists BitPay as an accepted payment method."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://kb.newegg.com/knowledge-base/using-crypto-on-newegg/",
+      "https://kb.newegg.com/knowledge-base/accepted-payment-methods/"
+    ]
+  },
+  {
+    "legacy_id": "seed:official:namecheap-bitcoin",
+    "display_name": "Namecheap",
+    "country": "US",
+    "city": null,
+    "website": "https://www.namecheap.com/support/payment/bitcoin/",
+    "verification_status": "official",
+    "accepted_assets": ["BTC"],
+    "accepted_chains": ["Bitcoin"],
+    "payment_methods": ["account funding"],
+    "payment_processors": ["BitPay", "BTCPay"],
+    "payment_notes": [
+      "Official Namecheap support page says Namecheap accepts Bitcoin.",
+      "Official press release says customers can use BTCPay and BitPay for Bitcoin payments."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.namecheap.com/support/payment/bitcoin/",
+      "https://www.namecheap.com/about/press-releases/press-releases-info/20-09-21/namecheap_now_offers_bitcoin_payment_option_via_btcpay/"
+    ]
+  },
+  {
+    "legacy_id": "seed:official:expressvpn-crypto",
+    "display_name": "ExpressVPN",
+    "country": "Global",
+    "city": null,
+    "website": "https://www.expressvpn.com/features/vpn-payments/",
+    "verification_status": "official",
+    "accepted_assets": ["BTC", "ETH", "XRP", "USDC", "BUSD", "PAX", "GUSD"],
+    "accepted_chains": [],
+    "payment_methods": ["online checkout"],
+    "payment_processors": ["BitPay"],
+    "payment_notes": [
+      "Official ExpressVPN payments page says ExpressVPN accepts Bitcoin via BitPay.",
+      "The same page says it also accepts Ethereum, XRP, and several stablecoins."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.expressvpn.com/features/vpn-payments/",
+      "https://www.expressvpn.com/blog/expressvpn-now-accepts-bitcoin/"
+    ]
+  }
+]
