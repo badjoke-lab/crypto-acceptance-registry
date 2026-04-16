@@ -1,0 +1,162 @@
+[
+  {
+    "registry_id": "merchant:amc-theatres:bitpay",
+    "scope": "merchant",
+    "display_name": "AMC Theatres",
+    "country": "US",
+    "city": null,
+    "website": "https://www.amctheatres.com/pay-your-way",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "BitPay",
+    "explicit_support": "AMC says BitPay can be used on the AMC website or app for tickets, food, and drinks; select payment methods are online only.",
+    "support_rails": [
+      { "rail_id": "processor:bitpay", "rail_type": "processor", "label": "BitPay" },
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:bch", "rail_type": "asset", "label": "BCH" },
+      { "rail_id": "asset:eth", "rail_type": "asset", "label": "ETH" },
+      { "rail_id": "asset:doge", "rail_type": "asset", "label": "DOGE" },
+      { "rail_id": "asset:ltc", "rail_type": "asset", "label": "LTC" },
+      { "rail_id": "asset:shib", "rail_type": "asset", "label": "SHIB" },
+      { "rail_id": "asset:wbtc", "rail_type": "asset", "label": "WBTC" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-15",
+    "evidence_refs": [
+      {
+        "label": "AMC Pay Your Way",
+        "url": "https://www.amctheatres.com/pay-your-way",
+        "kind": "official_payment_page",
+        "publisher": "AMC Theatres"
+      }
+    ],
+    "notes": [
+      "Support is explicitly described on the official AMC payment page.",
+      "The page indicates this payment method is available online, not necessarily in theatres."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:newegg:bitpay",
+    "scope": "merchant",
+    "display_name": "Newegg",
+    "country": "US",
+    "city": null,
+    "website": "https://kb.newegg.com/knowledge-base/using-crypto-on-newegg/",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "BitPay",
+    "explicit_support": "Newegg says customers can pay with crypto using BitPay, and its U.S. payment methods page lists BitPay as an accepted payment method.",
+    "support_rails": [
+      { "rail_id": "processor:bitpay", "rail_type": "processor", "label": "BitPay" },
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:bch", "rail_type": "asset", "label": "BCH" },
+      { "rail_id": "asset:eth", "rail_type": "asset", "label": "ETH" },
+      { "rail_id": "asset:ltc", "rail_type": "asset", "label": "LTC" },
+      { "rail_id": "asset:doge", "rail_type": "asset", "label": "DOGE" },
+      { "rail_id": "asset:shib", "rail_type": "asset", "label": "SHIB" },
+      { "rail_id": "asset:usdc", "rail_type": "asset", "label": "USDC" },
+      { "rail_id": "asset:usdt", "rail_type": "asset", "label": "USDT" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-15",
+    "evidence_refs": [
+      {
+        "label": "Using Crypto on Newegg",
+        "url": "https://kb.newegg.com/knowledge-base/using-crypto-on-newegg/",
+        "kind": "official_help_center",
+        "publisher": "Newegg"
+      },
+      {
+        "label": "Accepted Payment Methods",
+        "url": "https://kb.newegg.com/knowledge-base/accepted-payment-methods/",
+        "kind": "official_help_center",
+        "publisher": "Newegg"
+      }
+    ],
+    "notes": [
+      "Official Newegg sources explicitly reference crypto checkout through BitPay."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:namecheap:bitcoin",
+    "scope": "merchant",
+    "display_name": "Namecheap",
+    "country": "US",
+    "city": null,
+    "website": "https://www.namecheap.com/support/payment/bitcoin/",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitcoin via BitPay and BTCPay",
+    "explicit_support": "Namecheap says it accepts Bitcoin and separately announced BTCPay support for Bitcoin payments.",
+    "support_rails": [
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "chain:bitcoin", "rail_type": "chain", "label": "Bitcoin" },
+      { "rail_id": "processor:bitpay", "rail_type": "processor", "label": "BitPay" },
+      { "rail_id": "processor:btcpay", "rail_type": "processor", "label": "BTCPay" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-15",
+    "evidence_refs": [
+      {
+        "label": "Namecheap Bitcoin Payment Support",
+        "url": "https://www.namecheap.com/support/payment/bitcoin/",
+        "kind": "official_help_center",
+        "publisher": "Namecheap"
+      },
+      {
+        "label": "Namecheap BTCPay Press Release",
+        "url": "https://www.namecheap.com/about/press-releases/press-releases-info/20-09-21/namecheap_now_offers_bitcoin_payment_option_via_btcpay/",
+        "kind": "official_press_release",
+        "publisher": "Namecheap"
+      }
+    ],
+    "notes": [
+      "Official sources explicitly support Bitcoin payments."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:expressvpn:crypto",
+    "scope": "merchant",
+    "display_name": "ExpressVPN",
+    "country": "Global",
+    "city": null,
+    "website": "https://www.expressvpn.com/features/vpn-payments/",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "BitPay",
+    "explicit_support": "ExpressVPN says it accepts Bitcoin via BitPay and also supports Ethereum, XRP, and several stablecoins.",
+    "support_rails": [
+      { "rail_id": "processor:bitpay", "rail_type": "processor", "label": "BitPay" },
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:eth", "rail_type": "asset", "label": "ETH" },
+      { "rail_id": "asset:xrp", "rail_type": "asset", "label": "XRP" },
+      { "rail_id": "asset:usdc", "rail_type": "asset", "label": "USDC" },
+      { "rail_id": "asset:busd", "rail_type": "asset", "label": "BUSD" },
+      { "rail_id": "asset:pax", "rail_type": "asset", "label": "PAX" },
+      { "rail_id": "asset:gusd", "rail_type": "asset", "label": "GUSD" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-15",
+    "evidence_refs": [
+      {
+        "label": "ExpressVPN VPN Payments",
+        "url": "https://www.expressvpn.com/features/vpn-payments/",
+        "kind": "official_payment_page",
+        "publisher": "ExpressVPN"
+      },
+      {
+        "label": "ExpressVPN Bitcoin announcement",
+        "url": "https://www.expressvpn.com/blog/expressvpn-now-accepts-bitcoin/",
+        "kind": "official_blog",
+        "publisher": "ExpressVPN"
+      }
+    ],
+    "notes": [
+      "Official ExpressVPN sources explicitly reference crypto payments."
+    ],
+    "source_origin": "official_seed"
+  }
+]
