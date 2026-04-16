@@ -1,8 +1,8 @@
 import { NextResponse } from 'next/server'
-import { getRegistryV3FullSeeds } from '../../../lib/registry-v3-full-seeds'
+import { getRegistryV3FullerSeeds } from '../../../lib/registry-v3-fuller-seeds'
 
 export function GET() {
-  const records = getRegistryV3FullSeeds()
+  const records = getRegistryV3FullerSeeds()
   return NextResponse.json({
     total: records.length,
     records,
