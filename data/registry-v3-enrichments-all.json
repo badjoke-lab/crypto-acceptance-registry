@@ -1,0 +1,340 @@
+[
+  {
+    "registry_id": "merchant:amc-theatres:bitpay",
+    "entity_type": "physical_merchant",
+    "legal_or_brand_name": "AMC Theatres",
+    "address": {"address_full": "11500 Ash Street, Leawood, KS 66211, USA", "street": "11500 Ash Street", "city": "Leawood", "state_or_region": "KS", "postal_code": "66211", "country": "US"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "support_url", "value": "https://www.amctheatres.com/contact", "label": "Contact page"},
+      {"type": "phone", "value": "877-262-4450", "label": "Guest Services"},
+      {"type": "phone", "value": "913-213-2000", "label": "Corporate phone"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official AMC website/app payment documentation",
+    "coverage_region": "United States website and app checkout"
+  },
+  {
+    "registry_id": "merchant:newegg:bitpay",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "Newegg",
+    "address": {"address_full": "21688 Gateway Center Dr. Suite 300, Diamond Bar, CA 91765, USA", "street": "21688 Gateway Center Dr. Suite 300", "city": "Diamond Bar", "state_or_region": "CA", "postal_code": "91765", "country": "US"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "support_url", "value": "https://kb.newegg.com/contact-us?lang=en", "label": "Help center"},
+      {"type": "phone", "value": "800-390-1119", "label": "Customer service"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official Newegg payment help pages",
+    "coverage_region": "US-based online commerce"
+  },
+  {
+    "registry_id": "merchant:namecheap:bitcoin",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "Namecheap, Inc.",
+    "address": {"address_full": "4600 East Washington Street, Suite 300, Phoenix, AZ 85034, USA", "street": "4600 East Washington Street, Suite 300", "city": "Phoenix", "state_or_region": "AZ", "postal_code": "85034", "country": "US"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "support_url", "value": "https://www.namecheap.com/support/", "label": "Help center"},
+      {"type": "email", "value": "support@namecheap.com", "label": "Support email"},
+      {"type": "email", "value": "sales@namecheap.com", "label": "Sales email"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official Namecheap payment support pages",
+    "coverage_region": "Global online service"
+  },
+  {
+    "registry_id": "merchant:expressvpn:crypto",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "Express Technologies Limited",
+    "address": {"address_full": "Themistokli Dervi 41, Hawaii Nicosia Tower, 8th floor, Flat/Office 806-807, 1066 Nicosia, Cyprus", "street": "Themistokli Dervi 41, Hawaii Nicosia Tower, 8th floor, Flat/Office 806-807", "city": "Nicosia", "state_or_region": null, "postal_code": "1066", "country": "CY"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "support_url", "value": "https://www.expressvpn.com/support/troubleshooting/contact-support-live-chat/", "label": "Support hub"},
+      {"type": "email", "value": "store@expressvpn.com", "label": "Store email"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official ExpressVPN payments and support pages",
+    "coverage_region": "Global online service"
+  },
+  {
+    "registry_id": "merchant:nordvpn:crypto",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "nordvpn S.A.",
+    "address": {"address_full": "PH F&F TOWER, 50th Street & 56th Street, Suite #32-D, Floor 32, Panama City, Republic of Panama", "street": "PH F&F TOWER, 50th Street & 56th Street, Suite #32-D, Floor 32", "city": "Panama City", "state_or_region": null, "postal_code": null, "country": "PA"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "support_url", "value": "https://nordvpn.com/contact-us/", "label": "Contact page"},
+      {"type": "email", "value": "support@nordvpn.com", "label": "Support email"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official NordVPN payment-method and contact pages",
+    "coverage_region": "Global online service"
+  },
+  {
+    "registry_id": "merchant:proton-vpn:bitcoin",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "Proton AG",
+    "address": {"address_full": "Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland", "street": "Route de la Galaise 32", "city": "Plan-les-Ouates, Geneva", "state_or_region": null, "postal_code": "1228", "country": "CH"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "contact_form", "value": "https://protonvpn.com/support/contact", "label": "Support form"},
+      {"type": "email", "value": "support@protonvpn.zendesk.com", "label": "Support email"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official Proton VPN payment-option and support pages",
+    "coverage_region": "Global online service"
+  },
+  {
+    "registry_id": "merchant:airbaltic:bitpay",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "Air Baltic Corporation AS",
+    "address": {"address_full": "Tehnikas iela 3, Lidosta \"Riga\", Marupe district, LV-1053, Latvia", "street": "Tehnikas iela 3", "city": "Lidosta Riga, Marupe district", "state_or_region": null, "postal_code": "LV-1053", "country": "LV"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "support_url", "value": "https://www.airbaltic.com/en/contact-us", "label": "Contact page"},
+      {"type": "support_url", "value": "https://www.airbaltic.com/en/before-you-fly/payment-options", "label": "Payment options"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official airBaltic booking payment pages",
+    "coverage_region": "airBaltic online booking flow"
+  },
+  {
+    "registry_id": "merchant:hostinger:crypto-renewal",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "Hostinger",
+    "address": {"address_full": "Jonavos str. 60C, 44192 Kaunas, Lithuania", "street": "Jonavos str. 60C", "city": "Kaunas", "state_or_region": null, "postal_code": "44192", "country": "LT"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "support_url", "value": "https://www.hostinger.com/contacts", "label": "Contacts"},
+      {"type": "support_url", "value": "https://www.hostinger.com/payments", "label": "Payments page"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "renewal_only",
+    "verification_target": "official Hostinger payment pages for renewal billing",
+    "coverage_region": "Global online service"
+  },
+  {
+    "registry_id": "merchant:mullvad:crypto",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "Mullvad VPN",
+    "address": {"address_full": null, "street": null, "city": "Gothenburg", "state_or_region": null, "postal_code": null, "country": "SE"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "support_url", "value": "https://mullvad.net/en/help", "label": "Help center"},
+      {"type": "support_url", "value": "https://mullvad.net/en/vpn/what-is-vpn", "label": "Main website"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official Mullvad terms and payment-related pages",
+    "coverage_region": "Global online service"
+  },
+  {
+    "registry_id": "merchant:pia:crypto-bitpay",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "Private Internet Access, Inc.",
+    "address": {"address_full": "2590 Welton Street, Ste. 200 PMB 2570, Denver, CO 80205, USA", "street": "2590 Welton Street, Ste. 200 PMB 2570", "city": "Denver", "state_or_region": "CO", "postal_code": "80205", "country": "US"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "support_url", "value": "https://www.privateinternetaccess.com/contact-us", "label": "Contact page"},
+      {"type": "email", "value": "helpdesk@privateinternetaccess.com", "label": "Support email"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official PIA payment and contact pages",
+    "coverage_region": "Global online service"
+  },
+  {
+    "registry_id": "merchant:cyberghost:cryptocurrency",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "CyberGhost S.R.L.",
+    "address": {"address_full": "70-72 Dionisie Lupu street, District 1, 010458, Bucharest, Romania", "street": "70-72 Dionisie Lupu street", "city": "Bucharest", "state_or_region": "District 1", "postal_code": "010458", "country": "RO"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "support_url", "value": "https://www.cyberghostvpn.com/contact", "label": "Contact page"},
+      {"type": "email", "value": "support@cyberghost.ro", "label": "Support email"},
+      {"type": "contact_form", "value": "https://support.cyberghostvpn.com/hc/en-us/requests/new", "label": "Support request"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official CyberGhost support and imprint pages",
+    "coverage_region": "Global online service"
+  },
+  {
+    "registry_id": "merchant:travala:crypto-bookings",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "Travala.com",
+    "address": {"address_full": null, "street": null, "city": null, "state_or_region": null, "postal_code": null, "country": "Global"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "contact_form", "value": "https://www.travala.com/contact-us", "label": "Contact form"},
+      {"type": "support_url", "value": "https://help.travala.com/hc/en-us", "label": "Help center"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official Travala payment options and help center",
+    "coverage_region": "Global online travel booking"
+  },
+  {
+    "registry_id": "merchant:surfshark:crypto",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "Surfshark",
+    "address": {"address_full": null, "street": null, "city": null, "state_or_region": null, "postal_code": null, "country": "Global"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "support_url", "value": "https://support.surfshark.com/hc/en-us/articles/360003069114-How-to-contact-Surfshark-s-customer-support", "label": "Customer support"},
+      {"type": "email", "value": "support@surfshark.com", "label": "Support email"},
+      {"type": "contact_form", "value": "https://support.surfshark.com/hc/en-us/requests/new", "label": "Submit a request"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official Surfshark support and billing pages",
+    "coverage_region": "Global online service"
+  },
+  {
+    "registry_id": "merchant:ovpn:crypto",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "OVPN Integritet AB",
+    "address": {"address_full": "Barnhusgatan 3, 111 23 Stockholm, Sweden", "street": "Barnhusgatan 3", "city": "Stockholm", "state_or_region": null, "postal_code": "111 23", "country": "SE"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "support_url", "value": "https://www.ovpn.com/en/contact", "label": "Contact page"},
+      {"type": "email", "value": "support@ovpn.com", "label": "Support email"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official OVPN support and contact pages",
+    "coverage_region": "Global online service"
+  },
+  {
+    "registry_id": "merchant:ivpn:btc-xmr",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "IVPN",
+    "address": {"address_full": null, "street": null, "city": null, "state_or_region": null, "postal_code": null, "country": "GI"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "support_url", "value": "https://www.ivpn.net/contactus/", "label": "Contact page"},
+      {"type": "support_url", "value": "https://www.ivpn.net/knowledgebase/general/what-payment-methods-do-you-accept/", "label": "Payment methods help"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official IVPN payment documentation",
+    "coverage_region": "Global online service"
+  },
+  {
+    "registry_id": "merchant:windscribe:crypto",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "Windscribe",
+    "address": {"address_full": null, "street": null, "city": null, "state_or_region": null, "postal_code": null, "country": "CA"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "support_url", "value": "https://windscribe.com/contact-support", "label": "Contact support"},
+      {"type": "support_url", "value": "https://windscribe.com/support/ticket", "label": "Support ticket"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official Windscribe knowledge-base payment documentation",
+    "coverage_region": "Global online service"
+  },
+  {
+    "registry_id": "merchant:hostwinds:crypto-nowpayments",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "Hostwinds",
+    "address": {"address_full": null, "street": null, "city": null, "state_or_region": null, "postal_code": null, "country": "US"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "support_url", "value": "https://www.hostwinds.com/contact-us", "label": "Contact us"},
+      {"type": "support_url", "value": "https://www.hostwinds.com/product-docs/support/create-submit-and-manage-tickets", "label": "Support tickets"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official Hostwinds billing documentation for invoice payment",
+    "coverage_region": "Global online service"
+  },
+  {
+    "registry_id": "merchant:purevpn:coingate",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "PureVPN",
+    "address": {"address_full": "Intershore Chambers, P.O Box 4342, Road Town, Tortola, British Virgin Islands", "street": "Intershore Chambers, P.O Box 4342", "city": "Road Town, Tortola", "state_or_region": null, "postal_code": null, "country": "VG"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "support_url", "value": "https://support.purevpn.com/en_US/contact-us", "label": "Support center"},
+      {"type": "contact_form", "value": "https://www.purevpn.com/contact", "label": "Contact form"},
+      {"type": "email", "value": "enquiry@purevpn.com", "label": "Enquiry email"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official PureVPN billing and contact pages",
+    "coverage_region": "Global online service"
+  },
+  {
+    "registry_id": "merchant:airvpn:direct-crypto",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "AirVPN",
+    "address": {"address_full": null, "street": null, "city": null, "state_or_region": null, "postal_code": null, "country": "IT"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "contact_form", "value": "https://airvpn.org/contactus/", "label": "Contact form"},
+      {"type": "email", "value": "support@airvpn.org", "label": "Support email"},
+      {"type": "email", "value": "info@airvpn.org", "label": "General information email"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official AirVPN buy and contact pages",
+    "coverage_region": "Global online service"
+  },
+  {
+    "registry_id": "merchant:shinjiru:btc-eth-coinpayments",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "Shinjiru",
+    "address": {"address_full": null, "street": null, "city": null, "state_or_region": null, "postal_code": null, "country": "MY"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "contact_form", "value": "https://www.shinjiru.com/company/contact-us/", "label": "Contact form"},
+      {"type": "email", "value": "sales@shinjiru.com", "label": "Sales email"},
+      {"type": "email", "value": "billing@shinjiru.com", "label": "Billing email"},
+      {"type": "email", "value": "abuse@shinjiru.com", "label": "Abuse email"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official Shinjiru payment info and contact pages",
+    "coverage_region": "Global online service"
+  },
+  {
+    "registry_id": "merchant:orangewebsite:bitpay-coinpayments",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "OrangeWebsite",
+    "address": {"address_full": null, "street": null, "city": "Reykjavik", "state_or_region": null, "postal_code": null, "country": "IS"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "contact_form", "value": "https://secure.orangewebsite.com/contact.php", "label": "Open ticket"},
+      {"type": "email", "value": "sales@orangewebsite.com", "label": "Sales email"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official OrangeWebsite crypto payment and FAQ pages",
+    "coverage_region": "Global online service with Iceland infrastructure"
+  },
+  {
+    "registry_id": "merchant:vultr:bitpay-digital-currencies",
+    "entity_type": "online_service",
+    "legal_or_brand_name": "Vultr",
+    "address": {"address_full": null, "street": null, "city": null, "state_or_region": null, "postal_code": null, "country": "US"},
+    "geo": {"lat": null, "lng": null},
+    "contact_channels": [
+      {"type": "support_url", "value": "https://docs.vultr.com/support/platform/billing/what-payment-methods-do-you-accept", "label": "Billing docs"},
+      {"type": "support_url", "value": "https://docs.vultr.com/platform/billing/faq", "label": "Billing FAQ"}
+    ],
+    "social_profiles": [],
+    "acceptance_scope": "online_checkout",
+    "verification_target": "official Vultr billing documentation",
+    "coverage_region": "Global online service"
+  }
+]
