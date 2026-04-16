@@ -1,0 +1,165 @@
+[
+  {
+    "registry_id": "merchant:mullvad:crypto",
+    "scope": "merchant",
+    "display_name": "Mullvad VPN",
+    "country": "SE",
+    "city": "Gothenburg",
+    "website": "https://mullvad.net/ar/help/terms-service",
+    "acceptance_type": "direct_crypto",
+    "supports_program_or_network": "Bitcoin, Bitcoin Cash, Monero",
+    "explicit_support": "Mullvad's terms say it accepts Bitcoin, Bitcoin Cash, and Monero as payment methods.",
+    "support_rails": [
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "chain:bitcoin", "rail_type": "chain", "label": "Bitcoin" },
+      { "rail_id": "asset:bch", "rail_type": "asset", "label": "BCH" },
+      { "rail_id": "chain:bitcoincash", "rail_type": "chain", "label": "Bitcoin Cash" },
+      { "rail_id": "asset:xmr", "rail_type": "asset", "label": "XMR" },
+      { "rail_id": "chain:monero", "rail_type": "chain", "label": "Monero" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-16",
+    "evidence_refs": [
+      {
+        "label": "Mullvad Terms of Service",
+        "url": "https://mullvad.net/ar/help/terms-service",
+        "kind": "official_help_center",
+        "publisher": "Mullvad VPN"
+      },
+      {
+        "label": "Mullvad Bitcoin Cash now accepted",
+        "url": "https://mullvad.net/en/blog/bitcoin-cash-now-accepted",
+        "kind": "official_blog",
+        "publisher": "Mullvad VPN"
+      }
+    ],
+    "notes": [
+      "Official terms explicitly list Bitcoin, Bitcoin Cash, and Monero among accepted payment methods.",
+      "Mullvad states a discount applies to accepted cryptocurrency payments."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:pia:crypto-bitpay",
+    "scope": "merchant",
+    "display_name": "Private Internet Access",
+    "country": "US",
+    "city": null,
+    "website": "https://www.privateinternetaccess.com/vpn-features/pay-vpn-with-bitcoin",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "BitPay",
+    "explicit_support": "PIA's official crypto payments page says it processes crypto payments through BitPay and lists supported coins and stablecoins.",
+    "support_rails": [
+      { "rail_id": "processor:bitpay", "rail_type": "processor", "label": "BitPay" },
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:bch", "rail_type": "asset", "label": "BCH" },
+      { "rail_id": "asset:eth", "rail_type": "asset", "label": "ETH" },
+      { "rail_id": "asset:wbtc", "rail_type": "asset", "label": "WBTC" },
+      { "rail_id": "asset:doge", "rail_type": "asset", "label": "DOGE" },
+      { "rail_id": "asset:ltc", "rail_type": "asset", "label": "LTC" },
+      { "rail_id": "asset:shib", "rail_type": "asset", "label": "SHIB" },
+      { "rail_id": "asset:usdc", "rail_type": "asset", "label": "USDC" },
+      { "rail_id": "asset:dai", "rail_type": "asset", "label": "DAI" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-16",
+    "evidence_refs": [
+      {
+        "label": "PIA pay VPN with Bitcoin",
+        "url": "https://www.privateinternetaccess.com/vpn-features/pay-vpn-with-bitcoin",
+        "kind": "official_payment_page",
+        "publisher": "Private Internet Access"
+      },
+      {
+        "label": "PIA Bitcoin payments accepted",
+        "url": "https://www.privateinternetaccess.com/pages/bitcoin-vpn",
+        "kind": "official_payment_page",
+        "publisher": "Private Internet Access"
+      }
+    ],
+    "notes": [
+      "Official PIA page explicitly says crypto payments are processed through BitPay.",
+      "The page lists multiple supported cryptocurrencies and stablecoins."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:cyberghost:cryptocurrency",
+    "scope": "merchant",
+    "display_name": "CyberGhost VPN",
+    "country": "RO",
+    "city": null,
+    "website": "https://support.cyberghostvpn.com/hc/en-us/articles/360013667240-What-payment-methods-do-you-offer",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Cryptocurrency via third-party sellers",
+    "explicit_support": "CyberGhost's official support page says it currently accepts cryptocurrency among its payment methods, while noting payment methods can depend on the third-party seller.",
+    "support_rails": [
+      { "rail_id": "processor:crypto-unspecified", "rail_type": "processor", "label": "Cryptocurrency (provider unspecified)" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-16",
+    "evidence_refs": [
+      {
+        "label": "CyberGhost payment methods",
+        "url": "https://support.cyberghostvpn.com/hc/en-us/articles/360013667240-What-payment-methods-do-you-offer",
+        "kind": "official_help_center",
+        "publisher": "CyberGhost VPN"
+      }
+    ],
+    "notes": [
+      "Official support states cryptocurrency is accepted, but does not name the processor or asset list on the cited page."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:travala:crypto-bookings",
+    "scope": "merchant",
+    "display_name": "Travala.com",
+    "country": "Global",
+    "city": null,
+    "website": "https://www.travala.com/payment-options",
+    "acceptance_type": "direct_crypto",
+    "supports_program_or_network": "Cryptocurrencies plus Binance Pay and Crypto.com Pay",
+    "explicit_support": "Travala's official payment pages say it accepts 100+ payment methods including cryptocurrencies, Binance Pay, and Crypto.com Pay, with BTC, ETH, BNB, USDT, XRP and many others available.",
+    "support_rails": [
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:eth", "rail_type": "asset", "label": "ETH" },
+      { "rail_id": "asset:bnb", "rail_type": "asset", "label": "BNB" },
+      { "rail_id": "asset:usdt", "rail_type": "asset", "label": "USDT" },
+      { "rail_id": "asset:xrp", "rail_type": "asset", "label": "XRP" },
+      { "rail_id": "program:binance-pay", "rail_type": "digital_cash_program", "label": "Binance Pay" },
+      { "rail_id": "program:crypto-com-pay", "rail_type": "digital_cash_program", "label": "Crypto.com Pay" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-16",
+    "evidence_refs": [
+      {
+        "label": "Travala payment options",
+        "url": "https://www.travala.com/payment-options",
+        "kind": "official_payment_page",
+        "publisher": "Travala.com"
+      },
+      {
+        "label": "Travala accepted payment methods",
+        "url": "https://help.travala.com/hc/en-us/articles/18279368099481-What-payment-methods-does-Travala-com-accept",
+        "kind": "official_help_center",
+        "publisher": "Travala.com"
+      },
+      {
+        "label": "Travala accepted cryptocurrencies",
+        "url": "https://help.travala.com/hc/en-us/articles/27245748245273-Which-cryptocurrencies-are-accepted-as-payment-on-Travala-com",
+        "kind": "official_help_center",
+        "publisher": "Travala.com"
+      }
+    ],
+    "notes": [
+      "Official Travala pages explicitly support cryptocurrency payments and named digital-cash-style programs.",
+      "Travala is useful because it is not just processor-only; it exposes a broad asset and program surface on official pages."
+    ],
+    "source_origin": "official_seed"
+  }
+]
