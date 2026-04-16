@@ -1,0 +1,284 @@
+[
+  {
+    "registry_id": "merchant:surfshark:crypto",
+    "scope": "merchant",
+    "display_name": "Surfshark",
+    "country": "Global",
+    "city": null,
+    "website": "https://support.surfshark.com/hc/en-us/articles/360003069034-What-payment-options-do-you-offer",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Cryptocurrency via CoinPayments",
+    "explicit_support": "Surfshark's official support says cryptocurrency is an accepted payment option, and Surfshark billing support asks for a CoinPayments Payment ID for crypto payment issues.",
+    "support_rails": [
+      { "rail_id": "processor:coinpayments", "rail_type": "processor", "label": "CoinPayments" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-16",
+    "evidence_refs": [
+      { "label": "Surfshark payment options", "url": "https://support.surfshark.com/hc/en-us/articles/360003069034-What-payment-options-do-you-offer", "kind": "official_help_center", "publisher": "Surfshark" },
+      { "label": "Surfshark duplicate charge support", "url": "https://support.surfshark.com/hc/en-us/articles/25568695199378-What-to-do-if-you-ve-been-accidentally-charged-twice", "kind": "official_help_center", "publisher": "Surfshark" }
+    ],
+    "notes": [
+      "Official support explicitly lists cryptocurrency as a payment option.",
+      "Billing support materials reference CoinPayments Payment ID for crypto transactions."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:ovpn:crypto",
+    "scope": "merchant",
+    "display_name": "OVPN",
+    "country": "SE",
+    "city": null,
+    "website": "https://support.ovpn.com/hc/en-us/articles/46236309981843-What-payment-methods-does-OVPN-accept",
+    "acceptance_type": "direct_crypto",
+    "supports_program_or_network": "Bitcoin and Ethereum",
+    "explicit_support": "OVPN's official support says it accepts cryptocurrencies like Bitcoin and Ethereum, and separately says anonymous payment can be made with BTC and ETH.",
+    "support_rails": [
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "chain:bitcoin", "rail_type": "chain", "label": "Bitcoin" },
+      { "rail_id": "asset:eth", "rail_type": "asset", "label": "ETH" },
+      { "rail_id": "chain:ethereum", "rail_type": "chain", "label": "Ethereum" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-16",
+    "evidence_refs": [
+      { "label": "OVPN payment methods", "url": "https://support.ovpn.com/hc/en-us/articles/46236309981843-What-payment-methods-does-OVPN-accept", "kind": "official_help_center", "publisher": "OVPN" },
+      { "label": "OVPN anonymous payment", "url": "https://support.ovpn.com/hc/en-us/articles/46236278845075-Can-I-make-a-payment-for-my-subscription-anonymously", "kind": "official_help_center", "publisher": "OVPN" }
+    ],
+    "notes": [
+      "Official OVPN support explicitly supports BTC and ETH.",
+      "OVPN frames BTC and ETH as privacy-friendly payment methods."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:ivpn:btc-xmr",
+    "scope": "merchant",
+    "display_name": "IVPN",
+    "country": "GI",
+    "city": null,
+    "website": "https://www.ivpn.net/knowledgebase/general/what-payment-methods-do-you-accept/",
+    "acceptance_type": "direct_crypto",
+    "supports_program_or_network": "Bitcoin via self-hosted BTCPay and Monero self-hosted",
+    "explicit_support": "IVPN's official help center says it accepts Bitcoin via its own BTCPay server and Monero through self-hosted infrastructure.",
+    "support_rails": [
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "chain:bitcoin", "rail_type": "chain", "label": "Bitcoin" },
+      { "rail_id": "asset:xmr", "rail_type": "asset", "label": "XMR" },
+      { "rail_id": "chain:monero", "rail_type": "chain", "label": "Monero" },
+      { "rail_id": "processor:btcpay", "rail_type": "processor", "label": "BTCPay" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-16",
+    "evidence_refs": [
+      { "label": "IVPN payment methods", "url": "https://www.ivpn.net/knowledgebase/general/what-payment-methods-do-you-accept/", "kind": "official_help_center", "publisher": "IVPN" },
+      { "label": "IVPN refunds", "url": "https://www.ivpn.net/en/refunds/", "kind": "official_help_center", "publisher": "IVPN" }
+    ],
+    "notes": [
+      "Official IVPN support explicitly states Bitcoin and Monero acceptance.",
+      "Refund guidance also explicitly references Bitcoin and Monero payments."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:windscribe:crypto",
+    "scope": "merchant",
+    "display_name": "Windscribe",
+    "country": "CA",
+    "city": null,
+    "website": "https://windscribe.com/knowledge-base/articles/what-type-of-payment-options-do-you-accept",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Cryptocurrency",
+    "explicit_support": "Windscribe's official knowledge base says cryptocurrency is one of the accepted payment methods.",
+    "support_rails": [
+      { "rail_id": "processor:crypto-unspecified", "rail_type": "processor", "label": "Cryptocurrency" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-16",
+    "evidence_refs": [
+      { "label": "Windscribe payment options", "url": "https://windscribe.com/knowledge-base/articles/what-type-of-payment-options-do-you-accept", "kind": "official_help_center", "publisher": "Windscribe" },
+      { "label": "Windscribe credit card not accepted article", "url": "https://windscribe.com/knowledge-base/articles/my-credit-card-is-not-being-accepted/", "kind": "official_help_center", "publisher": "Windscribe" }
+    ],
+    "notes": [
+      "Official support explicitly lists cryptocurrency among accepted methods."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:hostwinds:crypto-nowpayments",
+    "scope": "merchant",
+    "display_name": "Hostwinds",
+    "country": "US",
+    "city": null,
+    "website": "https://www.hostwinds.com/product-docs/billing/payment-types",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Cryptocurrencies via NOWPayments",
+    "explicit_support": "Hostwinds documentation says it accepts cryptocurrencies and states unpaid invoices can be paid through a NOWPayments checkout page.",
+    "support_rails": [
+      { "rail_id": "processor:nowpayments", "rail_type": "processor", "label": "NOWPayments" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-16",
+    "evidence_refs": [
+      { "label": "Hostwinds payment options", "url": "https://www.hostwinds.com/product-docs/billing/payment-types", "kind": "official_help_center", "publisher": "Hostwinds" }
+    ],
+    "notes": [
+      "Official Hostwinds docs explicitly accept cryptocurrencies and name NOWPayments as the crypto checkout page."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:purevpn:coingate",
+    "scope": "merchant",
+    "display_name": "PureVPN",
+    "country": "VG",
+    "city": null,
+    "website": "https://support.purevpn.com/en_US/billing/how-to-pay-for-purevpn-subscription",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate and cryptocurrency checkout",
+    "explicit_support": "PureVPN's official billing article says it accepts Bitcoin via CoinGate and also offers cryptocurrency as a payment option on checkout.",
+    "support_rails": [
+      { "rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate" },
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-16",
+    "evidence_refs": [
+      { "label": "PureVPN how to pay for subscription", "url": "https://support.purevpn.com/en_US/billing/how-to-pay-for-purevpn-subscription", "kind": "official_help_center", "publisher": "PureVPN" },
+      { "label": "PureVPN payment processors refundable non-refundable", "url": "https://support.purevpn.com/en_US/subscription-faqs/payment-processors-refundable-non-refundable", "kind": "official_help_center", "publisher": "PureVPN" },
+      { "label": "PureVPN buy VPN with crypto blog", "url": "https://www.purevpn.com/blog/buy-vpn-with-crypto-the-smarter-private-and-borderless-way-to-pay/", "kind": "official_blog", "publisher": "PureVPN" }
+    ],
+    "notes": [
+      "Official PureVPN docs explicitly mention Bitcoin via CoinGate and crypto payment checkout."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:airvpn:direct-crypto",
+    "scope": "merchant",
+    "display_name": "AirVPN",
+    "country": "IT",
+    "city": null,
+    "website": "https://airvpn.org/buy",
+    "acceptance_type": "direct_crypto",
+    "supports_program_or_network": "Direct crypto with no intermediaries",
+    "explicit_support": "AirVPN's official buy page lists Bitcoin, Litecoin, Bitcoin Cash, Doge, and Monero under cryptocurrencies and states they are accepted directly through no intermediaries.",
+    "support_rails": [
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:ltc", "rail_type": "asset", "label": "LTC" },
+      { "rail_id": "asset:bch", "rail_type": "asset", "label": "BCH" },
+      { "rail_id": "asset:doge", "rail_type": "asset", "label": "DOGE" },
+      { "rail_id": "asset:xmr", "rail_type": "asset", "label": "XMR" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-16",
+    "evidence_refs": [
+      { "label": "AirVPN access plans", "url": "https://airvpn.org/buy", "kind": "official_checkout", "publisher": "AirVPN" }
+    ],
+    "notes": [
+      "Official AirVPN page explicitly says the listed cryptocurrencies are accepted directly with no intermediaries."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:shinjiru:btc-eth-coinpayments",
+    "scope": "merchant",
+    "display_name": "Shinjiru",
+    "country": "MY",
+    "city": null,
+    "website": "https://www.shinjiru.com/company/payment-info/",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Direct BTC / direct ETH / CoinPayments",
+    "explicit_support": "Shinjiru's official payment info page says it accepts Bitcoin via direct payment or CoinPayments, and Ethereum ERC20 via direct payment or CoinPayments.",
+    "support_rails": [
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:eth", "rail_type": "asset", "label": "ETH" },
+      { "rail_id": "chain:ethereum-erc20", "rail_type": "chain", "label": "Ethereum ERC20" },
+      { "rail_id": "processor:coinpayments", "rail_type": "processor", "label": "CoinPayments" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-16",
+    "evidence_refs": [
+      { "label": "Shinjiru payment info", "url": "https://www.shinjiru.com/company/payment-info/", "kind": "official_payment_page", "publisher": "Shinjiru" },
+      { "label": "Shinjiru bitcoin hosting", "url": "https://www.shinjiru.com/bitcoin-hosting/", "kind": "official_payment_page", "publisher": "Shinjiru" }
+    ],
+    "notes": [
+      "Official payment page explicitly supports direct and CoinPayments-based crypto payments."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:orangewebsite:bitpay-coinpayments",
+    "scope": "merchant",
+    "display_name": "OrangeWebsite",
+    "country": "IS",
+    "city": null,
+    "website": "https://orangewebsite.com/company/bitcoin-crypto-currency",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "BitPay and CoinPayments",
+    "explicit_support": "OrangeWebsite's official crypto web hosting page says customers can purchase hosting using cryptocurrencies such as Bitcoin, Litecoin, Ethereum, Bitcoin Cash and Monero, and names BitPay and CoinPayments as payment processing partners.",
+    "support_rails": [
+      { "rail_id": "processor:bitpay", "rail_type": "processor", "label": "BitPay" },
+      { "rail_id": "processor:coinpayments", "rail_type": "processor", "label": "CoinPayments" },
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:ltc", "rail_type": "asset", "label": "LTC" },
+      { "rail_id": "asset:eth", "rail_type": "asset", "label": "ETH" },
+      { "rail_id": "asset:bch", "rail_type": "asset", "label": "BCH" },
+      { "rail_id": "asset:xmr", "rail_type": "asset", "label": "XMR" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-16",
+    "evidence_refs": [
+      { "label": "OrangeWebsite crypto web hosting", "url": "https://orangewebsite.com/company/bitcoin-crypto-currency", "kind": "official_payment_page", "publisher": "OrangeWebsite" },
+      { "label": "OrangeWebsite FAQ payment methods", "url": "https://orangewebsite.com/pages/faq", "kind": "official_help_center", "publisher": "OrangeWebsite" }
+    ],
+    "notes": [
+      "Official OrangeWebsite pages explicitly support cryptocurrency payments and mention BitPay and CoinPayments."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:vultr:bitpay-digital-currencies",
+    "scope": "merchant",
+    "display_name": "Vultr",
+    "country": "US",
+    "city": null,
+    "website": "https://docs.vultr.com/support/platform/billing/what-payment-methods-do-you-accept",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "BitPay",
+    "explicit_support": "Vultr's official billing docs say digital currencies are accepted via BitPay and list BTC, BCH, ETH, DOGE, PAX, BUSD, LTC, USDC, and GUSD.",
+    "support_rails": [
+      { "rail_id": "processor:bitpay", "rail_type": "processor", "label": "BitPay" },
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:bch", "rail_type": "asset", "label": "BCH" },
+      { "rail_id": "asset:eth", "rail_type": "asset", "label": "ETH" },
+      { "rail_id": "asset:doge", "rail_type": "asset", "label": "DOGE" },
+      { "rail_id": "asset:pax", "rail_type": "asset", "label": "PAX" },
+      { "rail_id": "asset:busd", "rail_type": "asset", "label": "BUSD" },
+      { "rail_id": "asset:ltc", "rail_type": "asset", "label": "LTC" },
+      { "rail_id": "asset:usdc", "rail_type": "asset", "label": "USDC" },
+      { "rail_id": "asset:gusd", "rail_type": "asset", "label": "GUSD" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-16",
+    "evidence_refs": [
+      { "label": "Vultr payment methods", "url": "https://docs.vultr.com/support/platform/billing/what-payment-methods-do-you-accept", "kind": "official_help_center", "publisher": "Vultr" },
+      { "label": "Vultr billing FAQ", "url": "https://docs.vultr.com/platform/billing/faq", "kind": "official_help_center", "publisher": "Vultr" }
+    ],
+    "notes": [
+      "Official Vultr docs explicitly list BitPay-supported digital currencies."
+    ],
+    "source_origin": "official_seed"
+  }
+]
