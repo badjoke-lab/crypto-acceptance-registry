@@ -1,0 +1,134 @@
+[
+  {
+    "registry_id": "merchant:nordvpn:crypto",
+    "scope": "merchant",
+    "display_name": "NordVPN",
+    "country": "Global",
+    "city": null,
+    "website": "https://support.nordvpn.com/hc/en-us/articles/19685782821265-What-payment-methods-does-NordVPN-accept",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Cryptocurrency checkout",
+    "explicit_support": "NordVPN's official support article says customers can pay with cryptocurrency and that available methods can be checked at checkout.",
+    "support_rails": [
+      { "rail_id": "processor:crypto-unspecified", "rail_type": "processor", "label": "Cryptocurrency (provider unspecified)" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-16",
+    "evidence_refs": [
+      {
+        "label": "What payment methods does NordVPN accept",
+        "url": "https://support.nordvpn.com/hc/en-us/articles/19685782821265-What-payment-methods-does-NordVPN-accept",
+        "kind": "official_help_center",
+        "publisher": "NordVPN"
+      }
+    ],
+    "notes": [
+      "Official NordVPN support says cryptocurrency is an accepted payment method.",
+      "The specific provider and asset list are not stated on the cited page."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:proton-vpn:bitcoin",
+    "scope": "merchant",
+    "display_name": "Proton VPN",
+    "country": "Global",
+    "city": null,
+    "website": "https://protonvpn.com/support/payment-options",
+    "acceptance_type": "direct_crypto",
+    "supports_program_or_network": "Bitcoin (BTC) network",
+    "explicit_support": "Proton's official payment options page says any Proton subscription can be paid with Bitcoin, and the Bitcoin guide says payment must be made through the Bitcoin network.",
+    "support_rails": [
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "chain:bitcoin", "rail_type": "chain", "label": "Bitcoin" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-16",
+    "evidence_refs": [
+      {
+        "label": "Proton VPN payment options",
+        "url": "https://protonvpn.com/support/payment-options",
+        "kind": "official_help_center",
+        "publisher": "Proton VPN"
+      },
+      {
+        "label": "How to pay for Proton VPN with Bitcoin",
+        "url": "https://protonvpn.com/support/vpn-bitcoin-payments",
+        "kind": "official_help_center",
+        "publisher": "Proton VPN"
+      }
+    ],
+    "notes": [
+      "Official Proton documentation explicitly supports BTC payments.",
+      "The cited Bitcoin guide states that payments must use the BTC network, not Lightning or other networks."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:airbaltic:bitpay",
+    "scope": "merchant",
+    "display_name": "airBaltic",
+    "country": "LV",
+    "city": null,
+    "website": "https://www.airbaltic.com/en/before-you-fly/payment-options",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "BitPay",
+    "explicit_support": "airBaltic's official payment options page lists BitPay as one of the available payment options when booking tickets or services on airbaltic.com.",
+    "support_rails": [
+      { "rail_id": "processor:bitpay", "rail_type": "processor", "label": "BitPay" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-16",
+    "evidence_refs": [
+      {
+        "label": "airBaltic payment options",
+        "url": "https://www.airbaltic.com/en/before-you-fly/payment-options",
+        "kind": "official_payment_page",
+        "publisher": "airBaltic"
+      }
+    ],
+    "notes": [
+      "Official payment options page explicitly includes BitPay."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:hostinger:crypto-renewal",
+    "scope": "merchant",
+    "display_name": "Hostinger",
+    "country": "Global",
+    "city": null,
+    "website": "https://www.hostinger.com/payments",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Crypto payments",
+    "explicit_support": "Hostinger's official payments page says it accepts a wide range of cryptocurrencies, and its official support article says crypto payments are available for renewals.",
+    "support_rails": [
+      { "rail_id": "processor:crypto-unspecified", "rail_type": "processor", "label": "Crypto payments" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-16",
+    "evidence_refs": [
+      {
+        "label": "Hostinger payment methods",
+        "url": "https://www.hostinger.com/payments",
+        "kind": "official_payment_page",
+        "publisher": "Hostinger"
+      },
+      {
+        "label": "What payment methods are available at Hostinger",
+        "url": "https://www.hostinger.com/support/1583236-what-payment-methods-are-available-at-hostinger/",
+        "kind": "official_help_center",
+        "publisher": "Hostinger"
+      }
+    ],
+    "notes": [
+      "Official Hostinger sources say crypto payments are supported.",
+      "The support article says crypto payments are only available for renewals."
+    ],
+    "source_origin": "official_seed"
+  }
+]
