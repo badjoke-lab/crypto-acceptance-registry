@@ -1,0 +1,180 @@
+[
+  {
+    "registry_id": "merchant:amc-theatres:bitpay",
+    "social_profiles": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/company/amc-theatres", "handle": "amc-theatres" },
+      { "platform": "Facebook", "url": "https://www.facebook.com/amctheatres/", "handle": "amctheatres" }
+    ],
+    "notes_append": [
+      "LinkedIn and Facebook profiles matched AMC Theatres branding and company details."
+    ]
+  },
+  {
+    "registry_id": "merchant:newegg:bitpay",
+    "social_profiles": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/company/newegg-com", "handle": "newegg-com" }
+    ],
+    "notes_append": [
+      "LinkedIn company page matched Newegg company details and website."
+    ]
+  },
+  {
+    "registry_id": "merchant:namecheap:bitcoin",
+    "social_profiles": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/company/namecheap-inc", "handle": "namecheap-inc" }
+    ],
+    "notes_append": [
+      "LinkedIn company page matched Namecheap branding and website."
+    ]
+  },
+  {
+    "registry_id": "merchant:expressvpn:crypto",
+    "social_profiles": [
+      { "platform": "Facebook", "url": "https://www.facebook.com/ExpressVPN/", "handle": "ExpressVPN" }
+    ],
+    "notes_append": [
+      "Facebook page matched ExpressVPN branding."
+    ]
+  },
+  {
+    "registry_id": "merchant:nordvpn:crypto",
+    "social_profiles": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/company/nord-vpn", "handle": "nord-vpn" }
+    ],
+    "notes_append": [
+      "LinkedIn company page matched NordVPN branding and website."
+    ]
+  },
+  {
+    "registry_id": "merchant:proton-vpn:bitcoin",
+    "social_profiles": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/company/protonprivacy/", "handle": "protonprivacy" }
+    ],
+    "notes_append": [
+      "Proton VPN is represented through Proton's official LinkedIn company page."
+    ]
+  },
+  {
+    "registry_id": "merchant:airbaltic:bitpay",
+    "social_profiles": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/company/airbaltic", "handle": "airbaltic" }
+    ],
+    "notes_append": [
+      "LinkedIn company page matched airBaltic branding and company details."
+    ]
+  },
+  {
+    "registry_id": "merchant:hostinger:crypto-renewal",
+    "social_profiles": [
+      { "platform": "Facebook", "url": "https://www.facebook.com/Hostinger/", "handle": "Hostinger" },
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/company/hostinger", "handle": "hostinger" }
+    ],
+    "notes_append": [
+      "Facebook and LinkedIn pages matched Hostinger branding."
+    ]
+  },
+  {
+    "registry_id": "merchant:mullvad:crypto",
+    "social_profiles": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/company/amagicom-ab-mullvad-vpn/", "handle": "amagicom-ab-mullvad-vpn" }
+    ],
+    "notes_append": [
+      "LinkedIn company page matched Mullvad VPN company details and website."
+    ]
+  },
+  {
+    "registry_id": "merchant:pia:crypto-bitpay",
+    "social_profiles": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/company/private-internet-access", "handle": "private-internet-access" }
+    ],
+    "notes_append": [
+      "LinkedIn company page matched Private Internet Access branding and website."
+    ]
+  },
+  {
+    "registry_id": "merchant:cyberghost:cryptocurrency",
+    "social_profiles": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/company/cyberghost", "handle": "cyberghost" }
+    ],
+    "notes_append": [
+      "LinkedIn company page matched CyberGhost VPN branding and website."
+    ]
+  },
+  {
+    "registry_id": "merchant:travala:crypto-bookings",
+    "social_profiles": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/company/travalacom", "handle": "travalacom" }
+    ],
+    "notes_append": [
+      "LinkedIn company page matched Travala.com branding and website."
+    ]
+  },
+  {
+    "registry_id": "merchant:surfshark:crypto",
+    "social_profiles": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/company/surfshark", "handle": "surfshark" }
+    ],
+    "notes_append": [
+      "LinkedIn company page matched Surfshark branding and website."
+    ]
+  },
+  {
+    "registry_id": "merchant:ivpn:btc-xmr",
+    "social_profiles": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/company/ivpn", "handle": "ivpn" }
+    ],
+    "notes_append": [
+      "LinkedIn company page matched IVPN branding and privacy-VPN positioning."
+    ]
+  },
+  {
+    "registry_id": "merchant:hostwinds:crypto-nowpayments",
+    "social_profiles": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/company/hostwinds", "handle": "hostwinds" }
+    ],
+    "notes_append": [
+      "LinkedIn company page matched Hostwinds branding and website."
+    ]
+  },
+  {
+    "registry_id": "merchant:purevpn:coingate",
+    "social_profiles": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/company/purevpnpartnersolutions/", "handle": "purevpnpartnersolutions" }
+    ],
+    "notes_append": [
+      "This pass found a brand-adjacent official LinkedIn presence for PureVPN Partner Solutions backed by the PureVPN brand, but not a cleaner consumer-brand company page."
+    ]
+  },
+  {
+    "registry_id": "merchant:airvpn:direct-crypto",
+    "social_profiles": [],
+    "notes_append": [
+      "This pass did not confidently confirm an official AirVPN social profile from indexed official or platform results."
+    ]
+  },
+  {
+    "registry_id": "merchant:shinjiru:btc-eth-coinpayments",
+    "social_profiles": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/company/shinjiru", "handle": "shinjiru" }
+    ],
+    "notes_append": [
+      "LinkedIn company page matched Shinjiru Technology branding and website."
+    ]
+  },
+  {
+    "registry_id": "merchant:orangewebsite:bitpay-coinpayments",
+    "social_profiles": [],
+    "notes_append": [
+      "This pass did not confidently confirm an official OrangeWebsite social profile from indexed official or platform results."
+    ]
+  },
+  {
+    "registry_id": "merchant:vultr:bitpay-digital-currencies",
+    "social_profiles": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/company/vultr", "handle": "vultr" }
+    ],
+    "notes_append": [
+      "LinkedIn company page matched Vultr branding and website."
+    ]
+  }
+]
