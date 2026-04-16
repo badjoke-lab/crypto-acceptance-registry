@@ -1,0 +1,26 @@
+[
+  {
+    "registry_id": "merchant:ovpn:crypto",
+    "social_profiles": [
+      { "platform": "X", "url": "https://twitter.com/OVPN_official", "handle": "OVPN_official" },
+      { "platform": "Facebook", "url": "https://www.facebook.com/OVPNcom/", "handle": "OVPNcom" }
+    ],
+    "notes_append": [
+      "Official OVPN about page links to Twitter and Facebook profiles."
+    ]
+  },
+  {
+    "registry_id": "merchant:windscribe:crypto",
+    "social_profiles": [
+      { "platform": "LinkedIn", "url": "https://ca.linkedin.com/company/windscribe", "handle": "windscribe" },
+      { "platform": "TikTok", "url": "https://www.tiktok.com/@windscribe.vpn", "handle": "windscribe.vpn" },
+      { "platform": "YouTube", "url": "https://www.youtube.com/c/Windscribe", "handle": "Windscribe" },
+      { "platform": "Discord", "url": "https://discord.gg/vpn", "handle": null },
+      { "platform": "X", "url": "https://x.com/windscribecom", "handle": "windscribecom" },
+      { "platform": "Facebook", "url": "https://www.facebook.com/windscribe/", "handle": "windscribe" }
+    ],
+    "notes_append": [
+      "Official Windscribe AI/LLM information page lists LinkedIn, TikTok, YouTube, Discord, X, and Facebook profiles."
+    ]
+  }
+]
