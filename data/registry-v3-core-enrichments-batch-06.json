@@ -1,0 +1,27 @@
+[
+  {
+    "registry_id": "merchant:orangewebsite:bitpay-coinpayments",
+    "contact_channels": [
+      { "type": "contact_form", "value": "https://secure.orangewebsite.com/contact.php", "label": "Open ticket" },
+      { "type": "email", "value": "sales@orangewebsite.com", "label": "Sales email" },
+      { "type": "email", "value": "abuse@orangewebsite.com", "label": "Abuse email" }
+    ],
+    "notes_append": [
+      "Added OrangeWebsite abuse contact from the official Terms of Service and kept the company location at Reykjavik, Iceland based on the official company page."
+    ]
+  },
+  {
+    "registry_id": "merchant:vultr:bitpay-digital-currencies",
+    "address": {
+      "address_full": "West Palm Beach, Florida, USA",
+      "street": null,
+      "city": "West Palm Beach",
+      "state_or_region": "FL",
+      "postal_code": null,
+      "country": "US"
+    },
+    "notes_append": [
+      "Updated Vultr company location to city-level West Palm Beach, Florida based on the official careers page, which states the headquarters is in downtown West Palm Beach."
+    ]
+  }
+]
