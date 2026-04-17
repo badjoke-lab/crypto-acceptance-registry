@@ -1,0 +1,16 @@
+[
+  {
+    "registry_id": "merchant:ivpn:btc-xmr",
+    "address": {
+      "address_full": "IVPN Limited, 5 Secretary's Lane, GX11 1AA, Gibraltar",
+      "street": "5 Secretary's Lane",
+      "city": "Gibraltar",
+      "state_or_region": null,
+      "postal_code": "GX11 1AA",
+      "country": "GI"
+    },
+    "notes_append": [
+      "Filled IVPN headquarters address from the official legal process guidelines page."
+    ]
+  }
+]
