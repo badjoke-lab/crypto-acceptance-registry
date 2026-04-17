@@ -1,5 +1,6 @@
 import socialEnrichmentsBatch01 from '../data/registry-v3-social-enrichments-batch-01.json'
 import socialEnrichmentsBatch02 from '../data/registry-v3-social-enrichments-batch-02.json'
+import coreEnrichmentsBatch02 from '../data/registry-v3-core-enrichments-batch-02.json'
 import { getRegistryV3FullSeeds } from './registry-v3-full-seeds'
 
 type SocialPatch = {
@@ -8,18 +9,49 @@ type SocialPatch = {
   notes_append?: string[]
 }
 
+type CorePatch = {
+  registry_id: string
+  address?: {
+    address_full?: string | null
+    street?: string | null
+    city?: string | null
+    state_or_region?: string | null
+    postal_code?: string | null
+    country?: string | null
+  }
+  geo?: {
+    lat?: number | null
+    lng?: number | null
+  }
+  contact_channels?: Array<{ type: string; value: string; label?: string | null }>
+  acceptance_scope?: string
+  verification_target?: string
+  coverage_region?: string
+  notes_append?: string[]
+}
+
 const socialMap = new Map(
   [...(socialEnrichmentsBatch01 as SocialPatch[]), ...(socialEnrichmentsBatch02 as SocialPatch[])].map((item) => [item.registry_id, item]),
 )
 
+const coreMap = new Map((coreEnrichmentsBatch02 as CorePatch[]).map((item) => [item.registry_id, item]))
+
 export function getRegistryV3FullerSeeds() {
   return getRegistryV3FullSeeds().map((record) => {
-    const patch = socialMap.get(record.registry_id)
-    if (!patch) return record
+    const socialPatch = socialMap.get(record.registry_id)
+    const corePatch = coreMap.get(record.registry_id)
+    if (!socialPatch && !corePatch) return record
+
     return {
       ...record,
-      social_profiles: patch.social_profiles ?? record.social_profiles,
-      notes: patch.notes_append ? [...record.notes, ...patch.notes_append] : record.notes,
+      address: corePatch?.address ? { ...record.address, ...corePatch.address } : record.address,
+      geo: corePatch?.geo ? { ...record.geo, ...corePatch.geo } : record.geo,
+      contact_channels: corePatch?.contact_channels ?? record.contact_channels,
+      social_profiles: socialPatch?.social_profiles ?? record.social_profiles,
+      acceptance_scope: corePatch?.acceptance_scope ?? record.acceptance_scope,
+      verification_target: corePatch?.verification_target ?? record.verification_target,
+      coverage_region: corePatch?.coverage_region ?? record.coverage_region,
+      notes: [...record.notes, ...(socialPatch?.notes_append ?? []), ...(corePatch?.notes_append ?? [])],
     }
   })
 }
