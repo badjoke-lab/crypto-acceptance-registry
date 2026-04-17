@@ -1,0 +1,19 @@
+[
+  {
+    "registry_id": "merchant:newegg:bitpay",
+    "contact_channels": [
+      { "type": "support_url", "value": "https://kb.newegg.com/contact-us?lang=en", "label": "Help center" },
+      { "type": "phone", "value": "800-390-1119", "label": "Customer service" },
+      { "type": "email", "value": "logistics@newegg.com", "label": "Newegg Logistics" }
+    ],
+    "notes_append": [
+      "Added logistics@newegg.com from the official logistics.newegg.com contact page, which also repeats the Diamond Bar write-to address."
+    ]
+  },
+  {
+    "registry_id": "merchant:expressvpn:crypto",
+    "notes_append": [
+      "Official ExpressVPN contact information page lists trade number 18008963D for Express Technologies Limited."
+    ]
+  }
+]
