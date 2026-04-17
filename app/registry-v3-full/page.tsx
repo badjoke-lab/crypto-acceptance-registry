@@ -1,8 +1,8 @@
 import Link from 'next/link'
-import { getRegistryV3FullSeeds } from '../../lib/registry-v3-full-seeds'
+import { getRegistryV3FullerSeeds } from '../../lib/registry-v3-fuller-seeds'
 
 export default function RegistryV3FullPage() {
-  const records = getRegistryV3FullSeeds()
+  const records = getRegistryV3FullerSeeds()
 
   return (
     <main style={{ padding: 24, maxWidth: 1100, margin: '0 auto' }}>
