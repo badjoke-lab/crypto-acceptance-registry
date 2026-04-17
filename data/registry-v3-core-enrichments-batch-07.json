@@ -1,0 +1,15 @@
+[
+  {
+    "registry_id": "merchant:shinjiru:btc-eth-coinpayments",
+    "contact_channels": [
+      { "type": "contact_form", "value": "https://www.shinjiru.com/company/contact-us/", "label": "Contact form" },
+      { "type": "email", "value": "sales@shinjiru.com", "label": "Sales email" },
+      { "type": "email", "value": "billing@shinjiru.com", "label": "Billing email" },
+      { "type": "email", "value": "abuse@shinjiru.com", "label": "Abuse email" },
+      { "type": "email", "value": "paypal@shinjiru.com", "label": "PayPal payment email" }
+    ],
+    "notes_append": [
+      "Added Shinjiru PayPal payment contact from the official payment information page; this pass still did not confirm a street-level official headquarters address."
+    ]
+  }
+]
