@@ -1,0 +1,32 @@
+[
+  {
+    "registry_id": "merchant:ovpn:crypto",
+    "geo": {
+      "lat": 59.3363588,
+      "lng": 18.0578132
+    },
+    "notes_append": [
+      "Filled OVPN coordinates from an address-level geocoding result for Barnhusgatan 3, 111 23 Stockholm."
+    ]
+  },
+  {
+    "registry_id": "merchant:hostwinds:crypto-nowpayments",
+    "geo": {
+      "lat": 47.6066958,
+      "lng": -122.8627639
+    },
+    "notes_append": [
+      "Filled Hostwinds coordinates from a Seattle business listing that matches the official headquarters address and phone."
+    ]
+  },
+  {
+    "registry_id": "merchant:surfshark:crypto",
+    "geo": {
+      "lat": 52.394701,
+      "lng": 4.846319
+    },
+    "notes_append": [
+      "Filled Surfshark coordinates from an address-level listing for Kabelweg 57, 1014BA Amsterdam."
+    ]
+  }
+]
