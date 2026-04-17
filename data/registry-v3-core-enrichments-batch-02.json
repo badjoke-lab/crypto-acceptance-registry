@@ -1,0 +1,107 @@
+[
+  {
+    "registry_id": "merchant:mullvad:crypto",
+    "address": {
+      "address_full": "Mullvad VPN AB, Box 53049, 400 14 Gothenburg, Sweden",
+      "street": "Box 53049",
+      "city": "Gothenburg",
+      "state_or_region": null,
+      "postal_code": "400 14",
+      "country": "SE"
+    },
+    "contact_channels": [
+      { "type": "support_url", "value": "https://mullvad.net/en/help", "label": "Help center" },
+      { "type": "support_url", "value": "https://mullvad.net/en/about/", "label": "About page" },
+      { "type": "email", "value": "support@mullvadvpn.net", "label": "Support email" }
+    ],
+    "notes_append": [
+      "Updated Mullvad mailing address and support email from the official About page."
+    ]
+  },
+  {
+    "registry_id": "merchant:hostwinds:crypto-nowpayments",
+    "address": {
+      "address_full": "12101 Tukwila International Blvd #320, Seattle, WA 98168, USA",
+      "street": "12101 Tukwila International Blvd #320",
+      "city": "Seattle",
+      "state_or_region": "WA",
+      "postal_code": "98168",
+      "country": "US"
+    },
+    "contact_channels": [
+      { "type": "support_url", "value": "https://www.hostwinds.com/contact-us", "label": "Contact us" },
+      { "type": "support_url", "value": "https://www.hostwinds.com/product-docs/support/create-submit-and-manage-tickets", "label": "Support tickets" },
+      { "type": "phone", "value": "888-404-1279", "label": "Main phone" }
+    ],
+    "notes_append": [
+      "Filled Hostwinds headquarters address and phone from the official company overview page."
+    ]
+  },
+  {
+    "registry_id": "merchant:ovpn:crypto",
+    "address": {
+      "address_full": "OVPN Integritet AB, C/O Proxify, Barnhusgatan 3, 111 23 Stockholm, Sweden",
+      "street": "Barnhusgatan 3",
+      "city": "Stockholm",
+      "state_or_region": null,
+      "postal_code": "111 23",
+      "country": "SE"
+    },
+    "contact_channels": [
+      { "type": "support_url", "value": "https://www.ovpn.com/en/contact", "label": "Contact page" },
+      { "type": "email", "value": "support@ovpn.com", "label": "Support email" }
+    ],
+    "notes_append": [
+      "Expanded OVPN address to the full company and care-of format shown on the official contact page."
+    ]
+  },
+  {
+    "registry_id": "merchant:travala:crypto-bookings",
+    "contact_channels": [
+      { "type": "contact_form", "value": "https://www.travala.com/contact-us", "label": "Contact form" },
+      { "type": "support_url", "value": "https://help.travala.com/hc/en-us", "label": "Help center" },
+      { "type": "email", "value": "support@travala.com", "label": "Support email" }
+    ],
+    "notes_append": [
+      "Added the support email published in the official Travala help center."
+    ]
+  },
+  {
+    "registry_id": "merchant:airvpn:direct-crypto",
+    "address": {
+      "address_full": "Air di Paolo Brini, c/o Studio Papa, Via Vecchi 53, I-06100 Perugia, Italy",
+      "street": "Via Vecchi 53",
+      "city": "Perugia",
+      "state_or_region": null,
+      "postal_code": "I-06100",
+      "country": "IT"
+    },
+    "contact_channels": [
+      { "type": "contact_form", "value": "https://airvpn.org/contactus/", "label": "Contact form" },
+      { "type": "email", "value": "support@airvpn.org", "label": "Support email" },
+      { "type": "email", "value": "info@airvpn.org", "label": "General information email" }
+    ],
+    "notes_append": [
+      "Filled AirVPN postal address from the official privacy notice and aligned contact emails with the official contact page."
+    ]
+  },
+  {
+    "registry_id": "merchant:windscribe:crypto",
+    "address": {
+      "address_full": "Toronto, Ontario, Canada",
+      "street": null,
+      "city": "Toronto",
+      "state_or_region": "Ontario",
+      "postal_code": null,
+      "country": "CA"
+    },
+    "contact_channels": [
+      { "type": "support_url", "value": "https://windscribe.com/contact-support", "label": "Contact support" },
+      { "type": "support_url", "value": "https://windscribe.com/support/ticket", "label": "Support ticket" },
+      { "type": "email", "value": "hello@windscribe.com", "label": "General contact email" }
+    ],
+    "notes_append": [
+      "Filled Windscribe location at the city level from the official knowledge-base article and added the public hello@windscribe.com contact."
+    ]
+  }
+]
