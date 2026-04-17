@@ -1,0 +1,47 @@
+[
+  {
+    "registry_id": "merchant:surfshark:crypto",
+    "address": {
+      "address_full": "Kabelweg 57, 1014BA Amsterdam, the Netherlands",
+      "street": "Kabelweg 57",
+      "city": "Amsterdam",
+      "state_or_region": null,
+      "postal_code": "1014BA",
+      "country": "NL"
+    },
+    "contact_channels": [
+      { "type": "support_url", "value": "https://support.surfshark.com/hc/en-us/articles/360003069114-How-to-contact-Surfshark-s-customer-support", "label": "Customer support" },
+      { "type": "email", "value": "support@surfshark.com", "label": "Support email" },
+      { "type": "email", "value": "product@surfshark.com", "label": "Product management" },
+      { "type": "email", "value": "media@surfshark.com", "label": "PR email" }
+    ],
+    "notes_append": [
+      "Filled Surfshark business registration address from the official support and about pages."
+    ]
+  },
+  {
+    "registry_id": "merchant:vultr:bitpay-digital-currencies",
+    "contact_channels": [
+      { "type": "support_url", "value": "https://docs.vultr.com/support/platform/billing/what-payment-methods-do-you-accept", "label": "Billing docs" },
+      { "type": "support_url", "value": "https://docs.vultr.com/platform/billing/faq", "label": "Billing FAQ" },
+      { "type": "email", "value": "support@vultr.com", "label": "Support email" }
+    ],
+    "notes_append": [
+      "Added Vultr support email from the official contact page snippet when the full page was not fetchable."
+    ]
+  },
+  {
+    "registry_id": "merchant:orangewebsite:bitpay-coinpayments",
+    "address": {
+      "address_full": "Reykjavik, Iceland",
+      "street": null,
+      "city": "Reykjavik",
+      "state_or_region": null,
+      "postal_code": null,
+      "country": "IS"
+    },
+    "notes_append": [
+      "Kept OrangeWebsite at city-level only; the official FAQ confirms Reykjavik, Iceland for server location but this pass did not confirm a more precise official business street address."
+    ]
+  }
+]
