@@ -1,0 +1,12 @@
+[
+  {
+    "registry_id": "merchant:amc-theatres:bitpay",
+    "geo": {
+      "lat": 38.9186,
+      "lng": -94.6482
+    },
+    "notes_append": [
+      "Filled AMC coordinates from an address-level property listing for 11500 Ash Street, Leawood, KS 66211, which matches the official AMC support center address."
+    ]
+  }
+]
