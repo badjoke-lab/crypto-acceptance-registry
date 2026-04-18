@@ -1,0 +1,14 @@
+[
+  {
+    "registry_id": "merchant:cyberghost:cryptocurrency",
+    "contact_channels": [
+      { "type": "support_url", "value": "https://www.cyberghostvpn.com/contact", "label": "Contact page" },
+      { "type": "email", "value": "support@cyberghost.ro", "label": "Support email" },
+      { "type": "contact_form", "value": "https://support.cyberghostvpn.com/hc/en-us/requests/new", "label": "Support request" },
+      { "type": "email", "value": "office@cyberghost.ro", "label": "Office email" }
+    ],
+    "notes_append": [
+      "Added CyberGhost office@cyberghost.ro from the official imprint page."
+    ]
+  }
+]
