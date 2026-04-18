@@ -12,6 +12,7 @@ import coreEnrichmentsBatch10 from '../data/registry-v3-core-enrichments-batch-1
 import coreEnrichmentsBatch11 from '../data/registry-v3-core-enrichments-batch-11.json'
 import coreEnrichmentsBatch12 from '../data/registry-v3-core-enrichments-batch-12.json'
 import coreEnrichmentsBatch13 from '../data/registry-v3-core-enrichments-batch-13.json'
+import coreEnrichmentsBatch14 from '../data/registry-v3-core-enrichments-batch-14.json'
 import { getRegistryV3FullSeeds } from './registry-v3-full-seeds'
 
 type SocialPatch = {
@@ -46,7 +47,7 @@ const socialMap = new Map(
 )
 
 const coreMap = new Map(
-  [...(coreEnrichmentsBatch02 as CorePatch[]), ...(coreEnrichmentsBatch03 as CorePatch[]), ...(coreEnrichmentsBatch04 as CorePatch[]), ...(coreEnrichmentsBatch05 as CorePatch[]), ...(coreEnrichmentsBatch06 as CorePatch[]), ...(coreEnrichmentsBatch07 as CorePatch[]), ...(coreEnrichmentsBatch08 as CorePatch[]), ...(coreEnrichmentsBatch09 as CorePatch[]), ...(coreEnrichmentsBatch10 as CorePatch[]), ...(coreEnrichmentsBatch11 as CorePatch[]), ...(coreEnrichmentsBatch12 as CorePatch[]), ...(coreEnrichmentsBatch13 as CorePatch[])].map((item) => [item.registry_id, item]),
+  [...(coreEnrichmentsBatch02 as CorePatch[]), ...(coreEnrichmentsBatch03 as CorePatch[]), ...(coreEnrichmentsBatch04 as CorePatch[]), ...(coreEnrichmentsBatch05 as CorePatch[]), ...(coreEnrichmentsBatch06 as CorePatch[]), ...(coreEnrichmentsBatch07 as CorePatch[]), ...(coreEnrichmentsBatch08 as CorePatch[]), ...(coreEnrichmentsBatch09 as CorePatch[]), ...(coreEnrichmentsBatch10 as CorePatch[]), ...(coreEnrichmentsBatch11 as CorePatch[]), ...(coreEnrichmentsBatch12 as CorePatch[]), ...(coreEnrichmentsBatch13 as CorePatch[]), ...(coreEnrichmentsBatch14 as CorePatch[])].map((item) => [item.registry_id, item]),
 )
 
 export function getRegistryV3FullerSeeds() {
