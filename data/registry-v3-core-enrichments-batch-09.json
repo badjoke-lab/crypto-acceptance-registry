@@ -1,0 +1,12 @@
+[
+  {
+    "registry_id": "merchant:newegg:bitpay",
+    "geo": {
+      "lat": 33.9993045,
+      "lng": -117.8338571
+    },
+    "notes_append": [
+      "Filled Newegg coordinates from an address-level property listing for 21688 Gateway Center Dr, Diamond Bar, CA 91765."
+    ]
+  }
+]
