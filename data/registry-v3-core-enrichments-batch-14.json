@@ -1,0 +1,12 @@
+[
+  {
+    "registry_id": "merchant:purevpn:coingate",
+    "geo": {
+      "lat": 18.4286,
+      "lng": -64.6184
+    },
+    "notes_append": [
+      "Filled PureVPN coordinates from Intershore Chambers address-level records in Road Town, Tortola VG1110, matching the official PureVPN mailing address at Intershore Chambers, P.O. Box 4342."
+    ]
+  }
+]
