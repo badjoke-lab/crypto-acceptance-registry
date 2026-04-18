@@ -1,0 +1,12 @@
+[
+  {
+    "registry_id": "merchant:proton-vpn:bitcoin",
+    "geo": {
+      "lat": 46.168329,
+      "lng": 6.10288
+    },
+    "notes_append": [
+      "Filled Proton coordinates from a company geocode record for Route de la Galaise 32, 1228 Plan-les-Ouates, matching the official Proton AG address."
+    ]
+  }
+]
