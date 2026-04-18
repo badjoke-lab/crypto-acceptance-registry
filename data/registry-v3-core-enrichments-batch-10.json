@@ -1,0 +1,12 @@
+[
+  {
+    "registry_id": "merchant:namecheap:bitcoin",
+    "geo": {
+      "lat": 33.448408,
+      "lng": -111.9837168
+    },
+    "notes_append": [
+      "Filled Namecheap coordinates from multiple address-level listings for 4600 E Washington St Suite 300, Phoenix, AZ 85034."
+    ]
+  }
+]
