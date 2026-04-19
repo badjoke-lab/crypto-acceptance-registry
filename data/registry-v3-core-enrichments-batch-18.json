@@ -1,0 +1,18 @@
+[
+  {
+    "registry_id": "merchant:cyberghost:cryptocurrency",
+    "contact_channels": [
+      { "type": "support_url", "value": "https://www.cyberghostvpn.com/contact", "label": "Contact page" },
+      { "type": "email", "value": "support@cyberghost.ro", "label": "Support email" },
+      { "type": "contact_form", "value": "https://support.cyberghostvpn.com/hc/en-us/requests/new", "label": "Support request" },
+      { "type": "email", "value": "office@cyberghost.ro", "label": "Office email" },
+      { "type": "email", "value": "sales@cyberghost.ro", "label": "Sales email" },
+      { "type": "email", "value": "affiliates@cyberghost.ro", "label": "Affiliates email" },
+      { "type": "email", "value": "press.office@cyberghost.ro", "label": "Press email" },
+      { "type": "email", "value": "webmaster@cyberghost.ro", "label": "Website/apps feedback" }
+    ],
+    "notes_append": [
+      "Expanded CyberGhost contact channels using department-specific emails listed on the official contact page."
+    ]
+  }
+]
