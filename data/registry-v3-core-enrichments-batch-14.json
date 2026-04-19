@@ -14,10 +14,12 @@
     "contact_channels": [
       { "type": "support_url", "value": "https://www.hostinger.com/contacts", "label": "Contact page" },
       { "type": "email", "value": "domains@hostinger.com", "label": "Domains contact" },
+      { "type": "email", "value": "abuse@hostinger.com", "label": "Abuse contact" },
       { "type": "phone", "value": "+370 68424669", "label": "Registrar phone" }
     ],
     "notes_append": [
-      "Added Hostinger registrar contact details from InterNIC and aligned office location with the official Hostinger contacts page."
+      "Added Hostinger registrar contact details from InterNIC and aligned office location with the official Hostinger contacts page.",
+      "Added Hostinger abuse contact from the official abuse reporting page."
     ]
   }
 ]
