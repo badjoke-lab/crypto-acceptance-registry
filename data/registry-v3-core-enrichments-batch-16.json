@@ -1,0 +1,13 @@
+[
+  {
+    "registry_id": "merchant:expressvpn:crypto",
+    "contact_channels": [
+      { "type": "support_url", "value": "https://www.expressvpn.com/support/troubleshooting/contact-support-live-chat/", "label": "Support hub" },
+      { "type": "email", "value": "store@expressvpn.com", "label": "Store email" },
+      { "type": "email", "value": "dpo@expressvpn.com", "label": "Privacy / data protection" }
+    ],
+    "notes_append": [
+      "Added ExpressVPN's official DPO contact from the account deletion support guidance."
+    ]
+  }
+]
