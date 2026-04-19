@@ -1,0 +1,16 @@
+[
+  {
+    "registry_id": "merchant:cyberghost:cryptocurrency",
+    "address": {
+      "address_full": "70-72 Dionisie Lupu street, 1st, 2nd and 3rd floor, District 1, 010458, Bucharest, Romania",
+      "street": "70-72 Dionisie Lupu street, 1st, 2nd and 3rd floor",
+      "city": "Bucharest",
+      "state_or_region": "District 1",
+      "postal_code": "010458",
+      "country": "RO"
+    },
+    "notes_append": [
+      "Refined CyberGhost address to the official imprint's floor-level wording."
+    ]
+  }
+]
