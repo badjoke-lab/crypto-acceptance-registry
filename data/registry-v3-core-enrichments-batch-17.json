@@ -1,0 +1,12 @@
+[
+  {
+    "registry_id": "merchant:ovpn:crypto",
+    "geo": {
+      "lat": 59.3363588,
+      "lng": 18.0578132
+    },
+    "notes_append": [
+      "Filled OVPN coordinates for Barnhusgatan 3, 111 23 Stockholm, matching the official OVPN contact address."
+    ]
+  }
+]
