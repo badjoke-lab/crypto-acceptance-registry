@@ -1,11 +1,20 @@
 [
   {
     "registry_id": "merchant:ovpn:crypto",
+    "address": {
+      "address_full": "OVPN Integritet AB, C/O Proxify, Barnhusgatan 3, 111 23 Stockholm, Sweden",
+      "street": "C/O Proxify, Barnhusgatan 3",
+      "city": "Stockholm",
+      "state_or_region": null,
+      "postal_code": "111 23",
+      "country": "SE"
+    },
     "geo": {
       "lat": 59.3363588,
       "lng": 18.0578132
     },
     "notes_append": [
+      "Refined OVPN address to the official contact-page wording including C/O Proxify.",
       "Filled OVPN coordinates for Barnhusgatan 3, 111 23 Stockholm, matching the official OVPN contact address."
     ]
   }
