@@ -1,12 +1,10 @@
-import productMerchants from '../data/product-merchants.json'
 import type { ClassifiedCandidateRecord } from '../scripts/export/types'
-
-const records = productMerchants as ClassifiedCandidateRecord[]
+import { buildPublicArtifacts } from '../scripts/build-public-artifacts-lib'
 
 export function getGeneratedProductMerchants(): ClassifiedCandidateRecord[] {
-  return records
+  return buildPublicArtifacts().ready
 }
 
 export function getGeneratedProductMerchantById(id: string): ClassifiedCandidateRecord | null {
-  return records.find((record) => record.legacy_id === id) ?? null
+  return getGeneratedProductMerchants().find((record) => record.legacy_id === id) ?? null
 }
