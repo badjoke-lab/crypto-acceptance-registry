@@ -1,0 +1,232 @@
+[
+  {
+    "registry_id": "merchant:namesilo:bitcoin-account-funds",
+    "scope": "merchant",
+    "display_name": "NameSilo",
+    "country": null,
+    "city": null,
+    "website": "https://www.namesilo.com/payment-options",
+    "acceptance_type": "digital_cash",
+    "supports_program_or_network": "Bitcoin and NameSilo Account Funds alongside cards and web money",
+    "explicit_support": "NameSilo's official payment options page says it accepts credit cards, web money, cryptocurrency and account funds, while its Bitcoin and account funds pages explain paying with Bitcoin and funding NameSilo Account Funds using Bitcoin and other methods.",
+    "support_rails": [
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "digitalcash:namesilo-account-funds", "rail_type": "digital_cash_program", "label": "NameSilo Account Funds" },
+      { "rail_id": "card:credit-cards", "rail_type": "card_program", "label": "Credit Cards" },
+      { "rail_id": "digitalcash:alipay", "rail_type": "digital_cash_program", "label": "Alipay" },
+      { "rail_id": "digitalcash:venmo", "rail_type": "digital_cash_program", "label": "Venmo" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      { "label": "NameSilo payment options", "url": "https://www.namesilo.com/payment-options", "kind": "official_payment_page", "publisher": "NameSilo" },
+      { "label": "NameSilo pay with Bitcoin", "url": "https://www.namesilo.com/payment-options/bitcoin", "kind": "official_payment_page", "publisher": "NameSilo" },
+      { "label": "NameSilo account funds", "url": "https://www.namesilo.com/payment-options/namesilofunds", "kind": "official_payment_page", "publisher": "NameSilo" }
+    ],
+    "notes": [
+      "Official NameSilo pages explicitly support Bitcoin and the platform's own account-funds wallet alongside cards and web money."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:monovm:crypto-cards-ewallets",
+    "scope": "merchant",
+    "display_name": "MonoVM",
+    "country": null,
+    "city": null,
+    "website": "https://monovm.com/payment-guide/",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Credit cards, bank transfer, e-wallets and cryptocurrencies including Bitcoin",
+    "explicit_support": "MonoVM's official payment guide says it accepts bank transfers, credit cards, e-wallets and cryptocurrencies including Bitcoin, Litecoin, Ethereum, Ripple and Stellar, and its official blog says MonoVM has accepted Bitcoin since 2012.",
+    "support_rails": [
+      { "rail_id": "card:credit-cards", "rail_type": "card_program", "label": "Credit Cards" },
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:ltc", "rail_type": "asset", "label": "LTC" },
+      { "rail_id": "asset:eth", "rail_type": "asset", "label": "ETH" },
+      { "rail_id": "asset:xrp", "rail_type": "asset", "label": "XRP" },
+      { "rail_id": "asset:xlm", "rail_type": "asset", "label": "XLM" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      { "label": "MonoVM payment guide", "url": "https://monovm.com/payment-guide/", "kind": "official_payment_page", "publisher": "MonoVM" },
+      { "label": "MonoVM buy dedicated server with Bitcoin", "url": "https://monovm.com/blog/buy-dedicated-server-with-bitcoin/", "kind": "official_blog", "publisher": "MonoVM" }
+    ],
+    "notes": [
+      "Official payment guide explicitly supports both traditional rails and multiple cryptocurrencies."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:royalhost:bitcoin-cryptocurrency",
+    "scope": "merchant",
+    "display_name": "Royalhost",
+    "country": null,
+    "city": null,
+    "website": "https://royalhost.net/en/payment-methods",
+    "acceptance_type": "direct_crypto",
+    "supports_program_or_network": "Bitcoin, Perfect Money, Payeer and other cryptocurrencies",
+    "explicit_support": "Royalhost's official payment-methods pages say it accepts Bitcoin, Perfect Money, Payeer and other cryptocurrencies for web hosting, VPS and domain registrations.",
+    "support_rails": [
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "digitalcash:perfect-money", "rail_type": "digital_cash_program", "label": "Perfect Money" },
+      { "rail_id": "digitalcash:payeer", "rail_type": "digital_cash_program", "label": "Payeer" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      { "label": "Royalhost payment methods", "url": "https://royalhost.net/en/payment-methods", "kind": "official_payment_page", "publisher": "Royalhost" },
+      { "label": "Royalhost crypto hosting", "url": "https://royalhost.net/en/web-hosting", "kind": "official_payment_page", "publisher": "Royalhost" }
+    ],
+    "notes": [
+      "Official Royalhost pages explicitly market Bitcoin and other cryptocurrency payments for hosting products."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:serverpoint:btc-direct-wallet",
+    "scope": "merchant",
+    "display_name": "ServerPoint",
+    "country": null,
+    "city": null,
+    "website": "https://www.serverpoint.com/en/faq/do-you-accept-crypto-payments/",
+    "acceptance_type": "direct_crypto",
+    "supports_program_or_network": "Bitcoin and other major cryptocurrencies on request via support-provided wallet address",
+    "explicit_support": "ServerPoint's official FAQ says it accepts cryptocurrency payments, primarily Bitcoin, and can accommodate other major cryptocurrencies by request through a wallet address provided by support.",
+    "support_rails": [
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "processor:direct-wallet-address", "rail_type": "processor", "label": "Direct Wallet Address" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      { "label": "ServerPoint crypto payments FAQ", "url": "https://www.serverpoint.com/en/faq/do-you-accept-crypto-payments/", "kind": "official_help_center", "publisher": "ServerPoint" }
+    ],
+    "notes": [
+      "Official FAQ explicitly supports Bitcoin and other crypto through direct wallet coordination."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:vpnac:bitpay-altcoins-paypal-card",
+    "scope": "merchant",
+    "display_name": "VPN.ac",
+    "country": null,
+    "city": null,
+    "website": "https://vpn.ac/knowledgebase/107/Accepted-crypto-currencies-bitcoin-altcoins.html",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "BitPay Bitcoin, altcoins, PayPal and credit cards",
+    "explicit_support": "VPN.ac's official pricing and FAQ pages show Bitcoin, PayPal and credit card payments, and its accepted crypto currencies article says Bitcoin is paid through BitPay while altcoins such as Ethereum, Litecoin, Dash, Dogecoin, Monero and Ripple are accepted at checkout.",
+    "support_rails": [
+      { "rail_id": "processor:bitpay", "rail_type": "processor", "label": "BitPay" },
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:eth", "rail_type": "asset", "label": "ETH" },
+      { "rail_id": "asset:ltc", "rail_type": "asset", "label": "LTC" },
+      { "rail_id": "asset:dash", "rail_type": "asset", "label": "DASH" },
+      { "rail_id": "asset:doge", "rail_type": "asset", "label": "DOGE" },
+      { "rail_id": "asset:xmr", "rail_type": "asset", "label": "XMR" },
+      { "rail_id": "asset:xrp", "rail_type": "asset", "label": "XRP" },
+      { "rail_id": "card:credit-cards", "rail_type": "card_program", "label": "Credit Card" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      { "label": "VPN.ac accepted crypto currencies", "url": "https://vpn.ac/knowledgebase/107/Accepted-crypto-currencies-bitcoin-altcoins.html", "kind": "official_help_center", "publisher": "VPN.ac" },
+      { "label": "VPN.ac plans and pricing", "url": "https://vpn.ac/vpn-accounts", "kind": "official_checkout", "publisher": "VPN.ac" }
+    ],
+    "notes": [
+      "Official VPN.ac pages explicitly support Bitcoin via BitPay and multiple altcoins at checkout."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:firstvpn:crypto-cards",
+    "scope": "merchant",
+    "display_name": "FirstVPN",
+    "country": null,
+    "city": null,
+    "website": "https://firstvpn.com/en/payment-methods",
+    "acceptance_type": "direct_crypto",
+    "supports_program_or_network": "Bank cards and cryptocurrencies including USDT, BTC, LTC, TRX, ETH, XMR, MATIC, BNB, USDC, SOL, DASH, DOGE, TON, BCH, AVAX, DAI and VERSE",
+    "explicit_support": "FirstVPN's official payment methods page says customers can pay with bank cards and popular cryptocurrencies including BTC, USDT, LTC, TRX, ETH, XMR, MATIC, BNB, USDC, SOL, DASH, DOGE, TON, BCH, AVAX and DAI.",
+    "support_rails": [
+      { "rail_id": "card:bank-cards", "rail_type": "card_program", "label": "Bank Cards" },
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:usdt", "rail_type": "asset", "label": "USDT" },
+      { "rail_id": "asset:ltc", "rail_type": "asset", "label": "LTC" },
+      { "rail_id": "asset:trx", "rail_type": "asset", "label": "TRX" },
+      { "rail_id": "asset:eth", "rail_type": "asset", "label": "ETH" },
+      { "rail_id": "asset:xmr", "rail_type": "asset", "label": "XMR" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      { "label": "FirstVPN payment methods", "url": "https://firstvpn.com/en/payment-methods", "kind": "official_payment_page", "publisher": "FirstVPN" }
+    ],
+    "notes": [
+      "Official payment page explicitly mixes bank cards with a broad cryptocurrency set."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:nymvpn:crypto-cards-cash-taler",
+    "scope": "merchant",
+    "display_name": "NymVPN",
+    "country": null,
+    "city": null,
+    "website": "https://support.nym.com/hc/ja/articles/32968252254865-What-payment-methods-are-available-for-NymVPN",
+    "acceptance_type": "digital_cash",
+    "supports_program_or_network": "Cards, Apple Pay, Google Pay, cash, Taler and 11 cryptocurrencies",
+    "explicit_support": "NymVPN's official payment methods page says it accepts credit and debit cards, Apple Pay, Google Pay, cash by mail, Taler and 11 cryptocurrencies, recommending privacy coins like Monero or Zcash.",
+    "support_rails": [
+      { "rail_id": "card:credit-debit-cards", "rail_type": "card_program", "label": "Credit / Debit Cards" },
+      { "rail_id": "digitalcash:cash-by-mail", "rail_type": "digital_cash_program", "label": "Cash by Mail" },
+      { "rail_id": "digitalcash:taler", "rail_type": "digital_cash_program", "label": "Taler" },
+      { "rail_id": "asset:xmr", "rail_type": "asset", "label": "XMR" },
+      { "rail_id": "asset:zec", "rail_type": "asset", "label": "ZEC" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      { "label": "NymVPN payment methods", "url": "https://support.nym.com/hc/ja/articles/32968252254865-What-payment-methods-are-available-for-NymVPN", "kind": "official_help_center", "publisher": "NymVPN" }
+    ],
+    "notes": [
+      "Official NymVPN support explicitly supports both crypto and digital-cash style rails such as mailed cash and Taler."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:securevpn:bitcoin-paypal-webmoney",
+    "scope": "merchant",
+    "display_name": "SecureVPN",
+    "country": null,
+    "city": null,
+    "website": "https://www.securevpn.pro/eng/pages/payments",
+    "acceptance_type": "digital_cash",
+    "supports_program_or_network": "Bitcoin, PayPal, WebMoney, Perfect Money and Robokassa account funding",
+    "explicit_support": "SecureVPN's official purchase and payment page says customers can add funds using Webmoney, Perfect Money, Robokassa, PayPal and Bitcoin, then buy a subscription from the account balance.",
+    "support_rails": [
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "digitalcash:webmoney", "rail_type": "digital_cash_program", "label": "WebMoney" },
+      { "rail_id": "digitalcash:perfect-money", "rail_type": "digital_cash_program", "label": "Perfect Money" },
+      { "rail_id": "digitalcash:robokassa", "rail_type": "digital_cash_program", "label": "Robokassa" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      { "label": "SecureVPN purchase and payment", "url": "https://www.securevpn.pro/eng/pages/payments", "kind": "official_payment_page", "publisher": "SecureVPN" }
+    ],
+    "notes": [
+      "Official SecureVPN payment page explicitly supports Bitcoin plus multiple stored-value and wallet-style funding methods."
+    ],
+    "source_origin": "official_seed"
+  }
+]
