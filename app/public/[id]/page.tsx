@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { getGeneratedProductMerchantById } from '../../../lib/generated-product-data'
 
 type PublicDetailPageProps = {
-  params: {
+  params: Promise<{
     id: string
-  }
+  }>
 }
 
 function whyReadyBlocks(merchant: NonNullable<ReturnType<typeof getGeneratedProductMerchantById>>) {
@@ -16,8 +16,9 @@ function whyReadyBlocks(merchant: NonNullable<ReturnType<typeof getGeneratedProd
   ]
 }
 
-export default function PublicDetailPage({ params }: PublicDetailPageProps) {
-  const merchant = getGeneratedProductMerchantById(params.id)
+export default async function PublicDetailPage({ params }: PublicDetailPageProps) {
+  const { id } = await params
+  const merchant = getGeneratedProductMerchantById(id)
 
   if (!merchant) {
     return (
