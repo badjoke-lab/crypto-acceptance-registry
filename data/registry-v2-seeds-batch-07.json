@@ -1,0 +1,2245 @@
+[
+  {
+    "registry_id": "merchant:stablepoint:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Stablepoint",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Stablepoint under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places Stablepoint in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:regery:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Regery",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Regery under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places Regery in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:xethost:coingate-directory",
+    "scope": "merchant",
+    "display_name": "XetHost",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists XetHost under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places XetHost in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:2cloud:coingate-directory",
+    "scope": "merchant",
+    "display_name": "2Cloud",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists 2Cloud under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places 2Cloud in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:adc-data:coingate-directory",
+    "scope": "merchant",
+    "display_name": "ADC Data",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists ADC Data under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places ADC Data in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:alphavps:coingate-directory",
+    "scope": "merchant",
+    "display_name": "AlphaVPS",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists AlphaVPS under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places AlphaVPS in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:amaze-servers:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Amaze Servers",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Amaze Servers under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places Amaze Servers in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:amazingrdp:coingate-directory",
+    "scope": "merchant",
+    "display_name": "AmazingRDP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists AmazingRDP under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places AmazingRDP in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:appbox:coingate-directory",
+    "scope": "merchant",
+    "display_name": "AppBox",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists AppBox under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places AppBox in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:arise-server:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Arise Server",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Arise Server under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places Arise Server in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:avoro:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Avoro",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Avoro under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places Avoro in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:core-hosting:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Core.Hosting",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Core.Hosting under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places Core.Hosting in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:vps-ag:coingate-directory",
+    "scope": "merchant",
+    "display_name": "VPS.ag",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists VPS.ag under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places VPS.ag in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:vpsnet-com:coingate-directory",
+    "scope": "merchant",
+    "display_name": "VPSnet.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists VPSnet.com under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places VPSnet.com in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:vpsforfx:coingate-directory",
+    "scope": "merchant",
+    "display_name": "VPSforFX",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists VPSforFX under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places VPSforFX in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:freerangecloud:coingate-directory",
+    "scope": "merchant",
+    "display_name": "FreeRangeCloud",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists FreeRangeCloud under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places FreeRangeCloud in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:st-hosting:coingate-directory",
+    "scope": "merchant",
+    "display_name": "ST-Hosting",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists ST-Hosting under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places ST-Hosting in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:dedicated-nodes:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Dedicated Nodes",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Dedicated Nodes under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places Dedicated Nodes in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:xsserver:coingate-directory",
+    "scope": "merchant",
+    "display_name": "XSServer",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists XSServer under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places XSServer in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:liteserver:coingate-directory",
+    "scope": "merchant",
+    "display_name": "LiteServer",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists LiteServer under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places LiteServer in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:mvps-net:coingate-directory",
+    "scope": "merchant",
+    "display_name": "MVPS.net",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists MVPS.net under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places MVPS.net in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:deinserverhost:coingate-directory",
+    "scope": "merchant",
+    "display_name": "DeinServerHost",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists DeinServerHost under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places DeinServerHost in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:host-ag:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Host.AG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Host.AG under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places Host.AG in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:serversp:coingate-directory",
+    "scope": "merchant",
+    "display_name": "ServerSP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists ServerSP under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places ServerSP in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:instant-dedicated:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Instant Dedicated",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Instant Dedicated under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places Instant Dedicated in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:onevps:coingate-directory",
+    "scope": "merchant",
+    "display_name": "OneVPS",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists OneVPS under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places OneVPS in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:pine-hosting:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Pine Hosting",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Pine Hosting under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places Pine Hosting in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:hostingb2b:coingate-directory",
+    "scope": "merchant",
+    "display_name": "HostingB2B",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists HostingB2B under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places HostingB2B in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:vps2day:coingate-directory",
+    "scope": "merchant",
+    "display_name": "VPS2DAY",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists VPS2DAY under the VPS & Hosting category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [
+      {
+        "rail_id": "processor:coingate",
+        "rail_type": "processor",
+        "label": "CoinGate"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      {
+        "label": "CoinGate VPS & Hosting directory",
+        "url": "https://coingate.com/stores/category/vps-hosting",
+        "kind": "official_store_locator",
+        "publisher": "CoinGate"
+      }
+    ],
+    "notes": [
+      "CoinGate category listing places VPS2DAY in VPS & Hosting."
+    ],
+    "source_origin": "official_seed"
+  },
+
+  {
+    "registry_id": "merchant:99rdp:coingate-directory",
+    "scope": "merchant",
+    "display_name": "99RDP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists 99RDP under the Remote Desktop Protocols (RDP) category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Remote Desktop Protocols (RDP) directory", "url": "https://coingate.com/stores/category/remote-desktop-protocols-rdp", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places 99RDP in Remote Desktop Protocols (RDP)."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:bunea-eu:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Bunea.eu",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Bunea.eu under the Remote Desktop Protocols (RDP) category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Remote Desktop Protocols (RDP) directory", "url": "https://coingate.com/stores/category/remote-desktop-protocols-rdp", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Bunea.eu in Remote Desktop Protocols (RDP)."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:buycheaprdp:coingate-directory",
+    "scope": "merchant",
+    "display_name": "BuyCheapRDP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists BuyCheapRDP under the Remote Desktop Protocols (RDP) category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Remote Desktop Protocols (RDP) directory", "url": "https://coingate.com/stores/category/remote-desktop-protocols-rdp", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places BuyCheapRDP in Remote Desktop Protocols (RDP)."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:eurdp:coingate-directory",
+    "scope": "merchant",
+    "display_name": "EuRDP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists EuRDP under the Remote Desktop Protocols (RDP) category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Remote Desktop Protocols (RDP) directory", "url": "https://coingate.com/stores/category/remote-desktop-protocols-rdp", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places EuRDP in Remote Desktop Protocols (RDP)."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:gpurdp:coingate-directory",
+    "scope": "merchant",
+    "display_name": "GPURDP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists GPURDP under the Remote Desktop Protocols (RDP) category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Remote Desktop Protocols (RDP) directory", "url": "https://coingate.com/stores/category/remote-desktop-protocols-rdp", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places GPURDP in Remote Desktop Protocols (RDP)."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:homerdp:coingate-directory",
+    "scope": "merchant",
+    "display_name": "HomeRDP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists HomeRDP under the Remote Desktop Protocols (RDP) category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Remote Desktop Protocols (RDP) directory", "url": "https://coingate.com/stores/category/remote-desktop-protocols-rdp", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places HomeRDP in Remote Desktop Protocols (RDP)."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:hostshield:coingate-directory",
+    "scope": "merchant",
+    "display_name": "HostShield",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists HostShield under the Remote Desktop Protocols (RDP) category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Remote Desktop Protocols (RDP) directory", "url": "https://coingate.com/stores/category/remote-desktop-protocols-rdp", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places HostShield in Remote Desktop Protocols (RDP)."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:maxrdp:coingate-directory",
+    "scope": "merchant",
+    "display_name": "MaxRDP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists MaxRDP under the Remote Desktop Protocols (RDP) category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Remote Desktop Protocols (RDP) directory", "url": "https://coingate.com/stores/category/remote-desktop-protocols-rdp", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places MaxRDP in Remote Desktop Protocols (RDP)."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:orange-byte:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Orange Byte",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Orange Byte under the Remote Desktop Protocols (RDP) category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Remote Desktop Protocols (RDP) directory", "url": "https://coingate.com/stores/category/remote-desktop-protocols-rdp", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Orange Byte in Remote Desktop Protocols (RDP)."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:prepaid-host:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Prepaid-Host",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Prepaid-Host under the Remote Desktop Protocols (RDP) category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Remote Desktop Protocols (RDP) directory", "url": "https://coingate.com/stores/category/remote-desktop-protocols-rdp", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Prepaid-Host in Remote Desktop Protocols (RDP)."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:privaterdp:coingate-directory",
+    "scope": "merchant",
+    "display_name": "PrivateRDP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists PrivateRDP under the Remote Desktop Protocols (RDP) category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Remote Desktop Protocols (RDP) directory", "url": "https://coingate.com/stores/category/remote-desktop-protocols-rdp", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places PrivateRDP in Remote Desktop Protocols (RDP)."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:quickrdp:coingate-directory",
+    "scope": "merchant",
+    "display_name": "QuickRDP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists QuickRDP under the Remote Desktop Protocols (RDP) category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Remote Desktop Protocols (RDP) directory", "url": "https://coingate.com/stores/category/remote-desktop-protocols-rdp", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places QuickRDP in Remote Desktop Protocols (RDP)."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:rdpdatabase:coingate-directory",
+    "scope": "merchant",
+    "display_name": "RDPDatabase",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists RDPDatabase under the Remote Desktop Protocols (RDP) category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Remote Desktop Protocols (RDP) directory", "url": "https://coingate.com/stores/category/remote-desktop-protocols-rdp", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places RDPDatabase in Remote Desktop Protocols (RDP)."],
+    "source_origin": "official_seed"
+  },
+
+  {
+    "registry_id": "merchant:iproyal:coingate-directory",
+    "scope": "merchant",
+    "display_name": "IPRoyal",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists IPRoyal under the Proxy category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Proxy directory", "url": "https://coingate.com/stores/category/proxy", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places IPRoyal in Proxy."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:airproxy:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Airproxy",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Airproxy under the Proxy category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Proxy directory", "url": "https://coingate.com/stores/category/proxy", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Airproxy in Proxy."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:decodo:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Decodo",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Decodo under the Proxy category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Proxy directory", "url": "https://coingate.com/stores/category/proxy", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Decodo in Proxy."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:geonode:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Geonode",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Geonode under the Proxy category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Proxy directory", "url": "https://coingate.com/stores/category/proxy", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Geonode in Proxy."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:ghostealth:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Ghostealth",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Ghostealth under the Proxy category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Proxy directory", "url": "https://coingate.com/stores/category/proxy", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Ghostealth in Proxy."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:gridpanel:coingate-directory",
+    "scope": "merchant",
+    "display_name": "GridPanel",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists GridPanel under the Proxy category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Proxy directory", "url": "https://coingate.com/stores/category/proxy", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places GridPanel in Proxy."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:mars-proxies:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Mars Proxies",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Mars Proxies under the Proxy category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Proxy directory", "url": "https://coingate.com/stores/category/proxy", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Mars Proxies in Proxy."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:netnut:coingate-directory",
+    "scope": "merchant",
+    "display_name": "NetNut",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists NetNut under the Proxy category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Proxy directory", "url": "https://coingate.com/stores/category/proxy", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places NetNut in Proxy."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:ping-proxies:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Ping Proxies",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Ping Proxies under the Proxy category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Proxy directory", "url": "https://coingate.com/stores/category/proxy", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Ping Proxies in Proxy."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:plainproxies-com:coingate-directory",
+    "scope": "merchant",
+    "display_name": "PlainProxies.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists PlainProxies.com under the Proxy category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Proxy directory", "url": "https://coingate.com/stores/category/proxy", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places PlainProxies.com in Proxy."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:proxy-cheap:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Proxy-Cheap",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Proxy-Cheap under the Proxy category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Proxy directory", "url": "https://coingate.com/stores/category/proxy", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Proxy-Cheap in Proxy."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:proxyjet:coingate-directory",
+    "scope": "merchant",
+    "display_name": "ProxyJet",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists ProxyJet under the Proxy category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Proxy directory", "url": "https://coingate.com/stores/category/proxy", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places ProxyJet in Proxy."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:proxyomega:coingate-directory",
+    "scope": "merchant",
+    "display_name": "ProxyOmega",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists ProxyOmega under the Proxy category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Proxy directory", "url": "https://coingate.com/stores/category/proxy", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places ProxyOmega in Proxy."],
+    "source_origin": "official_seed"
+  },
+
+  {
+    "registry_id": "merchant:moremins:coingate-directory",
+    "scope": "merchant",
+    "display_name": "MoreMins",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists MoreMins under the Communication category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Communication directory", "url": "https://coingate.com/stores/category/communication", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places MoreMins in Communication."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:2ndnumber:coingate-directory",
+    "scope": "merchant",
+    "display_name": "2ndNumber",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists 2ndNumber under the Communication category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Communication directory", "url": "https://coingate.com/stores/category/communication", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places 2ndNumber in Communication."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:alfa-bitcoin:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Alfa Bitcoin",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Alfa Bitcoin under the Communication category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Communication directory", "url": "https://coingate.com/stores/category/communication", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Alfa Bitcoin in Communication."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:blacktel:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Blacktel",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Blacktel under the Communication category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Communication directory", "url": "https://coingate.com/stores/category/communication", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Blacktel in Communication."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:cellfservices:coingate-directory",
+    "scope": "merchant",
+    "display_name": "CellfServices",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists CellfServices under the Communication category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Communication directory", "url": "https://coingate.com/stores/category/communication", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places CellfServices in Communication."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:chimera-tool:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Chimera Tool",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Chimera Tool under the Communication category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Communication directory", "url": "https://coingate.com/stores/category/communication", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Chimera Tool in Communication."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:dc-unlocker:coingate-directory",
+    "scope": "merchant",
+    "display_name": "DC-Unlocker",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists DC-Unlocker under the Communication category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Communication directory", "url": "https://coingate.com/stores/category/communication", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places DC-Unlocker in Communication."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:fc2:coingate-directory",
+    "scope": "merchant",
+    "display_name": "FC2",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists FC2 under the Communication category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Communication directory", "url": "https://coingate.com/stores/category/communication", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places FC2 in Communication."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:inflact:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Inflact",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Inflact under the Communication category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Communication directory", "url": "https://coingate.com/stores/category/communication", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Inflact in Communication."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:narayana:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Narayana",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Narayana under the Communication category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Communication directory", "url": "https://coingate.com/stores/category/communication", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Narayana in Communication."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:octohide-vpn:coingate-directory",
+    "scope": "merchant",
+    "display_name": "OctoHide VPN",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists OctoHide VPN under the Communication category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Communication directory", "url": "https://coingate.com/stores/category/communication", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places OctoHide VPN in Communication."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:proovl:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Proovl",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Proovl under the Communication category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Communication directory", "url": "https://coingate.com/stores/category/communication", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Proovl in Communication."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:reachtags:coingate-directory",
+    "scope": "merchant",
+    "display_name": "ReachTags",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists ReachTags under the Communication category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Communication directory", "url": "https://coingate.com/stores/category/communication", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places ReachTags in Communication."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:sankaku-plus:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Sankaku.plus",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Sankaku.plus under the Communication category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Communication directory", "url": "https://coingate.com/stores/category/communication", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Sankaku.plus in Communication."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:satline-tv:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Satline.tv",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Satline.tv under the Communication category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Communication directory", "url": "https://coingate.com/stores/category/communication", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Satline.tv in Communication."],
+    "source_origin": "official_seed"
+  },
+
+  {
+    "registry_id": "merchant:agency-aurora:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Agency Aurora",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Agency Aurora under the Marketing & Advertising category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Marketing & Advertising directory", "url": "https://coingate.com/stores/category/marketing-advertising", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Agency Aurora in Marketing & Advertising."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:amazeinternet:coingate-directory",
+    "scope": "merchant",
+    "display_name": "AmazeInternet",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists AmazeInternet under the Marketing & Advertising category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Marketing & Advertising directory", "url": "https://coingate.com/stores/category/marketing-advertising", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places AmazeInternet in Marketing & Advertising."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:asoeshop:coingate-directory",
+    "scope": "merchant",
+    "display_name": "ASOeShop",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists ASOeShop under the Marketing & Advertising category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Marketing & Advertising directory", "url": "https://coingate.com/stores/category/marketing-advertising", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places ASOeShop in Marketing & Advertising."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:biz-catalogs:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Biz-Catalogs",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Biz-Catalogs under the Marketing & Advertising category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Marketing & Advertising directory", "url": "https://coingate.com/stores/category/marketing-advertising", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Biz-Catalogs in Marketing & Advertising."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:blackhatworld:coingate-directory",
+    "scope": "merchant",
+    "display_name": "BlackHatWorld",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists BlackHatWorld under the Marketing & Advertising category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Marketing & Advertising directory", "url": "https://coingate.com/stores/category/marketing-advertising", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places BlackHatWorld in Marketing & Advertising."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:claroads:coingate-directory",
+    "scope": "merchant",
+    "display_name": "ClaroAds",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists ClaroAds under the Marketing & Advertising category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Marketing & Advertising directory", "url": "https://coingate.com/stores/category/marketing-advertising", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places ClaroAds in Marketing & Advertising."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:cointraffic:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Cointraffic",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Cointraffic under the Marketing & Advertising category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Marketing & Advertising directory", "url": "https://coingate.com/stores/category/marketing-advertising", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Cointraffic in Marketing & Advertising."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:coinzilla:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Coinzilla",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Coinzilla under the Marketing & Advertising category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Marketing & Advertising directory", "url": "https://coingate.com/stores/category/marketing-advertising", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Coinzilla in Marketing & Advertising."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:collaborator-pro:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Collaborator.pro",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Collaborator.pro under the Marketing & Advertising category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Marketing & Advertising directory", "url": "https://coingate.com/stores/category/marketing-advertising", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Collaborator.pro in Marketing & Advertising."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:cpidroid:coingate-directory",
+    "scope": "merchant",
+    "display_name": "CPIDroid",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists CPIDroid under the Marketing & Advertising category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Marketing & Advertising directory", "url": "https://coingate.com/stores/category/marketing-advertising", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places CPIDroid in Marketing & Advertising."],
+    "source_origin": "official_seed"
+  },
+
+  {
+    "registry_id": "merchant:24instant:coingate-directory",
+    "scope": "merchant",
+    "display_name": "24Instant",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists 24Instant under the Professional Services category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Professional Services directory", "url": "https://coingate.com/stores/category/professional-services", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places 24Instant in Professional Services."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:360clash:coingate-directory",
+    "scope": "merchant",
+    "display_name": "360Clash",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists 360Clash under the Professional Services category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Professional Services directory", "url": "https://coingate.com/stores/category/professional-services", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places 360Clash in Professional Services."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:apostas-seguras:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Apostas Seguras",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Apostas Seguras under the Professional Services category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Professional Services directory", "url": "https://coingate.com/stores/category/professional-services", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Apostas Seguras in Professional Services."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:autovei-com:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Autovei.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Autovei.com under the Professional Services category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Professional Services directory", "url": "https://coingate.com/stores/category/professional-services", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Autovei.com in Professional Services."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:aweb-gr:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Aweb.gr",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Aweb.gr under the Professional Services category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Professional Services directory", "url": "https://coingate.com/stores/category/professional-services", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Aweb.gr in Professional Services."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:betburger:coingate-directory",
+    "scope": "merchant",
+    "display_name": "BetBurger",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists BetBurger under the Professional Services category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Professional Services directory", "url": "https://coingate.com/stores/category/professional-services", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places BetBurger in Professional Services."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:btcfactura:coingate-directory",
+    "scope": "merchant",
+    "display_name": "BTCFactura",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists BTCFactura under the Professional Services category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Professional Services directory", "url": "https://coingate.com/stores/category/professional-services", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places BTCFactura in Professional Services."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:carvertical:coingate-directory",
+    "scope": "merchant",
+    "display_name": "CarVertical",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists CarVertical under the Professional Services category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Professional Services directory", "url": "https://coingate.com/stores/category/professional-services", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places CarVertical in Professional Services."],
+    "source_origin": "official_seed"
+  },
+
+  {
+    "registry_id": "merchant:bacloud:coingate-directory",
+    "scope": "merchant",
+    "display_name": "BaCloud",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists BaCloud under the Data centers category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Data centers directory", "url": "https://coingate.com/stores/category/data-centers", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places BaCloud in Data centers."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:cloudhosting-lv:coingate-directory",
+    "scope": "merchant",
+    "display_name": "CloudHosting.lv",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists CloudHosting.lv under the Data centers category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Data centers directory", "url": "https://coingate.com/stores/category/data-centers", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places CloudHosting.lv in Data centers."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:colobridge:coingate-directory",
+    "scope": "merchant",
+    "display_name": "ColoBridge",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists ColoBridge under the Data centers category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Data centers directory", "url": "https://coingate.com/stores/category/data-centers", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places ColoBridge in Data centers."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:creanova-datacenter:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Creanova Datacenter",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Creanova Datacenter under the Data centers category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Data centers directory", "url": "https://coingate.com/stores/category/data-centers", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Creanova Datacenter in Data centers."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:dataforest:coingate-directory",
+    "scope": "merchant",
+    "display_name": "DataForest",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists DataForest under the Data centers category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Data centers directory", "url": "https://coingate.com/stores/category/data-centers", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places DataForest in Data centers."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:estnoc:coingate-directory",
+    "scope": "merchant",
+    "display_name": "EstNOC",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists EstNOC under the Data centers category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Data centers directory", "url": "https://coingate.com/stores/category/data-centers", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places EstNOC in Data centers."],
+    "source_origin": "official_seed"
+  },
+
+  {
+    "registry_id": "merchant:altrady:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Altrady",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Altrady under the Trading Platforms category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Trading Platforms directory", "url": "https://coingate.com/stores/category/trading-platforms", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Altrady in Trading Platforms."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:cryptocore-dev:coingate-directory",
+    "scope": "merchant",
+    "display_name": "CryptoCore.dev",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists CryptoCore.dev under the Trading Platforms category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Trading Platforms directory", "url": "https://coingate.com/stores/category/trading-platforms", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places CryptoCore.dev in Trading Platforms."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:dexterlab:coingate-directory",
+    "scope": "merchant",
+    "display_name": "DexterLab",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists DexterLab under the Trading Platforms category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Trading Platforms directory", "url": "https://coingate.com/stores/category/trading-platforms", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places DexterLab in Trading Platforms."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:forexvps:coingate-directory",
+    "scope": "merchant",
+    "display_name": "ForexVPS",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists ForexVPS under the Trading Platforms category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Trading Platforms directory", "url": "https://coingate.com/stores/category/trading-platforms", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places ForexVPS in Trading Platforms."],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:futurum-bank:coingate-directory",
+    "scope": "merchant",
+    "display_name": "Futurum Bank",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists Futurum Bank under the Trading Platforms category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate Trading Platforms directory", "url": "https://coingate.com/stores/category/trading-platforms", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places Futurum Bank in Trading Platforms."],
+    "source_origin": "official_seed"
+  },
+
+  {
+    "registry_id": "merchant:cactusvpn:coingate-directory",
+    "scope": "merchant",
+    "display_name": "CactusVPN",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinGate",
+    "explicit_support": "CoinGate's official merchant directory lists CactusVPN under the VPN category as a merchant that accepts cryptocurrency payments through CoinGate.",
+    "support_rails": [{"rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate"}],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [{"label": "CoinGate VPN directory", "url": "https://coingate.com/stores/category/vpn", "kind": "official_store_locator", "publisher": "CoinGate"}],
+    "notes": ["CoinGate category listing places CactusVPN in VPN."],
+    "source_origin": "official_seed"
+  }
+]
