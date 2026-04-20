@@ -6,6 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "build:normalized-candidates": "tsx scripts/build-normalized-candidates.ts",
+    "build:classified-candidates": "tsx scripts/build-classified-candidates.ts",
     "build:public-artifacts": "tsx scripts/build-public-artifacts.ts",
     "build:product-merchants": "tsx scripts/build-product-merchants.ts",
     "build:review-queue": "tsx scripts/build-review-queue.ts",
