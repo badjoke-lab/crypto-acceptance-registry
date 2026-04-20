@@ -2,6 +2,7 @@ import batch01 from '../data/registry-v2-seeds.json'
 import batch02 from '../data/registry-v2-seeds-batch-02.json'
 import batch03 from '../data/registry-v2-seeds-batch-03.json'
 import batch04 from '../data/registry-v2-seeds-batch-04.json'
+import batch05 from '../data/registry-v2-seeds-batch-05.json'
 import type { RegistryRecordV2 } from '../scripts/export/types-v2-helper'
 import type { RegistryRecordV3, AcceptanceScopeV3, EntityTypeV3 } from '../scripts/export/types-v3'
 
@@ -64,6 +65,7 @@ const mergedV2 = [
   ...(batch02 as RegistryRecordV2[]),
   ...(batch03 as RegistryRecordV2[]),
   ...(batch04 as RegistryRecordV2[]),
+  ...(batch05 as RegistryRecordV2[]),
 ]
 
 const registryV3Seeds = mergedV2.map(toV3)
