@@ -2,13 +2,14 @@ import { NextResponse } from 'next/server'
 import { getMerchantRecordById } from '../../../../lib/merchant-data'
 
 type RouteContext = {
-  params: {
+  params: Promise<{
     id: string
-  }
+  }>
 }
 
-export function GET(_request: Request, context: RouteContext) {
-  const merchant = getMerchantRecordById(context.params.id)
+export async function GET(_request: Request, context: RouteContext) {
+  const { id } = await context.params
+  const merchant = getMerchantRecordById(id)
 
   if (!merchant) {
     return NextResponse.json({ error: 'NOT_FOUND' }, { status: 404 })
