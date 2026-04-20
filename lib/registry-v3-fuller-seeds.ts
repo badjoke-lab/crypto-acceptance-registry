@@ -15,6 +15,7 @@ import coreEnrichmentsBatch13 from '../data/registry-v3-core-enrichments-batch-1
 import coreEnrichmentsBatch14 from '../data/registry-v3-core-enrichments-batch-14.json'
 import coreEnrichmentsBatch15 from '../data/registry-v3-core-enrichments-batch-15.json'
 import coreEnrichmentsBatch16 from '../data/registry-v3-core-enrichments-batch-16.json'
+import coreEnrichmentsBatch17 from '../data/registry-v3-core-enrichments-batch-17.json'
 import { getRegistryV3FullSeeds } from './registry-v3-full-seeds'
 
 type SocialPatch = {
@@ -49,7 +50,7 @@ const socialMap = new Map(
 )
 
 const coreMap = new Map(
-  [...(coreEnrichmentsBatch02 as CorePatch[]), ...(coreEnrichmentsBatch03 as CorePatch[]), ...(coreEnrichmentsBatch04 as CorePatch[]), ...(coreEnrichmentsBatch05 as CorePatch[]), ...(coreEnrichmentsBatch06 as CorePatch[]), ...(coreEnrichmentsBatch07 as CorePatch[]), ...(coreEnrichmentsBatch08 as CorePatch[]), ...(coreEnrichmentsBatch09 as CorePatch[]), ...(coreEnrichmentsBatch10 as CorePatch[]), ...(coreEnrichmentsBatch11 as CorePatch[]), ...(coreEnrichmentsBatch12 as CorePatch[]), ...(coreEnrichmentsBatch13 as CorePatch[]), ...(coreEnrichmentsBatch14 as CorePatch[]), ...(coreEnrichmentsBatch15 as CorePatch[]), ...(coreEnrichmentsBatch16 as CorePatch[])].map((item) => [item.registry_id, item]),
+  [...(coreEnrichmentsBatch02 as CorePatch[]), ...(coreEnrichmentsBatch03 as CorePatch[]), ...(coreEnrichmentsBatch04 as CorePatch[]), ...(coreEnrichmentsBatch05 as CorePatch[]), ...(coreEnrichmentsBatch06 as CorePatch[]), ...(coreEnrichmentsBatch07 as CorePatch[]), ...(coreEnrichmentsBatch08 as CorePatch[]), ...(coreEnrichmentsBatch09 as CorePatch[]), ...(coreEnrichmentsBatch10 as CorePatch[]), ...(coreEnrichmentsBatch11 as CorePatch[]), ...(coreEnrichmentsBatch12 as CorePatch[]), ...(coreEnrichmentsBatch13 as CorePatch[]), ...(coreEnrichmentsBatch14 as CorePatch[]), ...(coreEnrichmentsBatch15 as CorePatch[]), ...(coreEnrichmentsBatch16 as CorePatch[]), ...(coreEnrichmentsBatch17 as CorePatch[])].map((item) => [item.registry_id, item]),
 )
 
 export function getRegistryV3FullerSeeds() {
