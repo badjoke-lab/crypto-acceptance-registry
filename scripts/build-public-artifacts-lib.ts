@@ -46,6 +46,10 @@ type PublicArtifacts = {
   cutoverReport: CutoverReport
 }
 
+function getTypedFullerSeeds(): RegistryRecordV3[] {
+  return getRegistryV3FullerSeeds() as RegistryRecordV3[]
+}
+
 function uniqueSorted(values: Array<string | null | undefined>): string[] {
   return [...new Set(values.map((value) => value?.trim()).filter((value): value is string => Boolean(value)))].sort(
     (a, b) => a.localeCompare(b),
@@ -172,12 +176,12 @@ function sortClassified(records: ClassifiedCandidateRecord[]): ClassifiedCandida
 }
 
 export function buildNormalizedCandidates(): NormalizedCandidateRecord[] {
-  return sortNormalized(getRegistryV3FullerSeeds().map(toNormalizedCandidate))
+  return sortNormalized(getTypedFullerSeeds().map(toNormalizedCandidate))
 }
 
 export function buildClassifiedCandidates(): ClassifiedCandidateRecord[] {
   return sortClassified(
-    getRegistryV3FullerSeeds().map((source) => classifyCandidate(toNormalizedCandidate(source), source)),
+    getTypedFullerSeeds().map((source) => classifyCandidate(toNormalizedCandidate(source), source)),
   )
 }
 
