@@ -1,4 +1,4 @@
-import productStats from '../data/product-stats.json'
+import { buildPublicArtifacts } from '../scripts/build-public-artifacts-lib'
 
 type ProductStats = {
   totalMerchants: number
@@ -8,8 +8,6 @@ type ProductStats = {
   processorBreakdown: Record<string, number>
 }
 
-const stats = productStats as ProductStats
-
 export function getGeneratedProductStats(): ProductStats {
-  return stats
+  return buildPublicArtifacts().stats
 }
