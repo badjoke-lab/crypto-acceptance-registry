@@ -1,6 +1,11 @@
 import fs from 'node:fs'
 import path from 'node:path'
-import type { ClassifiedCandidateRecord, ConfidenceLevel, LegacySocialLink } from './export/types'
+import type {
+  ClassifiedCandidateRecord,
+  ConfidenceLevel,
+  LegacySocialLink,
+  NormalizedCandidateRecord,
+} from './export/types'
 import type { RegistryRecordV3, SocialProfileV3 } from './export/types-v3'
 import { getRegistryV3FullerSeeds } from '../lib/registry-v3-fuller-seeds'
 
@@ -82,7 +87,7 @@ function toLegacySocialLink(profile: SocialProfileV3): LegacySocialLink {
   }
 }
 
-function toClassifiedCandidate(record: RegistryRecordV3): ClassifiedCandidateRecord {
+function toNormalizedCandidate(record: RegistryRecordV3): NormalizedCandidateRecord {
   const acceptedAssets = uniqueSorted(
     record.support_rails.filter((rail) => rail.rail_type === 'asset').map((rail) => rail.label),
   )
@@ -100,9 +105,7 @@ function toClassifiedCandidate(record: RegistryRecordV3): ClassifiedCandidateRec
       .map((rail) => rail.label),
   ])
   const paymentNotes = uniqueSorted([record.supports_program_or_network, record.explicit_support, ...record.notes])
-  const evidenceRefs = uniqueSorted(record.evidence_refs.map((ref) => ref.url))
-  const proposedMode = mapMode(record)
-  const verificationStatus = evidenceRefs.length > 0 ? 'ready' : 'pending_external_reference_review'
+  const verificationStatus = record.evidence_refs.length > 0 ? 'ready' : 'pending_external_reference_review'
 
   return {
     legacy_id: record.registry_id,
@@ -117,10 +120,6 @@ function toClassifiedCandidate(record: RegistryRecordV3): ClassifiedCandidateRec
     payment_processors: paymentProcessors,
     payment_notes: paymentNotes,
     social_links: record.social_profiles.map(toLegacySocialLink),
-    proposed_mode: proposedMode,
-    confidence: record.confidence as ConfidenceLevel,
-    review_reasons: [],
-    evidence_refs: evidenceRefs,
   }
 }
 
@@ -135,11 +134,28 @@ function buildReviewReasons(record: ClassifiedCandidateRecord): string[] {
   return reasons
 }
 
+function classifyCandidate(normalized: NormalizedCandidateRecord, source: RegistryRecordV3): ClassifiedCandidateRecord {
+  const proposedMode = mapMode(source)
+  const evidenceRefs = uniqueSorted(source.evidence_refs.map((ref) => ref.url))
+  const base: ClassifiedCandidateRecord = {
+    ...normalized,
+    proposed_mode: proposedMode,
+    confidence: source.confidence as ConfidenceLevel,
+    review_reasons: [],
+    evidence_refs: evidenceRefs,
+  }
+
+  return {
+    ...base,
+    review_reasons: buildReviewReasons(base),
+  }
+}
+
 function isReady(record: ClassifiedCandidateRecord): boolean {
   return record.evidence_refs.length > 0 && record.proposed_mode !== 'unknown'
 }
 
-function sortRecords(records: ClassifiedCandidateRecord[]): ClassifiedCandidateRecord[] {
+function sortNormalized(records: NormalizedCandidateRecord[]): NormalizedCandidateRecord[] {
   return [...records].sort((a, b) => {
     const nameCompare = a.display_name.localeCompare(b.display_name)
     if (nameCompare !== 0) return nameCompare
@@ -147,27 +163,39 @@ function sortRecords(records: ClassifiedCandidateRecord[]): ClassifiedCandidateR
   })
 }
 
+function sortClassified(records: ClassifiedCandidateRecord[]): ClassifiedCandidateRecord[] {
+  return [...records].sort((a, b) => {
+    const nameCompare = a.display_name.localeCompare(b.display_name)
+    if (nameCompare !== 0) return nameCompare
+    return a.legacy_id.localeCompare(b.legacy_id)
+  })
+}
+
+export function buildNormalizedCandidates(): NormalizedCandidateRecord[] {
+  return sortNormalized(getRegistryV3FullerSeeds().map(toNormalizedCandidate))
+}
+
+export function buildClassifiedCandidates(): ClassifiedCandidateRecord[] {
+  return sortClassified(
+    getRegistryV3FullerSeeds().map((source) => classifyCandidate(toNormalizedCandidate(source), source)),
+  )
+}
+
 export function buildPublicArtifacts(): PublicArtifacts {
-  const sourceRecords = getRegistryV3FullerSeeds().map(toClassifiedCandidate)
+  const sourceRecords = buildClassifiedCandidates()
   const ready: ClassifiedCandidateRecord[] = []
   const pending: ClassifiedCandidateRecord[] = []
 
   for (const record of sourceRecords) {
-    const reviewReasons = buildReviewReasons(record)
-    const enrichedRecord: ClassifiedCandidateRecord = {
-      ...record,
-      review_reasons: reviewReasons,
-    }
-
-    if (isReady(enrichedRecord)) {
-      ready.push(enrichedRecord)
+    if (isReady(record)) {
+      ready.push(record)
     } else {
-      pending.push(enrichedRecord)
+      pending.push(record)
     }
   }
 
-  const sortedReady = sortRecords(ready)
-  const sortedPending = sortRecords(pending)
+  const sortedReady = sortClassified(ready)
+  const sortedPending = sortClassified(pending)
   const stats: ProductStats = {
     totalMerchants: sortedReady.length,
     modeBreakdown: countBy(sortedReady.map((record) => record.proposed_mode)),
@@ -216,6 +244,14 @@ function writeJson(relativePath: string, data: unknown): void {
   console.log(`Wrote ${relativePath}`)
 }
 
+export function writeNormalizedCandidates(): void {
+  writeJson('data/normalized-candidates.json', buildNormalizedCandidates())
+}
+
+export function writeClassifiedCandidates(): void {
+  writeJson('data/classified-candidates.json', buildClassifiedCandidates())
+}
+
 export function writeProductMerchants(): void {
   const { ready } = buildPublicArtifacts()
   writeJson('data/product-merchants.json', ready)
@@ -237,6 +273,8 @@ export function writeCutoverReport(): void {
 }
 
 export function writeAllPublicArtifacts(): void {
+  writeJson('data/normalized-candidates.json', buildNormalizedCandidates())
+  writeJson('data/classified-candidates.json', buildClassifiedCandidates())
   const artifacts = buildPublicArtifacts()
   writeJson('data/product-merchants.json', artifacts.ready)
   writeJson('data/review-queue.json', artifacts.pending)
