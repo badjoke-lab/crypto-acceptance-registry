@@ -5,7 +5,12 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "build:public-artifacts": "tsx scripts/build-public-artifacts.ts",
+    "build:product-merchants": "tsx scripts/build-product-merchants.ts",
+    "build:review-queue": "tsx scripts/build-review-queue.ts",
+    "build:product-stats": "tsx scripts/build-product-stats.ts",
+    "build:cutover-report": "tsx scripts/build-cutover-report.ts"
   },
   "dependencies": {
     "next": "^16.2.3",
