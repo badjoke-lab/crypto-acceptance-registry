@@ -1,8 +1,5 @@
-import batch01 from '../data/registry-v2-seeds.json'
-import batch02 from '../data/registry-v2-seeds-batch-02.json'
-import batch03 from '../data/registry-v2-seeds-batch-03.json'
-import batch04 from '../data/registry-v2-seeds-batch-04.json'
-import batch05 from '../data/registry-v2-seeds-batch-05.json'
+import fs from 'node:fs'
+import path from 'node:path'
 import type { RegistryRecordV2 } from '../scripts/export/types-v2-helper'
 import type { RegistryRecordV3, AcceptanceScopeV3, EntityTypeV3 } from '../scripts/export/types-v3'
 
@@ -60,15 +57,29 @@ function toV3(record: RegistryRecordV2): RegistryRecordV3 {
   }
 }
 
-const mergedV2 = [
-  ...(batch01 as RegistryRecordV2[]),
-  ...(batch02 as RegistryRecordV2[]),
-  ...(batch03 as RegistryRecordV2[]),
-  ...(batch04 as RegistryRecordV2[]),
-  ...(batch05 as RegistryRecordV2[]),
-]
+function sortSeedFilenames(a: string, b: string): number {
+  const score = (name: string) => {
+    if (name === 'registry-v2-seeds.json') return 0
+    const match = name.match(/batch-(\d+)\.json$/)
+    return match ? Number(match[1]) : Number.MAX_SAFE_INTEGER
+  }
+  return score(a) - score(b) || a.localeCompare(b)
+}
 
-const registryV3Seeds = mergedV2.map(toV3)
+function loadAllV2Seeds(): RegistryRecordV2[] {
+  const dataDir = path.join(process.cwd(), 'data')
+  const filenames = fs
+    .readdirSync(dataDir)
+    .filter((name) => name === 'registry-v2-seeds.json' || /^registry-v2-seeds-batch-\d+\.json$/.test(name))
+    .sort(sortSeedFilenames)
+
+  return filenames.flatMap((filename) => {
+    const raw = fs.readFileSync(path.join(dataDir, filename), 'utf8')
+    return JSON.parse(raw) as RegistryRecordV2[]
+  })
+}
+
+const registryV3Seeds = loadAllV2Seeds().map(toV3)
 
 export function getRegistryV3Seeds(): RegistryRecordV3[] {
   return registryV3Seeds
