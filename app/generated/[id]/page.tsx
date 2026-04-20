@@ -2,13 +2,14 @@ import Link from 'next/link'
 import { getGeneratedProductMerchantById } from '../../../lib/generated-product-data'
 
 type GeneratedDetailPageProps = {
-  params: {
+  params: Promise<{
     id: string
-  }
+  }>
 }
 
-export default function GeneratedDetailPage({ params }: GeneratedDetailPageProps) {
-  const merchant = getGeneratedProductMerchantById(params.id)
+export default async function GeneratedDetailPage({ params }: GeneratedDetailPageProps) {
+  const { id } = await params
+  const merchant = getGeneratedProductMerchantById(id)
 
   if (!merchant) {
     return (
