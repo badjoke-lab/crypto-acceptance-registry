@@ -1,0 +1,331 @@
+[
+  {
+    "registry_id": "merchant:alexhost:crypto-xmoney",
+    "scope": "merchant",
+    "display_name": "AlexHost",
+    "country": "MD",
+    "city": "Chisinau",
+    "website": "https://alexhost.com/faq/what-pyment-methods-do-we-accept-for-hosting-services/",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Cards, PayPal, and cryptocurrencies via xMoney",
+    "explicit_support": "AlexHost's official payment FAQ says it accepts credit/debit cards, PayPal, Bitcoin, Monero, Litecoin, ETH, USDT, USDC, DASH and BNB, and the crypto checkout flow references xMoney terms.",
+    "support_rails": [
+      { "rail_id": "card:visa-mastercard", "rail_type": "card_program", "label": "Visa / Mastercard" },
+      { "rail_id": "processor:xmoney", "rail_type": "processor", "label": "xMoney" },
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:xmr", "rail_type": "asset", "label": "XMR" },
+      { "rail_id": "asset:ltc", "rail_type": "asset", "label": "LTC" },
+      { "rail_id": "asset:eth", "rail_type": "asset", "label": "ETH" },
+      { "rail_id": "asset:usdt", "rail_type": "asset", "label": "USDT" },
+      { "rail_id": "asset:usdc", "rail_type": "asset", "label": "USDC" },
+      { "rail_id": "asset:dash", "rail_type": "asset", "label": "DASH" },
+      { "rail_id": "asset:bnb", "rail_type": "asset", "label": "BNB" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      { "label": "AlexHost payment methods FAQ", "url": "https://alexhost.com/faq/what-pyment-methods-do-we-accept-for-hosting-services/", "kind": "official_help_center", "publisher": "AlexHost" },
+      { "label": "AlexHost contacts", "url": "https://alexhost.com/contacts/", "kind": "official_help_center", "publisher": "AlexHost" }
+    ],
+    "notes": [
+      "Official FAQ explicitly lists both card payments and multiple cryptocurrencies.",
+      "Contacts page gives the Chisinau company address for the seed geography."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:torguard:crypto-btcpay-giftcards",
+    "scope": "merchant",
+    "display_name": "TorGuard",
+    "country": null,
+    "city": null,
+    "website": "https://ja.torguard.net/faq/",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "CoinPayments, self-hosted BTCPay, gift cards via PayGarden / PaymentWall",
+    "explicit_support": "TorGuard's official FAQ says it accepts credit and debit cards, Bitcoin and other cryptocurrencies via CoinPayments, BTC and LTC through its own BTCPay node, PayPal via Paddle, and gift cards plus other payment options through PaymentWall and PayGarden.",
+    "support_rails": [
+      { "rail_id": "processor:coinpayments", "rail_type": "processor", "label": "CoinPayments" },
+      { "rail_id": "processor:btcpay", "rail_type": "processor", "label": "BTCPay" },
+      { "rail_id": "digitalcash:paygarden", "rail_type": "digital_cash_program", "label": "PayGarden Gift Cards" },
+      { "rail_id": "processor:paymentwall", "rail_type": "processor", "label": "PaymentWall" },
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:ltc", "rail_type": "asset", "label": "LTC" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      { "label": "TorGuard FAQ", "url": "https://ja.torguard.net/faq/", "kind": "official_help_center", "publisher": "TorGuard" },
+      { "label": "TorGuard prepaid VPN cards", "url": "https://blog.torguard.net/introducing-torguard-pre-paid-vpn-another-anonymous-payment-method/", "kind": "official_blog", "publisher": "TorGuard" }
+    ],
+    "notes": [
+      "Official FAQ explicitly covers cards, crypto, BTCPay and gift-card style payment rails.",
+      "Pre-paid VPN PIN cards add a digital-cash-like rail beyond direct crypto checkout."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:qhoster:btc-ltc-doge-bitpay",
+    "scope": "merchant",
+    "display_name": "QHoster",
+    "country": "UY",
+    "city": "Montevideo",
+    "website": "https://www.qhoster.com/payment-methods.html",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Cards, e-wallets, prepaid and cryptocurrencies including BitPay-verified Bitcoin",
+    "explicit_support": "QHoster's official payment pages say it accepts cards, e-wallets, cash and prepaid methods, identifies itself as a BitPay Verified Merchant for Bitcoin, and separately lists Litecoin and Dash while the homepage also says BTC crypto payments are accepted and names Bitcoin, Litecoin and DOGE among accepted methods.",
+    "support_rails": [
+      { "rail_id": "processor:bitpay", "rail_type": "processor", "label": "BitPay" },
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:ltc", "rail_type": "asset", "label": "LTC" },
+      { "rail_id": "asset:dash", "rail_type": "asset", "label": "DASH" },
+      { "rail_id": "asset:doge", "rail_type": "asset", "label": "DOGE" },
+      { "rail_id": "digitalcash:paysafecard", "rail_type": "digital_cash_program", "label": "paysafecard" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      { "label": "QHoster payment methods", "url": "https://www.qhoster.com/payment-methods.html", "kind": "official_payment_page", "publisher": "QHoster" },
+      { "label": "QHoster home page", "url": "https://www.qhoster.com/", "kind": "official_payment_page", "publisher": "QHoster" },
+      { "label": "QHoster contacts", "url": "https://www.qhoster.com/contacts.html", "kind": "official_help_center", "publisher": "QHoster" }
+    ],
+    "notes": [
+      "Official payment page explicitly names Bitcoin and Litecoin support and a BitPay merchant relationship.",
+      "Homepage additionally markets DOGE as an accepted payment method."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:abelohost:crypto-coingate-bitpay-coinpayments",
+    "scope": "merchant",
+    "display_name": "AbeloHost",
+    "country": "NL",
+    "city": "Amsterdam",
+    "website": "https://abelohost.com/payment-options/",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Cards, PayPal and cryptocurrencies via CoinGate, BitPay and CoinPayments",
+    "explicit_support": "AbeloHost's official payment options page lists PayPal, guest credit card payments, Visa, Mastercard, and Bitcoin / altcoins through CoinGate, BitPay and Coinpayments.net.",
+    "support_rails": [
+      { "rail_id": "card:visa-mastercard", "rail_type": "card_program", "label": "Visa / Mastercard" },
+      { "rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate" },
+      { "rail_id": "processor:bitpay", "rail_type": "processor", "label": "BitPay" },
+      { "rail_id": "processor:coinpayments", "rail_type": "processor", "label": "CoinPayments" },
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      { "label": "AbeloHost payment options", "url": "https://abelohost.com/payment-options/", "kind": "official_payment_page", "publisher": "AbeloHost" },
+      { "label": "AbeloHost contact us", "url": "https://abelohost.com/contact-us", "kind": "official_help_center", "publisher": "AbeloHost" }
+    ],
+    "notes": [
+      "Official payment page explicitly mixes card rails and multiple crypto processors.",
+      "Contact page provides the Amsterdam address for seed geography."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:cherry-servers:crypto-coingate-bvnk",
+    "scope": "merchant",
+    "display_name": "Cherry Servers",
+    "country": null,
+    "city": null,
+    "website": "https://www.cherryservers.com/knowledge/docs/usage-billing/payment-methods",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Cards, bank transfer, crypto via CoinGate and BVNK, plus PayPal / Apple Pay / Google Pay / AliPay / Revolut Pay",
+    "explicit_support": "Cherry Servers' official billing docs say it accepts debit and credit cards, bank transfer, cryptocurrencies through CoinGate and BVNK, and other payment methods including PayPal, Google Pay, Apple Pay, AliPay and Revolut Pay.",
+    "support_rails": [
+      { "rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate" },
+      { "rail_id": "processor:bvnk", "rail_type": "processor", "label": "BVNK" },
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:eth", "rail_type": "asset", "label": "ETH" },
+      { "rail_id": "asset:usdt", "rail_type": "asset", "label": "USDT" },
+      { "rail_id": "asset:usdc", "rail_type": "asset", "label": "USDC" },
+      { "rail_id": "asset:xrp", "rail_type": "asset", "label": "XRP" },
+      { "rail_id": "asset:trx", "rail_type": "asset", "label": "TRX" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      { "label": "Cherry Servers payment methods", "url": "https://www.cherryservers.com/knowledge/docs/usage-billing/payment-methods", "kind": "official_help_center", "publisher": "Cherry Servers" },
+      { "label": "Cherry Servers BVNK announcement", "url": "https://www.cherryservers.com/blog/new-payment-options-revolut-bvnk", "kind": "official_blog", "publisher": "Cherry Servers" }
+    ],
+    "notes": [
+      "Official docs explicitly support both crypto and mainstream payment rails.",
+      "BVNK was added as a named crypto payment option in 2025."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:hostsailor:crypto-coingate",
+    "scope": "merchant",
+    "display_name": "HostSailor",
+    "country": "AE",
+    "city": "Dubai",
+    "website": "https://web.hostsailor.com/ru/how-to-pay-with-cryptocurrencies/",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitcoin and altcoins via CoinGate, plus card and other payment methods",
+    "explicit_support": "HostSailor's official crypto payment guide says it supports Bitcoin, XRP, Ether, Litecoin and more than 50 altcoins through CoinGate, while official site footers show Bitcoin among the accepted payment methods alongside cards and other rails.",
+    "support_rails": [
+      { "rail_id": "processor:coingate", "rail_type": "processor", "label": "CoinGate" },
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:xrp", "rail_type": "asset", "label": "XRP" },
+      { "rail_id": "asset:eth", "rail_type": "asset", "label": "ETH" },
+      { "rail_id": "asset:ltc", "rail_type": "asset", "label": "LTC" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      { "label": "HostSailor how to pay with cryptocurrencies", "url": "https://web.hostsailor.com/ru/how-to-pay-with-cryptocurrencies/", "kind": "official_payment_page", "publisher": "HostSailor" },
+      { "label": "HostSailor contact page", "url": "https://hostsailor.com/contact?swcfpc=1", "kind": "official_help_center", "publisher": "HostSailor" },
+      { "label": "HostSailor site footer payment methods", "url": "https://hostsailor.com/domain-registration/", "kind": "official_payment_page", "publisher": "HostSailor" }
+    ],
+    "notes": [
+      "Official crypto-payment page explicitly names CoinGate and multiple coins.",
+      "Company contact page provides Dubai address for seed geography."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:hostkey:bitpay-crypto",
+    "scope": "merchant",
+    "display_name": "HOSTKEY",
+    "country": "NL",
+    "city": "Amsterdam",
+    "website": "https://hostkey.com/about-us/payment-terms-and-methods/",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "BitPay and direct wallet payments alongside cards, PayPal, AliPay and bank transfer",
+    "explicit_support": "HOSTKEY's official payment terms say it accepts payments by credit, PayPal, P2P cryptocurrency payments from any wallet, application or exchange through BitPay, and also accepts Alipay and wire transfers.",
+    "support_rails": [
+      { "rail_id": "processor:bitpay", "rail_type": "processor", "label": "BitPay" },
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:bch", "rail_type": "asset", "label": "BCH" },
+      { "rail_id": "asset:eth", "rail_type": "asset", "label": "ETH" },
+      { "rail_id": "asset:usdt", "rail_type": "asset", "label": "USDT" },
+      { "rail_id": "asset:doge", "rail_type": "asset", "label": "DOGE" },
+      { "rail_id": "asset:ltc", "rail_type": "asset", "label": "LTC" },
+      { "rail_id": "asset:usdc", "rail_type": "asset", "label": "USDC" },
+      { "rail_id": "asset:dai", "rail_type": "asset", "label": "DAI" },
+      { "rail_id": "asset:busd", "rail_type": "asset", "label": "BUSD" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      { "label": "HOSTKEY payment terms and methods", "url": "https://hostkey.com/about-us/payment-terms-and-methods/", "kind": "official_payment_page", "publisher": "HOSTKEY" },
+      { "label": "HOSTKEY contact information", "url": "https://hostkey.com/about-us/legal/contact-information/", "kind": "official_help_center", "publisher": "HOSTKEY" }
+    ],
+    "notes": [
+      "Official payment terms explicitly support BitPay-based crypto plus traditional rails.",
+      "Contact-information page provides Amsterdam legal address for seed geography."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:ultahost:crypto-cards-ewallets",
+    "scope": "merchant",
+    "display_name": "UltaHost",
+    "country": "US",
+    "city": "Middletown",
+    "website": "https://ultahost.com/payments",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Credit/debit/prepaid cards, PayPal, Alipay, WeChat, Qiwi and cryptocurrency",
+    "explicit_support": "UltaHost's official payments page says it accepts credit, debit and prepaid cards, PayPal, Alipay, WeChat, Qiwi Wallets, Bitcoin and other cryptocurrencies.",
+    "support_rails": [
+      { "rail_id": "card:credit-debit-prepaid", "rail_type": "card_program", "label": "Credit / Debit / Prepaid Cards" },
+      { "rail_id": "digitalcash:alipay", "rail_type": "digital_cash_program", "label": "Alipay" },
+      { "rail_id": "digitalcash:wechat", "rail_type": "digital_cash_program", "label": "WeChat" },
+      { "rail_id": "digitalcash:qiwi", "rail_type": "digital_cash_program", "label": "Qiwi" },
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "processor:crypto-unspecified", "rail_type": "processor", "label": "Cryptocurrency" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      { "label": "UltaHost payments", "url": "https://ultahost.com/payments", "kind": "official_payment_page", "publisher": "UltaHost" },
+      { "label": "UltaHost contact us", "url": "https://ultahost.com/contact/index", "kind": "official_help_center", "publisher": "UltaHost" }
+    ],
+    "notes": [
+      "Official payments page explicitly supports both crypto and multiple digital-cash / e-wallet rails.",
+      "Contact page provides the Delaware address for seed geography."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:regxa-cloud:btc-usdt-eth-trx",
+    "scope": "merchant",
+    "display_name": "REGXA CLOUD",
+    "country": "US",
+    "city": null,
+    "website": "https://regxa.com/",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Credit cards, PayPal, bank transfers and cryptocurrency payments including BTC, USDT, ETH and TRX",
+    "explicit_support": "REGXA CLOUD's official home page says it offers flexible payments including PayPal, credit cards, cryptocurrencies and regional processors, while its VPS payment pages and FAQs explicitly mention Bitcoin, USDT, Ethereum and TRX cryptocurrency payments.",
+    "support_rails": [
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:usdt", "rail_type": "asset", "label": "USDT" },
+      { "rail_id": "asset:eth", "rail_type": "asset", "label": "ETH" },
+      { "rail_id": "asset:trx", "rail_type": "asset", "label": "TRX" },
+      { "rail_id": "processor:crypto-unspecified", "rail_type": "processor", "label": "Cryptocurrency" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      { "label": "REGXA home page", "url": "https://regxa.com/", "kind": "official_payment_page", "publisher": "REGXA CLOUD" },
+      { "label": "REGXA pay VPS with TRX", "url": "https://regxa.com/pay-vps-with-trx", "kind": "official_payment_page", "publisher": "REGXA CLOUD" },
+      { "label": "REGXA legal SLA", "url": "https://regxa.com/legal/sla", "kind": "official_help_center", "publisher": "REGXA CLOUD" }
+    ],
+    "notes": [
+      "Home page and crypto-specific product pages both explicitly support cryptocurrency checkout.",
+      "Legal pages describe REGXA LLC as a United States-based company."
+    ],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:redswitches:crypto-cryptomus",
+    "scope": "merchant",
+    "display_name": "RedSwitches",
+    "country": "SG",
+    "city": "Singapore",
+    "website": "https://www.redswitches.com/buy-dedicated-servers-with-bitcoin/",
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Credit cards, PayPal, bank transfers and cryptocurrencies through Cryptomus",
+    "explicit_support": "RedSwitches' official terms say accepted forms include PayPal, credit/debit cards, bank transfers and cryptocurrencies, and its Bitcoin payment page says it accepts BTC, DASH, DOGE, USDT, MATIC, BNB, XMR, SOL, BCH, ETH, LTC, TON and TRX through trusted gateways like Cryptomus.",
+    "support_rails": [
+      { "rail_id": "processor:cryptomus", "rail_type": "processor", "label": "Cryptomus" },
+      { "rail_id": "asset:btc", "rail_type": "asset", "label": "BTC" },
+      { "rail_id": "asset:dash", "rail_type": "asset", "label": "DASH" },
+      { "rail_id": "asset:doge", "rail_type": "asset", "label": "DOGE" },
+      { "rail_id": "asset:usdt", "rail_type": "asset", "label": "USDT" },
+      { "rail_id": "asset:matic", "rail_type": "asset", "label": "MATIC" },
+      { "rail_id": "asset:bnb", "rail_type": "asset", "label": "BNB" },
+      { "rail_id": "asset:xmr", "rail_type": "asset", "label": "XMR" },
+      { "rail_id": "asset:sol", "rail_type": "asset", "label": "SOL" },
+      { "rail_id": "asset:bch", "rail_type": "asset", "label": "BCH" },
+      { "rail_id": "asset:eth", "rail_type": "asset", "label": "ETH" },
+      { "rail_id": "asset:ltc", "rail_type": "asset", "label": "LTC" },
+      { "rail_id": "asset:ton", "rail_type": "asset", "label": "TON" },
+      { "rail_id": "asset:trx", "rail_type": "asset", "label": "TRX" }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-20",
+    "evidence_refs": [
+      { "label": "RedSwitches terms of use", "url": "https://www.redswitches.com/terms-of-use/", "kind": "official_help_center", "publisher": "RedSwitches" },
+      { "label": "RedSwitches buy dedicated servers with bitcoin", "url": "https://www.redswitches.com/buy-dedicated-servers-with-bitcoin/", "kind": "official_payment_page", "publisher": "RedSwitches" },
+      { "label": "RedSwitches contact us", "url": "https://www.redswitches.com/contact-us/", "kind": "official_help_center", "publisher": "RedSwitches" }
+    ],
+    "notes": [
+      "Official terms explicitly allow crypto alongside traditional payment rails.",
+      "Bitcoin payment page enumerates a broad set of supported cryptocurrencies and the gateway brand."
+    ],
+    "source_origin": "official_seed"
+  }
+]
