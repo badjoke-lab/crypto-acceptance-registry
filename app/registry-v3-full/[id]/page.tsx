@@ -2,13 +2,14 @@ import Link from 'next/link'
 import { getRegistryV3FullerSeedById } from '../../../lib/registry-v3-fuller-seeds'
 
 type RegistryV3FullDetailPageProps = {
-  params: {
+  params: Promise<{
     id: string
-  }
+  }>
 }
 
-export default function RegistryV3FullDetailPage({ params }: RegistryV3FullDetailPageProps) {
-  const id = decodeURIComponent(params.id)
+export default async function RegistryV3FullDetailPage({ params }: RegistryV3FullDetailPageProps) {
+  const { id: rawId } = await params
+  const id = decodeURIComponent(rawId)
   const record = getRegistryV3FullerSeedById(id)
 
   if (!record) {
