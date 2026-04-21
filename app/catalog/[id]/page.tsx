@@ -2,13 +2,14 @@ import Link from 'next/link'
 import { getProductMerchantById } from '../../../lib/product-data'
 
 type CatalogDetailPageProps = {
-  params: {
+  params: Promise<{
     id: string
-  }
+  }>
 }
 
-export default function CatalogDetailPage({ params }: CatalogDetailPageProps) {
-  const merchant = getProductMerchantById(params.id)
+export default async function CatalogDetailPage({ params }: CatalogDetailPageProps) {
+  const { id } = await params
+  const merchant = getProductMerchantById(id)
 
   if (!merchant) {
     return (
