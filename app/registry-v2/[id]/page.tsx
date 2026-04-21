@@ -2,13 +2,14 @@ import Link from 'next/link'
 import records from '../../../data/registry-v2-seeds.json'
 
 type RegistryV2DetailPageProps = {
-  params: {
+  params: Promise<{
     id: string
-  }
+  }>
 }
 
-export default function RegistryV2DetailPage({ params }: RegistryV2DetailPageProps) {
-  const id = decodeURIComponent(params.id)
+export default async function RegistryV2DetailPage({ params }: RegistryV2DetailPageProps) {
+  const { id: rawId } = await params
+  const id = decodeURIComponent(rawId)
   const record = records.find((item) => item.registry_id === id)
 
   if (!record) {
