@@ -2,13 +2,14 @@ import Link from 'next/link'
 import { getMerchantRecordById } from '../../../lib/merchant-data'
 
 type RegistryDetailPageProps = {
-  params: {
+  params: Promise<{
     id: string
-  }
+  }>
 }
 
-export default function RegistryDetailPage({ params }: RegistryDetailPageProps) {
-  const merchant = getMerchantRecordById(params.id)
+export default async function RegistryDetailPage({ params }: RegistryDetailPageProps) {
+  const { id } = await params
+  const merchant = getMerchantRecordById(id)
 
   if (!merchant) {
     return (
