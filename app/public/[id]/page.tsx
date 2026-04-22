@@ -18,7 +18,8 @@ function whyReadyBlocks(merchant: NonNullable<ReturnType<typeof getGeneratedProd
 
 export default async function PublicDetailPage({ params }: PublicDetailPageProps) {
   const { id } = await params
-  const merchant = getGeneratedProductMerchantById(id)
+  const decodedId = decodeURIComponent(id)
+  const merchant = getGeneratedProductMerchantById(decodedId)
 
   if (!merchant) {
     return (

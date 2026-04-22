@@ -1,10 +1,13 @@
+import { generatedProductMerchantsData } from './generated-product-merchants-data'
 import type { ClassifiedCandidateRecord } from '../scripts/export/types'
-import { buildPublicArtifacts } from '../scripts/build-public-artifacts-lib'
+
+const generatedProductMerchants =
+  generatedProductMerchantsData as unknown as ClassifiedCandidateRecord[]
 
 export function getGeneratedProductMerchants(): ClassifiedCandidateRecord[] {
-  return buildPublicArtifacts().ready
+  return generatedProductMerchants
 }
 
 export function getGeneratedProductMerchantById(id: string): ClassifiedCandidateRecord | null {
-  return getGeneratedProductMerchants().find((record) => record.legacy_id === id) ?? null
+  return generatedProductMerchants.find((record) => record.legacy_id === id) ?? null
 }
