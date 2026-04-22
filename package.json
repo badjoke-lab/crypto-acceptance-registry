@@ -12,7 +12,9 @@
     "build:product-merchants": "tsx scripts/build-product-merchants.ts",
     "build:review-queue": "tsx scripts/build-review-queue.ts",
     "build:product-stats": "tsx scripts/build-product-stats.ts",
-    "build:cutover-report": "tsx scripts/build-cutover-report.ts"
+    "build:cutover-report": "tsx scripts/build-cutover-report.ts",
+    "embed:public-artifacts": "tsx scripts/embed-public-artifacts.ts",
+    "release:public": "pnpm run build:public-artifacts && pnpm run embed:public-artifacts && opennextjs-cloudflare build && opennextjs-cloudflare deploy"
   },
   "dependencies": {
     "next": "^16.2.3",
@@ -23,6 +25,7 @@
     "typescript": "^6.0.2"
   },
   "devDependencies": {
+    "@opennextjs/cloudflare": "^1.19.3",
     "@types/node": "25.6.0",
     "@types/pg": "^8.15.6",
     "@types/react": "19.2.14"
