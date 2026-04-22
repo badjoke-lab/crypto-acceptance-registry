@@ -1,25 +1,26 @@
 export const generatedCutoverReportData = {
-  "generatedAt": "2026-04-21T21:14:22.369Z",
+  "generatedAt": "2026-04-22T13:54:39.289Z",
   "merchants": {
-    "total": 247,
-    "withEvidence": 247,
+    "total": 506,
+    "withEvidence": 506,
     "withWebsite": 40,
-    "highConfidence": 247,
-    "mediumConfidence": 0,
+    "highConfidence": 321,
+    "mediumConfidence": 185,
     "lowConfidence": 0
   },
   "stats": {
-    "totalMerchants": 247,
+    "totalMerchants": 506,
     "modeBreakdown": {
-      "processor": 235,
+      "processor": 494,
       "direct": 9,
       "bridge": 3
     },
     "confidenceBreakdown": {
-      "high": 247
+      "high": 321,
+      "medium": 185
     },
     "countryBreakdown": {
-      "Unknown": 217,
+      "Unknown": 476,
       "NL": 2,
       "LV": 1,
       "IT": 1,
@@ -42,7 +43,7 @@ export const generatedCutoverReportData = {
       "CA": 1
     },
     "processorBreakdown": {
-      "CoinGate": 211,
+      "CoinGate": 470,
       "BitPay": 12,
       "CoinPayments": 5,
       "Unknown": 11,

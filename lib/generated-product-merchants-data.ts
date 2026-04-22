@@ -58,6 +58,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:1xbet:coingate-directory",
+    "display_name": "1xBet",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces 1xBet on its official PUBG Mobile UC gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/pubg-mobile-uc"
+    ]
+  },
+  {
+    "legacy_id": "merchant:220-lv:coingate-directory",
+    "display_name": "220.lv",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces 220.lv on its official douglas gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/douglas"
+    ]
+  },
+  {
     "legacy_id": "merchant:24instant:coingate-directory",
     "display_name": "24Instant",
     "country": null,
@@ -305,6 +365,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:access-wireless:coingate-directory",
+    "display_name": "Access Wireless",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Access Wireless on its official Steam gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
     "legacy_id": "merchant:aceb:coingate-directory",
     "display_name": "ACEB",
     "country": null,
@@ -393,6 +483,35 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:adidas-us:coingate-directory",
+    "display_name": "Adidas US",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Adidas US in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
     "legacy_id": "merchant:agency-aurora:coingate-directory",
     "display_name": "Agency Aurora",
     "country": null,
@@ -420,6 +539,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/marketing-advertising"
+    ]
+  },
+  {
+    "legacy_id": "merchant:agoda:coingate-directory",
+    "display_name": "Agoda",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Agoda on its official Airbnb gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/airbnb"
     ]
   },
   {
@@ -606,6 +755,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:airvoice:coingate-directory",
+    "display_name": "Airvoice",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Airvoice on its official skype gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/skype"
+    ]
+  },
+  {
     "legacy_id": "merchant:airvpn:direct-crypto",
     "display_name": "AirVPN",
     "country": "IT",
@@ -638,6 +817,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://airvpn.org/buy"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ajio:coingate-directory",
+    "display_name": "AJIO",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces AJIO on its official flipkart gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/flipkart"
+    ]
+  },
+  {
+    "legacy_id": "merchant:aldi:coingate-directory",
+    "display_name": "ALDI",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces ALDI on its official douglas gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/douglas"
     ]
   },
   {
@@ -742,6 +981,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:alfamart:coingate-directory",
+    "display_name": "Alfamart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Alfamart on its official tesco gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/tesco"
+    ]
+  },
+  {
+    "legacy_id": "merchant:aliexpress:coingate-directory",
+    "display_name": "Aliexpress",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Aliexpress on its official meta quest gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/meta-quest"
+    ]
+  },
+  {
     "legacy_id": "merchant:alphavps:coingate-directory",
     "display_name": "AlphaVPS",
     "country": null,
@@ -828,6 +1127,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/trading-platforms"
+    ]
+  },
+  {
+    "legacy_id": "merchant:alza:coingate-directory",
+    "display_name": "ALZA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces ALZA on its official Steam gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/steam"
     ]
   },
   {
@@ -950,6 +1279,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:amazon-india:coingate-directory",
+    "display_name": "Amazon India",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Amazon India on its official flipkart gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/flipkart"
+    ]
+  },
+  {
     "legacy_id": "merchant:amazon-shopping-voucher:coingate-directory",
     "display_name": "Amazon Shopping Voucher",
     "country": null,
@@ -976,6 +1335,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/online-stores"
+    ]
+  },
+  {
+    "legacy_id": "merchant:amazon-shopping-voucher:coingate-directory",
+    "display_name": "Amazon Shopping Voucher",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Amazon Shopping Voucher on its official flipkart gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/flipkart"
     ]
   },
   {
@@ -1057,6 +1446,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/payment-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:anghami:coingate-directory",
+    "display_name": "Anghami",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Anghami on its official Play DXB gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/play-dxb"
     ]
   },
   {
@@ -1178,6 +1597,184 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:applebee-s:coingate-directory",
+    "display_name": "Applebee's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Applebee's in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:applebees:coingate-directory",
+    "display_name": "Applebee's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Applebee's in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:aral:coingate-directory",
+    "display_name": "Aral",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Aral on its official RTL+ gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/rtl"
+    ]
+  },
+  {
+    "legacy_id": "merchant:arc-raiders:coingate-directory",
+    "display_name": "ARC Raiders",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces ARC Raiders on its official coingate voucher page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/coingate"
+    ]
+  },
+  {
+    "legacy_id": "merchant:arena-breakout-bonds-top-up:coingate-directory",
+    "display_name": "Arena Breakout Bonds Top-Up",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Arena Breakout Bonds Top-Up on its official Google Play gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/google-play"
+    ]
+  },
+  {
+    "legacy_id": "merchant:argos:coingate-directory",
+    "display_name": "Argos",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Argos on its official meta quest gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/meta-quest"
+    ]
+  },
+  {
     "legacy_id": "merchant:arise-server:coingate-directory",
     "display_name": "Arise Server",
     "country": null,
@@ -1235,6 +1832,94 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/marketing-advertising"
+    ]
+  },
+  {
+    "legacy_id": "merchant:asos:coingate-directory",
+    "display_name": "ASOS",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists ASOS in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:asos:coingate-directory",
+    "display_name": "ASOS",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists ASOS in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:astropay:coingate-directory",
+    "display_name": "AstroPay",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces AstroPay on its official morrisons gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/morrisons"
     ]
   },
   {
@@ -1416,6 +2101,94 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:banana-republic:coingate-directory",
+    "display_name": "Banana Republic",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Banana Republic in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bath-and-body-works:coingate-directory",
+    "display_name": "Bath & Body Works",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Bath & Body Works on its official douglas gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/douglas"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bed-bath-and-beyond:coingate-directory",
+    "display_name": "Bed Bath and Beyond",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Bed Bath and Beyond in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
     "legacy_id": "merchant:bershka:coingate-directory",
     "display_name": "Bershka",
     "country": null,
@@ -1504,6 +2277,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:biedronka:coingate-directory",
+    "display_name": "Biedronka",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Biedronka on its official douglas gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/douglas"
+    ]
+  },
+  {
+    "legacy_id": "merchant:big-basket:coingate-directory",
+    "display_name": "Big Basket",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Big Basket on its official flipkart gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/flipkart"
+    ]
+  },
+  {
     "legacy_id": "merchant:bigo-live:coingate-directory",
     "display_name": "BIGO Live",
     "country": null,
@@ -1530,6 +2363,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bigpoint-code:coingate-directory",
+    "display_name": "Bigpoint Code",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Bigpoint Code on its official Google Play gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/google-play"
     ]
   },
   {
@@ -1591,6 +2454,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:binance-euri:coingate-directory",
+    "display_name": "Binance EURI",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Binance EURI on its official coingate voucher page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/coingate"
+    ]
+  },
+  {
     "legacy_id": "merchant:binance-euri-usdt-gift-card:coingate-directory",
     "display_name": "Binance EURI-USDT gift card",
     "country": null,
@@ -1617,6 +2510,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/payment-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:binance-pepe:coingate-directory",
+    "display_name": "Binance PEPE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Binance PEPE on its official coingate voucher page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/coingate"
+    ]
+  },
+  {
+    "legacy_id": "merchant:binance-shib:coingate-directory",
+    "display_name": "Binance SHIB",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Binance SHIB on its official coingate voucher page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/coingate"
     ]
   },
   {
@@ -1675,6 +2628,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/payment-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:birkenstock:coingate-directory",
+    "display_name": "Birkenstock",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Birkenstock on its official Play DXB gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/play-dxb"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitcard:coingate-directory",
+    "display_name": "BitCard",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces BitCard on its official skype gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/skype"
     ]
   },
   {
@@ -1797,6 +2810,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:bolt:coingate-directory",
+    "display_name": "Bolt",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Bolt on its official Airbnb gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/airbnb"
+    ]
+  },
+  {
     "legacy_id": "merchant:booking-com:coingate-directory",
     "display_name": "Booking.com",
     "country": null,
@@ -1826,6 +2869,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:bookmyshow:coingate-directory",
+    "display_name": "BookMyShow",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces BookMyShow on its official flipkart gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/flipkart"
+    ]
+  },
+  {
+    "legacy_id": "merchant:boots-digital:coingate-directory",
+    "display_name": "Boots Digital",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Boots Digital on its official meta quest gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/meta-quest"
+    ]
+  },
+  {
     "legacy_id": "merchant:brazilian-botanicals:coingate-directory",
     "display_name": "Brazilian Botanicals",
     "country": null,
@@ -1852,6 +2955,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/online-stores"
+    ]
+  },
+  {
+    "legacy_id": "merchant:breadfast:coingate-directory",
+    "display_name": "Breadfast",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Breadfast on its official PUBG Mobile UC gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/pubg-mobile-uc"
     ]
   },
   {
@@ -1914,6 +3047,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:bucketlistgift:coingate-directory",
+    "display_name": "BucketlistGift",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces BucketlistGift on its official Habbo gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/habbo"
+    ]
+  },
+  {
     "legacy_id": "merchant:bunea-eu:coingate-directory",
     "display_name": "Bunea.eu",
     "country": null,
@@ -1944,6 +3107,64 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:burger-king:coingate-directory",
+    "display_name": "Burger King",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Burger King in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:burger-king:coingate-directory",
+    "display_name": "Burger King",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Burger King in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
     "legacy_id": "merchant:buycheaprdp:coingate-directory",
     "display_name": "BuyCheapRDP",
     "country": null,
@@ -1971,6 +3192,93 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/remote-desktop-protocols-rdp"
+    ]
+  },
+  {
+    "legacy_id": "merchant:c-and-a:coingate-directory",
+    "display_name": "C&A",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists C&A in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cabela-s:coingate-directory",
+    "display_name": "Cabela's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Cabela's in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cabelas:coingate-directory",
+    "display_name": "Cabela's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Cabela's in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
     ]
   },
   {
@@ -2033,6 +3341,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:candere-gold-coin:coingate-directory",
+    "display_name": "Candere Gold Coin",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Candere Gold Coin on its official flipkart gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/flipkart"
+    ]
+  },
+  {
     "legacy_id": "merchant:carrefour:coingate-directory",
     "display_name": "Carrefour",
     "country": null,
@@ -2089,6 +3427,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/professional-services"
+    ]
+  },
+  {
+    "legacy_id": "merchant:casa-del-libro:coingate-directory",
+    "display_name": "Casa del Libro",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Casa del Libro on its official Steam gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cashlib:coingate-directory",
+    "display_name": "CASHlib",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces CASHlib on its official RTL+ gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/rtl"
     ]
   },
   {
@@ -2310,6 +3708,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:clash-of-clans:coingate-directory",
+    "display_name": "Clash of Clans",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Clash of Clans on its official Airbnb gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/airbnb"
+    ]
+  },
+  {
+    "legacy_id": "merchant:clash-royale:coingate-directory",
+    "display_name": "Clash Royale",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Clash Royale on its official Play DXB gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/play-dxb"
+    ]
+  },
+  {
     "legacy_id": "merchant:cloudhosting-lv:coingate-directory",
     "display_name": "CloudHosting.lv",
     "country": null,
@@ -2337,6 +3795,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/data-centers"
+    ]
+  },
+  {
+    "legacy_id": "merchant:code-vein:coingate-directory",
+    "display_name": "CODE VEIN",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces CODE VEIN on its official IMVU gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/imvu"
     ]
   },
   {
@@ -2518,6 +4006,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:columbia-sportswear:coingate-directory",
+    "display_name": "Columbia Sportswear",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Columbia Sportswear on its official Expedia gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/expedia"
+    ]
+  },
+  {
     "legacy_id": "merchant:core-hosting:coingate-directory",
     "display_name": "Core.Hosting",
     "country": null,
@@ -2575,6 +4093,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/marketing-advertising"
+    ]
+  },
+  {
+    "legacy_id": "merchant:crate-and-barrel:coingate-directory",
+    "display_name": "Crate and Barrel",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Crate and Barrel on its official skype gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/skype"
     ]
   },
   {
@@ -2638,6 +4186,126 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:cryptovoucher-bitcoin:coingate-directory",
+    "display_name": "CryptoVoucher Bitcoin",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces CryptoVoucher Bitcoin on its official Expedia gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/expedia"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cryptovoucher-polygon-matic:coingate-directory",
+    "display_name": "CryptoVoucher Polygon Matic",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces CryptoVoucher Polygon Matic on its official IMVU gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/imvu"
+    ]
+  },
+  {
+    "legacy_id": "merchant:culture-land:coingate-directory",
+    "display_name": "Culture Land",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Culture Land on its official skype gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/skype"
+    ]
+  },
+  {
+    "legacy_id": "merchant:currys-pc-world:coingate-directory",
+    "display_name": "Currys PC World",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Currys PC World on its official meta quest gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/meta-quest"
+    ]
+  },
+  {
     "legacy_id": "merchant:cyberghost:cryptocurrency",
     "display_name": "CyberGhost VPN",
     "country": "RO",
@@ -2673,6 +4341,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://support.cyberghostvpn.com/hc/en-us/articles/360013667240-What-payment-methods-do-you-offer"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cyberport:coingate-directory",
+    "display_name": "Cyberport",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Cyberport on its official douglas gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/douglas"
     ]
   },
   {
@@ -2825,6 +4523,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:deezer:coingate-directory",
+    "display_name": "Deezer",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Deezer on its official RTL+ gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/rtl"
+    ]
+  },
+  {
     "legacy_id": "merchant:deinserverhost:coingate-directory",
     "display_name": "DeinServerHost",
     "country": null,
@@ -2913,6 +4641,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:deutsche-bahn:coingate-directory",
+    "display_name": "Deutsche Bahn",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Deutsche Bahn on its official RTL+ gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/rtl"
+    ]
+  },
+  {
     "legacy_id": "merchant:dexterlab:coingate-directory",
     "display_name": "DexterLab",
     "country": null,
@@ -2940,6 +4698,64 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/trading-platforms"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dick-s-sporting-goods:coingate-directory",
+    "display_name": "Dick's Sporting Goods",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Dick's Sporting Goods in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dicks-sporting-goods:coingate-directory",
+    "display_name": "Dick's Sporting Goods",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Dick's Sporting Goods in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
     ]
   },
   {
@@ -2972,6 +4788,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:discovery-plus:coingate-directory",
+    "display_name": "Discovery Plus",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Discovery Plus on its official flipkart gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/flipkart"
+    ]
+  },
+  {
     "legacy_id": "merchant:disney:coingate-directory",
     "display_name": "Disney",
     "country": null,
@@ -2991,6 +4837,64 @@ export const generatedProductMerchantsData = [
     "payment_notes": [
       "CoinGate",
       "CoinGate lists Disney in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:domino-s-pizza:coingate-directory",
+    "display_name": "Domino's Pizza",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Domino's Pizza in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dominos-pizza:coingate-directory",
+    "display_name": "Domino's Pizza",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Domino's Pizza in its official gift card catalog."
     ],
     "social_links": [],
     "proposed_mode": "processor",
@@ -3030,6 +4934,511 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:douglas:coingate-directory",
+    "display_name": "Douglas",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Douglas on its official douglas gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/douglas"
+    ]
+  },
+  {
+    "legacy_id": "merchant:draftkings:coingate-directory",
+    "display_name": "DraftKings",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces DraftKings on its official Steam gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dunkin-donuts:coingate-directory",
+    "display_name": "Dunkin' Donuts",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Dunkin' Donuts in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dunkin-donuts:coingate-directory",
+    "display_name": "Dunkin' Donuts",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Dunkin' Donuts in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:duolingo:coingate-directory",
+    "display_name": "Duolingo",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Duolingo on its official meta quest gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/meta-quest"
+    ]
+  },
+  {
+    "legacy_id": "merchant:e-plus:coingate-directory",
+    "display_name": "E-Plus",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces E-Plus on its official RTL+ gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/rtl"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ea-sports-fc-25:coingate-directory",
+    "display_name": "EA Sports FC 25",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces EA Sports FC 25 on its official Habbo gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/habbo"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ea-sports-fc-26:coingate-directory",
+    "display_name": "EA SPORTS FC 26",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces EA SPORTS FC 26 on its official Steam gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ea-sports-fc-26-fc-points:coingate-directory",
+    "display_name": "EA Sports FC 26 - FC Points",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces EA Sports FC 26 - FC Points on its official Habbo gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/habbo"
+    ]
+  },
+  {
+    "legacy_id": "merchant:easyjet:coingate-directory",
+    "display_name": "EasyJet",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces EasyJet on its official Booking.com gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/booking-com"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ebay:coingate-directory",
+    "display_name": "eBay",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists eBay in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ebay:coingate-directory",
+    "display_name": "eBay",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists eBay in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:efootball:coingate-directory",
+    "display_name": "eFootball",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces eFootball on its official RTL+ gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/rtl"
+    ]
+  },
+  {
+    "legacy_id": "merchant:el-corte-ingles:coingate-directory",
+    "display_name": "El Corte Ingles",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces El Corte Ingles on its official Steam gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
+    "legacy_id": "merchant:elden-ring-steam:coingate-directory",
+    "display_name": "Elden Ring Steam",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Elden Ring Steam on its official Steam gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
+    "legacy_id": "merchant:elgiganten:coingate-directory",
+    "display_name": "Elgiganten",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Elgiganten on its official Airbnb gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/airbnb"
+    ]
+  },
+  {
+    "legacy_id": "merchant:emag:coingate-directory",
+    "display_name": "EMAG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces EMAG on its official Steam gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
     "legacy_id": "merchant:eneba:coingate-directory",
     "display_name": "Eneba",
     "country": null,
@@ -3056,6 +5465,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:esso:coingate-directory",
+    "display_name": "Esso",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Esso on its official morrisons gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/morrisons"
     ]
   },
   {
@@ -3086,6 +5525,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/data-centers"
+    ]
+  },
+  {
+    "legacy_id": "merchant:etisalat:coingate-directory",
+    "display_name": "Etisalat",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Etisalat on its official Play DXB gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/play-dxb"
     ]
   },
   {
@@ -3195,6 +5664,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:facebook:coingate-directory",
+    "display_name": "Facebook",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Facebook on its official PUBG Mobile UC gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/pubg-mobile-uc"
+    ]
+  },
+  {
+    "legacy_id": "merchant:farfetch:coingate-directory",
+    "display_name": "Farfetch",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Farfetch on its official RTL+ gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/rtl"
+    ]
+  },
+  {
     "legacy_id": "merchant:fc2:coingate-directory",
     "display_name": "FC2",
     "country": null,
@@ -3289,6 +5818,35 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:flipkart:coingate-directory",
+    "display_name": "Flipkart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Flipkart on its official flipkart gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/flipkart"
+    ]
+  },
+  {
     "legacy_id": "merchant:flystaygift-gift-card:coingate-directory",
     "display_name": "FlystayGift gift card",
     "country": null,
@@ -3315,6 +5873,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/travel-leisure"
+    ]
+  },
+  {
+    "legacy_id": "merchant:fnac-darty:coingate-directory",
+    "display_name": "Fnac Darty",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Fnac Darty on its official meta quest gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/meta-quest"
+    ]
+  },
+  {
+    "legacy_id": "merchant:foot-locker:coingate-directory",
+    "display_name": "Foot Locker",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Foot Locker on its official lululemon gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/lululemon"
     ]
   },
   {
@@ -3524,6 +6142,94 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:gamestop:coingate-directory",
+    "display_name": "GameStop",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces GameStop on its official PUBG Mobile UC gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/pubg-mobile-uc"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gap:coingate-directory",
+    "display_name": "Gap",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Gap in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gap-options:coingate-directory",
+    "display_name": "Gap Options",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Gap Options in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
     "legacy_id": "merchant:garena-prepaid-card-gift-card:coingate-directory",
     "display_name": "Garena Prepaid Card gift card",
     "country": null,
@@ -3579,6 +6285,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gcodes-global-hotel-and-travel:coingate-directory",
+    "display_name": "GCodes Global Hotel & Travel",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces GCodes Global Hotel & Travel on its official Steam gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/steam"
     ]
   },
   {
@@ -3638,6 +6374,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/gaming"
+    ]
+  },
+  {
+    "legacy_id": "merchant:getyourguide:coingate-directory",
+    "display_name": "GetYourGuide",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces GetYourGuide on its official Airbnb gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/airbnb"
     ]
   },
   {
@@ -3847,6 +6613,126 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:gs25:coingate-directory",
+    "display_name": "GS25",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces GS25 on its official Google Play gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/google-play"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gta-online-whale-shark-cash-card:coingate-directory",
+    "display_name": "GTA Online: Whale Shark Cash Card",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces GTA Online: Whale Shark Cash Card on its official Expedia gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/expedia"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gta-v-shark-cards-xbox-version:coingate-directory",
+    "display_name": "GTA V Shark Cards - Xbox Version",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces GTA V Shark Cards - Xbox Version on its official IMVU gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/imvu"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gymshark:coingate-directory",
+    "display_name": "Gymshark",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Gymshark on its official Google Play gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/google-play"
+    ]
+  },
+  {
     "legacy_id": "merchant:h-m:coingate-directory",
     "display_name": "H&M",
     "country": null,
@@ -3866,6 +6752,155 @@ export const generatedProductMerchantsData = [
     "payment_notes": [
       "CoinGate",
       "CoinGate lists H&M in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:healthkart-e-gift-voucher:coingate-directory",
+    "display_name": "Healthkart E-Gift Voucher",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Healthkart E-Gift Voucher on its official flipkart gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/flipkart"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hepsiburada:coingate-directory",
+    "display_name": "Hepsiburada",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Hepsiburada on its official Steam gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hollister:coingate-directory",
+    "display_name": "Hollister",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Hollister on its official meta quest gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/meta-quest"
+    ]
+  },
+  {
+    "legacy_id": "merchant:home-centre:coingate-directory",
+    "display_name": "Home Centre",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Home Centre on its official flipkart gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/flipkart"
+    ]
+  },
+  {
+    "legacy_id": "merchant:home-depot:coingate-directory",
+    "display_name": "Home Depot",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Home Depot in its official gift card catalog."
     ],
     "social_links": [],
     "proposed_mode": "processor",
@@ -4187,6 +7222,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:hotelgift:coingate-directory",
+    "display_name": "Hotelgift",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Hotelgift on its official Booking.com gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/booking-com"
+    ]
+  },
+  {
     "legacy_id": "merchant:hotels-com-gift-card:coingate-directory",
     "display_name": "Hotels.com gift card",
     "country": null,
@@ -4213,6 +7278,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/travel-leisure"
+    ]
+  },
+  {
+    "legacy_id": "merchant:huawei:coingate-directory",
+    "display_name": "HUAWEI",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces HUAWEI on its official PUBG Mobile UC gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/pubg-mobile-uc"
     ]
   },
   {
@@ -4245,6 +7340,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:human-fall-flat:coingate-directory",
+    "display_name": "Human: Fall Flat",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Human: Fall Flat on its official IMVU gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/imvu"
+    ]
+  },
+  {
+    "legacy_id": "merchant:iberia:coingate-directory",
+    "display_name": "Iberia",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Iberia on its official Airbnb gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/airbnb"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ici-paris-xl:coingate-directory",
+    "display_name": "ICI PARIS XL",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces ICI PARIS XL on its official douglas gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/douglas"
+    ]
+  },
+  {
     "legacy_id": "merchant:ikea:coingate-directory",
     "display_name": "IKEA",
     "country": null,
@@ -4271,6 +7456,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:imo-international-calls-and-chat:coingate-directory",
+    "display_name": "IMO International Calls & Chat",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces IMO International Calls & Chat on its official coingate voucher page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/coingate"
+    ]
+  },
+  {
+    "legacy_id": "merchant:indomaret:coingate-directory",
+    "display_name": "Indomaret",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Indomaret on its official Steam gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/steam"
     ]
   },
   {
@@ -4301,6 +7546,35 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/communication"
+    ]
+  },
+  {
+    "legacy_id": "merchant:instacart:coingate-directory",
+    "display_name": "Instacart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Instacart in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
     ]
   },
   {
@@ -4360,6 +7634,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:interspar:coingate-directory",
+    "display_name": "Interspar",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Interspar on its official morrisons gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/morrisons"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ip:coingate-directory",
+    "display_name": "IP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces IP on its official IMVU gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/imvu"
     ]
   },
   {
@@ -4439,6 +7773,94 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:jamba:coingate-directory",
+    "display_name": "Jamba",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Jamba in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:jcpenney:coingate-directory",
+    "display_name": "JCPenney",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists JCPenney in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:jet:coingate-directory",
+    "display_name": "JET",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces JET on its official RTL+ gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/rtl"
+    ]
+  },
+  {
     "legacy_id": "merchant:jetoncash-gift-card:coingate-directory",
     "display_name": "JetonCash gift card",
     "country": null,
@@ -4465,6 +7887,272 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/payment-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:jiomart:coingate-directory",
+    "display_name": "JioMart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces JioMart on its official flipkart gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/flipkart"
+    ]
+  },
+  {
+    "legacy_id": "merchant:juleriaque:coingate-directory",
+    "display_name": "Juleriaque",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Juleriaque on its official Steam gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
+    "legacy_id": "merchant:kaufland:coingate-directory",
+    "display_name": "KAUFLAND",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists KAUFLAND on its official kaufland gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/kaufland"
+    ]
+  },
+  {
+    "legacy_id": "merchant:kfc:coingate-directory",
+    "display_name": "KFC",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists KFC in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:kingshot:coingate-directory",
+    "display_name": "Kingshot",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Kingshot on its official Play DXB gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/play-dxb"
+    ]
+  },
+  {
+    "legacy_id": "merchant:kohl-s:coingate-directory",
+    "display_name": "Kohl's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Kohl's in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:la-feltrinelli:coingate-directory",
+    "display_name": "La Feltrinelli",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces La Feltrinelli on its official skype gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/skype"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lazada:coingate-directory",
+    "display_name": "Lazada",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Lazada on its official kaufland gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/kaufland"
+    ]
+  },
+  {
+    "legacy_id": "merchant:league-of-legends:coingate-directory",
+    "display_name": "League of Legends",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists League of Legends in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
     ]
   },
   {
@@ -4497,6 +8185,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:lego:coingate-directory",
+    "display_name": "LEGO",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces LEGO on its official Airbnb gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/airbnb"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lego:coingate-directory",
+    "display_name": "LEGO",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces LEGO on its official skype gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/skype"
+    ]
+  },
+  {
     "legacy_id": "merchant:lidl:coingate-directory",
     "display_name": "Lidl",
     "country": null,
@@ -4523,6 +8271,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lieferando:coingate-directory",
+    "display_name": "Lieferando",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Lieferando on its official RTL+ gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/rtl"
+    ]
+  },
+  {
+    "legacy_id": "merchant:likee:coingate-directory",
+    "display_name": "Likee",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Likee on its official PUBG Mobile UC gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/pubg-mobile-uc"
     ]
   },
   {
@@ -4556,6 +8364,126 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:liveme:coingate-directory",
+    "display_name": "Liveme",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Liveme on its official coingate voucher page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/coingate"
+    ]
+  },
+  {
+    "legacy_id": "merchant:loaded-com:coingate-directory",
+    "display_name": "Loaded.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Loaded.com on its official Google Play gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/google-play"
+    ]
+  },
+  {
+    "legacy_id": "merchant:loaded-com:coingate-directory",
+    "display_name": "Loaded.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Loaded.com on its official meta quest gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/meta-quest"
+    ]
+  },
+  {
+    "legacy_id": "merchant:logan-s-roadhouse:coingate-directory",
+    "display_name": "Logan's Roadhouse",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Logan's Roadhouse on its official PUBG Mobile UC gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/pubg-mobile-uc"
+    ]
+  },
+  {
     "legacy_id": "merchant:lowe-s:coingate-directory",
     "display_name": "Lowe's",
     "country": null,
@@ -4582,6 +8510,242 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lululemon:coingate-directory",
+    "display_name": "Lululemon",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Lululemon in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lyft:coingate-directory",
+    "display_name": "Lyft",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Lyft on its official Expedia gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/expedia"
+    ]
+  },
+  {
+    "legacy_id": "merchant:macy-s:coingate-directory",
+    "display_name": "Macy's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Macy's in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:macys:coingate-directory",
+    "display_name": "Macy's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Macy's in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:mango:coingate-directory",
+    "display_name": "MANGO",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists MANGO in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:mario-kart-world:coingate-directory",
+    "display_name": "Mario Kart World",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Mario Kart World on its official Steam gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
+    "legacy_id": "merchant:marks-and-spencer:coingate-directory",
+    "display_name": "Marks & Spencer",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Marks & Spencer on its official Google Play gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/google-play"
+    ]
+  },
+  {
+    "legacy_id": "merchant:marriott-hotels:coingate-directory",
+    "display_name": "Marriott Hotels",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Marriott Hotels on its official Expedia gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/expedia"
     ]
   },
   {
@@ -4615,6 +8779,94 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:marshalls:coingate-directory",
+    "display_name": "Marshalls",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Marshalls in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:marshalls:coingate-directory",
+    "display_name": "Marshalls",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Marshalls in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:marvel-s-spider-man-2:coingate-directory",
+    "display_name": "Marvel's Spider-Man 2",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Marvel's Spider-Man 2 on its official Steam gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
     "legacy_id": "merchant:mastercard-gift-card:coingate-directory",
     "display_name": "Mastercard gift card",
     "country": null,
@@ -4641,6 +8893,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/payment-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:maxima:coingate-directory",
+    "display_name": "MAXIMA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces MAXIMA on its official Airbnb gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/airbnb"
     ]
   },
   {
@@ -4703,6 +8985,35 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:meta-quest:coingate-directory",
+    "display_name": "Meta Quest",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Meta Quest on its official meta quest gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/meta-quest"
+    ]
+  },
+  {
     "legacy_id": "merchant:millenial-host:coingate-directory",
     "display_name": "Millenial.host",
     "country": null,
@@ -4729,6 +9040,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/software-and-web-services"
+    ]
+  },
+  {
+    "legacy_id": "merchant:miller-and-carter:coingate-directory",
+    "display_name": "Miller & Carter",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Miller & Carter on its official Steam gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
+    "legacy_id": "merchant:minecraft-triple-bundle:coingate-directory",
+    "display_name": "Minecraft Triple Bundle",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Minecraft Triple Bundle on its official Google Play gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/google-play"
     ]
   },
   {
@@ -4823,6 +9194,35 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/professional-services"
+    ]
+  },
+  {
+    "legacy_id": "merchant:morrisons:coingate-directory",
+    "display_name": "Morrisons",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Morrisons on its official morrisons gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/morrisons"
     ]
   },
   {
@@ -4927,6 +9327,35 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/payment-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:myntra:coingate-directory",
+    "display_name": "Myntra",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Myntra in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
     ]
   },
   {
@@ -5039,6 +9468,35 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:nandos:coingate-directory",
+    "display_name": "Nando's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Nando's in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
     "legacy_id": "merchant:narayana:coingate-directory",
     "display_name": "Narayana",
     "country": null,
@@ -5066,6 +9524,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/communication"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nba-2k24:coingate-directory",
+    "display_name": "NBA 2K24",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces NBA 2K24 on its official Play DXB gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/play-dxb"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nba-2k26-virtual-currency:coingate-directory",
+    "display_name": "NBA 2K26 Virtual Currency",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces NBA 2K26 Virtual Currency on its official RTL+ gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/rtl"
     ]
   },
   {
@@ -5128,6 +9646,65 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:netshoes:coingate-directory",
+    "display_name": "Netshoes",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Netshoes on its official douglas gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/douglas"
+    ]
+  },
+  {
+    "legacy_id": "merchant:new-look:coingate-directory",
+    "display_name": "New Look",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists New Look in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
     "legacy_id": "merchant:newegg:bitpay",
     "display_name": "Newegg",
     "country": "US",
@@ -5176,6 +9753,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:nexon-karma-koin:coingate-directory",
+    "display_name": "Nexon Karma Koin",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Nexon Karma Koin on its official Expedia gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/expedia"
+    ]
+  },
+  {
+    "legacy_id": "merchant:next:coingate-directory",
+    "display_name": "Next",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Next on its official meta quest gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/meta-quest"
+    ]
+  },
+  {
     "legacy_id": "merchant:nike:coingate-directory",
     "display_name": "Nike",
     "country": null,
@@ -5195,6 +9832,153 @@ export const generatedProductMerchantsData = [
     "payment_notes": [
       "CoinGate",
       "CoinGate lists Nike in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nintendo-eshop:coingate-directory",
+    "display_name": "Nintendo eShop",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Nintendo eShop on its official Habbo gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/habbo"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nintendo-switch-online:coingate-directory",
+    "display_name": "Nintendo Switch Online",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Nintendo Switch Online on its official Habbo gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/habbo"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nordstrom:coingate-directory",
+    "display_name": "Nordstrom",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Nordstrom in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nordstrom:coingate-directory",
+    "display_name": "Nordstrom",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Nordstrom in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nordstrom-rack:coingate-directory",
+    "display_name": "Nordstrom Rack",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Nordstrom Rack in its official gift card catalog."
     ],
     "social_links": [],
     "proposed_mode": "processor",
@@ -5272,6 +10056,65 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:nykaa:coingate-directory",
+    "display_name": "Nykaa",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Nykaa on its official nykaa gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/nykaa"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nykaa-man:coingate-directory",
+    "display_name": "Nykaa Man",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Nykaa Man on its official flipkart gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/flipkart"
+    ]
+  },
+  {
     "legacy_id": "merchant:nymvpn:crypto-cards-cash-taler",
     "display_name": "NymVPN",
     "country": null,
@@ -5302,6 +10145,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://support.nym.com/hc/ja/articles/32968252254865-What-payment-methods-are-available-for-NymVPN"
+    ]
+  },
+  {
+    "legacy_id": "merchant:o2:coingate-directory",
+    "display_name": "O2",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces O2 on its official meta quest gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/meta-quest"
     ]
   },
   {
@@ -5362,6 +10235,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:optio-prepaid-visa:coingate-directory",
+    "display_name": "Optio Prepaid Visa",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Optio Prepaid Visa on its official Expedia gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/expedia"
     ]
   },
   {
@@ -5485,6 +10388,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:pantaloons:coingate-directory",
+    "display_name": "Pantaloons",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Pantaloons on its official flipkart gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/flipkart"
+    ]
+  },
+  {
     "legacy_id": "merchant:paysafecard:coingate-directory",
     "display_name": "Paysafecard",
     "country": null,
@@ -5511,6 +10444,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:penny:coingate-directory",
+    "display_name": "PENNY",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces PENNY on its official douglas gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/douglas"
     ]
   },
   {
@@ -5603,6 +10566,35 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:pizza-hut:coingate-directory",
+    "display_name": "Pizza Hut",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Pizza Hut in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
     "legacy_id": "merchant:plainproxies-com:coingate-directory",
     "display_name": "PlainProxies.com",
     "country": null,
@@ -5633,6 +10625,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:pokemon-go:coingate-directory",
+    "display_name": "Pokemon Go",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Pokemon Go on its official Google Play gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/google-play"
+    ]
+  },
+  {
+    "legacy_id": "merchant:prepaid-virtual-visa:coingate-directory",
+    "display_name": "Prepaid Virtual Visa",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Prepaid Virtual Visa on its official coingate voucher page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/coingate"
+    ]
+  },
+  {
     "legacy_id": "merchant:prepaid-host:coingate-directory",
     "display_name": "Prepaid-Host",
     "country": null,
@@ -5660,6 +10712,35 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/remote-desktop-protocols-rdp"
+    ]
+  },
+  {
+    "legacy_id": "merchant:primark:coingate-directory",
+    "display_name": "Primark",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Primark in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
     ]
   },
   {
@@ -5813,6 +10894,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:proximus:coingate-directory",
+    "display_name": "Proximus",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Proximus on its official meta quest gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/meta-quest"
+    ]
+  },
+  {
     "legacy_id": "merchant:proxy-cheap:coingate-directory",
     "display_name": "Proxy-Cheap",
     "country": null,
@@ -5932,6 +11043,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:pubg-new-state-nc:coingate-directory",
+    "display_name": "PUBG New State NC",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces PUBG New State NC on its official Habbo gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/habbo"
+    ]
+  },
+  {
     "legacy_id": "merchant:purevpn:coingate",
     "display_name": "PureVPN",
     "country": "VG",
@@ -6000,6 +11141,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/software-and-web-services"
+    ]
+  },
+  {
+    "legacy_id": "merchant:pvr-cinemas:coingate-directory",
+    "display_name": "PVR Cinemas",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces PVR Cinemas on its official Steam gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
+    "legacy_id": "merchant:pvr-cinemas:coingate-directory",
+    "display_name": "PVR Cinemas",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces PVR Cinemas on its official flipkart gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/flipkart"
     ]
   },
   {
@@ -6161,6 +11362,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:red-dead-redemption-2:coingate-directory",
+    "display_name": "Red Dead Redemption 2",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Red Dead Redemption 2 on its official coingate voucher page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/coingate"
+    ]
+  },
+  {
     "legacy_id": "merchant:redswitches:crypto-cryptomus",
     "display_name": "RedSwitches",
     "country": "SG",
@@ -6276,6 +11507,455 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:reliance-smart-point:coingate-directory",
+    "display_name": "Reliance Smart Point",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Reliance Smart Point on its official flipkart gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/flipkart"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rentacargift:coingate-directory",
+    "display_name": "RentacarGift",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces RentacarGift on its official Expedia gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/expedia"
+    ]
+  },
+  {
+    "legacy_id": "merchant:resident-evil-requiem:coingate-directory",
+    "display_name": "Resident Evil Requiem",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Resident Evil Requiem on its official douglas gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/douglas"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rewarble-advanced-eur-cash:coingate-directory",
+    "display_name": "Rewarble Advanced EUR Cash",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Rewarble Advanced EUR Cash on its official coingate voucher page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/coingate"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rewarble-aliexpress:coingate-directory",
+    "display_name": "Rewarble AliExpress",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Rewarble AliExpress on its official meta quest gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/meta-quest"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rewarble-capitalist:coingate-directory",
+    "display_name": "Rewarble Capitalist",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Rewarble Capitalist on its official coingate voucher page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/coingate"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rewarble-crypto-gbp:coingate-directory",
+    "display_name": "Rewarble Crypto GBP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Rewarble Crypto GBP on its official coingate voucher page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/coingate"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rewarble-epay:coingate-directory",
+    "display_name": "Rewarble Epay",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Rewarble Epay on its official coingate voucher page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/coingate"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rewarble-fasapay-eur:coingate-directory",
+    "display_name": "Rewarble FasaPay EUR",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Rewarble FasaPay EUR on its official coingate voucher page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/coingate"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rewarble-fiverr:coingate-directory",
+    "display_name": "Rewarble Fiverr",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Rewarble Fiverr on its official coingate voucher page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/coingate"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rewarble-mastercard-usd:coingate-directory",
+    "display_name": "Rewarble Mastercard USD",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Rewarble Mastercard USD in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rewarble-midjourney:coingate-directory",
+    "display_name": "Rewarble Midjourney",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Rewarble Midjourney on its official PUBG Mobile UC gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/pubg-mobile-uc"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rewarble-onlyfans:coingate-directory",
+    "display_name": "Rewarble OnlyFans",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Rewarble OnlyFans on its official meta quest gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/meta-quest"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rewarble-papara:coingate-directory",
+    "display_name": "Rewarble Papara",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Rewarble Papara on its official meta quest gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/meta-quest"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rewarble-payeer-eur:coingate-directory",
+    "display_name": "Rewarble Payeer EUR",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Rewarble Payeer EUR on its official coingate voucher page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/coingate"
+    ]
+  },
+  {
     "legacy_id": "merchant:rewarble-super:coingate-directory",
     "display_name": "Rewarble Super",
     "country": null,
@@ -6331,6 +12011,95 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:riot-access:coingate-directory",
+    "display_name": "Riot Access",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Riot Access on its official Steam gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rite-aid:coingate-directory",
+    "display_name": "Rite Aid",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Rite Aid in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rituals:coingate-directory",
+    "display_name": "Rituals",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Rituals on its official douglas gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/douglas"
     ]
   },
   {
@@ -6392,6 +12161,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:rossmann:coingate-directory",
+    "display_name": "Rossmann",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Rossmann on its official douglas gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/douglas"
+    ]
+  },
+  {
     "legacy_id": "merchant:royalhost:bitcoin-cryptocurrency",
     "display_name": "Royalhost",
     "country": null,
@@ -6421,6 +12220,126 @@ export const generatedProductMerchantsData = [
     "evidence_refs": [
       "https://royalhost.net/en/payment-methods",
       "https://royalhost.net/en/web-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rtl-plus:coingate-directory",
+    "display_name": "RTL+",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces RTL+ on its official skype gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/skype"
+    ]
+  },
+  {
+    "legacy_id": "merchant:runescape-pre-paid-card:coingate-directory",
+    "display_name": "RuneScape Pre-Paid card",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces RuneScape Pre-Paid card on its official PUBG Mobile UC gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/pubg-mobile-uc"
+    ]
+  },
+  {
+    "legacy_id": "merchant:safeway:coingate-directory",
+    "display_name": "Safeway",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Safeway on its official skype gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/skype"
+    ]
+  },
+  {
+    "legacy_id": "merchant:sainsburys:coingate-directory",
+    "display_name": "Sainsbury's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Sainsbury's on its official meta quest gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/meta-quest"
     ]
   },
   {
@@ -6513,6 +12432,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:saturn:coingate-directory",
+    "display_name": "Saturn",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Saturn on its official RTL+ gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/rtl"
+    ]
+  },
+  {
+    "legacy_id": "merchant:sawa-card:coingate-directory",
+    "display_name": "Sawa Card",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Sawa Card on its official Google Play gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/google-play"
+    ]
+  },
+  {
     "legacy_id": "merchant:securevpn:bitcoin-paypal-webmoney",
     "display_name": "SecureVPN",
     "country": null,
@@ -6542,6 +12521,94 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.securevpn.pro/eng/pages/payments"
+    ]
+  },
+  {
+    "legacy_id": "merchant:selfridges:coingate-directory",
+    "display_name": "Selfridges",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Selfridges on its official douglas gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/douglas"
+    ]
+  },
+  {
+    "legacy_id": "merchant:sephora:coingate-directory",
+    "display_name": "Sephora",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Sephora in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:sephora:coingate-directory",
+    "display_name": "Sephora",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Sephora in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
     ]
   },
   {
@@ -6604,6 +12671,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:shahid-vip:coingate-directory",
+    "display_name": "Shahid VIP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Shahid VIP on its official PUBG Mobile UC gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/pubg-mobile-uc"
+    ]
+  },
+  {
+    "legacy_id": "merchant:shahid-vip-subscription:coingate-directory",
+    "display_name": "Shahid VIP Subscription",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Shahid VIP Subscription on its official PUBG Mobile UC gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/pubg-mobile-uc"
     ]
   },
   {
@@ -6680,6 +12807,215 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:shopee:coingate-directory",
+    "display_name": "Shopee",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Shopee on its official tesco gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/tesco"
+    ]
+  },
+  {
+    "legacy_id": "merchant:skechers:coingate-directory",
+    "display_name": "SKECHERS",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces SKECHERS on its official PUBG Mobile UC gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/pubg-mobile-uc"
+    ]
+  },
+  {
+    "legacy_id": "merchant:skechers:coingate-directory",
+    "display_name": "SKECHERS",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces SKECHERS on its official douglas gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/douglas"
+    ]
+  },
+  {
+    "legacy_id": "merchant:sky-wow:coingate-directory",
+    "display_name": "Sky WOW",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Sky WOW on its official Steam gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
+    "legacy_id": "merchant:skype:coingate-directory",
+    "display_name": "Skype",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Skype on its official skype gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/skype"
+    ]
+  },
+  {
+    "legacy_id": "merchant:snapchat:coingate-directory",
+    "display_name": "Snapchat+",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Snapchat+ on its official PUBG Mobile UC gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/pubg-mobile-uc"
+    ]
+  },
+  {
+    "legacy_id": "merchant:sobeys:coingate-directory",
+    "display_name": "Sobeys",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Sobeys on its official Expedia gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/expedia"
+    ]
+  },
+  {
     "legacy_id": "merchant:sony-playstation:coingate-directory",
     "display_name": "Sony PlayStation",
     "country": null,
@@ -6706,6 +13042,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:south-park-snow-day:coingate-directory",
+    "display_name": "SOUTH PARK: SNOW DAY!",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces SOUTH PARK: SNOW DAY! on its official IMVU gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/imvu"
+    ]
+  },
+  {
+    "legacy_id": "merchant:spar-hypermarket:coingate-directory",
+    "display_name": "Spar Hypermarket",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Spar Hypermarket on its official Steam gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
+    "legacy_id": "merchant:sportscheck:coingate-directory",
+    "display_name": "SportScheck",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces SportScheck on its official douglas gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/douglas"
     ]
   },
   {
@@ -6827,6 +13253,65 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:starbucks-us:coingate-directory",
+    "display_name": "Starbucks US",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Starbucks US in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:starzplay:coingate-directory",
+    "display_name": "STARZPLAY",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces STARZPLAY on its official Play DXB gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/play-dxb"
+    ]
+  },
+  {
     "legacy_id": "merchant:steam:coingate-directory",
     "display_name": "Steam",
     "country": null,
@@ -6846,6 +13331,64 @@ export const generatedProductMerchantsData = [
     "payment_notes": [
       "CoinGate",
       "CoinGate lists Steam in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:subway:coingate-directory",
+    "display_name": "Subway",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Subway in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:subway:coingate-directory",
+    "display_name": "Subway",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Subway in its official gift card catalog."
     ],
     "social_links": [],
     "proposed_mode": "processor",
@@ -6893,6 +13436,64 @@ export const generatedProductMerchantsData = [
     "evidence_refs": [
       "https://support.surfshark.com/hc/en-us/articles/25568695199378-What-to-do-if-you-ve-been-accidentally-charged-twice",
       "https://support.surfshark.com/hc/en-us/articles/360003069034-What-payment-options-do-you-offer"
+    ]
+  },
+  {
+    "legacy_id": "merchant:surfshark-vpn:coingate-directory",
+    "display_name": "Surfshark VPN",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Surfshark VPN in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:swarovski:coingate-directory",
+    "display_name": "Swarovski",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Swarovski on its official swarovski gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/swarovski"
     ]
   },
   {
@@ -6954,6 +13555,360 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:t-mobile:coingate-directory",
+    "display_name": "T-Mobile",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces T-Mobile on its official Expedia gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/expedia"
+    ]
+  },
+  {
+    "legacy_id": "merchant:taco-bell:coingate-directory",
+    "display_name": "Taco Bell",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Taco Bell in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:taco-bell:coingate-directory",
+    "display_name": "Taco Bell",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Taco Bell in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:target:coingate-directory",
+    "display_name": "Target",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Target in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:target:coingate-directory",
+    "display_name": "Target",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Target in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:tata-cliq:coingate-directory",
+    "display_name": "Tata Cliq",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Tata Cliq on its official flipkart gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/flipkart"
+    ]
+  },
+  {
+    "legacy_id": "merchant:tequila-mockingbird:coingate-directory",
+    "display_name": "Tequila Mockingbird",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Tequila Mockingbird on its official meta quest gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/meta-quest"
+    ]
+  },
+  {
+    "legacy_id": "merchant:tesco:coingate-directory",
+    "display_name": "Tesco",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Tesco on its official tesco gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/tesco"
+    ]
+  },
+  {
+    "legacy_id": "merchant:thalia:coingate-directory",
+    "display_name": "Thalia",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Thalia on its official douglas gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/douglas"
+    ]
+  },
+  {
+    "legacy_id": "merchant:the-body-shop:coingate-directory",
+    "display_name": "The Body Shop",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists The Body Shop in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:the-cheesecake-factory:coingate-directory",
+    "display_name": "The Cheesecake Factory",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces The Cheesecake Factory on its official skype gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/skype"
+    ]
+  },
+  {
+    "legacy_id": "merchant:the-global-experiences-card:coingate-directory",
+    "display_name": "The Global Experiences Card",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces The Global Experiences Card on its official Expedia gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/expedia"
+    ]
+  },
+  {
     "legacy_id": "merchant:tiktok-gift-card:coingate-directory",
     "display_name": "TikTok gift card",
     "country": null,
@@ -7012,6 +13967,65 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:tinder-plus:coingate-directory",
+    "display_name": "Tinder Plus",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Tinder Plus in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:tom-clancy-s-rainbow-six-siege-x:coingate-directory",
+    "display_name": "Tom Clancy's Rainbow Six Siege X",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Tom Clancy's Rainbow Six Siege X on its official PUBG Mobile UC gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/pubg-mobile-uc"
+    ]
+  },
+  {
     "legacy_id": "merchant:torguard:crypto-btcpay-giftcards",
     "display_name": "TorGuard",
     "country": null,
@@ -7049,6 +14063,66 @@ export const generatedProductMerchantsData = [
     "evidence_refs": [
       "https://blog.torguard.net/introducing-torguard-pre-paid-vpn-another-anonymous-payment-method/",
       "https://ja.torguard.net/faq/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:tradingview:coingate-directory",
+    "display_name": "TradingView",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces TradingView on its official Google Play gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/google-play"
+    ]
+  },
+  {
+    "legacy_id": "merchant:transcash-mastercard:coingate-directory",
+    "display_name": "Transcash Mastercard",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Transcash Mastercard on its official Airbnb gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/airbnb"
     ]
   },
   {
@@ -7098,6 +14172,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:trip-com:coingate-directory",
+    "display_name": "Trip.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Trip.com on its official Airbnb gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/airbnb"
+    ]
+  },
+  {
     "legacy_id": "merchant:tripgift-gift-card:coingate-directory",
     "display_name": "TripGift gift card",
     "country": null,
@@ -7124,6 +14228,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/travel-leisure"
+    ]
+  },
+  {
+    "legacy_id": "merchant:tui:coingate-directory",
+    "display_name": "TUI",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces TUI on its official meta quest gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/meta-quest"
+    ]
+  },
+  {
+    "legacy_id": "merchant:turo:coingate-directory",
+    "display_name": "Turo",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Turo on its official Expedia gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/expedia"
     ]
   },
   {
@@ -7243,6 +14407,94 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:ufc-5:coingate-directory",
+    "display_name": "UFC 5",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces UFC 5 on its official PUBG Mobile UC gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/pubg-mobile-uc"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ulta-beauty:coingate-directory",
+    "display_name": "Ulta Beauty",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Ulta Beauty in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ulta-beauty-us:coingate-directory",
+    "display_name": "Ulta Beauty US",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Ulta Beauty US in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
     "legacy_id": "merchant:ultahost:crypto-cards-ewallets",
     "display_name": "UltaHost",
     "country": "US",
@@ -7281,6 +14533,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:unipin:coingate-directory",
+    "display_name": "UniPin",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces UniPin on its official coingate voucher page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/coingate"
+    ]
+  },
+  {
+    "legacy_id": "merchant:uniqlo:coingate-directory",
+    "display_name": "Uniqlo",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Uniqlo on its official douglas gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/douglas"
+    ]
+  },
+  {
     "legacy_id": "merchant:valorant-gift-card:coingate-directory",
     "display_name": "Valorant Gift Card",
     "country": null,
@@ -7307,6 +14619,124 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:victoria-s-secret:coingate-directory",
+    "display_name": "Victoria's Secret",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Victoria's Secret in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:victorias-secret:coingate-directory",
+    "display_name": "Victoria's Secret",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Victoria's Secret in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:vijay-sales:coingate-directory",
+    "display_name": "Vijay Sales",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Vijay Sales on its official flipkart gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/flipkart"
+    ]
+  },
+  {
+    "legacy_id": "merchant:vodafone:coingate-directory",
+    "display_name": "Vodafone",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Vodafone on its official PUBG Mobile UC gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/pubg-mobile-uc"
     ]
   },
   {
@@ -7548,6 +14978,64 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:walmart:coingate-directory",
+    "display_name": "Walmart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Walmart in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:walmart:coingate-directory",
+    "display_name": "Walmart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Walmart in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
     "legacy_id": "merchant:wayfair:coingate-directory",
     "display_name": "Wayfair",
     "country": null,
@@ -7603,6 +15091,65 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/online-stores"
+    ]
+  },
+  {
+    "legacy_id": "merchant:wendys:coingate-directory",
+    "display_name": "Wendy's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Wendy's in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:windows-11-professional:coingate-directory",
+    "display_name": "Windows 11 Professional",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Windows 11 Professional on its official Booking.com gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/booking-com"
     ]
   },
   {
@@ -7670,6 +15217,65 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:wizzair:coingate-directory",
+    "display_name": "Wizzair",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Wizzair on its official Airbnb gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/airbnb"
+    ]
+  },
+  {
+    "legacy_id": "merchant:xbox:coingate-directory",
+    "display_name": "Xbox",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate lists Xbox in its official gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards"
+    ]
+  },
+  {
     "legacy_id": "merchant:xethost:coingate-directory",
     "display_name": "XetHost",
     "country": null,
@@ -7730,6 +15336,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:yalla-ludo-diamonds:coingate-directory",
+    "display_name": "Yalla Ludo Diamonds",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Yalla Ludo Diamonds on its official RTL+ gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/rtl"
+    ]
+  },
+  {
+    "legacy_id": "merchant:youtube:coingate-directory",
+    "display_name": "YouTube",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as related products or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces YouTube on its official Booking.com gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/booking-com"
+    ]
+  },
+  {
     "legacy_id": "merchant:zara:coingate-directory",
     "display_name": "Zara",
     "country": null,
@@ -7756,6 +15422,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:zepto:coingate-directory",
+    "display_name": "Zepto",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Catalog presence inferred from official CoinGate gift card page modules such as similar products, related products, or frequently bought together.",
+      "CoinGate",
+      "CoinGate surfaces Zepto on its official flipkart gift card page within the gift card catalog."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/gift-cards/flipkart"
     ]
   }
 ]

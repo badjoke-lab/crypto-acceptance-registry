@@ -1,23 +1,51 @@
 {
-  "totalMerchants": 8156,
+  "totalMerchants": 506,
   "modeBreakdown": {
-    "direct": 8114,
-    "bridge": 39,
-    "processor": 3
+    "processor": 494,
+    "direct": 9,
+    "bridge": 3
   },
   "confidenceBreakdown": {
-    "medium": 8153,
-    "high": 3
+    "high": 321,
+    "medium": 185
   },
   "countryBreakdown": {
-    "AQ": 2,
-    "CH": 673,
-    "ZA": 900,
-    "IT": 896,
-    "MX": 276,
-    "BR": 1432,
-    "US": 3744,
-    "SV": 233
+    "Unknown": 476,
+    "NL": 2,
+    "LV": 1,
+    "IT": 1,
+    "MD": 1,
+    "US": 8,
+    "RO": 1,
+    "CY": 1,
+    "LT": 1,
+    "AE": 1,
+    "GI": 1,
+    "SE": 2,
+    "PA": 1,
+    "IS": 1,
+    "CH": 1,
+    "VG": 1,
+    "UY": 1,
+    "SG": 1,
+    "MY": 1,
+    "Global": 2,
+    "CA": 1
   },
-  "processorBreakdown": {}
+  "processorBreakdown": {
+    "CoinGate": 470,
+    "BitPay": 12,
+    "CoinPayments": 5,
+    "Unknown": 11,
+    "xMoney": 1,
+    "BVNK": 1,
+    "Cryptocurrency (provider unspecified)": 2,
+    "Crypto payments": 1,
+    "NOWPayments": 1,
+    "BTCPay": 3,
+    "Cryptomus": 1,
+    "Cryptocurrency": 3,
+    "Direct Wallet Address": 1,
+    "PaymentWall": 1
+  }
 }
