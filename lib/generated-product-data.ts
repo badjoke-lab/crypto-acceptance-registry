@@ -1,7 +1,8 @@
-import productMerchants from '../data/product-merchants.json'
+import { generatedProductMerchantsData } from './generated-product-merchants-data'
 import type { ClassifiedCandidateRecord } from '../scripts/export/types'
 
-const generatedProductMerchants = productMerchants as ClassifiedCandidateRecord[]
+const generatedProductMerchants =
+  generatedProductMerchantsData as unknown as ClassifiedCandidateRecord[]
 
 export function getGeneratedProductMerchants(): ClassifiedCandidateRecord[] {
   return generatedProductMerchants

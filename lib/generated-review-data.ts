@@ -1,7 +1,8 @@
-import reviewQueue from '../data/review-queue.json'
+import { generatedReviewQueueData } from './generated-review-queue-data'
 import type { ClassifiedCandidateRecord } from '../scripts/export/types'
 
-const generatedReviewQueue = reviewQueue as ClassifiedCandidateRecord[]
+const generatedReviewQueue =
+  generatedReviewQueueData as unknown as ClassifiedCandidateRecord[]
 
 export function getGeneratedReviewQueue(): ClassifiedCandidateRecord[] {
   return generatedReviewQueue

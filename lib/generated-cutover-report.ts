@@ -1,4 +1,4 @@
-import cutoverReport from '../data/cutover-report.json'
+import { generatedCutoverReportData } from './generated-cutover-report-data'
 
 type CutoverReport = {
   generatedAt: string
@@ -23,5 +23,5 @@ type CutoverReport = {
 }
 
 export function getGeneratedCutoverReport(): CutoverReport {
-  return cutoverReport as CutoverReport
+  return generatedCutoverReportData as CutoverReport
 }

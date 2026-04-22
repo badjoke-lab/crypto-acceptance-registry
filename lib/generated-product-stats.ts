@@ -1,4 +1,4 @@
-import productStats from '../data/product-stats.json'
+import { generatedProductStatsData } from './generated-product-stats-data'
 
 type ProductStats = {
   totalMerchants: number
@@ -9,5 +9,5 @@ type ProductStats = {
 }
 
 export function getGeneratedProductStats(): ProductStats {
-  return productStats as ProductStats
+  return generatedProductStatsData as ProductStats
 }
