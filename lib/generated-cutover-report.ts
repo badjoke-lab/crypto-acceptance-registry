@@ -1,4 +1,4 @@
-import { buildPublicArtifacts } from '../scripts/build-public-artifacts-lib'
+import cutoverReport from '../data/cutover-report.json'
 
 type CutoverReport = {
   generatedAt: string
@@ -23,5 +23,5 @@ type CutoverReport = {
 }
 
 export function getGeneratedCutoverReport(): CutoverReport {
-  return buildPublicArtifacts().cutoverReport
+  return cutoverReport as CutoverReport
 }

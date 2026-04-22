@@ -1,10 +1,12 @@
+import reviewQueue from '../data/review-queue.json'
 import type { ClassifiedCandidateRecord } from '../scripts/export/types'
-import { buildPublicArtifacts } from '../scripts/build-public-artifacts-lib'
+
+const generatedReviewQueue = reviewQueue as ClassifiedCandidateRecord[]
 
 export function getGeneratedReviewQueue(): ClassifiedCandidateRecord[] {
-  return buildPublicArtifacts().pending
+  return generatedReviewQueue
 }
 
 export function getGeneratedReviewRecordById(id: string): ClassifiedCandidateRecord | null {
-  return getGeneratedReviewQueue().find((record) => record.legacy_id === id) ?? null
+  return generatedReviewQueue.find((record) => record.legacy_id === id) ?? null
 }

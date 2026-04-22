@@ -1,4 +1,4 @@
-import { buildPublicArtifacts } from '../scripts/build-public-artifacts-lib'
+import productStats from '../data/product-stats.json'
 
 type ProductStats = {
   totalMerchants: number
@@ -9,5 +9,5 @@ type ProductStats = {
 }
 
 export function getGeneratedProductStats(): ProductStats {
-  return buildPublicArtifacts().stats
+  return productStats as ProductStats
 }
