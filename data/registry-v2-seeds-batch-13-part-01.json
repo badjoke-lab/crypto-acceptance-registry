@@ -1,0 +1,312 @@
+[
+  {
+    "registry_id": "merchant:amazon-com:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Amazon.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Amazon.com on its official home page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Home Page",
+        "url": "https://www.bitrefill.com/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:digital-prepaid-visa:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Digital Prepaid Visa",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Digital Prepaid Visa on its official home page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Home Page",
+        "url": "https://www.bitrefill.com/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:apple:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Apple",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Apple on its official home page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Home Page",
+        "url": "https://www.bitrefill.com/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:doordash:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "DoorDash",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists DoorDash on its official home page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Home Page",
+        "url": "https://www.bitrefill.com/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:uber:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Uber",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Uber on its official home page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Home Page",
+        "url": "https://www.bitrefill.com/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:walmart:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Walmart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Walmart on its official home page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Home Page",
+        "url": "https://www.bitrefill.com/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:virtual-prepaid-mastercard:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Virtual Prepaid Mastercard",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Virtual Prepaid Mastercard on its official home page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Home Page",
+        "url": "https://www.bitrefill.com/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:airbnb:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Airbnb",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Airbnb on its official home page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Home Page",
+        "url": "https://www.bitrefill.com/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:roblox-usd:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Roblox USD",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Roblox USD on its official home page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Home Page",
+        "url": "https://www.bitrefill.com/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:steam-usd:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Steam USD",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Steam USD on its official home page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Home Page",
+        "url": "https://www.bitrefill.com/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  }
+]
