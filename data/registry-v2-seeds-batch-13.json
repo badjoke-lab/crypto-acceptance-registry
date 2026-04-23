@@ -1,0 +1,3753 @@
+[
+  {
+    "registry_id": "merchant:digital-prepaid-visa:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Digital Prepaid Visa",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Digital Prepaid Visa on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:doordash:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "DoorDash",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists DoorDash on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:instacart:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Instacart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Instacart on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:airbnb:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Airbnb",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Airbnb on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:gap:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Gap",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Gap on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:grubhub:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Grubhub",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Grubhub on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:lyft:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Lyft",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Lyft on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:macys:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Macy's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Macy's on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:nike-us:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Nike US",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Nike US on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:target:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Target",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Target on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:uber-eats-us:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Uber Eats US",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Uber Eats US on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:walmart:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Walmart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Walmart on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:amazon-com:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Amazon.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Amazon.com on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:apple:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Apple",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Apple on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:chipotle:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Chipotle",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Chipotle on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:home-depot:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Home Depot",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Home Depot on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:playstation-store-usd:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "PlayStation Store USD",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists PlayStation Store USD on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:roblox-usd:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Roblox USD",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Roblox USD on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:starbucks:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Starbucks",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Starbucks on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:steam-usd:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Steam USD",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Steam USD on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:valorant:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Valorant",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Valorant on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:virtual-prepaid-mastercard:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Virtual Prepaid Mastercard",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Virtual Prepaid Mastercard on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:xbox-usd:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Xbox USD",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Xbox USD on its official United States gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United States Gift Cards",
+        "url": "https://www.bitrefill.com/us/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:adidas-ca:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Adidas CA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Adidas CA on its official Canada gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Canada Gift Cards",
+        "url": "https://www.bitrefill.com/ca/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:amazon-ca:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Amazon.ca",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Amazon.ca on its official Canada gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Canada Gift Cards",
+        "url": "https://www.bitrefill.com/ca/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:american-eagle-ca:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "American Eagle CA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists American Eagle CA on its official Canada gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Canada Gift Cards",
+        "url": "https://www.bitrefill.com/ca/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:apple-ca:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Apple CA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Apple CA on its official Canada gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Canada Gift Cards",
+        "url": "https://www.bitrefill.com/ca/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:best-buy-ca:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Best Buy CA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Best Buy CA on its official Canada gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Canada Gift Cards",
+        "url": "https://www.bitrefill.com/ca/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:gap-ca:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Gap CA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Gap CA on its official Canada gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Canada Gift Cards",
+        "url": "https://www.bitrefill.com/ca/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:ikea-ca:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "IKEA CA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists IKEA CA on its official Canada gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Canada Gift Cards",
+        "url": "https://www.bitrefill.com/ca/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:lululemon-ca:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "lululemon CA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists lululemon CA on its official Canada gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Canada Gift Cards",
+        "url": "https://www.bitrefill.com/ca/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:nike-ca:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Nike CA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Nike CA on its official Canada gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Canada Gift Cards",
+        "url": "https://www.bitrefill.com/ca/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:playstation-store-ca:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "PlayStation Store CA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists PlayStation Store CA on its official Canada gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Canada Gift Cards",
+        "url": "https://www.bitrefill.com/ca/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:shoppers-drug-mart:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Shoppers Drug Mart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Shoppers Drug Mart on its official Canada gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Canada Gift Cards",
+        "url": "https://www.bitrefill.com/ca/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:spotify-ca:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Spotify CA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Spotify CA on its official Canada gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Canada Gift Cards",
+        "url": "https://www.bitrefill.com/ca/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:tim-hortons:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Tim Hortons",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Tim Hortons on its official Canada gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Canada Gift Cards",
+        "url": "https://www.bitrefill.com/ca/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:uber-ca:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Uber CA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Uber CA on its official Canada gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Canada Gift Cards",
+        "url": "https://www.bitrefill.com/ca/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:uber-eats-ca:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Uber Eats CA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Uber Eats CA on its official Canada gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Canada Gift Cards",
+        "url": "https://www.bitrefill.com/ca/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:westjet:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "WestJet",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists WestJet on its official Canada gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Canada Gift Cards",
+        "url": "https://www.bitrefill.com/ca/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:amazon-co-jp:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Amazon.co.jp",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Amazon.co.jp on its official Japan gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Japan Gift Cards",
+        "url": "https://www.bitrefill.com/jp/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:apple-jp:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Apple JP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Apple JP on its official Japan gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Japan Gift Cards",
+        "url": "https://www.bitrefill.com/jp/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:google-play-jp:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Google Play JP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Google Play JP on its official Japan gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Japan Gift Cards",
+        "url": "https://www.bitrefill.com/jp/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:line-prepaid-card:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "LINE Prepaid Card",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists LINE Prepaid Card on its official Japan gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Japan Gift Cards",
+        "url": "https://www.bitrefill.com/jp/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:nintendo-eshop-japan:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Nintendo eShop Japan",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Nintendo eShop Japan on its official Japan gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Japan Gift Cards",
+        "url": "https://www.bitrefill.com/jp/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:playstation-store-japan:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "PlayStation Store Japan",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists PlayStation Store Japan on its official Japan gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Japan Gift Cards",
+        "url": "https://www.bitrefill.com/jp/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:rakuten:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Rakuten",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Rakuten on its official Japan gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Japan Gift Cards",
+        "url": "https://www.bitrefill.com/jp/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:steam-jpy:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Steam JPY",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Steam JPY on its official Japan gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Japan Gift Cards",
+        "url": "https://www.bitrefill.com/jp/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:uber-jp:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Uber JP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Uber JP on its official Japan gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Japan Gift Cards",
+        "url": "https://www.bitrefill.com/jp/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:xbox-jp:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Xbox JP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Xbox JP on its official Japan gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Japan Gift Cards",
+        "url": "https://www.bitrefill.com/jp/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:au-pay:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "au PAY",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists au PAY on its official Japan gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Japan Gift Cards",
+        "url": "https://www.bitrefill.com/jp/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:adidas-uk:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Adidas UK",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Adidas UK on its official United Kingdom gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United Kingdom Gift Cards",
+        "url": "https://www.bitrefill.com/gb/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:airbnb-uk:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Airbnb UK",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Airbnb UK on its official United Kingdom gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United Kingdom Gift Cards",
+        "url": "https://www.bitrefill.com/gb/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:amazon-uk:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Amazon UK",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Amazon UK on its official United Kingdom gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United Kingdom Gift Cards",
+        "url": "https://www.bitrefill.com/gb/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:apple-uk:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Apple UK",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Apple UK on its official United Kingdom gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United Kingdom Gift Cards",
+        "url": "https://www.bitrefill.com/gb/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:asos:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "ASOS",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists ASOS on its official United Kingdom gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United Kingdom Gift Cards",
+        "url": "https://www.bitrefill.com/gb/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:currys-pc-world:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Currys PC World",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Currys PC World on its official United Kingdom gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United Kingdom Gift Cards",
+        "url": "https://www.bitrefill.com/gb/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:deliveroo-uk:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Deliveroo UK",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Deliveroo UK on its official United Kingdom gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United Kingdom Gift Cards",
+        "url": "https://www.bitrefill.com/gb/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:john-lewis-partners:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "John Lewis & Partners",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists John Lewis & Partners on its official United Kingdom gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United Kingdom Gift Cards",
+        "url": "https://www.bitrefill.com/gb/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:marks-spencer:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Marks & Spencer",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Marks & Spencer on its official United Kingdom gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United Kingdom Gift Cards",
+        "url": "https://www.bitrefill.com/gb/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:nandos-uk:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Nando's UK",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Nando's UK on its official United Kingdom gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United Kingdom Gift Cards",
+        "url": "https://www.bitrefill.com/gb/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:netflix-uk:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Netflix UK",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Netflix UK on its official United Kingdom gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United Kingdom Gift Cards",
+        "url": "https://www.bitrefill.com/gb/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:primark-uk:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Primark UK",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Primark UK on its official United Kingdom gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill United Kingdom Gift Cards",
+        "url": "https://www.bitrefill.com/gb/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:adidas-au:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Adidas AU",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Adidas AU on its official Australia gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Australia Gift Cards",
+        "url": "https://www.bitrefill.com/au/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:amazon-au:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Amazon AU",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Amazon AU on its official Australia gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Australia Gift Cards",
+        "url": "https://www.bitrefill.com/au/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:apple-au:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Apple AU",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Apple AU on its official Australia gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Australia Gift Cards",
+        "url": "https://www.bitrefill.com/au/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:bunnings-warehouse:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Bunnings Warehouse",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Bunnings Warehouse on its official Australia gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Australia Gift Cards",
+        "url": "https://www.bitrefill.com/au/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:coles:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Coles",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Coles on its official Australia gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Australia Gift Cards",
+        "url": "https://www.bitrefill.com/au/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:ebay-au:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "eBay AU",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists eBay AU on its official Australia gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Australia Gift Cards",
+        "url": "https://www.bitrefill.com/au/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:jb-hi-fi:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "JB Hi-Fi",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists JB Hi-Fi on its official Australia gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Australia Gift Cards",
+        "url": "https://www.bitrefill.com/au/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:kogan-com:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Kogan.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Kogan.com on its official Australia gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Australia Gift Cards",
+        "url": "https://www.bitrefill.com/au/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:myer:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Myer",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Myer on its official Australia gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Australia Gift Cards",
+        "url": "https://www.bitrefill.com/au/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:netflix-au:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Netflix AU",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Netflix AU on its official Australia gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Australia Gift Cards",
+        "url": "https://www.bitrefill.com/au/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:playstation-store-au:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "PlayStation Store AU",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists PlayStation Store AU on its official Australia gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Australia Gift Cards",
+        "url": "https://www.bitrefill.com/au/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:spotify-au:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Spotify AU",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Spotify AU on its official Australia gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Australia Gift Cards",
+        "url": "https://www.bitrefill.com/au/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:uber-au:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Uber AU",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Uber AU on its official Australia gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Australia Gift Cards",
+        "url": "https://www.bitrefill.com/au/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:xbox-au:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Xbox AU",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Xbox AU on its official Australia gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Australia Gift Cards",
+        "url": "https://www.bitrefill.com/au/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:amazon-br:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Amazon BR",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Amazon BR on its official Brazil gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Brazil Gift Cards",
+        "url": "https://www.bitrefill.com/br/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:americanas-com:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Americanas.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Americanas.com on its official Brazil gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Brazil Gift Cards",
+        "url": "https://www.bitrefill.com/br/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:google-play-br:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Google Play BR",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Google Play BR on its official Brazil gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Brazil Gift Cards",
+        "url": "https://www.bitrefill.com/br/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:ifood:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "iFood",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists iFood on its official Brazil gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Brazil Gift Cards",
+        "url": "https://www.bitrefill.com/br/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:netflix-br:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Netflix BR",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Netflix BR on its official Brazil gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Brazil Gift Cards",
+        "url": "https://www.bitrefill.com/br/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:nintendo-eshop-br:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Nintendo eShop BR",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Nintendo eShop BR on its official Brazil gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Brazil Gift Cards",
+        "url": "https://www.bitrefill.com/br/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:playstation-store-br:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "PlayStation Store BR",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists PlayStation Store BR on its official Brazil gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Brazil Gift Cards",
+        "url": "https://www.bitrefill.com/br/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:spotify-br:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Spotify BR",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Spotify BR on its official Brazil gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Brazil Gift Cards",
+        "url": "https://www.bitrefill.com/br/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:steam-brl:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Steam BRL",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Steam BRL on its official Brazil gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Brazil Gift Cards",
+        "url": "https://www.bitrefill.com/br/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:uber-br:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Uber BR",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Uber BR on its official Brazil gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Brazil Gift Cards",
+        "url": "https://www.bitrefill.com/br/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:xbox-br:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Xbox BR",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Xbox BR on its official Brazil gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Brazil Gift Cards",
+        "url": "https://www.bitrefill.com/br/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:amazon-mx:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Amazon MX",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Amazon MX on its official Mexico gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Mexico Gift Cards",
+        "url": "https://www.bitrefill.com/mx/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:apple-mx:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Apple MX",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Apple MX on its official Mexico gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Mexico Gift Cards",
+        "url": "https://www.bitrefill.com/mx/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:cinemex:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Cinemex",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Cinemex on its official Mexico gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Mexico Gift Cards",
+        "url": "https://www.bitrefill.com/mx/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:liverpool:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Liverpool",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Liverpool on its official Mexico gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Mexico Gift Cards",
+        "url": "https://www.bitrefill.com/mx/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:netflix-mx:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Netflix MX",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Netflix MX on its official Mexico gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Mexico Gift Cards",
+        "url": "https://www.bitrefill.com/mx/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:nintendo-eshop-mx:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Nintendo eShop MX",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Nintendo eShop MX on its official Mexico gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Mexico Gift Cards",
+        "url": "https://www.bitrefill.com/mx/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:playstation-store-mx:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "PlayStation Store MX",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists PlayStation Store MX on its official Mexico gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Mexico Gift Cards",
+        "url": "https://www.bitrefill.com/mx/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:spotify-mx:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Spotify MX",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Spotify MX on its official Mexico gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Mexico Gift Cards",
+        "url": "https://www.bitrefill.com/mx/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:steam-mxn:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Steam MXN",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Steam MXN on its official Mexico gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Mexico Gift Cards",
+        "url": "https://www.bitrefill.com/mx/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:telcel:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Telcel",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Telcel on its official Mexico gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Mexico Gift Cards",
+        "url": "https://www.bitrefill.com/mx/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:uber-mx:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Uber MX",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Uber MX on its official Mexico gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Mexico Gift Cards",
+        "url": "https://www.bitrefill.com/mx/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:airbnb-fr:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Airbnb FR",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Airbnb FR on its official France gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill France Gift Cards",
+        "url": "https://www.bitrefill.com/fr/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:amazon-fr:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Amazon FR",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Amazon FR on its official France gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill France Gift Cards",
+        "url": "https://www.bitrefill.com/fr/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:apple-fr:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Apple FR",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Apple FR on its official France gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill France Gift Cards",
+        "url": "https://www.bitrefill.com/fr/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:carrefour-fr:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Carrefour FR",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Carrefour FR on its official France gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill France Gift Cards",
+        "url": "https://www.bitrefill.com/fr/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:decathlon-fr:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Decathlon FR",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Decathlon FR on its official France gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill France Gift Cards",
+        "url": "https://www.bitrefill.com/fr/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:fnac-darty:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "FNAC Darty",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists FNAC Darty on its official France gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill France Gift Cards",
+        "url": "https://www.bitrefill.com/fr/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:ikea-fr:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "IKEA FR",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists IKEA FR on its official France gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill France Gift Cards",
+        "url": "https://www.bitrefill.com/fr/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:monoprix:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Monoprix",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Monoprix on its official France gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill France Gift Cards",
+        "url": "https://www.bitrefill.com/fr/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:netflix-fr:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Netflix FR",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Netflix FR on its official France gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill France Gift Cards",
+        "url": "https://www.bitrefill.com/fr/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:playstation-store-fr:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "PlayStation Store FR",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists PlayStation Store FR on its official France gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill France Gift Cards",
+        "url": "https://www.bitrefill.com/fr/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:uber-fr:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Uber FR",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Uber FR on its official France gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill France Gift Cards",
+        "url": "https://www.bitrefill.com/fr/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:adidas-es:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Adidas ES",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Adidas ES on its official Spain gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Spain Gift Cards",
+        "url": "https://www.bitrefill.com/es/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:amazon-es:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Amazon ES",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Amazon ES on its official Spain gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Spain Gift Cards",
+        "url": "https://www.bitrefill.com/es/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:apple-es:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Apple ES",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Apple ES on its official Spain gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Spain Gift Cards",
+        "url": "https://www.bitrefill.com/es/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:carrefour-es:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Carrefour ES",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Carrefour ES on its official Spain gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Spain Gift Cards",
+        "url": "https://www.bitrefill.com/es/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:decathlon-es:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Decathlon ES",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Decathlon ES on its official Spain gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Spain Gift Cards",
+        "url": "https://www.bitrefill.com/es/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:el-corte-ingles:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "El Corte Inglés",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists El Corte Inglés on its official Spain gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Spain Gift Cards",
+        "url": "https://www.bitrefill.com/es/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:glovo:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Glovo",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Glovo on its official Spain gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Spain Gift Cards",
+        "url": "https://www.bitrefill.com/es/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:ikea-es:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "IKEA ES",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists IKEA ES on its official Spain gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Spain Gift Cards",
+        "url": "https://www.bitrefill.com/es/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:netflix-es:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Netflix ES",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Netflix ES on its official Spain gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Spain Gift Cards",
+        "url": "https://www.bitrefill.com/es/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:playstation-store-es:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "PlayStation Store ES",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists PlayStation Store ES on its official Spain gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Spain Gift Cards",
+        "url": "https://www.bitrefill.com/es/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:spotify-es:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Spotify ES",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Spotify ES on its official Spain gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Spain Gift Cards",
+        "url": "https://www.bitrefill.com/es/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  },
+  {
+    "registry_id": "merchant:uber-es:bitrefill-directory",
+    "scope": "merchant",
+    "display_name": "Uber ES",
+    "country": null,
+    "city": null,
+    "website": null,
+    "acceptance_type": "processor_checkout",
+    "supports_program_or_network": "Bitrefill",
+    "explicit_support": "Bitrefill lists Uber ES on its official Spain gift card page.",
+    "support_rails": [
+      {
+        "rail_id": "processor:bitrefill",
+        "rail_type": "processor",
+        "label": "Bitrefill"
+      }
+    ],
+    "confidence": "high",
+    "verification_method": "manual_official_source_review",
+    "verified_at": "2026-04-23",
+    "evidence_refs": [
+      {
+        "label": "Bitrefill Spain Gift Cards",
+        "url": "https://www.bitrefill.com/es/en/gift-cards/",
+        "kind": "official_store_locator",
+        "publisher": "Bitrefill"
+      }
+    ],
+    "notes": [],
+    "source_origin": "official_seed"
+  }
+]
