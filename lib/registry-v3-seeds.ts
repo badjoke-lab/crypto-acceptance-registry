@@ -57,20 +57,32 @@ function toV3(record: RegistryRecordV2): RegistryRecordV3 {
   }
 }
 
-function sortSeedFilenames(a: string, b: string): number {
-  const score = (name: string) => {
-    if (name === 'registry-v2-seeds.json') return 0
-    const match = name.match(/batch-(\d+)\.json$/)
-    return match ? Number(match[1]) : Number.MAX_SAFE_INTEGER
+function parseSeedFilename(name: string): { batch: number; part: number } {
+  if (name === 'registry-v2-seeds.json') return { batch: 0, part: 0 }
+
+  const match = name.match(/^registry-v2-seeds-batch-(\d+)(?:-part-(\d+))?\.json$/)
+  if (!match) return { batch: Number.MAX_SAFE_INTEGER, part: Number.MAX_SAFE_INTEGER }
+
+  return {
+    batch: Number(match[1]),
+    part: match[2] ? Number(match[2]) : 0,
   }
-  return score(a) - score(b) || a.localeCompare(b)
+}
+
+function sortSeedFilenames(a: string, b: string): number {
+  const left = parseSeedFilename(a)
+  const right = parseSeedFilename(b)
+  return left.batch - right.batch || left.part - right.part || a.localeCompare(b)
 }
 
 function loadAllV2Seeds(): RegistryRecordV2[] {
   const dataDir = path.join(process.cwd(), 'data')
   const filenames = fs
     .readdirSync(dataDir)
-    .filter((name) => name === 'registry-v2-seeds.json' || /^registry-v2-seeds-batch-\d+\.json$/.test(name))
+    .filter(
+      (name) =>
+        name === 'registry-v2-seeds.json' || /^registry-v2-seeds-batch-\d+(?:-part-\d+)?\.json$/.test(name),
+    )
     .sort(sortSeedFilenames)
 
   return filenames.flatMap((filename) => {
