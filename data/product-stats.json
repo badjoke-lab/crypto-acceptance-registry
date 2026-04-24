@@ -1,16 +1,16 @@
 {
-  "totalMerchants": 1169,
+  "totalMerchants": 1269,
   "modeBreakdown": {
-    "processor": 1157,
+    "processor": 1257,
     "direct": 9,
     "bridge": 3
   },
   "confidenceBreakdown": {
-    "high": 884,
+    "high": 984,
     "medium": 285
   },
   "countryBreakdown": {
-    "Unknown": 1139,
+    "Unknown": 1239,
     "NL": 2,
     "LV": 1,
     "IT": 1,
@@ -36,7 +36,7 @@
     "CoinGate": 612,
     "BitPay": 12,
     "CoinPayments": 5,
-    "Bitrefill": 521,
+    "Bitrefill": 621,
     "Unknown": 11,
     "xMoney": 1,
     "BVNK": 1,

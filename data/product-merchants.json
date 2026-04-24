@@ -599,6 +599,64 @@
     ]
   },
   {
+    "legacy_id": "merchant:activitygift-eur:bitrefill-directory-at",
+    "display_name": "Activitygift EUR AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Activitygift EUR AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:activitygift-eur:bitrefill-directory-bg",
+    "display_name": "Activitygift EUR BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Activitygift EUR BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:activitygift-eur:bitrefill-directory-dk",
     "display_name": "Activitygift EUR DK",
     "country": null,
@@ -654,6 +712,64 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/hu/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:activitygift-eur:bitrefill-directory-lt",
+    "display_name": "Activitygift EUR LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Activitygift EUR LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:activitygift-eur:bitrefill-directory-lv",
+    "display_name": "Activitygift EUR LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Activitygift EUR LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
     ]
   },
   {
@@ -947,6 +1063,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:activitygift-usd:bitrefill-directory-bg",
+    "display_name": "Activitygift USD BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Activitygift USD BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:activitygift-usd:bitrefill-directory-dk",
     "display_name": "Activitygift USD DK",
     "country": null,
@@ -1002,6 +1147,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/hu/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:activitygift-usd:bitrefill-directory-lv",
+    "display_name": "Activitygift USD LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Activitygift USD LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
     ]
   },
   {
@@ -1177,6 +1351,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:adidas:bitrefill-directory-at",
+    "display_name": "Adidas AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Adidas AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
     ]
   },
   {
@@ -1380,6 +1583,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/fi/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:adidas:bitrefill-directory-ie",
+    "display_name": "Adidas IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Adidas IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
     ]
   },
   {
@@ -1770,6 +2002,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:airbnb:bitrefill-directory-at",
+    "display_name": "Airbnb AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Airbnb AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
+    ]
+  },
+  {
     "legacy_id": "merchant:airbnb:bitrefill-directory-de",
     "display_name": "Airbnb DE",
     "country": null,
@@ -1915,6 +2176,122 @@
     ]
   },
   {
+    "legacy_id": "merchant:airbnb-germany:bitrefill-directory-at",
+    "display_name": "Airbnb Germany AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Airbnb Germany AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:airbnb-germany:bitrefill-directory-bg",
+    "display_name": "Airbnb Germany BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Airbnb Germany BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:airbnb-germany:bitrefill-directory-lt",
+    "display_name": "Airbnb Germany LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Airbnb Germany LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:airbnb-germany:bitrefill-directory-lv",
+    "display_name": "Airbnb Germany LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Airbnb Germany LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:airbnb-germany:bitrefill-directory-se",
     "display_name": "Airbnb Germany SE",
     "country": null,
@@ -1970,6 +2347,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:airbnb:bitrefill-directory-ie",
+    "display_name": "Airbnb IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Airbnb IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
     ]
   },
   {
@@ -2503,6 +2909,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/douglas"
+    ]
+  },
+  {
+    "legacy_id": "merchant:aldi:bitrefill-directory-ie",
+    "display_name": "ALDI IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists ALDI IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
     ]
   },
   {
@@ -3401,6 +3836,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:amazon-co-uk:bitrefill-directory-ie",
+    "display_name": "Amazon.co.uk IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Amazon.co.uk IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:amazon-com:bitrefill-directory",
     "display_name": "Amazon.com",
     "country": null,
@@ -3427,6 +3891,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/us/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:amazon-de:bitrefill-directory-at",
+    "display_name": "Amazon.de AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Amazon.de AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
     ]
   },
   {
@@ -3662,6 +4155,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:amazon-de-germany:bitrefill-directory-bg",
+    "display_name": "Amazon.de Germany BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Amazon.de Germany BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:amazon-de-germany:bitrefill-directory-cz",
     "display_name": "Amazon.de Germany CZ",
     "country": null,
@@ -3775,6 +4297,93 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/hu/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:amazon-de-germany:bitrefill-directory-ie",
+    "display_name": "Amazon.de Germany IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Amazon.de Germany IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:amazon-de-germany:bitrefill-directory-lt",
+    "display_name": "Amazon.de Germany LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Amazon.de Germany LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:amazon-de-germany:bitrefill-directory-lv",
+    "display_name": "Amazon.de Germany LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Amazon.de Germany LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
     ]
   },
   {
@@ -4529,6 +5138,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:apple:bitrefill-directory-at",
+    "display_name": "Apple AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Apple AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
+    ]
+  },
+  {
     "legacy_id": "merchant:apple-au:bitrefill-directory",
     "display_name": "Apple AU",
     "country": null,
@@ -4555,6 +5193,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/au/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:apple:bitrefill-directory-bg",
+    "display_name": "Apple BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Apple BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
     ]
   },
   {
@@ -4732,6 +5399,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:apple:bitrefill-directory-ie",
+    "display_name": "Apple IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Apple IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:apple:bitrefill-directory-it",
     "display_name": "Apple IT",
     "country": null,
@@ -4787,6 +5483,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/jp/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:apple:bitrefill-directory-lv",
+    "display_name": "Apple LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Apple LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
     ]
   },
   {
@@ -5022,6 +5747,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/coingate"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ardes:bitrefill-directory-bg",
+    "display_name": "ARDES BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists ARDES BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
     ]
   },
   {
@@ -6844,6 +7598,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:bitrefill-esim-lithuania:bitrefill-directory-lt",
+    "display_name": "Bitrefill eSIM Lithuania LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Bitrefill eSIM Lithuania LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
+    ]
+  },
+  {
     "legacy_id": "merchant:bitrefill-giftcard-eur:bitrefill-directory-cz",
     "display_name": "Bitrefill Gift Card EUR CZ",
     "country": null,
@@ -6870,6 +7653,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/cz/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitrefill-gift-card-usd:bitrefill-directory-bg",
+    "display_name": "Bitrefill Gift Card USD BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Bitrefill Gift Card USD BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
     ]
   },
   {
@@ -7552,6 +8364,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/habbo"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bucketlistgift:bitrefill-directory-at",
+    "display_name": "BucketlistGift AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists BucketlistGift AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
     ]
   },
   {
@@ -8624,6 +9465,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:circle-k:bitrefill-directory-bg",
+    "display_name": "Circle K BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Circle K BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:circle-k:bitrefill-directory-dk",
     "display_name": "Circle K DK",
     "country": null,
@@ -8679,6 +9549,64 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/ee/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:circle-k:bitrefill-directory-lt",
+    "display_name": "Circle K LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Circle K LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:circle-k:bitrefill-directory-lv",
+    "display_name": "Circle K LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Circle K LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
     ]
   },
   {
@@ -10518,6 +11446,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:decathlon:bitrefill-directory-bg",
+    "display_name": "Decathlon BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Decathlon BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:decathlon-es:bitrefill-directory",
     "display_name": "Decathlon ES",
     "country": null,
@@ -12134,6 +13091,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:elearngift:bitrefill-directory-lt",
+    "display_name": "eLearnGift LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists eLearnGift LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
+    ]
+  },
+  {
     "legacy_id": "merchant:electroholic-gr:bitrefill-directory-gr",
     "display_name": "Electroholic.gr",
     "country": null,
@@ -12394,6 +13380,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/cz/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:eneba-games-store-eur:bitrefill-directory-lv",
+    "display_name": "Eneba Games Store EUR LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Eneba Games Store EUR LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
     ]
   },
   {
@@ -12886,6 +13901,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:fashiondays:bitrefill-directory-bg",
+    "display_name": "FashionDays BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists FashionDays BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:fc2:coingate-directory",
     "display_name": "FC2",
     "country": null,
@@ -13064,6 +14108,122 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/ee/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:flightgift-eur:bitrefill-directory-at",
+    "display_name": "Flightgift EUR AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Flightgift EUR AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:flightgift-eur:bitrefill-directory-bg",
+    "display_name": "Flightgift EUR BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Flightgift EUR BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:flightgift-eur:bitrefill-directory-lt",
+    "display_name": "Flightgift EUR LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Flightgift EUR LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:flightgift-eur:bitrefill-directory-lv",
+    "display_name": "Flightgift EUR LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Flightgift EUR LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
     ]
   },
   {
@@ -13270,6 +14430,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:flixbus-eur-international:bitrefill-directory-bg",
+    "display_name": "FlixBus EUR International BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists FlixBus EUR International BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:flixbus-eur-international:bitrefill-directory-cz",
     "display_name": "FlixBus EUR International CZ",
     "country": null,
@@ -13383,6 +14572,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/hu/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:flixbus-eur-international:bitrefill-directory-lv",
+    "display_name": "FlixBus EUR International LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists FlixBus EUR International LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
     ]
   },
   {
@@ -14174,6 +15392,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:g2a-digital-marketplace:bitrefill-directory-lv",
+    "display_name": "G2A Digital Marketplace LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists G2A Digital Marketplace LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:gall-and-gall-cadeaukaart:bitrefill-directory-nl",
     "display_name": "Gall & Gall Cadeaukaart NL",
     "country": null,
@@ -14732,6 +15979,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:global-experiences-card:bitrefill-directory-at",
+    "display_name": "Global Experiences Card AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Global Experiences Card AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
+    ]
+  },
+  {
     "legacy_id": "merchant:global-experiences-card-si:bitrefill-directory-si",
     "display_name": "Global Experiences Card SI",
     "country": null,
@@ -14965,6 +16241,64 @@
     ]
   },
   {
+    "legacy_id": "merchant:google-play:bitrefill-directory-at",
+    "display_name": "Google Play AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Google Play AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:google-play:bitrefill-directory-bg",
+    "display_name": "Google Play BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Google Play BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:google-play-br:bitrefill-directory",
     "display_name": "Google Play BR",
     "country": null,
@@ -15136,6 +16470,64 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/jp/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:google-play:bitrefill-directory-lt",
+    "display_name": "Google Play LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Google Play LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:google-play:bitrefill-directory-lv",
+    "display_name": "Google Play LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Google Play LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
     ]
   },
   {
@@ -15582,6 +16974,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:h-and-m:bitrefill-directory-bg",
+    "display_name": "H&M BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists H&M BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:handm-estonia:bitrefill-directory-ee",
     "display_name": "H&M Estonia",
     "country": null,
@@ -15666,6 +17087,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/hu/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:h-and-m:bitrefill-directory-lv",
+    "display_name": "H&M LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists H&M LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
     ]
   },
   {
@@ -16363,6 +17813,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:hotels-com:bitrefill-directory-at",
+    "display_name": "Hotels.com AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Hotels.com AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
+    ]
+  },
+  {
     "legacy_id": "merchant:hotels-com-gift-card:coingate-directory",
     "display_name": "Hotels.com gift card",
     "country": null,
@@ -16418,6 +17897,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/ee/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hotels-com-usd:bitrefill-directory-lv",
+    "display_name": "Hotels.com USD LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Hotels.com USD LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
     ]
   },
   {
@@ -16804,6 +18312,64 @@
     ]
   },
   {
+    "legacy_id": "merchant:ikea:bitrefill-directory-at",
+    "display_name": "IKEA AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists IKEA AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ikea:bitrefill-directory-bg",
+    "display_name": "IKEA BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists IKEA BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:ikea-ca:bitrefill-directory",
     "display_name": "IKEA CA",
     "country": null,
@@ -16975,6 +18541,64 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/it/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ikea:bitrefill-directory-lt",
+    "display_name": "IKEA LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists IKEA LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ikea:bitrefill-directory-lv",
+    "display_name": "IKEA LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists IKEA LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
     ]
   },
   {
@@ -17300,6 +18924,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/morrisons"
+    ]
+  },
+  {
+    "legacy_id": "merchant:interspar:bitrefill-directory-at",
+    "display_name": "INTERSPAR AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists INTERSPAR AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
     ]
   },
   {
@@ -17995,6 +19648,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/deliveroo"
+    ]
+  },
+  {
+    "legacy_id": "merchant:just-eat:bitrefill-directory-ie",
+    "display_name": "Just Eat IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Just Eat IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
     ]
   },
   {
@@ -18729,6 +20411,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:lebara-united-kingdom:bitrefill-directory-lt",
+    "display_name": "Lebara United Kingdom LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Lebara United Kingdom LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
+    ]
+  },
+  {
     "legacy_id": "merchant:lego:coingate-directory",
     "display_name": "LEGO",
     "country": null,
@@ -18876,6 +20587,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:lidl:bitrefill-directory-ie",
+    "display_name": "LIDL IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists LIDL IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:lieferando:coingate-directory",
     "display_name": "Lieferando",
     "country": null,
@@ -18903,6 +20643,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/rtl"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lieferando:bitrefill-directory-at",
+    "display_name": "Lieferando AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Lieferando AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
     ]
   },
   {
@@ -19467,6 +21236,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:lyca-mobile-pin-ireland:bitrefill-directory-lt",
+    "display_name": "Lyca Mobile PIN Ireland LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Lyca Mobile PIN Ireland LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
+    ]
+  },
+  {
     "legacy_id": "merchant:lycamobile:coingate-directory",
     "display_name": "Lycamobile",
     "country": null,
@@ -19815,6 +21613,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/hu/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:mango:bitrefill-directory-ie",
+    "display_name": "MANGO IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists MANGO IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
     ]
   },
   {
@@ -20292,6 +22119,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:maxima-lt:bitrefill-directory-lt",
+    "display_name": "MAXIMA LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists MAXIMA LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
+    ]
+  },
+  {
     "legacy_id": "merchant:maxrdp:coingate-directory",
     "display_name": "MaxRDP",
     "country": null,
@@ -20377,6 +22233,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/ch/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:media-markt:bitrefill-directory-at",
+    "display_name": "Media Markt AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Media Markt AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
     ]
   },
   {
@@ -20581,6 +22466,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/deliveroo"
+    ]
+  },
+  {
+    "legacy_id": "merchant:milano:bitrefill-directory-ie",
+    "display_name": "Milano IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Milano IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
     ]
   },
   {
@@ -21273,6 +23187,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:nandos:bitrefill-directory-ie",
+    "display_name": "Nando's IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Nando's IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:nandos-uk:bitrefill-directory",
     "display_name": "Nando's UK",
     "country": null,
@@ -21740,6 +23683,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:netflix-europe:bitrefill-directory-bg",
+    "display_name": "Netflix Europe BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Netflix Europe BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:netflix-europe:bitrefill-directory-de",
     "display_name": "Netflix Europe DE",
     "country": null,
@@ -21824,6 +23796,64 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/it/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:netflix-europe:bitrefill-directory-lt",
+    "display_name": "Netflix Europe LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Netflix Europe LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:netflix-europe:bitrefill-directory-lv",
+    "display_name": "Netflix Europe LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Netflix Europe LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
     ]
   },
   {
@@ -22373,6 +24403,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:nike:bitrefill-directory-at",
+    "display_name": "Nike AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Nike AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
+    ]
+  },
+  {
     "legacy_id": "merchant:nike-ca:bitrefill-directory",
     "display_name": "Nike CA",
     "country": null,
@@ -22486,6 +24545,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/gr/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nike:bitrefill-directory-ie",
+    "display_name": "Nike IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Nike IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
     ]
   },
   {
@@ -22955,6 +25043,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:nordlocker-cloud-storage:bitrefill-directory-lv",
+    "display_name": "NordLocker Cloud Storage LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists NordLocker Cloud Storage LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:nordlocker-encrypted-cloud-storage-international:bitrefill-directory-ee",
     "display_name": "NordLocker Encrypted Cloud Storage International",
     "country": null,
@@ -23338,6 +25455,93 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/ro/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nordvpn-international:bitrefill-directory-bg",
+    "display_name": "NordVPN International BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists NordVPN International BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nordvpn-international:bitrefill-directory-lt",
+    "display_name": "NordVPN International LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists NordVPN International LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nordvpn-international:bitrefill-directory-lv",
+    "display_name": "NordVPN International LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists NordVPN International LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
     ]
   },
   {
@@ -24170,6 +26374,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:ozone-bg:bitrefill-directory-bg",
+    "display_name": "Ozone.bg BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Ozone.bg BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:pam-panorama:coingate-directory",
     "display_name": "Pam Panorama",
     "country": null,
@@ -24197,6 +26430,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/hm"
+    ]
+  },
+  {
+    "legacy_id": "merchant:panorama-lt:bitrefill-directory-lt",
+    "display_name": "PANORAMA LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists PANORAMA LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
     ]
   },
   {
@@ -24289,6 +26551,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:payperq-ai:bitrefill-directory-lv",
+    "display_name": "PayPerQ.ai LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists PayPerQ.ai LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:payperq-ai:bitrefill-directory-se",
     "display_name": "PayPerQ.ai SE",
     "country": null,
@@ -24376,6 +26667,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:penneys:bitrefill-directory-ie",
+    "display_name": "Penneys IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Penneys IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:penny:coingate-directory",
     "display_name": "PENNY",
     "country": null,
@@ -24432,6 +26752,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:pigu-lt:bitrefill-directory-lt",
+    "display_name": "pigu.lt LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists pigu.lt LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
     ]
   },
   {
@@ -24609,6 +26958,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/pl/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:play-poland:bitrefill-directory-lt",
+    "display_name": "Play Poland LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Play Poland LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
     ]
   },
   {
@@ -29520,6 +31898,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:starbucks:bitrefill-directory-at",
+    "display_name": "Starbucks AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Starbucks AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
+    ]
+  },
+  {
     "legacy_id": "merchant:starbucks:bitrefill-directory-de",
     "display_name": "Starbucks DE",
     "country": null,
@@ -29546,6 +31953,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/de/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:starbucks-united-kingdom:bitrefill-directory-ie",
+    "display_name": "Starbucks United Kingdom IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Starbucks United Kingdom IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
     ]
   },
   {
@@ -30333,6 +32769,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:supervalu:bitrefill-directory-ie",
+    "display_name": "SuperValu IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists SuperValu IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:surfshark:crypto",
     "display_name": "Surfshark",
     "country": "Global",
@@ -30958,6 +33423,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:tele2:bitrefill-directory-lt",
+    "display_name": "Tele2 LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Tele2 LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
+    ]
+  },
+  {
     "legacy_id": "merchant:tequila-mockingbird:coingate-directory",
     "display_name": "Tequila Mockingbird",
     "country": null,
@@ -31044,6 +33538,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/deliveroo"
+    ]
+  },
+  {
+    "legacy_id": "merchant:tesco:bitrefill-directory-ie",
+    "display_name": "Tesco IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Tesco IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
     ]
   },
   {
@@ -31254,6 +33777,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:three-pin:bitrefill-directory-ie",
+    "display_name": "Three PIN IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Three PIN IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:thuisbezorgd:bitrefill-directory-nl",
     "display_name": "Thuisbezorgd NL",
     "country": null,
@@ -31367,6 +33919,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/dk/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ticketmaster:bitrefill-directory-ie",
+    "display_name": "Ticketmaster IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Ticketmaster IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
     ]
   },
   {
@@ -31574,6 +34155,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:tk-maxx:bitrefill-directory-ie",
+    "display_name": "TK MAXX IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists TK MAXX IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:tom-clancy-s-rainbow-six-siege-x:coingate-directory",
     "display_name": "Tom Clancy's Rainbow Six Siege X",
     "country": null,
@@ -31777,6 +34387,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/airbnb"
+    ]
+  },
+  {
+    "legacy_id": "merchant:tripgift-eu:bitrefill-directory-at",
+    "display_name": "TripGift EU AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists TripGift EU AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
     ]
   },
   {
@@ -32012,6 +34651,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/ee/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:twitch-eu:bitrefill-directory-lv",
+    "display_name": "Twitch EU LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Twitch EU LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
     ]
   },
   {
@@ -32418,6 +35086,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/pt/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:uber-money-eur:bitrefill-directory-at",
+    "display_name": "Uber Money EUR AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Uber Money EUR AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
     ]
   },
   {
@@ -33906,6 +36603,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:wolt:bitrefill-directory-bg",
+    "display_name": "Wolt BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Wolt BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:wolt:bitrefill-directory-cz",
     "display_name": "Wolt CZ",
     "country": null,
@@ -33990,6 +36716,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/hu/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:wolt:bitrefill-directory-lt",
+    "display_name": "Wolt LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Wolt LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
     ]
   },
   {
@@ -34462,6 +37217,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:zalando:bitrefill-directory-at",
+    "display_name": "Zalando AT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Zalando AT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/at/en/"
+    ]
+  },
+  {
     "legacy_id": "merchant:zalando-belgium:bitrefill-directory-lu",
     "display_name": "Zalando Belgium",
     "country": null,
@@ -34488,6 +37272,35 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/lu/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:zalando:bitrefill-directory-bg",
+    "display_name": "Zalando BG",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Zalando BG on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/bg/en/gift-cards/retail/"
     ]
   },
   {
@@ -34578,6 +37391,35 @@
     ]
   },
   {
+    "legacy_id": "merchant:zalando:bitrefill-directory-ie",
+    "display_name": "Zalando IE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Zalando IE on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/ie/en/gift-cards/retail/"
+    ]
+  },
+  {
     "legacy_id": "merchant:zalando:bitrefill-directory-it",
     "display_name": "Zalando IT",
     "country": null,
@@ -34604,6 +37446,64 @@
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/it/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:zalando:bitrefill-directory-lt",
+    "display_name": "Zalando LT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Zalando LT on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:zalando:bitrefill-directory-lv",
+    "display_name": "Zalando LV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Bitrefill",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Bitrefill"
+    ],
+    "payment_notes": [
+      "Bitrefill",
+      "Bitrefill lists Zalando LV on its official retail gift card page."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitrefill.com/lv/en/gift-cards/retail/"
     ]
   },
   {
