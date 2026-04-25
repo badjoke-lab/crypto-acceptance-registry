@@ -1,6 +1,12 @@
 import fs from 'node:fs'
 import path from 'node:path'
-import type { RegistryRecordV2 } from '../scripts/export/types-v2-helper'
+import type {
+  AcceptanceTypeV2,
+  ConfidenceLevelV2,
+  EvidenceKindV2,
+  RegistryRecordV2,
+  SupportRailV2,
+} from '../scripts/export/types-v2-helper'
 import type { RegistryRecordV3, AcceptanceScopeV3, EntityTypeV3 } from '../scripts/export/types-v3'
 
 type CompactBitrefillSeedBatch = {
@@ -8,6 +14,42 @@ type CompactBitrefillSeedBatch = {
   verified_at: string
   sources: Record<string, { label: string; url: string }>
   entries: Array<{ id: string; name: string; source: string }>
+}
+
+type CompactGenericSeedBatch = {
+  format: 'compact-registry-v2-seed-batch-v1'
+  verified_at: string
+  defaults?: {
+    scope?: RegistryRecordV2['scope']
+    country?: string | null
+    city?: string | null
+    acceptance_type?: AcceptanceTypeV2
+    supports_program_or_network?: string | null
+    confidence?: ConfidenceLevelV2
+    verification_method?: RegistryRecordV2['verification_method']
+    source_origin?: RegistryRecordV2['source_origin']
+    evidence_kind?: EvidenceKindV2
+    evidence_publisher?: string
+    support_rails?: SupportRailV2[]
+    notes?: string[]
+  }
+  sources: Record<string, { label: string; url: string; kind?: EvidenceKindV2; publisher?: string }>
+  entries: Array<{
+    id: string
+    name: string
+    source: string
+    country?: string | null
+    city?: string | null
+    website?: string | null
+    acceptance_type?: AcceptanceTypeV2
+    supports_program_or_network?: string | null
+    explicit_support?: string
+    support_rails?: SupportRailV2[]
+    confidence?: ConfidenceLevelV2
+    evidence_kind?: EvidenceKindV2
+    evidence_publisher?: string
+    notes?: string[]
+  }>
 }
 
 function inferAcceptanceScope(record: RegistryRecordV2): AcceptanceScopeV3 {
@@ -72,6 +114,14 @@ function isCompactBitrefillSeedBatch(value: unknown): value is CompactBitrefillS
   )
 }
 
+function isCompactGenericSeedBatch(value: unknown): value is CompactGenericSeedBatch {
+  return Boolean(
+    value &&
+      typeof value === 'object' &&
+      (value as { format?: unknown }).format === 'compact-registry-v2-seed-batch-v1',
+  )
+}
+
 function expandCompactBitrefillSeedBatch(batch: CompactBitrefillSeedBatch): RegistryRecordV2[] {
   return batch.entries.map((entry) => {
     const source = batch.sources[entry.source]
@@ -111,6 +161,60 @@ function expandCompactBitrefillSeedBatch(batch: CompactBitrefillSeedBatch): Regi
   })
 }
 
+function expandCompactGenericSeedBatch(batch: CompactGenericSeedBatch): RegistryRecordV2[] {
+  return batch.entries.map((entry) => {
+    const source = batch.sources[entry.source]
+    if (!source) throw new Error(`Unknown compact generic seed source: ${entry.source}`)
+
+    const acceptanceType = entry.acceptance_type ?? batch.defaults?.acceptance_type ?? 'direct_crypto'
+    const supportRails = entry.support_rails ??
+      batch.defaults?.support_rails ??
+      (entry.supports_program_or_network ?? batch.defaults?.supports_program_or_network
+        ? [
+            {
+              rail_id: `processor:${(entry.supports_program_or_network ?? batch.defaults?.supports_program_or_network ?? 'crypto').toLowerCase().replace(/[^a-z0-9]+/g, '-')}`,
+              rail_type: 'processor' as const,
+              label: entry.supports_program_or_network ?? batch.defaults?.supports_program_or_network ?? 'Crypto payment processor',
+            },
+          ]
+        : [
+            {
+              rail_id: 'asset:bitcoin',
+              rail_type: 'asset' as const,
+              label: 'Bitcoin / cryptocurrency',
+            },
+          ])
+
+    return {
+      registry_id: entry.id,
+      scope: batch.defaults?.scope ?? 'merchant',
+      display_name: entry.name,
+      country: entry.country ?? batch.defaults?.country ?? null,
+      city: entry.city ?? batch.defaults?.city ?? null,
+      website: entry.website ?? null,
+      acceptance_type: acceptanceType,
+      supports_program_or_network: entry.supports_program_or_network ?? batch.defaults?.supports_program_or_network ?? null,
+      explicit_support:
+        entry.explicit_support ??
+        `${entry.name} publishes official documentation indicating cryptocurrency payment support.`,
+      support_rails: supportRails,
+      confidence: entry.confidence ?? batch.defaults?.confidence ?? 'high',
+      verification_method: batch.defaults?.verification_method ?? 'manual_official_source_review',
+      verified_at: batch.verified_at,
+      evidence_refs: [
+        {
+          label: source.label,
+          url: source.url,
+          kind: entry.evidence_kind ?? source.kind ?? batch.defaults?.evidence_kind ?? 'official_payment_page',
+          publisher: entry.evidence_publisher ?? source.publisher ?? batch.defaults?.evidence_publisher ?? entry.name,
+        },
+      ],
+      notes: [...(batch.defaults?.notes ?? []), ...(entry.notes ?? [])],
+      source_origin: batch.defaults?.source_origin ?? 'official_seed',
+    }
+  })
+}
+
 function sortSeedFilenames(a: string, b: string): number {
   const score = (name: string) => {
     if (name === 'registry-v2-seeds.json') return 0
@@ -124,6 +228,7 @@ function loadSeedFile(filepath: string): RegistryRecordV2[] {
   const parsed = JSON.parse(fs.readFileSync(filepath, 'utf8')) as unknown
   if (Array.isArray(parsed)) return parsed as RegistryRecordV2[]
   if (isCompactBitrefillSeedBatch(parsed)) return expandCompactBitrefillSeedBatch(parsed)
+  if (isCompactGenericSeedBatch(parsed)) return expandCompactGenericSeedBatch(parsed)
   throw new Error(`Unsupported registry seed file format: ${filepath}`)
 }
 
