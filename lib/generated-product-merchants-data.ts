@@ -1,5 +1,35 @@
 export const generatedProductMerchantsData = [
   {
+    "legacy_id": "merchant:1800-flowers-bitpay-gift-card",
+    "display_name": "1-800-Flowers",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "1-800-Flowers publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/gift-cards/"
+    ]
+  },
+  {
     "legacy_id": "merchant:1-stream:coingate-directory",
     "display_name": "1-Stream",
     "country": null,
@@ -29,6 +59,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:1-stream:coingate-directory",
+    "display_name": "1-Stream",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "1-Stream publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/software-and-web-services"
+    ]
+  },
+  {
     "legacy_id": "merchant:1fichier:coingate-directory",
     "display_name": "1fichier",
     "country": null,
@@ -52,6 +112,36 @@ export const generatedProductMerchantsData = [
     "social_links": [],
     "proposed_mode": "processor",
     "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/software-and-web-services"
+    ]
+  },
+  {
+    "legacy_id": "merchant:1fichier:coingate-directory",
+    "display_name": "1fichier",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "1fichier publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/software-and-web-services"
@@ -178,6 +268,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:24instant:coingate-directory",
+    "display_name": "24Instant",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "24Instant publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/professional-services"
+    ]
+  },
+  {
     "legacy_id": "merchant:2cloud:coingate-directory",
     "display_name": "2Cloud",
     "country": null,
@@ -208,6 +328,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:2cloud:coingate-directory",
+    "display_name": "2Cloud",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "2Cloud publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
     "legacy_id": "merchant:2ndnumber:coingate-directory",
     "display_name": "2ndNumber",
     "country": null,
@@ -232,6 +382,36 @@ export const generatedProductMerchantsData = [
     "social_links": [],
     "proposed_mode": "processor",
     "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/communication"
+    ]
+  },
+  {
+    "legacy_id": "merchant:2ndnumber:coingate-directory",
+    "display_name": "2ndNumber",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "2ndNumber publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/communication"
@@ -297,6 +477,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:9-bravos:btcpay-directory",
+    "display_name": "9 Bravos",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "9 Bravos publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:99rdp:coingate-directory",
     "display_name": "99RDP",
     "country": null,
@@ -324,6 +535,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/remote-desktop-protocols-rdp"
+    ]
+  },
+  {
+    "legacy_id": "merchant:99rdp:coingate-directory",
+    "display_name": "99RDP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "99RDP publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/remote-desktop-protocols-rdp"
+    ]
+  },
+  {
+    "legacy_id": "merchant:abelohost:coingate-directory",
+    "display_name": "AbeloHost",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "AbeloHost publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
     ]
   },
   {
@@ -395,6 +666,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:abercrombie-fitch-bitpay-gift-card",
+    "display_name": "Abercrombie & Fitch",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "Abercrombie & Fitch publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/clothes-fashion/"
+    ]
+  },
+  {
     "legacy_id": "merchant:access-wireless:coingate-directory",
     "display_name": "Access Wireless",
     "country": null,
@@ -422,6 +723,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
+    "legacy_id": "merchant:accointing:coingate-directory",
+    "display_name": "Accointing",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Accointing publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/finance"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ace-jewelers-bitpay-directory-2",
+    "display_name": "Ace Jewelers",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "Ace Jewelers publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ace-jewelers:bitpay-directory",
+    "display_name": "Ace Jewelers",
+    "country": null,
+    "city": null,
+    "website": "https://www.acejewelers.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "Ace Jewelers publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -1643,6 +2034,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:adafruit-coingate:coingate-directory",
+    "display_name": "Adafruit",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Adafruit publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/electronics"
+    ]
+  },
+  {
+    "legacy_id": "merchant:adafruit:bitpay-directory",
+    "display_name": "Adafruit",
+    "country": null,
+    "city": null,
+    "website": "https://www.adafruit.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "Adafruit publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:adc-data:coingate-directory",
     "display_name": "ADC Data",
     "country": null,
@@ -1670,6 +2121,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:adc-data:coingate-directory",
+    "display_name": "ADC Data",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "ADC Data publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/data-centers"
+    ]
+  },
+  {
+    "legacy_id": "merchant:adidas-bitpay-gift-card",
+    "display_name": "adidas",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "adidas publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/clothes-fashion/"
     ]
   },
   {
@@ -2108,6 +2619,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:adshares:coingate-directory",
+    "display_name": "Adshares",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Adshares publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
+    ]
+  },
+  {
     "legacy_id": "merchant:aeon-my:bitrefill-directory-my",
     "display_name": "AEON MY",
     "country": null,
@@ -2137,6 +2678,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:aeropostale-bitpay-gift-card",
+    "display_name": "Aéropostale",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "Aéropostale publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/clothes-fashion/"
+    ]
+  },
+  {
     "legacy_id": "merchant:agency-aurora:coingate-directory",
     "display_name": "Agency Aurora",
     "country": null,
@@ -2161,6 +2732,36 @@ export const generatedProductMerchantsData = [
     "social_links": [],
     "proposed_mode": "processor",
     "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/marketing-advertising"
+    ]
+  },
+  {
+    "legacy_id": "merchant:agency-aurora:coingate-directory",
+    "display_name": "Agency Aurora",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Agency Aurora publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/marketing-advertising"
@@ -2400,6 +3001,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:airbaltic-coingate:coingate-directory",
+    "display_name": "airBaltic",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "airBaltic publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/travel"
+    ]
+  },
+  {
     "legacy_id": "merchant:airbaltic:bitpay",
     "display_name": "airBaltic",
     "country": "LV",
@@ -2437,6 +3068,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:airbaltic:bitpay-directory",
+    "display_name": "airBaltic",
+    "country": null,
+    "city": null,
+    "website": "https://www.airbaltic.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "airBaltic publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:airbaltic:coingate-directory",
     "display_name": "airBaltic",
     "country": null,
@@ -2463,6 +3124,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:airbnb-bitpay-gift-card",
+    "display_name": "Airbnb",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "Airbnb publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
     ]
   },
   {
@@ -4526,6 +5217,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:airproxy:coingate-directory",
+    "display_name": "Airproxy",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Airproxy publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/proxy"
+    ]
+  },
+  {
+    "legacy_id": "merchant:airproxy-specific:coingate-directory",
+    "display_name": "Airproxy merchant page",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Airproxy merchant page publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/proxy"
+    ]
+  },
+  {
     "legacy_id": "merchant:airtel-data-ng:bitrefill-directory-ng",
     "display_name": "Airtel Data NG",
     "country": null,
@@ -4971,6 +5722,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:alexhost:coingate-directory",
+    "display_name": "AlexHost",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "AlexHost publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
     "legacy_id": "merchant:alexhost:crypto-xmoney",
     "display_name": "AlexHost",
     "country": "MD",
@@ -5040,6 +5821,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/communication"
+    ]
+  },
+  {
+    "legacy_id": "merchant:alfa-bitcoin:coingate-directory",
+    "display_name": "Alfa Bitcoin",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Alfa Bitcoin publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/trading-platforms"
     ]
   },
   {
@@ -5190,6 +6001,67 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:allark:btcpay-directory",
+    "display_name": "AllArk",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "AllArk publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:allbirds-bitpay-gift-card",
+    "display_name": "Allbirds",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "Allbirds publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/clothes-fashion/"
+    ]
+  },
+  {
     "legacy_id": "merchant:allegro:bitrefill-directory-pl",
     "display_name": "Allegro",
     "country": null,
@@ -5249,6 +6121,157 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:alphavps:coingate-directory",
+    "display_name": "AlphaVPS",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "AlphaVPS publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:altair-technology:btcpay-directory",
+    "display_name": "Altair Technology",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Altair Technology publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:alternate:coingate-directory",
+    "display_name": "ALTERNATE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "ALTERNATE publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/electronics"
+    ]
+  },
+  {
+    "legacy_id": "merchant:alternative-airlines-coingate:coingate-directory",
+    "display_name": "Alternative Airlines",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Alternative Airlines publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/travel"
+    ]
+  },
+  {
+    "legacy_id": "merchant:alternative-airlines:bitpay-directory",
+    "display_name": "Alternative Airlines",
+    "country": null,
+    "city": null,
+    "website": "https://www.alternativeairlines.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "Alternative Airlines publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:alternative-airlines:coingate-directory",
     "display_name": "Alternative Airlines",
     "country": null,
@@ -5275,6 +6298,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/travel-leisure"
+    ]
+  },
+  {
+    "legacy_id": "merchant:alternative-airlines:coingate-directory",
+    "display_name": "Alternative Airlines",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Alternative Airlines publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
+    ]
+  },
+  {
+    "legacy_id": "merchant:altrady-coingate-2:coingate-directory",
+    "display_name": "Altrady",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Altrady publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/finance"
     ]
   },
   {
@@ -5305,6 +6388,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/trading-platforms"
+    ]
+  },
+  {
+    "legacy_id": "merchant:altrady:coingate-directory",
+    "display_name": "Altrady",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Altrady publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/trading-platforms"
+    ]
+  },
+  {
+    "legacy_id": "merchant:altushost-bitpay-directory-2",
+    "display_name": "AltusHost",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "AltusHost publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
     ]
   },
   {
@@ -5485,6 +6628,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:amaze-servers:coingate-directory",
+    "display_name": "Amaze Servers",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Amaze Servers publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
     "legacy_id": "merchant:amazeinternet:coingate-directory",
     "display_name": "AmazeInternet",
     "country": null,
@@ -5509,6 +6682,36 @@ export const generatedProductMerchantsData = [
     "social_links": [],
     "proposed_mode": "processor",
     "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/marketing-advertising"
+    ]
+  },
+  {
+    "legacy_id": "merchant:amazeinternet:coingate-directory",
+    "display_name": "AmazeInternet",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "AmazeInternet publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/marketing-advertising"
@@ -5542,6 +6745,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:amazingrdp:coingate-directory",
+    "display_name": "AmazingRDP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "AmazingRDP publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/remote-desktop-protocols-rdp"
     ]
   },
   {
@@ -7078,6 +8311,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:american-cancer-society:bitpay-directory",
+    "display_name": "American Cancer Society",
+    "country": null,
+    "city": null,
+    "website": "https://www.cancer.org/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "American Cancer Society publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:american-eagle-bitpay-gift-card",
+    "display_name": "American Eagle",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "American Eagle publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/clothes-fashion/"
+    ]
+  },
+  {
     "legacy_id": "merchant:american-eagle-ca:bitrefill-directory",
     "display_name": "American Eagle CA",
     "country": null,
@@ -7165,6 +8458,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:red-cross:bitpay-directory",
+    "display_name": "American Red Cross",
+    "country": null,
+    "city": null,
+    "website": "https://www.redcross.org/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "American Red Cross publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:americanas-com:bitrefill-directory",
     "display_name": "Americanas.com",
     "country": null,
@@ -7191,6 +8514,67 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/br/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:amsterdam-vintage-watches-bitpay-directory-2",
+    "display_name": "Amsterdam Vintage Watches",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "Amsterdam Vintage Watches publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:andreas-antonopoulos:btcpay-directory",
+    "display_name": "Andreas Antonopoulos",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Andreas Antonopoulos publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
     ]
   },
   {
@@ -7221,6 +8605,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/play-dxb"
+    ]
+  },
+  {
+    "legacy_id": "merchant:apmex:bitpay-directory",
+    "display_name": "APMEX",
+    "country": null,
+    "city": null,
+    "website": "https://www.apmex.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "APMEX publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -7368,6 +8782,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:appbox:coingate-directory",
+    "display_name": "AppBox",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "AppBox publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/data-centers"
     ]
   },
   {
@@ -7716,6 +9160,37 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/bh/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:apple-bitcoins:btcpay-directory",
+    "display_name": "Apple Bitcoins",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Apple Bitcoins publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
     ]
   },
   {
@@ -9373,6 +10848,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:arbol-de-maple:btcpay-directory",
+    "display_name": "Arbol de maple",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Arbol de maple publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:arc-raiders:coingate-directory",
     "display_name": "ARC Raiders",
     "country": null,
@@ -9576,6 +11082,36 @@ export const generatedProductMerchantsData = [
     "social_links": [],
     "proposed_mode": "processor",
     "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:arise-server:coingate-directory",
+    "display_name": "Arise Server",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Arise Server publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/vps-hosting"
@@ -9872,6 +11408,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:arthasutra:btcpay-directory",
+    "display_name": "Arthasutra",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Arthasutra publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:asda:coingate-directory",
     "display_name": "ASDA",
     "country": null,
@@ -9899,6 +11466,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/wayfair"
+    ]
+  },
+  {
+    "legacy_id": "merchant:asoe-shop:coingate-directory",
+    "display_name": "ASOeShop",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "ASOeShop publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/marketing-advertising"
     ]
   },
   {
@@ -10107,6 +11704,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:athleta-bitpay-gift-card",
+    "display_name": "Athleta",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "Athleta publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/clothes-fashion/"
+    ]
+  },
+  {
     "legacy_id": "merchant:attica:bitrefill-directory-gr",
     "display_name": "Attica",
     "country": null,
@@ -10253,6 +11880,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:autovei:coingate-directory",
+    "display_name": "Autovei.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Autovei.com publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/professional-services"
+    ]
+  },
+  {
+    "legacy_id": "merchant:autozone-bitpay-gift-card",
+    "display_name": "AutoZone",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "AutoZone publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:avnet:bitpay-directory",
+    "display_name": "Avnet",
+    "country": null,
+    "city": null,
+    "website": "https://www.avnet.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "Avnet publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:avoro:coingate-directory",
     "display_name": "Avoro",
     "country": null,
@@ -10277,6 +11994,36 @@ export const generatedProductMerchantsData = [
     "social_links": [],
     "proposed_mode": "processor",
     "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:avoro:coingate-directory",
+    "display_name": "Avoro",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Avoro publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/vps-hosting"
@@ -10342,6 +12089,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:aweb-gr:coingate-directory",
+    "display_name": "Aweb.gr",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Aweb.gr publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
     "legacy_id": "merchant:azrieli-il:bitrefill-directory-il",
     "display_name": "Azrieli IL",
     "country": null,
@@ -10368,6 +12145,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/il/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:baby-gap-bitpay-gift-card",
+    "display_name": "Baby Gap",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "Baby Gap publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/clothes-fashion/"
     ]
   },
   {
@@ -10401,6 +12208,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:bacloud:coingate-directory",
+    "display_name": "BaCloud",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "BaCloud publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
     "legacy_id": "merchant:baedal-minjok-kr:bitrefill-directory-kr",
     "display_name": "Baedal Minjok KR",
     "country": null,
@@ -10430,6 +12267,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:bahama-breeze-bitpay-gift-card",
+    "display_name": "Bahama Breeze",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "Bahama Breeze publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/restaurants-food-beverages"
+    ]
+  },
+  {
+    "legacy_id": "merchant:banana-republic-bitpay-gift-card",
+    "display_name": "Banana Republic",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "Banana Republic publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/clothes-fashion/"
+    ]
+  },
+  {
     "legacy_id": "merchant:banana-republic:coingate-directory",
     "display_name": "Banana Republic",
     "country": null,
@@ -10456,6 +12353,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bankless:coingate-directory",
+    "display_name": "Bankless",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Bankless publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/education"
     ]
   },
   {
@@ -10691,6 +12618,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:barnes-noble-bitpay-gift-card",
+    "display_name": "Barnes & Noble",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "Barnes & Noble publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/sports-entertainment/"
+    ]
+  },
+  {
     "legacy_id": "merchant:batelco-bh:bitrefill-directory-bh",
     "display_name": "Batelco BH",
     "country": null,
@@ -10750,6 +12707,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:bath-body-works-bitpay-gift-card",
+    "display_name": "Bath & Body Works",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "Bath & Body Works publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/en-gb/directory/health-beauty"
+    ]
+  },
+  {
     "legacy_id": "merchant:battle-net-eu:bitrefill-directory-ro",
     "display_name": "Battle.net EU",
     "country": null,
@@ -10776,6 +12763,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/ro/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:baunat-bitpay-directory",
+    "display_name": "Baunat",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "Baunat publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
     ]
   },
   {
@@ -10837,6 +12854,67 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:beep-xtra-payment-systems:btcpay-directory",
+    "display_name": "Beep Xtra Payment Systems",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Beep Xtra Payment Systems publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:beliani:bitpay-directory",
+    "display_name": "Beliani",
+    "country": null,
+    "city": null,
+    "website": "https://www.beliani.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "Beliani publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:benefit-ph:bitrefill-directory-ph",
     "display_name": "Benefit PH",
     "country": null,
@@ -10892,6 +12970,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:best-buy-bitpay-gift-card",
+    "display_name": "Best Buy",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "Best Buy publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
     ]
   },
   {
@@ -11276,6 +13384,68 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:biker-for-kids-ev:btcpay-directory",
+    "display_name": "Biker for Kids e.V.",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Biker for Kids e.V. publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bikini-mitte:btcpay-directory",
+    "display_name": "Bikini-mitte",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bikini-mitte publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:binance-bnb-gift-card:coingate-directory",
     "display_name": "Binance BNB gift card",
     "country": null,
@@ -11541,6 +13711,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:bit-t-shirts:btcpay-directory",
+    "display_name": "Bit T-Shirts",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bit T-Shirts publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:bitcard:coingate-directory",
     "display_name": "BitCard",
     "country": null,
@@ -11568,6 +13769,682 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/skype"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitcoin-aruba:btcpay-directory",
+    "display_name": "Bitcoin Aruba",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bitcoin Aruba publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitcoin-aruba-merch-store:btcpay-directory",
+    "display_name": "Bitcoin Aruba Merch Store",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bitcoin Aruba Merch Store publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitcoin-audio-donations:btcpay-directory",
+    "display_name": "Bitcoin Audio Donations",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bitcoin Audio Donations publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitcoin-austria:btcpay-directory",
+    "display_name": "Bitcoin Austria",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bitcoin Austria publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitcoin-bloem:btcpay-directory",
+    "display_name": "Bitcoin Bloem",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bitcoin Bloem publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitcoin-hat-guy:btcpay-directory",
+    "display_name": "Bitcoin Hat Guy",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bitcoin Hat Guy publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitcoin-kenya:btcpay-directory",
+    "display_name": "Bitcoin Kenya",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bitcoin Kenya publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitcoin-magazine:coingate-directory",
+    "display_name": "Bitcoin Magazine",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Bitcoin Magazine publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/entertainment"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitcoin-people:btcpay-directory",
+    "display_name": "Bitcoin People",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bitcoin People publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitcoin-spot:btcpay-directory",
+    "display_name": "Bitcoin Spot",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bitcoin Spot publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitcoinacks-com:btcpay-directory",
+    "display_name": "bitcoinacks.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "bitcoinacks.com publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitcoinheiros:btcpay-directory",
+    "display_name": "Bitcoinheiros",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bitcoinheiros publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitcoinheirospay:btcpay-directory",
+    "display_name": "BitcoinheirosPay",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BitcoinheirosPay publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitcoinzar:btcpay-directory",
+    "display_name": "BitcoinZar",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BitcoinZar publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitdegree:coingate-directory",
+    "display_name": "BitDegree",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "BitDegree publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/education"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitflix:btcpay-directory",
+    "display_name": "Bitflix",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bitflix publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitgild:btcpay-directory",
+    "display_name": "Bitgild",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bitgild publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitgo-bitpay-directory-2",
+    "display_name": "BitGo",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitGo publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitgo:bitpay-directory",
+    "display_name": "BitGo",
+    "country": null,
+    "city": null,
+    "website": "https://www.bitgo.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitGo publishes official documentation indicating cryptocurrency payment support.",
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitko-yinowsky:btcpay-directory",
+    "display_name": "Bitko Yinowsky",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bitko Yinowsky publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitpay-travel-directory",
+    "display_name": "BitPay Travel",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "BitPay Travel publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitrefill-alt:coingate-directory",
+    "display_name": "Bitrefill",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Bitrefill publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gift-cards"
     ]
   },
   {
@@ -11833,6 +14710,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:biz-catalogs:coingate-directory",
+    "display_name": "Biz-Catalogs",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Biz-Catalogs publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/marketing-advertising"
+    ]
+  },
+  {
     "legacy_id": "merchant:blackhatworld:coingate-directory",
     "display_name": "BlackHatWorld",
     "country": null,
@@ -11893,6 +14800,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:blankos-block-party-bitpay-directory",
+    "display_name": "Blankos Block Party",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Blankos Block Party publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
+    ]
+  },
+  {
     "legacy_id": "merchant:blibli-id:bitrefill-directory-id",
     "display_name": "Blibli ID",
     "country": null,
@@ -11948,6 +14885,189 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/online-stores"
+    ]
+  },
+  {
+    "legacy_id": "merchant:blockchain-philanthropy-foundation:btcpay-directory",
+    "display_name": "Blockchain Philanthropy Foundation",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Blockchain Philanthropy Foundation publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:blocklete-games-bitpay-directory",
+    "display_name": "Blocklete Games",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Blocklete Games publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:blockobit:btcpay-directory",
+    "display_name": "Blockobit",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Blockobit publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:blockstream-jade:coingate-directory",
+    "display_name": "Blockstream Jade",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Blockstream Jade publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/electronics"
+    ]
+  },
+  {
+    "legacy_id": "merchant:blockstream-store:btcpay-directory",
+    "display_name": "Blockstream Store",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Blockstream Store publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:blooming-brands-bitpay-gift-card",
+    "display_name": "Bloomin' Brands",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Bloomin' Brands publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/restaurants-food-beverages"
     ]
   },
   {
@@ -12036,6 +15156,37 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/tt/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bob-chicago:btcpay-directory",
+    "display_name": "BOB Chicago",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BOB Chicago publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
     ]
   },
   {
@@ -12332,6 +15483,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:bomberg-bitpay-directory",
+    "display_name": "Bomberg",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Bomberg publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/en-gb/directory/health-beauty"
+    ]
+  },
+  {
     "legacy_id": "merchant:boohooman:coingate-directory",
     "display_name": "Boohooman",
     "country": null,
@@ -12479,6 +15660,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:boosteroid:coingate-directory",
+    "display_name": "Boosteroid",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Boosteroid publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gaming"
+    ]
+  },
+  {
     "legacy_id": "merchant:boots-digital:coingate-directory",
     "display_name": "Boots Digital",
     "country": null,
@@ -12539,6 +15750,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:bouchon-comptoir-brunet:btcpay-directory",
+    "display_name": "Bouchon Comptoir Brunet",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bouchon Comptoir Brunet publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:boyner-tr:bitrefill-directory-tr",
     "display_name": "Boyner TR",
     "country": null,
@@ -12565,6 +15807,67 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/tr/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:branta:btcpay-directory",
+    "display_name": "Branta",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Branta publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:brave-new-coin:coingate-directory",
+    "display_name": "Brave New Coin",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Brave New Coin publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/finance"
     ]
   },
   {
@@ -12624,6 +15927,37 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/pubg-mobile-uc"
+    ]
+  },
+  {
+    "legacy_id": "merchant:breaking-bread-cafe:btcpay-directory",
+    "display_name": "Breaking Bread Cafe",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Breaking Bread Cafe publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
     ]
   },
   {
@@ -12715,6 +16049,67 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:britttttks-donation-app:btcpay-directory",
+    "display_name": "Britttttk Donation App",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Britttttk Donation App publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bscscan:coingate-directory",
+    "display_name": "BscScan",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "BscScan publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
+    ]
+  },
+  {
     "legacy_id": "merchant:btc-bahamas-bs:bitrefill-directory-bs",
     "display_name": "BTC Bahamas BS",
     "country": null,
@@ -12741,6 +16136,98 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/bs/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:btc-consulting-360:btcpay-directory",
+    "display_name": "BTC Consulting 360",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Consulting 360 publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:btc-factura:btcpay-directory",
+    "display_name": "BTC Factura",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Factura publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:btc-wine:bitpay-directory",
+    "display_name": "BTC Wine",
+    "country": null,
+    "city": null,
+    "website": "https://btc-wine.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "BTC Wine publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -12803,6 +16290,221 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:btcfactura:coingate-directory",
+    "display_name": "BTCFactura",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "BTCFactura publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/professional-services"
+    ]
+  },
+  {
+    "legacy_id": "merchant:btcpay-bulgaria:btcpay-directory",
+    "display_name": "BTCPay Bulgaria",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Bulgaria publishes official documentation indicating cryptocurrency payment support.",
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:btcpay-server-hosting:btcpay-directory",
+    "display_name": "BTCPay Server Hosting",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "BTCPay Server Hosting publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:btcpay-server-italia:btcpay-directory",
+    "display_name": "BTCPay Server Italia",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "BTCPay Server Italia publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:btcpayprovider-com:btcpay-directory",
+    "display_name": "btcpayprovider.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "btcpayprovider.com publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:btcpins:btcpay-directory",
+    "display_name": "BTCPins",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "BTCPins publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bubbas-33-bitpay-gift-card",
+    "display_name": "Bubba's 33",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Bubba's 33 publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/restaurants-food-beverages"
+    ]
+  },
+  {
     "legacy_id": "merchant:bucketlistgift:coingate-directory",
     "display_name": "BucketlistGift",
     "country": null,
@@ -12862,6 +16564,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:buffalo-wild-wings-bitpay-gift-card",
+    "display_name": "Buffalo Wild Wings",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Buffalo Wild Wings publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/restaurants-food-beverages"
+    ]
+  },
+  {
     "legacy_id": "merchant:bug-il:bitrefill-directory-il",
     "display_name": "BUG IL",
     "country": null,
@@ -12888,6 +16620,67 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/il/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bullion-exchanges:bitpay-directory",
+    "display_name": "Bullion Exchanges",
+    "country": null,
+    "city": null,
+    "website": "https://bullionexchanges.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Bullion Exchanges publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bulrosa:btcpay-directory",
+    "display_name": "Bulrosa",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Bulrosa publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
     ]
   },
   {
@@ -12921,6 +16714,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:bunea-eu:coingate-directory",
+    "display_name": "Bunea.eu",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Bunea.eu publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vpn"
+    ]
+  },
+  {
     "legacy_id": "merchant:bunnings-warehouse:bitrefill-directory",
     "display_name": "Bunnings Warehouse",
     "country": null,
@@ -12950,6 +16773,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:burger-king-bitpay-gift-card",
+    "display_name": "Burger King",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Burger King publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/restaurants-food-beverages"
+    ]
+  },
+  {
     "legacy_id": "merchant:burger-king:coingate-directory",
     "display_name": "Burger King",
     "country": null,
@@ -13005,6 +16858,97 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:burnet-title-bitpay-directory-2",
+    "display_name": "Burnet Title",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Burnet Title publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:burnet-title:bitpay-directory",
+    "display_name": "Burnet Title",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Burnet Title publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:butcher-block-cafe:btcpay-directory",
+    "display_name": "Butcher Block Cafe",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Butcher Block Cafe publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
     ]
   },
   {
@@ -13035,6 +16979,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/remote-desktop-protocols-rdp"
+    ]
+  },
+  {
+    "legacy_id": "merchant:byteful:coingate-directory",
+    "display_name": "Byteful",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Byteful publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/proxy"
     ]
   },
   {
@@ -13243,6 +17217,67 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:cactusvpn:coingate-directory",
+    "display_name": "CactusVPN",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CactusVPN publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vpn"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cajero:btcpay-directory",
+    "display_name": "Cajero",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Cajero publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:calzedonia:bitrefill-directory-sk",
     "display_name": "Calzedonia",
     "country": null,
@@ -13269,6 +17304,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/sk/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:camper-nicholsons-bitpay-directory",
+    "display_name": "Camper & Nicholsons",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Camper & Nicholsons publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
     ]
   },
   {
@@ -13299,6 +17364,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/flipkart"
+    ]
+  },
+  {
+    "legacy_id": "merchant:candy-crush-bitpay-gift-card",
+    "display_name": "Candy Crush",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Candy Crush publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
     ]
   },
   {
@@ -13473,6 +17568,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/sa/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:carrabbas-italian-grill-bitpay-gift-card",
+    "display_name": "Carrabba's Italian Grill",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Carrabba's Italian Grill publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/restaurants-food-beverages"
     ]
   },
   {
@@ -14144,6 +18269,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:carvertical:coingate-directory",
+    "display_name": "CarVertical",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CarVertical publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/professional-services"
+    ]
+  },
+  {
     "legacy_id": "merchant:casa-del-libro:coingate-directory",
     "display_name": "Casa del Libro",
     "country": null,
@@ -14171,6 +18326,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
+    "legacy_id": "merchant:caseking:coingate-directory",
+    "display_name": "Caseking",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Caseking publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/electronics"
     ]
   },
   {
@@ -14318,6 +18503,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/online-stores"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cellfservices:coingate-directory",
+    "display_name": "CellfServices",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CellfServices publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/professional-services"
     ]
   },
   {
@@ -14496,6 +18711,127 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:chainalysis:bitpay-directory",
+    "display_name": "Chainalysis",
+    "country": null,
+    "city": null,
+    "website": "https://www.chainalysis.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Chainalysis publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cheapair-coingate:coingate-directory",
+    "display_name": "CheapAir",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CheapAir publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/travel"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cheapair:bitpay-directory",
+    "display_name": "CheapAir",
+    "country": null,
+    "city": null,
+    "website": "https://www.cheapair.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "CheapAir publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cheapair-com:btcpay-directory",
+    "display_name": "CheapAir.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "CheapAir.com publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:checkers-za:bitrefill-directory-za",
     "display_name": "Checkers ZA",
     "country": null,
@@ -14522,6 +18858,67 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/za/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cheddars-scratch-kitchen-bitpay-gift-card",
+    "display_name": "Cheddar's Scratch Kitchen",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Cheddar's Scratch Kitchen publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/restaurants-food-beverages"
+    ]
+  },
+  {
+    "legacy_id": "merchant:chef-marvin-gauci:btcpay-directory",
+    "display_name": "Chef Marvin Gauci",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Chef Marvin Gauci publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
     ]
   },
   {
@@ -14583,6 +18980,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:cherry-servers:coingate-directory",
+    "display_name": "Cherry Servers",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "Cherry Servers publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
     "legacy_id": "merchant:cherry-servers:crypto-coingate-bvnk",
     "display_name": "Cherry Servers",
     "country": null,
@@ -14624,6 +19051,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:chess-com-bitpay-directory",
+    "display_name": "Chess.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Chess.com publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:chevron-texaco-bitpay-gift-card",
+    "display_name": "Chevron and Texaco",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Chevron and Texaco publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/restaurants-food-beverages"
+    ]
+  },
+  {
+    "legacy_id": "merchant:chilis-bitpay-gift-card",
+    "display_name": "Chili's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Chili's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/restaurants-food-beverages"
+    ]
+  },
+  {
     "legacy_id": "merchant:chimera-tool:coingate-directory",
     "display_name": "Chimera Tool",
     "country": null,
@@ -14654,6 +19171,67 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:chipi-chipi-bombon:btcpay-directory",
+    "display_name": "Chipi Chipi Bombon",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Chipi Chipi Bombon publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:chipotle-bitpay-gift-card",
+    "display_name": "Chipotle",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Chipotle publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/restaurants-food-beverages"
+    ]
+  },
+  {
     "legacy_id": "merchant:chipotle:bitrefill-directory",
     "display_name": "Chipotle",
     "country": null,
@@ -14680,6 +19258,97 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/us/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:chroma:btcpay-directory",
+    "display_name": "Chroma",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Chroma publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:chronext:bitpay-directory",
+    "display_name": "CHRONEXT",
+    "country": null,
+    "city": null,
+    "website": "https://www.chronext.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "CHRONEXT publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cielo-aviation-bitpay-directory",
+    "display_name": "Cielo Aviation",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Cielo Aviation publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
     ]
   },
   {
@@ -14946,6 +19615,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:citadel21:btcpay-directory",
+    "display_name": "Citadel21",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Citadel21 publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:citysuper-hk:bitrefill-directory-hk",
     "display_name": "city'super HK",
     "country": null,
@@ -15034,6 +19734,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:claroads:coingate-directory",
+    "display_name": "ClaroAds",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "ClaroAds publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/marketing-advertising"
+    ]
+  },
+  {
     "legacy_id": "merchant:clash-of-clans:coingate-directory",
     "display_name": "Clash of Clans",
     "country": null,
@@ -15091,6 +19821,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/play-dxb"
+    ]
+  },
+  {
+    "legacy_id": "merchant:classic-recreations:bitpay-directory",
+    "display_name": "Classic Recreations",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Classic Recreations publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:clear-title-group:bitpay-directory",
+    "display_name": "Clear Title Group",
+    "country": null,
+    "city": null,
+    "website": "https://cleartitlegroup.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Clear Title Group publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -15153,6 +19943,67 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:cloudhosting-lv:coingate-directory",
+    "display_name": "CloudHosting.lv",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CloudHosting.lv publishes official documentation indicating cryptocurrency payment support.",
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/data-centers"
+    ]
+  },
+  {
+    "legacy_id": "merchant:code-engine:btcpay-directory",
+    "display_name": "Code Engine",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Code Engine publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:code-vein:coingate-directory",
     "display_name": "CODE VEIN",
     "country": null,
@@ -15180,6 +20031,99 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/imvu"
+    ]
+  },
+  {
+    "legacy_id": "merchant:coin-monster:btcpay-directory",
+    "display_name": "Coin Monster",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Coin Monster publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:coincache-net:btcpay-directory",
+    "display_name": "Coincache.net",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Coincache.net publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:coincards:btcpay-directory",
+    "display_name": "Coincards",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Coincards publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
     ]
   },
   {
@@ -15531,6 +20475,217 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:coinledger:coingate-directory",
+    "display_name": "CoinLedger",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "CoinLedger publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/finance"
+    ]
+  },
+  {
+    "legacy_id": "merchant:coinpayments:coingate-directory",
+    "display_name": "CoinPayments",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "CoinPayments publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/finance"
+    ]
+  },
+  {
+    "legacy_id": "merchant:coins-of-nakamoto:btcpay-directory",
+    "display_name": "Coins of Nakamoto",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Coins of Nakamoto publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:coinsbee:coingate-directory",
+    "display_name": "Coinsbee",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Coinsbee publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:coinstats:coingate-directory",
+    "display_name": "CoinStats",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "CoinStats publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/finance"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cointelegraph:coingate-directory",
+    "display_name": "Cointelegraph",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Cointelegraph publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/entertainment"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cointracking-coingate:coingate-directory",
+    "display_name": "CoinTracking",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "CoinTracking publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/finance"
+    ]
+  },
+  {
     "legacy_id": "merchant:cointracking-international:bitrefill-directory-ee",
     "display_name": "CoinTracking International",
     "country": null,
@@ -15792,6 +20947,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:cointraffic-2:coingate-directory",
+    "display_name": "Cointraffic",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Cointraffic publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
+    ]
+  },
+  {
     "legacy_id": "merchant:cointraffic:coingate-directory",
     "display_name": "Cointraffic",
     "country": null,
@@ -15819,6 +21004,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/marketing-advertising"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cointraffic:coingate-directory",
+    "display_name": "Cointraffic",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Cointraffic publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/marketing-advertising"
+    ]
+  },
+  {
+    "legacy_id": "merchant:coinzilla-2:coingate-directory",
+    "display_name": "Coinzilla",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Coinzilla publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
     ]
   },
   {
@@ -15852,6 +21097,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:coinzilla:coingate-directory",
+    "display_name": "Coinzilla",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Coinzilla publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/marketing-advertising"
+    ]
+  },
+  {
+    "legacy_id": "merchant:coingate-directory-coinzilla-case:coingate-directory",
+    "display_name": "Coinzilla case study",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Coinzilla case study publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cold-stone-creamery-bitpay-gift-card",
+    "display_name": "Cold Stone Creamery",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Cold Stone Creamery publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/restaurants-food-beverages"
+    ]
+  },
+  {
     "legacy_id": "merchant:cold-storage-sg:bitrefill-directory-sg",
     "display_name": "Cold Storage SG",
     "country": null,
@@ -15878,6 +21213,67 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/sg/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:coldbit-wallet:btcpay-directory",
+    "display_name": "Coldbit Wallet",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Coldbit Wallet publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:coldcard:coingate-directory",
+    "display_name": "COLDCARD",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "COLDCARD publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/electronics"
     ]
   },
   {
@@ -15940,6 +21336,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:collaborator-pro:coingate-directory",
+    "display_name": "Collaborator.pro",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Collaborator.pro publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/marketing-advertising"
+    ]
+  },
+  {
     "legacy_id": "merchant:colobridge:coingate-directory",
     "display_name": "ColoBridge",
     "country": null,
@@ -15964,6 +21390,36 @@ export const generatedProductMerchantsData = [
     "social_links": [],
     "proposed_mode": "processor",
     "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/data-centers"
+    ]
+  },
+  {
+    "legacy_id": "merchant:colobridge:coingate-directory",
+    "display_name": "ColoBridge",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "ColoBridge publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/data-centers"
@@ -16056,6 +21512,37 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/it/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:consumer-choice-center:btcpay-directory",
+    "display_name": "Consumer Choice Center",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Consumer Choice Center publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
     ]
   },
   {
@@ -16205,6 +21692,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:coolwallet-bitpay-directory",
+    "display_name": "CoolWallet",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "CoolWallet publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
     "legacy_id": "merchant:coop:bitrefill-directory-ch",
     "display_name": "Coop",
     "country": null,
@@ -16291,6 +21808,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:core-hosting:coingate-directory",
+    "display_name": "Core.Hosting",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Core.Hosting publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/data-centers"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cornerstone-title-bitpay-directory",
+    "display_name": "Cornerstone Title",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Cornerstone Title publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
     ]
   },
   {
@@ -16499,6 +22076,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:coursera-coingate:coingate-directory",
+    "display_name": "Coursera",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Coursera publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/education"
+    ]
+  },
+  {
     "legacy_id": "merchant:cozmo-jo:bitrefill-directory-jo",
     "display_name": "Cozmo JO",
     "country": null,
@@ -16552,6 +22159,36 @@ export const generatedProductMerchantsData = [
     "social_links": [],
     "proposed_mode": "processor",
     "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/marketing-advertising"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cpidroid:coingate-directory",
+    "display_name": "CPIDroid",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "CPIDroid publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/marketing-advertising"
@@ -16618,6 +22255,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:creanova-datacenter:coingate-directory",
+    "display_name": "Creanova Datacenter",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Creanova Datacenter publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/data-centers"
+    ]
+  },
+  {
+    "legacy_id": "merchant:crm-jewelers:bitpay-directory",
+    "display_name": "CRM Jewelers",
+    "country": null,
+    "city": null,
+    "website": "https://www.crmjewelers.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "CRM Jewelers publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:croma:bitrefill-directory-in",
     "display_name": "Croma IN",
     "country": null,
@@ -16644,6 +22341,158 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/in/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cryptapi:coingate-directory",
+    "display_name": "CryptAPI",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "CryptAPI publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/finance"
+    ]
+  },
+  {
+    "legacy_id": "merchant:crypto-coffee:btcpay-directory",
+    "display_name": "Crypto Coffee",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Crypto Coffee publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:crypto-cruise-deals-bitpay-directory",
+    "display_name": "Crypto Cruise Deals",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Crypto Cruise Deals publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:crypto-com-tax:coingate-directory",
+    "display_name": "Crypto.com Tax",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Crypto.com Tax publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/finance"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cryptocloaks:btcpay-directory",
+    "display_name": "CryptoCloaks",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "CryptoCloaks publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
     ]
   },
   {
@@ -16674,6 +22523,218 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/trading-platforms"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cryptocore-dev:coingate-directory",
+    "display_name": "CryptoCore.dev",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "CryptoCore.dev publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/marketing-advertising"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cryptoho-st:btcpay-directory",
+    "display_name": "CryptoHO.ST",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "CryptoHO.ST publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cryptohopper-coingate:coingate-directory",
+    "display_name": "Cryptohopper",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Cryptohopper publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/finance"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cryptohopper:bitpay-directory",
+    "display_name": "Cryptohopper",
+    "country": null,
+    "city": null,
+    "website": "https://www.cryptohopper.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Cryptohopper publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cryptoqo-io:btcpay-directory",
+    "display_name": "cryptoqo.io",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "cryptoqo.io publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cryptorefills:coingate-directory",
+    "display_name": "CryptoRefills",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "CryptoRefills publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cryptosteel:coingate-directory",
+    "display_name": "Cryptosteel",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Cryptosteel publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/electronics"
     ]
   },
   {
@@ -16796,6 +22857,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:curfew:btcpay-directory",
+    "display_name": "Curfew",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Curfew publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:currys-pc-world:bitrefill-directory",
     "display_name": "Currys PC World",
     "country": null,
@@ -16882,6 +22974,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/deliveroo"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cyberghost-vpn-bitpay-directory",
+    "display_name": "CyberGhost VPN",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "CyberGhost VPN publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
     ]
   },
   {
@@ -16983,6 +23105,98 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:cyphersafe:btcpay-directory",
+    "display_name": "CypherSafe",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "CypherSafe publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cypress-title-bitpay-directory",
+    "display_name": "Cypress Title",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Cypress Title publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:d-central:btcpay-directory",
+    "display_name": "D-Central",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "D-Central publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:dana-cash-voucher-gift-card:coingate-directory",
     "display_name": "DANA Cash Voucher gift card",
     "country": null,
@@ -17009,6 +23223,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/payment-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:darden-bitpay-gift-card",
+    "display_name": "Darden",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Darden publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
     ]
   },
   {
@@ -17068,6 +23312,97 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/data-centers"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dataforest:coingate-directory",
+    "display_name": "DataForest",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "DataForest publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/data-centers"
+    ]
+  },
+  {
+    "legacy_id": "merchant:david-coens-btcpay-server:btcpay-directory",
+    "display_name": "David Coen's BTCPay server",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "David Coen's BTCPay server publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:davidsw-bitpay-directory",
+    "display_name": "DavidSW",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "DavidSW publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
     ]
   },
   {
@@ -18175,6 +24510,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:decodo:coingate-directory",
+    "display_name": "Decodo",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Decodo publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/proxy"
+    ]
+  },
+  {
     "legacy_id": "merchant:dedicated-nodes:coingate-directory",
     "display_name": "Dedicated Nodes",
     "country": null,
@@ -18526,6 +24891,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:dellmont-bitpay-directory",
+    "display_name": "Dellmont",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Dellmont publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:delta-air-lines-bitpay-gift-card",
+    "display_name": "Delta Air Lines",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Delta Air Lines publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
     "legacy_id": "merchant:delta-air-lines:coingate-directory",
     "display_name": "Delta Air Lines",
     "country": null,
@@ -18584,6 +25009,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:denturom:btcpay-directory",
+    "display_name": "DentÜröm",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "DentÜröm publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:despensa-de-don-juan-sv:bitrefill-directory-sv",
     "display_name": "Despensa de Don Juan SV",
     "country": null,
@@ -18639,6 +25095,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/gt/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:destinia-coingate:coingate-directory",
+    "display_name": "Destinia",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Destinia publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/travel"
+    ]
+  },
+  {
+    "legacy_id": "merchant:destinia:bitpay-directory",
+    "display_name": "Destinia",
+    "country": null,
+    "city": null,
+    "website": "https://destinia.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Destinia publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -18728,6 +25244,67 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/trading-platforms"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dexterlab:coingate-directory",
+    "display_name": "DexterLab",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "DexterLab publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/marketing-advertising"
+    ]
+  },
+  {
+    "legacy_id": "merchant:diamondcard:btcpay-directory",
+    "display_name": "Diamondcard",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Diamondcard publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
     ]
   },
   {
@@ -18905,6 +25482,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:dinero-sin-reglas:btcpay-directory",
+    "display_name": "Dinero sin reglas",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Dinero sin reglas publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:dis-chem-za:bitrefill-directory-za",
     "display_name": "Dis-Chem ZA",
     "country": null,
@@ -18960,6 +25568,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/uy/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:discord-nitro-bitpay-gift-card",
+    "display_name": "Discord Nitro Subscription",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Discord Nitro Subscription publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
     ]
   },
   {
@@ -19168,6 +25806,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:diynodes-com:btcpay-directory",
+    "display_name": "DIYnodes.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "DIYnodes.com publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:dm-hr:bitrefill-directory-hr",
     "display_name": "dm HR",
     "country": null,
@@ -19223,6 +25892,37 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/rs/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dnscrypt-poland:btcpay-directory",
+    "display_name": "DNSCrypt Poland",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "DNSCrypt Poland publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
     ]
   },
   {
@@ -19282,6 +25982,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/walmart"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dominos-bitpay-gift-card",
+    "display_name": "Domino's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Domino's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/restaurants-food-beverages"
     ]
   },
   {
@@ -19398,6 +26128,67 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/in/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:donordevices:btcpay-directory",
+    "display_name": "DonorDevices",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "DonorDevices publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:donorschoose:bitpay-directory",
+    "display_name": "DonorsChoose",
+    "country": null,
+    "city": null,
+    "website": "https://www.donorschoose.org/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "DonorsChoose publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -19602,6 +26393,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
+    "legacy_id": "merchant:drupal-commerce-coingate:coingate-directory",
+    "display_name": "Drupal Commerce merchants using CoinGate",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Drupal Commerce merchants using CoinGate publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dundle:coingate-directory",
+    "display_name": "Dundle",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Dundle publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gift-cards"
     ]
   },
   {
@@ -20018,6 +26869,67 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:edberg-store:btcpay-directory",
+    "display_name": "Edberg Store",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Edberg Store publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:edx-coingate:coingate-directory",
+    "display_name": "edX",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "edX publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/education"
+    ]
+  },
+  {
     "legacy_id": "merchant:ee-tv:coingate-directory",
     "display_name": "EE TV",
     "country": null,
@@ -20075,6 +26987,98 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/rtl"
+    ]
+  },
+  {
+    "legacy_id": "merchant:egifter:coingate-directory",
+    "display_name": "eGifter",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "eGifter publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:eight-korean-bbq:btcpay-directory",
+    "display_name": "EIGHT Korean BBQ",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "EIGHT Korean BBQ publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:einundzwanzig:btcpay-directory",
+    "display_name": "Einundzwanzig",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Einundzwanzig publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
     ]
   },
   {
@@ -20166,6 +27170,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:elancemarket:coingate-directory",
+    "display_name": "ElanceMarket",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "ElanceMarket publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/marketing-advertising"
+    ]
+  },
+  {
     "legacy_id": "merchant:elden-ring-steam:coingate-directory",
     "display_name": "Elden Ring Steam",
     "country": null,
@@ -20193,6 +27227,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/steam"
+    ]
+  },
+  {
+    "legacy_id": "merchant:eldorado-gg-2:coingate-directory",
+    "display_name": "Eldorado.gg",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Eldorado.gg publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gaming"
+    ]
+  },
+  {
+    "legacy_id": "merchant:eldorado-gg:coingate-directory",
+    "display_name": "Eldorado.gg",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Eldorado.gg publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
+    ]
+  },
+  {
+    "legacy_id": "merchant:coingate-directory-eldorado-case:coingate-directory",
+    "display_name": "Eldorado.gg case study",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Eldorado.gg case study publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
     ]
   },
   {
@@ -20312,6 +27436,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:elephant-chateau:btcpay-directory",
+    "display_name": "Elephant Chateau",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Elephant Chateau publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:elgiganten:coingate-directory",
     "display_name": "Elgiganten",
     "country": null,
@@ -20339,6 +27494,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/airbnb"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ellipal:coingate-directory",
+    "display_name": "ELLIPAL",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "ELLIPAL publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/electronics"
     ]
   },
   {
@@ -20517,6 +27702,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:emporio-armani:bitpay-directory",
+    "display_name": "Emporio Armani",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Emporio Armani publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:eneba:coingate-directory",
     "display_name": "Eneba",
     "country": null,
@@ -20572,6 +27787,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:eneba:coingate-directory",
+    "display_name": "Eneba",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Eneba publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gaming"
     ]
   },
   {
@@ -20662,6 +27907,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:epik:btcpay-directory",
+    "display_name": "Epik",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Epik publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:esso:coingate-directory",
     "display_name": "Esso",
     "country": null,
@@ -20719,6 +27995,127 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/data-centers"
+    ]
+  },
+  {
+    "legacy_id": "merchant:estnoc:coingate-directory",
+    "display_name": "EstNOC",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "EstNOC publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/data-centers"
+    ]
+  },
+  {
+    "legacy_id": "merchant:estoxy:coingate-directory",
+    "display_name": "Estoxy",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Estoxy publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:estudiobitcoin-com:btcpay-directory",
+    "display_name": "Estudiobitcoin.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Estudiobitcoin.com publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:etherscan:coingate-directory",
+    "display_name": "Etherscan",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Etherscan publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
     ]
   },
   {
@@ -21102,6 +28499,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:exitpay:btcpay-directory",
+    "display_name": "EXITPay",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "EXITPay publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:expedia:coingate-directory",
     "display_name": "Expedia",
     "country": null,
@@ -21128,6 +28556,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:expressvpn:bitpay-directory",
+    "display_name": "ExpressVPN",
+    "country": null,
+    "city": null,
+    "website": "https://www.expressvpn.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "ExpressVPN publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -21382,6 +28840,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:fan-studio-bitpay-directory",
+    "display_name": "Fan Studio",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Fan Studio publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:fanatics-bitpay-gift-card",
+    "display_name": "Fanatics",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Fanatics publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/gift-cards/"
+    ]
+  },
+  {
     "legacy_id": "merchant:farfetch:coingate-directory",
     "display_name": "Farfetch",
     "country": null,
@@ -21412,6 +28930,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:fashionnova:bitpay-directory",
+    "display_name": "Fashion Nova",
+    "country": null,
+    "city": null,
+    "website": "https://www.fashionnova.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Fashion Nova publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:fashiondays:bitrefill-directory-bg",
     "display_name": "FashionDays BG",
     "country": null,
@@ -21438,6 +28986,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/bg/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:fast-private-jet:bitpay-directory",
+    "display_name": "Fast Private Jet",
+    "country": null,
+    "city": null,
+    "website": "https://www.fastprivatejet.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Fast Private Jet publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -21526,6 +29104,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:first-california-escrow-bitpay-directory",
+    "display_name": "First California Escrow",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "First California Escrow publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
     ]
   },
   {
@@ -22489,6 +30097,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/in/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:flipkart-supercoins-bitpay-gift-card",
+    "display_name": "Flipkart Supercoins",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Flipkart Supercoins publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
     ]
   },
   {
@@ -23596,6 +31234,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:football-manager-26-bitpay-gift-card",
+    "display_name": "Football Manager 26",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Football Manager 26 publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
+    ]
+  },
+  {
     "legacy_id": "merchant:football-manager-26-gift-card:coingate-directory",
     "display_name": "Football Manager 26 gift card",
     "country": null,
@@ -23681,6 +31349,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/py/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:fortnite-v-bucks-bitpay-gift-card",
+    "display_name": "Fortnite V-Bucks",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Fortnite V-Bucks publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
     ]
   },
   {
@@ -23887,6 +31585,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:foundation-devices:btcpay-directory",
+    "display_name": "Foundation Devices",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Foundation Devices publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:fox-il:bitrefill-directory-il",
     "display_name": "FOX IL",
     "country": null,
@@ -23916,6 +31645,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:fpga-crypto-miner:btcpay-directory",
+    "display_name": "FPGA Crypto Miner",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "FPGA Crypto Miner publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:fravega-ar:bitrefill-directory-ar",
     "display_name": "Frávega AR",
     "country": null,
@@ -23942,6 +31702,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/ar/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:free-fire-diamonds-bitpay-gift-card",
+    "display_name": "Free Fire Diamonds",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Free Fire Diamonds publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
     ]
   },
   {
@@ -24033,6 +31823,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:freshminers:coingate-directory",
+    "display_name": "FreshMiners",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "FreshMiners publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/professional-services"
+    ]
+  },
+  {
     "legacy_id": "merchant:freund-sv:bitrefill-directory-sv",
     "display_name": "Freund SV",
     "country": null,
@@ -24059,6 +31879,127 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/sv/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:frootvpn-bitpay-directory",
+    "display_name": "FrootVPN",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "FrootVPN publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:fsit:coingate-directory",
+    "display_name": "FSIT",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "FSIT publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/professional-services"
+    ]
+  },
+  {
+    "legacy_id": "merchant:funabiki:btcpay-directory",
+    "display_name": "Funabiki",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Funabiki publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:future-travel-experience:bitpay-directory",
+    "display_name": "Future Travel Experience",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Future Travel Experience publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -24089,6 +32030,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/trading-platforms"
+    ]
+  },
+  {
+    "legacy_id": "merchant:g2a:coingate-directory",
+    "display_name": "G2A",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "G2A publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gaming"
     ]
   },
   {
@@ -24208,6 +32179,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:gameflip:coingate-directory",
+    "display_name": "Gameflip",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Gameflip publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gaming"
+    ]
+  },
+  {
     "legacy_id": "merchant:gameroom:coingate-directory",
     "display_name": "GameRoom",
     "country": null,
@@ -24234,6 +32235,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/gaming"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gamesplanet-bitpay-directory",
+    "display_name": "Gamesplanet",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Gamesplanet publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gamesplanet-bitpay-individual",
+    "display_name": "Gamesplanet individual page",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Gamesplanet individual page publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gamesrocket:coingate-directory",
+    "display_name": "Gamesrocket",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Gamesrocket publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gaming"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gamestop-bitpay-gift-card",
+    "display_name": "GameStop",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "GameStop publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
     ]
   },
   {
@@ -24294,6 +32415,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/ikea"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gamivo:coingate-directory",
+    "display_name": "GAMIVO",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "GAMIVO publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gaming"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gandi-bitpay-directory",
+    "display_name": "Gandi",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Gandi publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
     ]
   },
   {
@@ -24500,6 +32681,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:gbhw-jp:btcpay-directory",
+    "display_name": "gbhw.jp",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "gbhw.jp publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:gcodes-global-hotel-and-travel:coingate-directory",
     "display_name": "GCodes Global Hotel & Travel",
     "country": null,
@@ -24589,6 +32801,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:geonode:coingate-directory",
+    "display_name": "Geonode",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Geonode publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/proxy"
+    ]
+  },
+  {
     "legacy_id": "merchant:getwave-gg:coingate-directory",
     "display_name": "GetWave.gg",
     "country": null,
@@ -24615,6 +32857,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/gaming"
+    ]
+  },
+  {
+    "legacy_id": "merchant:getyourguide-coingate:coingate-directory",
+    "display_name": "GetYourGuide",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "GetYourGuide publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/travel"
+    ]
+  },
+  {
+    "legacy_id": "merchant:getyourguide:bitpay-directory",
+    "display_name": "GetYourGuide",
+    "country": null,
+    "city": null,
+    "website": "https://www.getyourguide.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "GetYourGuide publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -24677,6 +32979,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:geyser-fund:btcpay-directory",
+    "display_name": "Geyser Fund",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Geyser Fund publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:ghostealth:coingate-directory",
     "display_name": "Ghostealth",
     "country": null,
@@ -24704,6 +33037,67 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/proxy"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ghostealth:coingate-directory",
+    "display_name": "Ghostealth",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Ghostealth publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/proxy"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gianlock-btcpay-server:btcpay-directory",
+    "display_name": "Gianlock BTCPay server",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Gianlock BTCPay server publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
     ]
   },
   {
@@ -24737,6 +33131,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:gift-card-store:coingate-directory",
+    "display_name": "Gift Card Store",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Gift Card Store publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gift-cards"
+    ]
+  },
+  {
     "legacy_id": "merchant:gift-me-crypto-gift-card:coingate-directory",
     "display_name": "Gift Me Crypto gift card",
     "country": null,
@@ -24763,6 +33187,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/payment-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:giftcards-com:coingate-directory",
+    "display_name": "Giftcards.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Giftcards.com publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gift-cards"
     ]
   },
   {
@@ -24999,6 +33453,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:global-vault-group:bitpay-directory",
+    "display_name": "Global Vault Group",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Global Vault Group publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:globus:bitrefill-directory-ch",
     "display_name": "Globus",
     "country": null,
@@ -25144,6 +33628,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:gobtc:btcpay-directory",
+    "display_name": "GoBTC",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "GoBTC publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:gojek-id:bitrefill-directory-id",
     "display_name": "Gojek ID",
     "country": null,
@@ -25199,6 +33714,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/ge/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:google-play-bitpay-gift-card",
+    "display_name": "Google Play",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Google Play publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
     ]
   },
   {
@@ -27320,6 +35865,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:grand-theft-auto-bitpay-gift-card",
+    "display_name": "Grand Theft Auto",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Grand Theft Auto publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
+    ]
+  },
+  {
     "legacy_id": "merchant:grand-theft-auto-gift-card:coingate-directory",
     "display_name": "Grand Theft Auto Gift Card",
     "country": null,
@@ -27346,6 +35921,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/gaming"
+    ]
+  },
+  {
+    "legacy_id": "merchant:greenwebpage:coingate-directory",
+    "display_name": "GreenWebpage",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "GreenWebpage publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
     ]
   },
   {
@@ -27403,6 +36008,36 @@ export const generatedProductMerchantsData = [
     "social_links": [],
     "proposed_mode": "processor",
     "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/proxy"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gridpanel:coingate-directory",
+    "display_name": "GridPanel",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "GridPanel publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/proxy"
@@ -27587,6 +36222,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:guaranty-escrow:bitpay-directory",
+    "display_name": "Guaranty Escrow",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Guaranty Escrow publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:guardian-my:bitrefill-directory-my",
     "display_name": "Guardian MY",
     "country": null,
@@ -27613,6 +36278,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/my/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:guardian-title-agency:bitpay-directory",
+    "display_name": "Guardian Title Agency",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Guardian Title Agency publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gucci:bitpay-directory",
+    "display_name": "Gucci",
+    "country": null,
+    "city": null,
+    "website": "https://www.gucci.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Gucci publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gyft:bitpay-directory",
+    "display_name": "Gyft",
+    "country": null,
+    "city": null,
+    "website": "https://www.gyft.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Gyft publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -28170,6 +36925,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:hebergtonserv:coingate-directory",
+    "display_name": "HebergTonServ",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "HebergTonServ publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
     "legacy_id": "merchant:hepsiburada:coingate-directory",
     "display_name": "Hepsiburada",
     "country": null,
@@ -28255,6 +37040,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/jm/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hidemy-name:coingate-directory",
+    "display_name": "HideMy.name",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "HideMy.name publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vpn"
     ]
   },
   {
@@ -28373,6 +37188,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/flipkart"
+    ]
+  },
+  {
+    "legacy_id": "merchant:home-depot-bitpay-gift-card",
+    "display_name": "Home Depot",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Home Depot publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
     ]
   },
   {
@@ -28522,6 +37367,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:honeybadger:btcpay-directory",
+    "display_name": "Honeybadger",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Honeybadger publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:host-ag:coingate-directory",
     "display_name": "Host.AG",
     "country": null,
@@ -28549,6 +37425,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:host2go:coingate-directory",
+    "display_name": "Host2Go",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Host2Go publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/proxy"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hostbill-coingate:coingate-directory",
+    "display_name": "HostBill merchants using CoinGate",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "HostBill merchants using CoinGate publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
     ]
   },
   {
@@ -28608,6 +37544,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/software-and-web-services"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hostinger:coingate-directory",
+    "display_name": "Hostinger",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Hostinger publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
     ]
   },
   {
@@ -28694,6 +37660,36 @@ export const generatedProductMerchantsData = [
     "evidence_refs": [
       "https://hostkey.com/about-us/legal/contact-information/",
       "https://hostkey.com/about-us/payment-terms-and-methods/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hostkey:bitpay-directory",
+    "display_name": "HOSTKEY",
+    "country": null,
+    "city": null,
+    "website": "https://www.hostkey.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "HOSTKEY publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -28949,6 +37945,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:hotels-com-uk-bitpay-gift-card",
+    "display_name": "Hotels.com UK",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Hotels.com UK publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
     "legacy_id": "merchant:hotels-com-usd:bitrefill-directory-ee",
     "display_name": "Hotels.com USD",
     "country": null,
@@ -29092,6 +38118,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/pubg-mobile-uc"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hublot:bitpay-directory",
+    "display_name": "Hublot",
+    "country": null,
+    "city": null,
+    "website": "https://www.hublot.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Hublot publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -29477,6 +38533,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:idoneus:bitpay-directory",
+    "display_name": "Idoneus",
+    "country": null,
+    "city": null,
+    "website": "https://idoneus.io/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Idoneus publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:iflw-bitpay-directory",
+    "display_name": "IFLW",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "IFLW publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
     "legacy_id": "merchant:ifood:bitrefill-directory",
     "display_name": "iFood",
     "country": null,
@@ -29503,6 +38619,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/br/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:igvault:coingate-directory",
+    "display_name": "IGVault",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "IGVault publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gaming"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ikea-bitpay-gift-card",
+    "display_name": "IKEA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "IKEA publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
     ]
   },
   {
@@ -30405,6 +39581,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:ikea-uk-bitpay-gift-card",
+    "display_name": "IKEA UK",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "IKEA UK publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
     "legacy_id": "merchant:ilva:bitrefill-directory-se",
     "display_name": "ILVA SE",
     "country": null,
@@ -30494,6 +39700,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:imperia-online-bitpay-directory",
+    "display_name": "Imperia Online",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Imperia Online publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
+    ]
+  },
+  {
     "legacy_id": "merchant:indian-uy:bitrefill-directory-uy",
     "display_name": "Indian UY",
     "country": null,
@@ -30520,6 +39756,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/uy/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:indiegala:coingate-directory",
+    "display_name": "IndieGala",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "IndieGala publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gaming"
     ]
   },
   {
@@ -30612,6 +39878,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:insave-hosting:coingate-directory",
+    "display_name": "inSave.hosting",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "inSave.hosting publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vpn"
+    ]
+  },
+  {
+    "legacy_id": "merchant:inserrata:bitpay-directory",
+    "display_name": "Inserrata",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Inserrata publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:instacart:bitrefill-directory",
     "display_name": "Instacart",
     "country": null,
@@ -30697,6 +40023,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:internet-archive:bitpay-directory",
+    "display_name": "Internet Archive",
+    "country": null,
+    "city": null,
+    "website": "https://archive.org/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Internet Archive publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -31022,6 +40378,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:iproyal:coingate-directory",
+    "display_name": "IPRoyal",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "IPRoyal publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/proxy"
+    ]
+  },
+  {
     "legacy_id": "merchant:italo:coingate-directory",
     "display_name": "Italo",
     "country": null,
@@ -31081,6 +40467,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:ivacyvpn:coingate-directory",
+    "display_name": "IvacyVPN",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "IvacyVPN publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vpn"
+    ]
+  },
+  {
     "legacy_id": "merchant:ivpn:btc-xmr",
     "display_name": "IVPN",
     "country": "GI",
@@ -31124,6 +40540,37 @@ export const generatedProductMerchantsData = [
     "evidence_refs": [
       "https://www.ivpn.net/en/refunds/",
       "https://www.ivpn.net/knowledgebase/general/what-payment-methods-do-you-accept/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ivpn:btcpay-directory",
+    "display_name": "IVPN",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "IVPN publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
     ]
   },
   {
@@ -31448,6 +40895,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:jetfinder-coingate:coingate-directory",
+    "display_name": "JetFinder",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "JetFinder publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/travel"
+    ]
+  },
+  {
+    "legacy_id": "merchant:jetfinder:bitpay-directory",
+    "display_name": "JetFinder",
+    "country": null,
+    "city": null,
+    "website": "https://www.jetfinder.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "JetFinder publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:jetoncash-gift-card:coingate-directory",
     "display_name": "JetonCash gift card",
     "country": null,
@@ -31506,6 +41013,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:jewelry-affairs:bitpay-directory",
+    "display_name": "Jewelry Affairs",
+    "country": null,
+    "city": null,
+    "website": "https://www.jewelryaffairs.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Jewelry Affairs publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:jiomart:coingate-directory",
     "display_name": "JioMart",
     "country": null,
@@ -31533,6 +41070,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/flipkart"
+    ]
+  },
+  {
+    "legacy_id": "merchant:joann-bitpay-gift-card",
+    "display_name": "JOANN",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "JOANN publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/home-furniture/"
     ]
   },
   {
@@ -31654,6 +41221,67 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:joltfun:btcpay-directory",
+    "display_name": "Joltfun",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Joltfun publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:jomashop:bitpay-directory",
+    "display_name": "Jomashop",
+    "country": null,
+    "city": null,
+    "website": "https://www.jomashop.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Jomashop publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:joyalukkas:coingate-directory",
     "display_name": "Joyalukkas",
     "country": null,
@@ -31681,6 +41309,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/hm"
+    ]
+  },
+  {
+    "legacy_id": "merchant:jtv-com-bitpay-gift-card",
+    "display_name": "JTV.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "JTV.com publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/en-gb/directory/health-beauty"
     ]
   },
   {
@@ -32151,6 +41809,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:keepkey-bitpay-directory",
+    "display_name": "KeepKey",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "KeepKey publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
     "legacy_id": "merchant:kellys-home-centre-bs:bitrefill-directory-bs",
     "display_name": "Kelly's Home Centre BS",
     "country": null,
@@ -32324,6 +42012,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/play-dxb"
+    ]
+  },
+  {
+    "legacy_id": "merchant:kinguin:coingate-directory",
+    "display_name": "Kinguin",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Kinguin publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gaming"
     ]
   },
   {
@@ -33197,6 +42915,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:koinly-coingate:coingate-directory",
+    "display_name": "Koinly",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Koinly publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/finance"
+    ]
+  },
+  {
     "legacy_id": "merchant:konzum-hr:bitrefill-directory-hr",
     "display_name": "Konzum HR",
     "country": null,
@@ -33253,6 +43001,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/ikea"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lgr:bitpay-directory",
+    "display_name": "L.G.R",
+    "country": null,
+    "city": null,
+    "website": "https://www.lgrworld.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "L.G.R publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -33373,6 +43151,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:la-maison-navarre:btcpay-directory",
+    "display_name": "La Maison Navarre",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "La Maison Navarre publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:la-sirena-do:bitrefill-directory-do",
     "display_name": "La Sirena DO",
     "country": null,
@@ -33486,6 +43295,37 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/hn/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:launtel:btcpay-directory",
+    "display_name": "Launtel",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Launtel publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
     ]
   },
   {
@@ -33951,6 +43791,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ledger-coingate:coingate-directory",
+    "display_name": "Ledger",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Ledger publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/electronics"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ledger:bitpay-directory",
+    "display_name": "Ledger",
+    "country": null,
+    "city": null,
+    "website": "https://www.ledger.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Ledger publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -34514,6 +44414,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:lodgis-coingate:coingate-directory",
+    "display_name": "Lodgis",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Lodgis publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/travel"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lodgis:bitpay-directory",
+    "display_name": "Lodgis",
+    "country": null,
+    "city": null,
+    "website": "https://www.lodgis.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Lodgis publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:logan-s-roadhouse:coingate-directory",
     "display_name": "Logan's Roadhouse",
     "country": null,
@@ -34775,6 +44735,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lowes-bitpay-gift-card",
+    "display_name": "Lowe's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Lowe's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/home-furniture/"
     ]
   },
   {
@@ -35066,6 +45056,67 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/ca/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lunanode:btcpay-directory",
+    "display_name": "LunaNode",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "LunaNode publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lush-uk:bitpay-directory",
+    "display_name": "Lush UK",
+    "country": null,
+    "city": null,
+    "website": "https://www.lush.com/uk/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Lush UK publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -35361,6 +45412,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:magento-coingate:coingate-directory",
+    "display_name": "Magento merchants using CoinGate",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Magento merchants using CoinGate publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
+    ]
+  },
+  {
     "legacy_id": "merchant:magti-ge:bitrefill-directory-ge",
     "display_name": "Magti GE",
     "country": null,
@@ -35387,6 +45468,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/ge/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:mailbird:bitpay-directory",
+    "display_name": "Mailbird",
+    "country": null,
+    "city": null,
+    "website": "https://www.getmailbird.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Mailbird publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:maingear-bitpay-directory",
+    "display_name": "Maingear",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Maingear publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
     ]
   },
   {
@@ -35739,6 +45880,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:marc-gebauer-bitpay-directory",
+    "display_name": "Marc Gebauer",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Marc Gebauer publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
     "legacy_id": "merchant:mario-kart-world:coingate-directory",
     "display_name": "Mario Kart World",
     "country": null,
@@ -35888,6 +46059,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:marks-jewelers:bitpay-directory",
+    "display_name": "Marks Jewelers",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Marks Jewelers publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:maroc-telecom-bundles-ma:bitrefill-directory-ma",
     "display_name": "Maroc Telecom Bundles MA",
     "country": null,
@@ -36000,6 +46201,36 @@ export const generatedProductMerchantsData = [
     "social_links": [],
     "proposed_mode": "processor",
     "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/proxy"
+    ]
+  },
+  {
+    "legacy_id": "merchant:mars-proxies:coingate-directory",
+    "display_name": "Mars Proxies",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Mars Proxies publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/proxy"
@@ -36707,6 +46938,67 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:mempool-space:btcpay-directory",
+    "display_name": "mempool.space",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "mempool.space publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:menufy:bitpay-directory",
+    "display_name": "Menufy",
+    "country": null,
+    "city": null,
+    "website": "https://www.menufy.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Menufy publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:mercado-libre-ar:bitrefill-directory-ar",
     "display_name": "Mercado Libre AR",
     "country": null,
@@ -36853,6 +47145,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:microsoft:bitpay-directory",
+    "display_name": "Microsoft",
+    "country": null,
+    "city": null,
+    "website": "https://www.microsoft.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Microsoft publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:migros-tr:bitrefill-directory-tr",
     "display_name": "Migros TR",
     "country": null,
@@ -36937,6 +47259,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/software-and-web-services"
+    ]
+  },
+  {
+    "legacy_id": "merchant:millenial-host:coingate-directory",
+    "display_name": "Millenial.host",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Millenial.host publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
     ]
   },
   {
@@ -37029,6 +47381,37 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:ministry-of-nodes:btcpay-directory",
+    "display_name": "Ministry of Nodes",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Ministry of Nodes publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:mint-prepaid-card:coingate-directory",
     "display_name": "Mint Prepaid Card",
     "country": null,
@@ -37059,6 +47442,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:mintbuilder:bitpay-directory",
+    "display_name": "MintBuilder",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "MintBuilder publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:mm-mega-market-vn:bitrefill-directory-vn",
     "display_name": "MM MEGA MARKET VN",
     "country": null,
@@ -37085,6 +47498,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/vn/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:mmoga:coingate-directory",
+    "display_name": "MMOGA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "MMOGA publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gaming"
+    ]
+  },
+  {
+    "legacy_id": "merchant:mobiletopup:coingate-directory",
+    "display_name": "MobileTopup",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "MobileTopup publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gift-cards"
     ]
   },
   {
@@ -37172,6 +47645,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/py/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:money-metals:bitpay-directory",
+    "display_name": "Money Metals",
+    "country": null,
+    "city": null,
+    "website": "https://www.moneymetals.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Money Metals publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -37324,6 +47827,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/professional-services"
+    ]
+  },
+  {
+    "legacy_id": "merchant:moremins:coingate-directory",
+    "display_name": "MoreMins",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "MoreMins publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
+    ]
+  },
+  {
+    "legacy_id": "merchant:coingate-directory-moremins-case:coingate-directory",
+    "display_name": "MoreMins case study",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "MoreMins case study publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
     ]
   },
   {
@@ -37984,6 +48547,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:naama-studios-bitpay-directory-2",
+    "display_name": "Naama Studios",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Naama Studios publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/en-gb/directory/health-beauty"
+    ]
+  },
+  {
+    "legacy_id": "merchant:naama-studios:bitpay-directory",
+    "display_name": "Naama Studios",
+    "country": null,
+    "city": null,
+    "website": "https://naamastudios.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Naama Studios publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:naivas-ke:bitrefill-directory-ke",
     "display_name": "Naivas KE",
     "country": null,
@@ -38055,6 +48678,36 @@ export const generatedProductMerchantsData = [
     "evidence_refs": [
       "https://www.namecheap.com/about/press-releases/press-releases-info/20-09-21/namecheap_now_offers_bitcoin_payment_option_via_btcpay/",
       "https://www.namecheap.com/support/payment/bitcoin/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:namecheap:bitpay-directory",
+    "display_name": "Namecheap",
+    "country": null,
+    "city": null,
+    "website": "https://www.namecheap.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Namecheap publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -40562,6 +51215,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:netnut:coingate-directory",
+    "display_name": "NetNut",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "NetNut publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/proxy"
+    ]
+  },
+  {
     "legacy_id": "merchant:netshoes:coingate-directory",
     "display_name": "Netshoes",
     "country": null,
@@ -40589,6 +51272,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/douglas"
+    ]
+  },
+  {
+    "legacy_id": "merchant:netspace-india:coingate-directory",
+    "display_name": "Netspace India",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Netspace India publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vpn"
     ]
   },
   {
@@ -40698,6 +51411,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:newegg:bitpay-directory",
+    "display_name": "Newegg",
+    "country": null,
+    "city": null,
+    "website": "https://www.newegg.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Newegg publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:newegg-ca:bitpay-directory",
+    "display_name": "Newegg Canada",
+    "country": null,
+    "city": null,
+    "website": "https://www.newegg.ca/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Newegg Canada publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:nexon-karma-koin:coingate-directory",
     "display_name": "Nexon Karma Koin",
     "country": null,
@@ -40785,6 +51558,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/deliveroo"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nexusguard:bitpay-directory",
+    "display_name": "Nexusguard",
+    "country": null,
+    "city": null,
+    "website": "https://www.nexusguard.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Nexusguard publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -41133,6 +51936,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/us/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nintendo-eshop-bitpay-gift-card",
+    "display_name": "Nintendo eShop",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Nintendo eShop publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
     ]
   },
   {
@@ -41485,6 +52318,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:nintendo-eshop-uk-bitpay-gift-card",
+    "display_name": "Nintendo eShop UK",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Nintendo eShop UK publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
     "legacy_id": "merchant:nintendo-eshop-usa-gh:bitrefill-directory-gh",
     "display_name": "Nintendo eShop USA GH",
     "country": null,
@@ -41570,6 +52433,37 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/habbo"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nodl:btcpay-directory",
+    "display_name": "Nodl",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Nodl publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
     ]
   },
   {
@@ -42539,6 +53433,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:nowpayments:coingate-directory",
+    "display_name": "NOWPayments",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "NOWPayments publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/finance"
+    ]
+  },
+  {
     "legacy_id": "merchant:nykaa:coingate-directory",
     "display_name": "Nykaa",
     "country": null,
@@ -42808,6 +53732,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:octohide-vpn:coingate-directory",
+    "display_name": "OctoHide VPN",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "OctoHide VPN publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vpn"
+    ]
+  },
+  {
     "legacy_id": "merchant:office-depot-gt:bitrefill-directory-gt",
     "display_name": "Office Depot GT",
     "country": null,
@@ -43069,6 +54023,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:one4all-bitpay-gift-card",
+    "display_name": "One4All",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "One4All publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
+    ]
+  },
+  {
     "legacy_id": "merchant:oneplus:coingate-directory",
     "display_name": "OnePlus",
     "country": null,
@@ -43213,6 +54197,97 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/om/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:opencart-coingate:coingate-directory",
+    "display_name": "OpenCart merchants using CoinGate",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "OpenCart merchants using CoinGate publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
+    ]
+  },
+  {
+    "legacy_id": "merchant:opensats:btcpay-directory",
+    "display_name": "OpenSats",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "OpenSats publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:opensea:coingate-directory",
+    "display_name": "OpenSea",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "OpenSea publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
     ]
   },
   {
@@ -43521,6 +54596,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:oscommerce-coingate:coingate-directory",
+    "display_name": "osCommerce merchants using CoinGate",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "osCommerce merchants using CoinGate publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
+    ]
+  },
+  {
     "legacy_id": "merchant:otto:bitrefill-directory-de",
     "display_name": "OTTO DE",
     "country": null,
@@ -43577,6 +54682,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/walmart"
+    ]
+  },
+  {
+    "legacy_id": "merchant:overclockers-uk-bitpay-directory",
+    "display_name": "Overclockers UK",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Overclockers UK publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:overstock-coingate:coingate-directory",
+    "display_name": "Overstock",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Overstock publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/shopping"
+    ]
+  },
+  {
+    "legacy_id": "merchant:overstock:bitpay-directory",
+    "display_name": "Overstock",
+    "country": null,
+    "city": null,
+    "website": "https://www.overstock.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Overstock publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -43713,6 +54908,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/bg/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:pacsun:bitpay-directory",
+    "display_name": "PacSun",
+    "country": null,
+    "city": null,
+    "website": "https://www.pacsun.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "PacSun publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -43948,6 +55173,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/deliveroo"
+    ]
+  },
+  {
+    "legacy_id": "merchant:paybis:coingate-directory",
+    "display_name": "Paybis",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Paybis publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/finance"
+    ]
+  },
+  {
+    "legacy_id": "merchant:paychant:coingate-directory",
+    "display_name": "Paychant",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Paychant publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/finance"
     ]
   },
   {
@@ -44561,6 +55846,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:perrelet:bitpay-directory",
+    "display_name": "Perrelet",
+    "country": null,
+    "city": null,
+    "website": "https://www.perrelet.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Perrelet publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:phonepe:coingate-directory",
     "display_name": "PhonePe",
     "country": null,
@@ -44707,6 +56022,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:pine-hosting:coingate-directory",
+    "display_name": "Pine Hosting",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Pine Hosting publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vpn"
+    ]
+  },
+  {
     "legacy_id": "merchant:ping-proxies:coingate-directory",
     "display_name": "Ping Proxies",
     "country": null,
@@ -44731,6 +56076,36 @@ export const generatedProductMerchantsData = [
     "social_links": [],
     "proposed_mode": "processor",
     "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/proxy"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ping-proxies:coingate-directory",
+    "display_name": "Ping Proxies",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Ping Proxies publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/proxy"
@@ -44790,6 +56165,36 @@ export const generatedProductMerchantsData = [
     "social_links": [],
     "proposed_mode": "processor",
     "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/proxy"
+    ]
+  },
+  {
+    "legacy_id": "merchant:plainproxies:coingate-directory",
+    "display_name": "PlainProxies.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "PlainProxies.com publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/proxy"
@@ -44880,6 +56285,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/lt/en/gift-cards/gifts/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:playasia-bitpay-directory",
+    "display_name": "Playasia",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Playasia publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:playasia:coingate-directory",
+    "display_name": "Playasia",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Playasia publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gaming"
+    ]
+  },
+  {
+    "legacy_id": "merchant:playerauctions:coingate-directory",
+    "display_name": "PlayerAuctions",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "PlayerAuctions publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gaming"
     ]
   },
   {
@@ -46565,6 +58060,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:plugpaid-bitpay-directory-2",
+    "display_name": "Plug&Paid",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Plug&Paid publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:plugpaid:bitpay-directory",
+    "display_name": "Plug&Paid",
+    "country": null,
+    "city": null,
+    "website": "https://www.plugandpaid.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Plug&Paid publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:pokemon-go:coingate-directory",
     "display_name": "Pokemon Go",
     "country": null,
@@ -46595,6 +58150,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:polygonscan:coingate-directory",
+    "display_name": "PolygonScan",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "PolygonScan publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
+    ]
+  },
+  {
     "legacy_id": "merchant:popular-discounts-bb:bitrefill-directory-bb",
     "display_name": "Popular Discounts BB",
     "country": null,
@@ -46621,6 +58206,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/bb/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:post-oak-motor-cars:bitpay-directory",
+    "display_name": "Post Oak Motor Cars",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Post Oak Motor Cars publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -46740,6 +58355,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/remote-desktop-protocols-rdp"
+    ]
+  },
+  {
+    "legacy_id": "merchant:prepaid-host:coingate-directory",
+    "display_name": "Prepaid-Host",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Prepaid-Host publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vpn"
+    ]
+  },
+  {
+    "legacy_id": "merchant:prestashop-coingate:coingate-directory",
+    "display_name": "PrestaShop merchants using CoinGate",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "PrestaShop merchants using CoinGate publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
     ]
   },
   {
@@ -47343,6 +59018,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:private-internet-access:bitpay-directory",
+    "display_name": "Private Internet Access",
+    "country": null,
+    "city": null,
+    "website": "https://www.privateinternetaccess.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Private Internet Access publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:privatefly-coingate:coingate-directory",
+    "display_name": "PrivateFly",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "PrivateFly publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/travel"
+    ]
+  },
+  {
+    "legacy_id": "merchant:privatefly:bitpay-directory",
+    "display_name": "PrivateFly",
+    "country": null,
+    "city": null,
+    "website": "https://www.privatefly.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "PrivateFly publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:privaterdp:coingate-directory",
     "display_name": "PrivateRDP",
     "country": null,
@@ -47367,6 +59132,36 @@ export const generatedProductMerchantsData = [
     "social_links": [],
     "proposed_mode": "processor",
     "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/remote-desktop-protocols-rdp"
+    ]
+  },
+  {
+    "legacy_id": "merchant:privaterdp:coingate-directory",
+    "display_name": "PrivateRDP",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "PrivateRDP publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/remote-desktop-protocols-rdp"
@@ -47531,6 +59326,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:provident-metals:bitpay-directory",
+    "display_name": "Provident Metals",
+    "country": null,
+    "city": null,
+    "website": "https://www.providentmetals.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Provident Metals publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:proximus:coingate-directory",
     "display_name": "Proximus",
     "country": null,
@@ -47620,6 +59445,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:proxy-cheap:coingate-directory",
+    "display_name": "Proxy-Cheap",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Proxy-Cheap publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/proxy"
+    ]
+  },
+  {
     "legacy_id": "merchant:proxyjet:coingate-directory",
     "display_name": "ProxyJet",
     "country": null,
@@ -47650,6 +59505,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:proxyjet:coingate-directory",
+    "display_name": "ProxyJet",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "ProxyJet publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/proxy"
+    ]
+  },
+  {
     "legacy_id": "merchant:proxyomega:coingate-directory",
     "display_name": "ProxyOmega",
     "country": null,
@@ -47674,6 +59559,66 @@ export const generatedProductMerchantsData = [
     "social_links": [],
     "proposed_mode": "processor",
     "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/proxy"
+    ]
+  },
+  {
+    "legacy_id": "merchant:proxyomega:coingate-directory",
+    "display_name": "ProxyOmega",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "ProxyOmega publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/proxy"
+    ]
+  },
+  {
+    "legacy_id": "merchant:proxyomega-specific:coingate-directory",
+    "display_name": "ProxyOmega merchant page",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "ProxyOmega merchant page publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/proxy"
@@ -47839,6 +59784,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:purevpn:coingate-directory",
+    "display_name": "PureVPN",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "PureVPN publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vpn"
+    ]
+  },
+  {
     "legacy_id": "merchant:pvr-cinemas:coingate-directory",
     "display_name": "PVR Cinemas",
     "country": null,
@@ -47983,6 +59958,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/it/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:qeeq:bitpay-directory",
+    "display_name": "Qeeq",
+    "country": null,
+    "city": null,
+    "website": "https://www.qeeq.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Qeeq publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:qeeq-coingate:coingate-directory",
+    "display_name": "QEEQ",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "QEEQ publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/travel"
     ]
   },
   {
@@ -48200,6 +60235,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:ralph-lauren:bitpay-directory",
+    "display_name": "Ralph Lauren",
+    "country": null,
+    "city": null,
+    "website": "https://www.ralphlauren.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Ralph Lauren publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:rappi-ar:bitrefill-directory-ar",
     "display_name": "Rappi AR",
     "country": null,
@@ -48374,6 +60439,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:rarible:coingate-directory",
+    "display_name": "Rarible",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Rarible publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
+    ]
+  },
+  {
     "legacy_id": "merchant:raw-bites-ph:bitrefill-directory-ph",
     "display_name": "Raw Bites PH",
     "country": null,
@@ -48490,6 +60585,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:rdi-bitpay-directory-2",
+    "display_name": "RDI",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "RDI publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rdi:bitpay-directory",
+    "display_name": "RDI",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "RDI publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:rdpdatabase:coingate-directory",
     "display_name": "RDPDatabase",
     "country": null,
@@ -48576,6 +60731,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/nz/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:recharge-com:coingate-directory",
+    "display_name": "Recharge.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Recharge.com publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gift-cards"
     ]
   },
   {
@@ -48686,6 +60871,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:reeds-jewelers:bitpay-directory",
+    "display_name": "REEDS Jewelers",
+    "country": null,
+    "city": null,
+    "website": "https://www.reeds.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "REEDS Jewelers publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:regery:coingate-directory",
     "display_name": "Regery",
     "country": null,
@@ -48710,6 +60925,36 @@ export const generatedProductMerchantsData = [
     "social_links": [],
     "proposed_mode": "processor",
     "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:regery:coingate-directory",
+    "display_name": "Regery",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Regery publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/vps-hosting"
@@ -49879,6 +62124,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:rm-sothebys:bitpay-directory",
+    "display_name": "RM Sotheby's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "RM Sotheby's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:robinsons-ph:bitrefill-directory-ph",
     "display_name": "Robinsons PH",
     "country": null,
@@ -50633,6 +62908,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:rooms-to-go:bitpay-directory",
+    "display_name": "Rooms To Go",
+    "country": null,
+    "city": null,
+    "website": "https://www.roomstogo.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Rooms To Go publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:rossmann:coingate-directory",
     "display_name": "Rossmann",
     "country": null,
@@ -50815,6 +63120,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:ruths-chris-steak-house-bitpay-gift-card",
+    "display_name": "Ruth's Chris Steak House",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Ruth's Chris Steak House publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/en-gb/directory/health-beauty"
+    ]
+  },
+  {
+    "legacy_id": "merchant:safari-guru:bitpay-directory",
+    "display_name": "Safari Guru",
+    "country": null,
+    "city": null,
+    "website": "https://safariguru.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Safari Guru publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:safaricom-ke:bitrefill-directory-ke",
     "display_name": "Safaricom KE",
     "country": null,
@@ -50993,6 +63358,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:saks-fifth-avenue-off-5th-bitpay-gift-card",
+    "display_name": "Saks Fifth Avenue OFF 5TH",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Saks Fifth Avenue OFF 5TH publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/en-gb/directory/health-beauty"
+    ]
+  },
+  {
     "legacy_id": "merchant:sams-club:coingate-directory",
     "display_name": "Sam's Club",
     "country": null,
@@ -51141,6 +63536,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:satochip:coingate-directory",
+    "display_name": "Satochip",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Satochip publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/electronics"
+    ]
+  },
+  {
     "legacy_id": "merchant:saturn:coingate-directory",
     "display_name": "Saturn",
     "country": null,
@@ -51201,6 +63626,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:save-the-children:bitpay-directory",
+    "display_name": "Save the Children",
+    "country": null,
+    "city": null,
+    "website": "https://www.savethechildren.org/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Save the Children publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:save-the-children-uk:bitpay-directory",
+    "display_name": "Save the Children UK",
+    "country": null,
+    "city": null,
+    "website": "https://www.savethechildren.org.uk/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Save the Children UK publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:sawa-card:coingate-directory",
     "display_name": "Sawa Card",
     "country": null,
@@ -51228,6 +63713,127 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/google-play"
+    ]
+  },
+  {
+    "legacy_id": "merchant:scan-coingate:coingate-directory",
+    "display_name": "Scan Computers",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Scan Computers publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/electronics"
+    ]
+  },
+  {
+    "legacy_id": "merchant:scan-computers:bitpay-directory",
+    "display_name": "Scan Computers",
+    "country": null,
+    "city": null,
+    "website": "https://www.scan.co.uk/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Scan Computers publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:scarce-city:btcpay-directory",
+    "display_name": "Scarce City",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Scarce City publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:seagm:coingate-directory",
+    "display_name": "SEAGM",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "SEAGM publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gaming"
     ]
   },
   {
@@ -51260,6 +63866,98 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.securevpn.pro/eng/pages/payments"
+    ]
+  },
+  {
+    "legacy_id": "merchant:seedhammer-coingate:coingate-directory",
+    "display_name": "SeedHammer",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "SeedHammer publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/electronics"
+    ]
+  },
+  {
+    "legacy_id": "merchant:seedhammer:btcpay-directory",
+    "display_name": "SeedHammer",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "SeedHammer publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:seedsigner-store:btcpay-directory",
+    "display_name": "SeedSigner Store",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "SeedSigner Store publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
     ]
   },
   {
@@ -51320,6 +64018,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/deliveroo"
+    ]
+  },
+  {
+    "legacy_id": "merchant:sendinn:coingate-directory",
+    "display_name": "SendInn",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "SendInn publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/marketing-advertising"
+    ]
+  },
+  {
+    "legacy_id": "merchant:seoe-shop:coingate-directory",
+    "display_name": "SEOeShop",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "SEOeShop publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/marketing-advertising"
     ]
   },
   {
@@ -51590,6 +64348,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:sharps-pixley:bitpay-directory",
+    "display_name": "Sharps Pixley",
+    "country": null,
+    "city": null,
+    "website": "https://www.sharpspixley.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Sharps Pixley publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:shein:coingate-directory",
     "display_name": "Shein",
     "country": null,
@@ -51645,6 +64433,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/ke/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:shells-bitpay-directory-2",
+    "display_name": "Shells",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Shells publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:shells:bitpay-directory",
+    "display_name": "Shells",
+    "country": null,
+    "city": null,
+    "website": "https://www.shells.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Shells publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:shiftcrypto:coingate-directory",
+    "display_name": "Shift Crypto",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Shift Crypto publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/electronics"
     ]
   },
   {
@@ -51718,6 +64596,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/kr/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:shipito:bitpay-directory",
+    "display_name": "Shipito",
+    "country": null,
+    "city": null,
+    "website": "https://www.shipito.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Shipito publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -51925,6 +64833,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:shopify-merchants:bitpay-directory",
+    "display_name": "Shopify merchants using BitPay",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Shopify merchants using BitPay publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:shopify-coingate:coingate-directory",
+    "display_name": "Shopify merchants using CoinGate",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Shopify merchants using CoinGate publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
+    ]
+  },
+  {
+    "legacy_id": "merchant:shopinbit:coingate-directory",
+    "display_name": "ShopinBit",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "ShopinBit publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/electronics"
+    ]
+  },
+  {
     "legacy_id": "merchant:shoppers-drug-mart:bitrefill-directory",
     "display_name": "Shoppers Drug Mart",
     "country": null,
@@ -52038,6 +65036,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/za/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:shopware-coingate:coingate-directory",
+    "display_name": "Shopware merchants using CoinGate",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Shopware merchants using CoinGate publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
     ]
   },
   {
@@ -52215,6 +65243,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:simply-jet-bitpay-directory-2",
+    "display_name": "Simply Jet",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Simply Jet publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:simply-jet:bitpay-directory",
+    "display_name": "Simply Jet",
+    "country": null,
+    "city": null,
+    "website": "https://www.simply-jet.ch/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Simply Jet publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:skechers:coingate-directory",
     "display_name": "SKECHERS",
     "country": null,
@@ -52302,6 +65390,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/deliveroo"
+    ]
+  },
+  {
+    "legacy_id": "merchant:skinbaron:coingate-directory",
+    "display_name": "SkinBaron",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "SkinBaron publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gaming"
     ]
   },
   {
@@ -52540,6 +65658,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:solscan:coingate-directory",
+    "display_name": "Solscan",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Solscan publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
+    ]
+  },
+  {
+    "legacy_id": "merchant:sonic-electronix:bitpay-directory",
+    "display_name": "Sonic Electronix",
+    "country": null,
+    "city": null,
+    "website": "https://www.sonicelectronix.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Sonic Electronix publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:sony-playstation:coingate-directory",
     "display_name": "Sony PlayStation",
     "country": null,
@@ -52595,6 +65773,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:sony-playstation-store-bitpay-gift-card",
+    "display_name": "Sony PlayStation Store",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Sony PlayStation Store publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
     ]
   },
   {
@@ -54401,6 +67609,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:st-hosting:coingate-directory",
+    "display_name": "ST-Hosting",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "ST-Hosting publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:st-hosting-specific:coingate-directory",
+    "display_name": "ST-Hosting merchant page",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "ST-Hosting merchant page publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
     "legacy_id": "merchant:stablepoint:coingate-directory",
     "display_name": "Stablepoint",
     "country": null,
@@ -54425,6 +67693,36 @@ export const generatedProductMerchantsData = [
     "social_links": [],
     "proposed_mode": "processor",
     "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:stablepoint:coingate-directory",
+    "display_name": "Stablepoint",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Stablepoint publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/vps-hosting"
@@ -56723,6 +70021,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:stubhub-bitpay-gift-card",
+    "display_name": "StubHub",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "StubHub publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/gift-cards/"
+    ]
+  },
+  {
     "legacy_id": "merchant:subway:coingate-directory",
     "display_name": "Subway",
     "country": null,
@@ -56807,6 +70135,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/kw/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:sunbelt-title:bitpay-directory",
+    "display_name": "Sunbelt Title",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Sunbelt Title publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -57187,6 +70545,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:surfshark:coingate-directory",
+    "display_name": "Surfshark",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Surfshark publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vpn"
+    ]
+  },
+  {
     "legacy_id": "merchant:surfshark:crypto",
     "display_name": "Surfshark",
     "country": "Global",
@@ -57489,6 +70877,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:sync:bitpay-directory",
+    "display_name": "Sync",
+    "country": null,
+    "city": null,
+    "website": "https://www.sync.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Sync publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:t-mobile:coingate-directory",
     "display_name": "T-Mobile",
     "country": null,
@@ -57606,6 +71024,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:tag-heuer:bitpay-directory",
+    "display_name": "TAG Heuer",
+    "country": null,
+    "city": null,
+    "website": "https://www.tagheuer.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "TAG Heuer publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:takealot-za:bitrefill-directory-za",
     "display_name": "Takealot ZA",
     "country": null,
@@ -57691,6 +71139,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/bol-com"
+    ]
+  },
+  {
+    "legacy_id": "merchant:takeaway:bitpay-directory",
+    "display_name": "Takeaway.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Takeaway.com publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -58073,6 +71551,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:taylor-travel-management:bitpay-directory",
+    "display_name": "Taylor Travel Management",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Taylor Travel Management publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:tehnomanija-rs:bitrefill-directory-rs",
     "display_name": "Tehnomanija RS",
     "country": null,
@@ -58366,6 +71874,67 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:the-aviation-factory:bitpay-directory",
+    "display_name": "The Aviation Factory",
+    "country": null,
+    "city": null,
+    "website": "https://www.the-aviation-factory.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "The Aviation Factory publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:the-bitcoin-company:btcpay-directory",
+    "display_name": "The Bitcoin Company",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "The Bitcoin Company publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
     "legacy_id": "merchant:the-body-shop:coingate-directory",
     "display_name": "The Body Shop",
     "country": null,
@@ -58454,6 +72023,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:the-d-hotel:bitpay-directory",
+    "display_name": "The D Hotel",
+    "country": null,
+    "city": null,
+    "website": "https://www.thed.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "The D Hotel publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:the-defiant:coingate-directory",
+    "display_name": "The Defiant",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "The Defiant publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/entertainment"
+    ]
+  },
+  {
     "legacy_id": "merchant:the-global-experiences-card:coingate-directory",
     "display_name": "The Global Experiences Card",
     "country": null,
@@ -58484,6 +72113,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:the-pi-hut:bitpay-directory",
+    "display_name": "The Pi Hut",
+    "country": null,
+    "city": null,
+    "website": "https://thepihut.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "The Pi Hut publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:the-warehouse-nz:bitrefill-directory-nz",
     "display_name": "The Warehouse NZ",
     "country": null,
@@ -58510,6 +72169,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/nz/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:the-water-project:bitpay-directory",
+    "display_name": "The Water Project",
+    "country": null,
+    "city": null,
+    "website": "https://thewaterproject.org/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "The Water Project publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -58656,6 +72345,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/nl/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:thunderproxy:coingate-directory",
+    "display_name": "Thunderproxy",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Thunderproxy publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
+    ]
+  },
+  {
+    "legacy_id": "merchant:coingate-directory-thunderproxy-case:coingate-directory",
+    "display_name": "Thunderproxy case study",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Thunderproxy case study publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
     ]
   },
   {
@@ -59036,6 +72785,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:time-magazine-coingate:coingate-directory",
+    "display_name": "TIME Magazine",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "TIME Magazine publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/entertainment"
+    ]
+  },
+  {
     "legacy_id": "merchant:tinder-gold:coingate-directory",
     "display_name": "Tinder Gold",
     "country": null,
@@ -59182,6 +72961,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:token-tax:coingate-directory",
+    "display_name": "TokenTax",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "TokenTax publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/finance"
+    ]
+  },
+  {
     "legacy_id": "merchant:tokopedia-id:bitrefill-directory-id",
     "display_name": "Tokopedia ID",
     "country": null,
@@ -59241,6 +73050,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:topper-jewelers:bitpay-directory",
+    "display_name": "Topper Jewelers",
+    "country": null,
+    "city": null,
+    "website": "https://topperjewelers.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Topper Jewelers publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:tops-th:bitrefill-directory-th",
     "display_name": "Tops Thailand",
     "country": null,
@@ -59267,6 +73106,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/th/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:topup-balance:coingate-directory",
+    "display_name": "TopUp Balance",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "TopUp Balance publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/gift-cards"
     ]
   },
   {
@@ -59339,6 +73208,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:tradingview-coingate:coingate-directory",
+    "display_name": "TradingView",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "TradingView publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/finance"
+    ]
+  },
+  {
+    "legacy_id": "merchant:tradingview:bitpay-directory",
+    "display_name": "TradingView",
+    "country": null,
+    "city": null,
+    "website": "https://www.tradingview.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "TradingView publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:tradingview:coingate-directory",
     "display_name": "TradingView",
     "country": null,
@@ -59369,6 +73298,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:trafficjunky:coingate-directory",
+    "display_name": "TrafficJunky",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "TrafficJunky publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
+    ]
+  },
+  {
     "legacy_id": "merchant:transcash-mastercard:coingate-directory",
     "display_name": "Transcash Mastercard",
     "country": null,
@@ -59396,6 +73355,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/airbnb"
+    ]
+  },
+  {
+    "legacy_id": "merchant:travala-coingate:coingate-directory",
+    "display_name": "Travala",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Travala publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/travel"
+    ]
+  },
+  {
+    "legacy_id": "merchant:travala:bitpay-directory",
+    "display_name": "Travala",
+    "country": null,
+    "city": null,
+    "website": "https://www.travala.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Travala publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -59500,6 +73519,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/tr/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:trezor:coingate-directory",
+    "display_name": "Trezor",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Trezor publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/electronics"
     ]
   },
   {
@@ -59617,6 +73666,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/travel-leisure"
+    ]
+  },
+  {
+    "legacy_id": "merchant:triple-a:coingate-directory",
+    "display_name": "Triple-A",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Triple-A publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/finance"
     ]
   },
   {
@@ -60316,6 +74395,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/do/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:uber-eats-bitpay-gift-card",
+    "display_name": "Uber Eats",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Uber Eats publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/gift-cards/"
     ]
   },
   {
@@ -61595,6 +75704,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:udemy-coingate:coingate-directory",
+    "display_name": "Udemy",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Udemy publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/education"
+    ]
+  },
+  {
     "legacy_id": "merchant:ufc-5:coingate-directory",
     "display_name": "UFC 5",
     "country": null,
@@ -61652,6 +75791,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/asos"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ulta-beauty-bitpay-gift-card",
+    "display_name": "Ulta Beauty",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Ulta Beauty publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/en-gb/directory/health-beauty"
     ]
   },
   {
@@ -61807,6 +75976,37 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/walmart"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ungovernable-misfits:btcpay-directory",
+    "display_name": "Ungovernable Misfits",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Ungovernable Misfits publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
     ]
   },
   {
@@ -61987,6 +76187,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:united-way:bitpay-directory",
+    "display_name": "United Way",
+    "country": null,
+    "city": null,
+    "website": "https://www.unitedway.org/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "United Way publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
     "legacy_id": "merchant:universal-cr:bitrefill-directory-cr",
     "display_name": "Universal CR",
     "country": null,
@@ -62129,6 +76359,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/fi/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:vertex-labs-bitpay-directory-2",
+    "display_name": "Vertex Labs",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Vertex Labs publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/en-gb/directory/health-beauty"
+    ]
+  },
+  {
+    "legacy_id": "merchant:vertex-labs:bitpay-directory",
+    "display_name": "Vertex Labs",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Vertex Labs publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -62394,6 +76684,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:virtuemart-coingate:coingate-directory",
+    "display_name": "VirtueMart merchants using CoinGate",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "VirtueMart merchants using CoinGate publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
+    ]
+  },
+  {
     "legacy_id": "merchant:vodacom-tz:bitrefill-directory-tz",
     "display_name": "Vodacom TZ",
     "country": null,
@@ -62610,6 +76930,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:vps-ag:coingate-directory",
+    "display_name": "VPS.ag",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "VPS.ag publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:vps-ag-specific:coingate-directory",
+    "display_name": "VPS.ag merchant page",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "VPS.ag merchant page publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
     "legacy_id": "merchant:vps2day:coingate-directory",
     "display_name": "VPS2DAY",
     "country": null,
@@ -62640,6 +77020,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:vps2day:coingate-directory",
+    "display_name": "VPS2DAY",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "VPS2DAY publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:vps2day-specific:coingate-directory",
+    "display_name": "VPS2DAY merchant page",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "VPS2DAY merchant page publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
     "legacy_id": "merchant:vpsforfx:coingate-directory",
     "display_name": "VPSforFX",
     "country": null,
@@ -62664,6 +77104,66 @@ export const generatedProductMerchantsData = [
     "social_links": [],
     "proposed_mode": "processor",
     "confidence": "high",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:vpsforfx:coingate-directory",
+    "display_name": "VPSforFX",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "VPSforFX publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
+    "legacy_id": "merchant:vpsforfx-specific:coingate-directory",
+    "display_name": "VPSforFX merchant page",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "VPSforFX merchant page publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/vps-hosting"
@@ -62746,6 +77246,97 @@ export const generatedProductMerchantsData = [
     "evidence_refs": [
       "https://docs.vultr.com/platform/billing/faq",
       "https://docs.vultr.com/support/platform/billing/what-payment-methods-do-you-accept"
+    ]
+  },
+  {
+    "legacy_id": "merchant:vultr:bitpay-directory",
+    "display_name": "Vultr",
+    "country": null,
+    "city": null,
+    "website": "https://www.vultr.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Vultr publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:wallet-of-satoshi:btcpay-directory",
+    "display_name": "Wallet of Satoshi",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "online_checkout"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTCPay Server",
+      "BTCPay Server Directory evidence; entry should be strengthened with merchant-side checkout/payment-page evidence where available.",
+      "Wallet of Satoshi publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://github.com/btcpayserver/directory.btcpayserver.org/blob/master/src/data/merchants.json"
+    ]
+  },
+  {
+    "legacy_id": "merchant:walmart-bitpay-gift-card",
+    "display_name": "Walmart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Walmart publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/gift-cards/"
     ]
   },
   {
@@ -62981,6 +77572,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:watchbox:bitpay-directory",
+    "display_name": "WatchBox",
+    "country": null,
+    "city": null,
+    "website": "https://www.thewatchbox.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "WatchBox publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:watcher-guru:coingate-directory",
+    "display_name": "Watcher Guru",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Watcher Guru publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/entertainment"
+    ]
+  },
+  {
     "legacy_id": "merchant:watsons-hk:bitrefill-directory-hk",
     "display_name": "Watsons HK",
     "country": null,
@@ -63036,6 +77687,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/my/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:wayfair-bitpay-gift-card",
+    "display_name": "Wayfair",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay Gift Cards",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "Wayfair publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
     ]
   },
   {
@@ -63123,6 +77804,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/online-stores"
+    ]
+  },
+  {
+    "legacy_id": "merchant:wayland-games:coingate-directory",
+    "display_name": "Wayland Games",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Wayland Games publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/software-and-web-services"
     ]
   },
   {
@@ -63242,6 +77953,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:west-coast-escrow-bitpay-directory",
+    "display_name": "West Coast Escrow",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official gift-card/directory evidence; merchant-side direct crypto support is not implied for gift-card entries.",
+      "West Coast Escrow publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory/"
+    ]
+  },
+  {
     "legacy_id": "merchant:westjet:bitrefill-directory",
     "display_name": "WestJet",
     "country": null,
@@ -63268,6 +78009,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/ca/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:whmcs-coingate:coingate-directory",
+    "display_name": "WHMCS merchants using CoinGate",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "WHMCS merchants using CoinGate publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
     ]
   },
   {
@@ -63298,6 +78069,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/asos"
+    ]
+  },
+  {
+    "legacy_id": "merchant:wikimedia-foundation:bitpay-directory",
+    "display_name": "Wikimedia Foundation",
+    "country": null,
+    "city": null,
+    "website": "https://wikimediafoundation.org/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Wikimedia Foundation publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -63950,6 +78751,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:woocommerce-coingate:coingate-directory",
+    "display_name": "WooCommerce merchants using CoinGate",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "WooCommerce merchants using CoinGate publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores"
+    ]
+  },
+  {
     "legacy_id": "merchant:woolworths-za:bitrefill-directory-za",
     "display_name": "Woolworths ZA",
     "country": null,
@@ -64005,6 +78836,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/ph/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:wrist-aficionado:bitpay-directory",
+    "display_name": "Wrist Aficionado",
+    "country": null,
+    "city": null,
+    "website": "https://wristaficionado.com/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "Wrist Aficionado publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
@@ -65575,6 +80436,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:xethost:coingate-directory",
+    "display_name": "XetHost",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinGate",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinGate"
+    ],
+    "payment_notes": [
+      "CoinGate",
+      "CoinGate official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "XetHost publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coingate.com/stores/category/vps-hosting"
+    ]
+  },
+  {
     "legacy_id": "merchant:xsserver:coingate-directory",
     "display_name": "XSServer",
     "country": null,
@@ -66620,6 +81511,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:zenledger:bitpay-directory",
+    "display_name": "ZenLedger",
+    "country": null,
+    "city": null,
+    "website": "https://www.zenledger.io/",
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "BitPay",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "BitPay"
+    ],
+    "payment_notes": [
+      "BitPay",
+      "BitPay official merchant directory evidence; strengthen with merchant-side payment page where available.",
+      "ZenLedger publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.bitpay.com/directory"
     ]
   },
   {
