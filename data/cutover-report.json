@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-04-26T10:05:20.127Z",
+  "generatedAt": "2026-04-26T11:54:53.510Z",
   "merchants": {
-    "total": 4763,
-    "withEvidence": 4763,
-    "withWebsite": 841,
+    "total": 5263,
+    "withEvidence": 5263,
+    "withWebsite": 1180,
     "highConfidence": 1984,
     "mediumConfidence": 1267,
-    "lowConfidence": 1512
+    "lowConfidence": 2012
   },
   "stats": {
-    "totalMerchants": 4763,
+    "totalMerchants": 5263,
     "modeBreakdown": {
-      "direct": 1610,
+      "direct": 2110,
       "processor": 3150,
       "bridge": 3
     },
     "confidenceBreakdown": {
-      "low": 1512,
+      "low": 2012,
       "medium": 1267,
       "high": 1984
     },
     "countryBreakdown": {
-      "Unknown": 4715,
+      "Unknown": 5215,
       "NL": 2,
       "LV": 1,
       "IT": 1,
@@ -61,7 +61,7 @@
       "CA": 1
     },
     "processorBreakdown": {
-      "Unknown": 1612,
+      "Unknown": 2112,
       "BitPay": 207,
       "CoinGate": 810,
       "CoinPayments": 5,
