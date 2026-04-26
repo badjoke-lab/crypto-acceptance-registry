@@ -1,17 +1,17 @@
 {
-  "totalMerchants": 4263,
+  "totalMerchants": 4763,
   "modeBreakdown": {
-    "direct": 1110,
+    "direct": 1610,
     "processor": 3150,
     "bridge": 3
   },
   "confidenceBreakdown": {
-    "low": 1012,
+    "low": 1512,
     "medium": 1267,
     "high": 1984
   },
   "countryBreakdown": {
-    "Unknown": 4215,
+    "Unknown": 4715,
     "NL": 2,
     "LV": 1,
     "IT": 1,
@@ -51,7 +51,7 @@
     "CA": 1
   },
   "processorBreakdown": {
-    "Unknown": 1112,
+    "Unknown": 1612,
     "BitPay": 207,
     "CoinGate": 810,
     "CoinPayments": 5,
