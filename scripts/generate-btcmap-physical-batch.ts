@@ -58,19 +58,6 @@ function slugify(value: string): string {
     .slice(0, 80)
 }
 
-function parseAddress(address: string | null | undefined): { country: string | null; city: string | null } {
-  if (!address) return { country: null, city: null }
-  const parts = address
-    .split(',')
-    .map((part) => part.trim())
-    .filter(Boolean)
-  if (parts.length < 2) return { country: null, city: parts[0] ?? null }
-  return {
-    city: parts.length >= 3 ? parts[parts.length - 3] : parts[0] ?? null,
-    country: parts[parts.length - 1] ?? null,
-  }
-}
-
 function cleanWebsite(website: string | null | undefined): string | null {
   if (!website) return null
   if (!/^https?:\/\//i.test(website)) return null
@@ -107,10 +94,10 @@ function toEntry(place: BtcMapPlace) {
   if (!name) return null
   const placeId = String(place.id).trim()
   if (!placeId) return null
-  const { country, city } = parseAddress(place.address)
   const osmUrl = place.osm_url || (place.osm_id ? `https://www.openstreetmap.org/${place.osm_id.replace(':', '/')}` : null)
   const verified = place.verified_at ? `BTC Map verified_at: ${place.verified_at}` : 'BTC Map place entry has no verified_at value in selected fields.'
   const updated = place.updated_at ? `BTC Map updated_at: ${place.updated_at}` : null
+  const address = place.address ? `BTC Map address: ${place.address}` : null
   const provider = place.payment_provider ? `payment_provider: ${place.payment_provider}` : null
   const latLon = typeof place.lat === 'number' && typeof place.lon === 'number' ? `lat/lon: ${place.lat}, ${place.lon}` : null
 
@@ -119,10 +106,10 @@ function toEntry(place: BtcMapPlace) {
     name,
     source: 'btcmap-v4-places',
     website: cleanWebsite(place.website),
-    country,
-    city,
+    country: null,
+    city: null,
     explicit_support: `${name} is listed in BTC Map as a physical place that accepts Bitcoin.`,
-    notes: [`BTC Map place id: ${placeId}`, verified, updated, osmUrl ? `OSM: ${osmUrl}` : null, provider, latLon].filter(
+    notes: [`BTC Map place id: ${placeId}`, verified, updated, address, osmUrl ? `OSM: ${osmUrl}` : null, provider, latLon].filter(
       (item): item is string => Boolean(item),
     ),
   }
