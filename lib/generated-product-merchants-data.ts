@@ -666,6 +666,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:abercrombie-and-fitch:coincards-catalog",
+    "display_name": "Abercrombie & Fitch",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "Abercrombie & Fitch publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:abercrombie-and-fitch:egifter-catalog",
+    "display_name": "Abercrombie & Fitch",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Abercrombie & Fitch publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:abercrombie-fitch-bitpay-gift-card",
     "display_name": "Abercrombie & Fitch",
     "country": null,
@@ -2184,6 +2244,156 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:adidas:coincards-catalog",
+    "display_name": "adidas",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "adidas publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:adidas:coinsbee-catalog",
+    "display_name": "adidas",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "adidas publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:adidas:cryptorefills-catalog",
+    "display_name": "adidas",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "adidas publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:adidas:dundle-catalog",
+    "display_name": "adidas",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "adidas publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:adidas:egifter-catalog",
+    "display_name": "adidas",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "adidas publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:adidas:bitrefill-directory-no",
     "display_name": "Adidas",
     "country": null,
@@ -2708,6 +2918,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:aeropostale:cryptorefills-catalog",
+    "display_name": "Aéropostale",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "Aéropostale publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
     "legacy_id": "merchant:agency-aurora:coingate-directory",
     "display_name": "Agency Aurora",
     "country": null,
@@ -2824,6 +3064,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/do/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:air-canada:coinsbee-catalog",
+    "display_name": "Air Canada",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Air Canada publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:air-canada:cryptorefills-catalog",
+    "display_name": "Air Canada",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "Air Canada publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:air-canada:dundle-catalog",
+    "display_name": "Air Canada",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Air Canada publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/travel/"
     ]
   },
   {
@@ -3244,6 +3574,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:airbnb:coincards-catalog",
+    "display_name": "Airbnb",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "Airbnb publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:airbnb:coingate-directory",
     "display_name": "Airbnb",
     "country": null,
@@ -3270,6 +3630,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:airbnb:coinsbee-catalog",
+    "display_name": "Airbnb",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Airbnb publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/gift-cards/travel/airbnb/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:airbnb:cryptorefills-catalog",
+    "display_name": "Airbnb",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "Airbnb publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:airbnb:dundle-catalog",
+    "display_name": "Airbnb",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Airbnb publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:airbnb:egifter-catalog",
+    "display_name": "Airbnb",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Airbnb publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -5158,6 +5638,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:airlinegift:coinsbee-catalog",
+    "display_name": "AirlineGift",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "AirlineGift publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:airlinegift:cryptorefills-catalog",
+    "display_name": "AirlineGift",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "AirlineGift publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:airlinegift:dundle-catalog",
+    "display_name": "AirlineGift",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "AirlineGift publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/travel/"
+    ]
+  },
+  {
     "legacy_id": "merchant:airlinegift:bitrefill-directory-se",
     "display_name": "AirlineGift SE",
     "country": null,
@@ -5940,6 +6510,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/meta-quest"
+    ]
+  },
+  {
+    "legacy_id": "merchant:aliexpress:coinsbee-catalog",
+    "display_name": "AliExpress",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "AliExpress publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:aliexpress:cryptorefills-catalog",
+    "display_name": "AliExpress",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "AliExpress publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:aliexpress:dundle-catalog",
+    "display_name": "AliExpress",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "AliExpress publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
     ]
   },
   {
@@ -6807,6 +7467,126 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:amazon:coinsbee-catalog",
+    "display_name": "Amazon",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Amazon publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:amazon:cryptorefills-catalog",
+    "display_name": "Amazon",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "Amazon publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:amazon:dundle-catalog",
+    "display_name": "Amazon",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Amazon publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:amazon:egifter-catalog",
+    "display_name": "Amazon",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Amazon publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:amazon-au:bitrefill-directory",
     "display_name": "Amazon AU",
     "country": null,
@@ -7299,6 +8079,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/us/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:amazon-com:coincards-catalog",
+    "display_name": "Amazon.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "Amazon.com publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
     ]
   },
   {
@@ -8311,6 +9121,216 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:amc-theatres:coincards-catalog",
+    "display_name": "AMC Theatres",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "AMC Theatres publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:amc-theatres:egifter-catalog",
+    "display_name": "AMC Theatres",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "AMC Theatres publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:american-airlines:coincards-catalog",
+    "display_name": "American Airlines",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "American Airlines publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:american-airlines:coinsbee-catalog",
+    "display_name": "American Airlines",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "American Airlines publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:american-airlines:cryptorefills-catalog",
+    "display_name": "American Airlines",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "American Airlines publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:american-airlines:dundle-catalog",
+    "display_name": "American Airlines",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "American Airlines publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:american-airlines:egifter-catalog",
+    "display_name": "American Airlines",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "American Airlines publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:american-cancer-society:bitpay-directory",
     "display_name": "American Cancer Society",
     "country": null,
@@ -8368,6 +9388,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitpay.com/directory/clothes-fashion/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:american-eagle:coincards-catalog",
+    "display_name": "American Eagle",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "American Eagle publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:american-eagle:egifter-catalog",
+    "display_name": "American Eagle",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "American Eagle publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -8931,6 +10011,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:apple:coincards-catalog",
+    "display_name": "Apple",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "Apple publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:apple:coingate-directory",
     "display_name": "Apple",
     "country": null,
@@ -8957,6 +10067,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:apple:coinsbee-catalog",
+    "display_name": "Apple",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Apple publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:apple:cryptorefills-catalog",
+    "display_name": "Apple",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "Apple publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:apple:dundle-catalog",
+    "display_name": "Apple",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Apple publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:apple:egifter-catalog",
+    "display_name": "Apple",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Apple publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -10760,6 +11990,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:applebee-s:coincards-catalog",
+    "display_name": "Applebee's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "Applebee's publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:applebee-s:coingate-directory",
     "display_name": "Applebee's",
     "country": null,
@@ -10815,6 +12075,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:applebees:coinsbee-catalog",
+    "display_name": "Applebee's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Applebee's publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:applebees:egifter-catalog",
+    "display_name": "Applebee's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Applebee's publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -11055,6 +12375,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/deliveroo"
+    ]
+  },
+  {
+    "legacy_id": "merchant:argos:coinsbee-catalog",
+    "display_name": "Argos",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Argos publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:argos:cryptorefills-catalog",
+    "display_name": "Argos",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "Argos publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:argos:dundle-catalog",
+    "display_name": "Argos",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Argos publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
     ]
   },
   {
@@ -11616,6 +13026,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:asos:coinsbee-catalog",
+    "display_name": "ASOS",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "ASOS publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:asos:cryptorefills-catalog",
+    "display_name": "ASOS",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "ASOS publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:asos:dundle-catalog",
+    "display_name": "ASOS",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "ASOS publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
     "legacy_id": "merchant:asos:bitrefill-directory-de",
     "display_name": "Asos DE",
     "country": null,
@@ -11734,6 +13234,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:athleta:coincards-catalog",
+    "display_name": "Athleta",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "Athleta publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:athleta:egifter-catalog",
+    "display_name": "Athleta",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Athleta publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:attica:bitrefill-directory-gr",
     "display_name": "Attica",
     "country": null,
@@ -11789,6 +13349,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/jp/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:audible:coincards-catalog",
+    "display_name": "Audible",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "Audible publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:audible:egifter-catalog",
+    "display_name": "Audible",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Audible publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -12148,6 +13768,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:b-q:dundle-catalog",
+    "display_name": "B&Q",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "B&Q publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bandq:coinsbee-catalog",
+    "display_name": "B&Q",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "B&Q publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bandq:cryptorefills-catalog",
+    "display_name": "B&Q",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "B&Q publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
     "legacy_id": "merchant:baby-gap-bitpay-gift-card",
     "display_name": "Baby Gap",
     "country": null,
@@ -12327,6 +14037,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:banana-republic:coincards-catalog",
+    "display_name": "Banana Republic",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "Banana Republic publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:banana-republic:coingate-directory",
     "display_name": "Banana Republic",
     "country": null,
@@ -12353,6 +14093,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:banana-republic:egifter-catalog",
+    "display_name": "Banana Republic",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Banana Republic publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -12618,6 +14388,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:barnes-and-noble:coincards-catalog",
+    "display_name": "Barnes & Noble",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "Barnes & Noble publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:barnes-and-noble:egifter-catalog",
+    "display_name": "Barnes & Noble",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Barnes & Noble publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:barnes-noble-bitpay-gift-card",
     "display_name": "Barnes & Noble",
     "country": null,
@@ -12648,6 +14478,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:bass-pro-shops:coincards-catalog",
+    "display_name": "Bass Pro Shops",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "Bass Pro Shops publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bass-pro-shops:egifter-catalog",
+    "display_name": "Bass Pro Shops",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Bass Pro Shops publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:batelco-bh:bitrefill-directory-bh",
     "display_name": "Batelco BH",
     "country": null,
@@ -12674,6 +14564,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/bh/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bath-and-body-works:coincards-catalog",
+    "display_name": "Bath & Body Works",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "Bath & Body Works publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
     ]
   },
   {
@@ -12707,6 +14627,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:bath-and-body-works:coinsbee-catalog",
+    "display_name": "Bath & Body Works",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Bath & Body Works publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bath-and-body-works:cryptorefills-catalog",
+    "display_name": "Bath & Body Works",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "Bath & Body Works publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bath-and-body-works:egifter-catalog",
+    "display_name": "Bath & Body Works",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Bath & Body Works publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:bath-body-works-bitpay-gift-card",
     "display_name": "Bath & Body Works",
     "country": null,
@@ -12734,6 +14744,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitpay.com/en-gb/directory/health-beauty"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bath-body-works:dundle-catalog",
+    "display_name": "Bath & Body Works",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Bath & Body Works publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
     ]
   },
   {
@@ -13003,6 +15043,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:best-buy:coincards-catalog",
+    "display_name": "Best Buy",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "Best Buy publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:best-buy:coingate-directory",
     "display_name": "Best Buy",
     "country": null,
@@ -13058,6 +15128,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:best-buy:coinsbee-catalog",
+    "display_name": "Best Buy",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Best Buy publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:best-buy:cryptorefills-catalog",
+    "display_name": "Best Buy",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "Best Buy publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:best-buy:dundle-catalog",
+    "display_name": "Best Buy",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Best Buy publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:best-buy:egifter-catalog",
+    "display_name": "Best Buy",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Best Buy publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -14888,6 +17078,156 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:blizzard-battle-net:coincards-catalog",
+    "display_name": "Blizzard Battle.net",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "Blizzard Battle.net publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:blizzard-battle-net:coinsbee-catalog",
+    "display_name": "Blizzard Battle.net",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Blizzard Battle.net publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:blizzard-battle-net:cryptorefills-catalog",
+    "display_name": "Blizzard Battle.net",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "Blizzard Battle.net publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:blizzard-battle-net:dundle-catalog",
+    "display_name": "Blizzard Battle.net",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Blizzard Battle.net publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:blizzard-battle-net:egifter-catalog",
+    "display_name": "Blizzard Battle.net",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Blizzard Battle.net publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:blockchain-philanthropy-foundation:btcpay-directory",
     "display_name": "Blockchain Philanthropy Foundation",
     "country": null,
@@ -15572,6 +17912,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:booking-com:coinsbee-catalog",
+    "display_name": "Booking.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Booking.com publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:booking-com:cryptorefills-catalog",
+    "display_name": "Booking.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "Booking.com publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:booking-com:dundle-catalog",
+    "display_name": "Booking.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Booking.com publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/travel/"
+    ]
+  },
+  {
     "legacy_id": "merchant:bookmyshow:coingate-directory",
     "display_name": "BookMyShow",
     "country": null,
@@ -16046,6 +18476,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/nz/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:british-airways:coinsbee-catalog",
+    "display_name": "British Airways",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "British Airways publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:british-airways:cryptorefills-catalog",
+    "display_name": "British Airways",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "British Airways publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:british-airways:dundle-catalog",
+    "display_name": "British Airways",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "British Airways publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/travel/"
     ]
   },
   {
@@ -16594,6 +19114,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:buffalo-wild-wings:coincards-catalog",
+    "display_name": "Buffalo Wild Wings",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "Buffalo Wild Wings publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:buffalo-wild-wings:egifter-catalog",
+    "display_name": "Buffalo Wild Wings",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Buffalo Wild Wings publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:bug-il:bitrefill-directory-il",
     "display_name": "BUG IL",
     "country": null,
@@ -16803,6 +19383,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:burger-king:coincards-catalog",
+    "display_name": "Burger King",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "Burger King publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:burger-king:coingate-directory",
     "display_name": "Burger King",
     "country": null,
@@ -16858,6 +19468,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:burger-king:coinsbee-catalog",
+    "display_name": "Burger King",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Burger King publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:burger-king:cryptorefills-catalog",
+    "display_name": "Burger King",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "Burger King publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:burger-king:dundle-catalog",
+    "display_name": "Burger King",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Burger King publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:burger-king:egifter-catalog",
+    "display_name": "Burger King",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Burger King publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -17042,6 +19772,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:c-a:dundle-catalog",
+    "display_name": "C&A",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "C&A publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
     "legacy_id": "merchant:c-and-a:coingate-directory",
     "display_name": "C&A",
     "country": null,
@@ -17071,6 +19831,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:canda:coinsbee-catalog",
+    "display_name": "C&A",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "C&A publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:canda:cryptorefills-catalog",
+    "display_name": "C&A",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "C&A publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
     "legacy_id": "merchant:c-and-a-pin:bitrefill-directory-de",
     "display_name": "C&A PIN DE",
     "country": null,
@@ -17097,6 +19917,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/de/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cabela-s:coincards-catalog",
+    "display_name": "Cabela's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "Cabela's publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
     ]
   },
   {
@@ -17155,6 +20005,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cabelas:egifter-catalog",
+    "display_name": "Cabela's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Cabela's publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -17656,6 +20536,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:carrefour:coinsbee-catalog",
+    "display_name": "Carrefour",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Carrefour publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:carrefour:cryptorefills-catalog",
+    "display_name": "Carrefour",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "Carrefour publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:carrefour:dundle-catalog",
+    "display_name": "Carrefour",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Carrefour publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
     ]
   },
   {
@@ -19111,6 +22081,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:chili-s:coincards-catalog",
+    "display_name": "Chili's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "Chili's publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:chili-s:dundle-catalog",
+    "display_name": "Chili's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Chili's publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/food/"
+    ]
+  },
+  {
     "legacy_id": "merchant:chilis-bitpay-gift-card",
     "display_name": "Chili's",
     "country": null,
@@ -19138,6 +22168,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitpay.com/directory/restaurants-food-beverages"
+    ]
+  },
+  {
+    "legacy_id": "merchant:chilis:coinsbee-catalog",
+    "display_name": "Chili's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Chili's publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:chilis:cryptorefills-catalog",
+    "display_name": "Chili's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "Chili's publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:chilis:egifter-catalog",
+    "display_name": "Chili's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Chili's publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -19258,6 +22378,156 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/us/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:chipotle:coincards-catalog",
+    "display_name": "Chipotle",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "Chipotle publishes official documentation indicating cryptocurrency payment support.",
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:chipotle:coinsbee-catalog",
+    "display_name": "Chipotle",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Chipotle publishes official documentation indicating cryptocurrency payment support.",
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:chipotle:cryptorefills-catalog",
+    "display_name": "Chipotle",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "Chipotle publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:chipotle:dundle-catalog",
+    "display_name": "Chipotle",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Chipotle publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:chipotle:egifter-catalog",
+    "display_name": "Chipotle",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Chipotle publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -21576,6 +24846,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:coolblue:coinsbee-catalog",
+    "display_name": "Coolblue",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Coolblue publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:coolblue:cryptorefills-catalog",
+    "display_name": "Coolblue",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "Coolblue publishes official documentation indicating cryptocurrency payment support.",
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:coolblue:dundle-catalog",
+    "display_name": "Coolblue",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Coolblue publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
     "legacy_id": "merchant:coolblue-be:bitrefill-directory-be",
     "display_name": "Coolblue BE",
     "country": null,
@@ -22888,6 +26248,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:currys:cryptorefills-catalog",
+    "display_name": "Currys",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Currys publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:currys:dundle-catalog",
+    "display_name": "Currys",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Currys publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
     "legacy_id": "merchant:currys-pc-world:bitrefill-directory",
     "display_name": "Currys PC World",
     "country": null,
@@ -22974,6 +26394,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/deliveroo"
+    ]
+  },
+  {
+    "legacy_id": "merchant:currys-pc-world:coinsbee-catalog",
+    "display_name": "Currys PC World",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Currys PC World publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cvs:coincards-catalog",
+    "display_name": "CVS",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "CVS publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cvs:egifter-catalog",
+    "display_name": "CVS",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "CVS publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -23256,6 +26766,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:darden:coincards-catalog",
+    "display_name": "Darden",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Darden publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:darty:bitrefill-directory-pt",
     "display_name": "Darty",
     "country": null,
@@ -23406,6 +26946,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:dazn:coinsbee-catalog",
+    "display_name": "DAZN",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "DAZN publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dazn:cryptorefills-catalog",
+    "display_name": "DAZN",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "DAZN publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dazn:dundle-catalog",
+    "display_name": "DAZN",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "DAZN publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/entertainment/"
+    ]
+  },
+  {
     "legacy_id": "merchant:dc-unlocker:coingate-directory",
     "display_name": "DC-Unlocker",
     "country": null,
@@ -23520,6 +27150,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/pt/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:decathlon:coinsbee-catalog",
+    "display_name": "Decathlon",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Decathlon publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:decathlon:cryptorefills-catalog",
+    "display_name": "Decathlon",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Decathlon publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:decathlon:dundle-catalog",
+    "display_name": "Decathlon",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Decathlon publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
     ]
   },
   {
@@ -24600,6 +28320,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:deezer:coinsbee-catalog",
+    "display_name": "Deezer",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Deezer publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:deezer:cryptorefills-catalog",
+    "display_name": "Deezer",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Deezer publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:deezer:dundle-catalog",
+    "display_name": "Deezer",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Deezer publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/entertainment/"
+    ]
+  },
+  {
     "legacy_id": "merchant:deinserverhost:coingate-directory",
     "display_name": "DeinServerHost",
     "country": null,
@@ -24685,6 +28495,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:deliveroo:coinsbee-catalog",
+    "display_name": "Deliveroo",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Deliveroo publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:deliveroo:cryptorefills-catalog",
+    "display_name": "Deliveroo",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Deliveroo publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:deliveroo:dundle-catalog",
+    "display_name": "Deliveroo",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Deliveroo publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/food/"
     ]
   },
   {
@@ -24951,6 +28851,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:delta-air-lines:coincards-catalog",
+    "display_name": "Delta Air Lines",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Delta Air Lines publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:delta-air-lines:coingate-directory",
     "display_name": "Delta Air Lines",
     "country": null,
@@ -24977,6 +28907,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:delta-air-lines:coinsbee-catalog",
+    "display_name": "Delta Air Lines",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Delta Air Lines publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:delta-air-lines:cryptorefills-catalog",
+    "display_name": "Delta Air Lines",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Delta Air Lines publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:delta-air-lines:dundle-catalog",
+    "display_name": "Delta Air Lines",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Delta Air Lines publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:delta-air-lines:egifter-catalog",
+    "display_name": "Delta Air Lines",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Delta Air Lines publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -25308,6 +29358,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:dick-s-sporting-goods:coincards-catalog",
+    "display_name": "Dick's Sporting Goods",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Dick's Sporting Goods publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:dick-s-sporting-goods:coingate-directory",
     "display_name": "Dick's Sporting Goods",
     "country": null,
@@ -25363,6 +29443,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dicks-sporting-goods:egifter-catalog",
+    "display_name": "Dick's Sporting Goods",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Dick's Sporting Goods publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -25571,6 +29681,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:discord-nitro:coincards-catalog",
+    "display_name": "Discord Nitro",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Discord Nitro publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:discord-nitro:dundle-catalog",
+    "display_name": "Discord Nitro",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Discord Nitro publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:discord-nitro:egifter-catalog",
+    "display_name": "Discord Nitro",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Discord Nitro publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:discord-nitro-bitpay-gift-card",
     "display_name": "Discord Nitro Subscription",
     "country": null,
@@ -25774,6 +29974,156 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/tz/en/gift-cards/gifts/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:disney:dundle-catalog",
+    "display_name": "Disney+",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Disney+ publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:disneyplus:coincards-catalog",
+    "display_name": "Disney+",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Disney+ publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:disneyplus:coinsbee-catalog",
+    "display_name": "Disney+",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Disney+ publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:disneyplus:cryptorefills-catalog",
+    "display_name": "Disney+",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Disney+ publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:disneyplus:egifter-catalog",
+    "display_name": "Disney+",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Disney+ publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -25985,6 +30335,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:domino-s:coincards-catalog",
+    "display_name": "Domino's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Domino's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:domino-s:dundle-catalog",
+    "display_name": "Domino's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Domino's publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/food/"
+    ]
+  },
+  {
     "legacy_id": "merchant:dominos-bitpay-gift-card",
     "display_name": "Domino's",
     "country": null,
@@ -26012,6 +30422,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitpay.com/directory/restaurants-food-beverages"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dominos:coinsbee-catalog",
+    "display_name": "Domino's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Domino's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dominos:cryptorefills-catalog",
+    "display_name": "Domino's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Domino's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dominos:egifter-catalog",
+    "display_name": "Domino's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Domino's publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -26221,6 +30721,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:doordash:coincards-catalog",
+    "display_name": "DoorDash",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "DoorDash publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:doordash:coingate-directory",
     "display_name": "DoorDash",
     "country": null,
@@ -26279,6 +30809,126 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:doordash:coinsbee-catalog",
+    "display_name": "DoorDash",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "DoorDash publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:doordash:cryptorefills-catalog",
+    "display_name": "DoorDash",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "DoorDash publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:doordash:dundle-catalog",
+    "display_name": "DoorDash",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "DoorDash publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:doordash:egifter-catalog",
+    "display_name": "DoorDash",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "DoorDash publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:douglas:coingate-directory",
     "display_name": "Douglas",
     "country": null,
@@ -26305,6 +30955,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/douglas"
+    ]
+  },
+  {
+    "legacy_id": "merchant:douglas:coinsbee-catalog",
+    "display_name": "Douglas",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Douglas publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:douglas:cryptorefills-catalog",
+    "display_name": "Douglas",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Douglas publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:douglas:dundle-catalog",
+    "display_name": "Douglas",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Douglas publishes official documentation indicating cryptocurrency payment support.",
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
     ]
   },
   {
@@ -26483,6 +31223,156 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/wayfair"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dunkin:coincards-catalog",
+    "display_name": "Dunkin'",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Dunkin' publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dunkin:coinsbee-catalog",
+    "display_name": "Dunkin'",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Dunkin' publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dunkin:cryptorefills-catalog",
+    "display_name": "Dunkin'",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Dunkin' publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dunkin:dundle-catalog",
+    "display_name": "Dunkin'",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Dunkin' publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dunkin:egifter-catalog",
+    "display_name": "Dunkin'",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "Dunkin' publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -26782,6 +31672,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:ebay:coincards-catalog",
+    "display_name": "eBay",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "eBay publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:ebay:coingate-directory",
     "display_name": "eBay",
     "country": null,
@@ -26837,6 +31757,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ebay:coinsbee-catalog",
+    "display_name": "eBay",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "eBay publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ebay:cryptorefills-catalog",
+    "display_name": "eBay",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "eBay publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ebay:dundle-catalog",
+    "display_name": "eBay",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "eBay publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ebay:egifter-catalog",
+    "display_name": "eBay",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eBay publishes official documentation indicating cryptocurrency payment support.",
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -28178,6 +33218,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:etsy:coinsbee-catalog",
+    "display_name": "Etsy",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Etsy publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:etsy:cryptorefills-catalog",
+    "display_name": "Etsy",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Etsy publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:etsy:dundle-catalog",
+    "display_name": "Etsy",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Etsy publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
     "legacy_id": "merchant:eurdp:coingate-directory",
     "display_name": "EuRDP",
     "country": null,
@@ -28559,6 +33689,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:expedia:coinsbee-catalog",
+    "display_name": "Expedia",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Expedia publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:expedia:cryptorefills-catalog",
+    "display_name": "Expedia",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Expedia publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:expedia:dundle-catalog",
+    "display_name": "Expedia",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Expedia publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/travel/"
+    ]
+  },
+  {
     "legacy_id": "merchant:expressvpn:bitpay-directory",
     "display_name": "ExpressVPN",
     "country": null,
@@ -28900,6 +34120,126 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:fanatics:coincards-catalog",
+    "display_name": "Fanatics",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Fanatics publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:fanatics:egifter-catalog",
+    "display_name": "Fanatics",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Fanatics publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:fandango:coincards-catalog",
+    "display_name": "Fandango",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Fandango publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:fandango:egifter-catalog",
+    "display_name": "Fandango",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Fandango publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:farfetch:coingate-directory",
     "display_name": "Farfetch",
     "country": null,
@@ -29198,6 +34538,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/ro/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:flight-centre:coinsbee-catalog",
+    "display_name": "Flight Centre",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Flight Centre publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:flight-centre:cryptorefills-catalog",
+    "display_name": "Flight Centre",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Flight Centre publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:flight-centre:dundle-catalog",
+    "display_name": "Flight Centre",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Flight Centre publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/travel/"
     ]
   },
   {
@@ -31117,6 +36547,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:foot-locker:coincards-catalog",
+    "display_name": "Foot Locker",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Foot Locker publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:foot-locker:coingate-directory",
     "display_name": "Foot Locker",
     "country": null,
@@ -31144,6 +36604,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/lululemon"
+    ]
+  },
+  {
+    "legacy_id": "merchant:foot-locker:coinsbee-catalog",
+    "display_name": "Foot Locker",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Foot Locker publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:foot-locker:cryptorefills-catalog",
+    "display_name": "Foot Locker",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Foot Locker publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:foot-locker:dundle-catalog",
+    "display_name": "Foot Locker",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Foot Locker publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:foot-locker:egifter-catalog",
+    "display_name": "Foot Locker",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Foot Locker publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -31379,6 +36959,156 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitpay.com/directory/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:fortnite-v-bucks:coincards-catalog",
+    "display_name": "Fortnite V-Bucks",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Fortnite V-Bucks publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:fortnite-v-bucks:coinsbee-catalog",
+    "display_name": "Fortnite V-Bucks",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Fortnite V-Bucks publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:fortnite-v-bucks:cryptorefills-catalog",
+    "display_name": "Fortnite V-Bucks",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Fortnite V-Bucks publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:fortnite-v-bucks:dundle-catalog",
+    "display_name": "Fortnite V-Bucks",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Fortnite V-Bucks publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:fortnite-v-bucks:egifter-catalog",
+    "display_name": "Fortnite V-Bucks",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Fortnite V-Bucks publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -31705,6 +37435,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:free-fire:coincards-catalog",
+    "display_name": "Free Fire",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Free Fire publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:free-fire:egifter-catalog",
+    "display_name": "Free Fire",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Free Fire publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:free-fire-diamonds-bitpay-gift-card",
     "display_name": "Free Fire Diamonds",
     "country": null,
@@ -31732,6 +37522,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitpay.com/directory/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:free-fire-diamonds:coinsbee-catalog",
+    "display_name": "Free Fire Diamonds",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Free Fire Diamonds publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:free-fire-diamonds:cryptorefills-catalog",
+    "display_name": "Free Fire Diamonds",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Free Fire Diamonds publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:free-fire-diamonds:dundle-catalog",
+    "display_name": "Free Fire Diamonds",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Free Fire Diamonds publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/gaming/"
     ]
   },
   {
@@ -32358,6 +38238,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:gamestop:coincards-catalog",
+    "display_name": "GameStop",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "GameStop publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:gamestop:coingate-directory",
     "display_name": "GameStop",
     "country": null,
@@ -32415,6 +38325,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/ikea"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gamestop:coinsbee-catalog",
+    "display_name": "GameStop",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "GameStop publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gamestop:cryptorefills-catalog",
+    "display_name": "GameStop",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "GameStop publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gamestop:dundle-catalog",
+    "display_name": "GameStop",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "GameStop publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gamestop:egifter-catalog",
+    "display_name": "GameStop",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "GameStop publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -32507,6 +38537,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:gap:coincards-catalog",
+    "display_name": "Gap",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Gap publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:gap:coingate-directory",
     "display_name": "Gap",
     "country": null,
@@ -32533,6 +38593,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gap:egifter-catalog",
+    "display_name": "Gap",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Gap publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -33805,6 +39895,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:google-play:coincards-catalog",
+    "display_name": "Google Play",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Google Play publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:google-play:coingate-directory",
     "display_name": "Google Play",
     "country": null,
@@ -33831,6 +39951,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:google-play:coinsbee-catalog",
+    "display_name": "Google Play",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Google Play publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/gift-cards/entertainment/google-play/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:google-play:cryptorefills-catalog",
+    "display_name": "Google Play",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Google Play publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:google-play:dundle-catalog",
+    "display_name": "Google Play",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Google Play publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:google-play:egifter-catalog",
+    "display_name": "Google Play",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Google Play publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -36073,6 +42313,156 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:grubhub:coincards-catalog",
+    "display_name": "Grubhub",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Grubhub publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:grubhub:coinsbee-catalog",
+    "display_name": "Grubhub",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Grubhub publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:grubhub:cryptorefills-catalog",
+    "display_name": "Grubhub",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Grubhub publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:grubhub:dundle-catalog",
+    "display_name": "Grubhub",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Grubhub publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:grubhub:egifter-catalog",
+    "display_name": "Grubhub",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Grubhub publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:gs25:coingate-directory",
     "display_name": "GS25",
     "country": null,
@@ -36456,6 +42846,156 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:h-m:dundle-catalog",
+    "display_name": "H&M",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "H&M publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:handm:coincards-catalog",
+    "display_name": "H&M",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "H&M publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:handm:coinsbee-catalog",
+    "display_name": "H&M",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "H&M publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:handm:cryptorefills-catalog",
+    "display_name": "H&M",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "H&M publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hm:egifter-catalog",
+    "display_name": "H&M",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "H&M publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -36895,6 +43435,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:hbo-max:coinsbee-catalog",
+    "display_name": "HBO Max",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "HBO Max publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hbo-max:cryptorefills-catalog",
+    "display_name": "HBO Max",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "HBO Max publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hbo-max:dundle-catalog",
+    "display_name": "HBO Max",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "HBO Max publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/entertainment/"
+    ]
+  },
+  {
     "legacy_id": "merchant:healthkart-e-gift-voucher:coingate-directory",
     "display_name": "Healthkart E-Gift Voucher",
     "country": null,
@@ -37305,6 +43935,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:homegoods:coincards-catalog",
+    "display_name": "HomeGoods",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "HomeGoods publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:homegoods:egifter-catalog",
+    "display_name": "HomeGoods",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "HomeGoods publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -37887,6 +44577,156 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:hotels-com:coincards-catalog",
+    "display_name": "Hotels.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Hotels.com publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hotels-com:coinsbee-catalog",
+    "display_name": "Hotels.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Hotels.com publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hotels-com:cryptorefills-catalog",
+    "display_name": "Hotels.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Hotels.com publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hotels-com:dundle-catalog",
+    "display_name": "Hotels.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Hotels.com publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hotels-com:egifter-catalog",
+    "display_name": "Hotels.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Hotels.com publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:hotels-com:bitrefill-directory-at",
     "display_name": "Hotels.com AT",
     "country": null,
@@ -38238,6 +45078,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:hulu:coincards-catalog",
+    "display_name": "Hulu",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Hulu publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:hulu:coingate-directory",
     "display_name": "Hulu",
     "country": null,
@@ -38293,6 +45163,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hulu:coinsbee-catalog",
+    "display_name": "Hulu",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Hulu publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hulu:cryptorefills-catalog",
+    "display_name": "Hulu",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Hulu publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hulu:dundle-catalog",
+    "display_name": "Hulu",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Hulu publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hulu:egifter-catalog",
+    "display_name": "Hulu",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Hulu publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -38740,6 +45730,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:ikea:coincards-catalog",
+    "display_name": "IKEA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "IKEA publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:ikea:coingate-directory",
     "display_name": "IKEA",
     "country": null,
@@ -38766,6 +45786,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ikea:coinsbee-catalog",
+    "display_name": "IKEA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "IKEA publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ikea:cryptorefills-catalog",
+    "display_name": "IKEA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "IKEA publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ikea:dundle-catalog",
+    "display_name": "IKEA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "IKEA publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ikea:egifter-catalog",
+    "display_name": "IKEA",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "IKEA publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -39967,6 +47107,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:instacart:coincards-catalog",
+    "display_name": "Instacart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Instacart publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:instacart:coingate-directory",
     "display_name": "Instacart",
     "country": null,
@@ -39993,6 +47163,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:instacart:coinsbee-catalog",
+    "display_name": "Instacart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Instacart publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:instacart:cryptorefills-catalog",
+    "display_name": "Instacart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Instacart publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:instacart:dundle-catalog",
+    "display_name": "Instacart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Instacart publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:instacart:egifter-catalog",
+    "display_name": "Instacart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Instacart publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -40467,6 +47757,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:itunes:coinsbee-catalog",
+    "display_name": "iTunes",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "iTunes publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:itunes:cryptorefills-catalog",
+    "display_name": "iTunes",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "iTunes publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/entertainment/"
+    ]
+  },
+  {
     "legacy_id": "merchant:ivacyvpn:coingate-directory",
     "display_name": "IvacyVPN",
     "country": null,
@@ -40807,6 +48157,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:jcpenney:coincards-catalog",
+    "display_name": "JCPenney",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "JCPenney publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:jcpenney:coingate-directory",
     "display_name": "JCPenney",
     "country": null,
@@ -40833,6 +48213,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:jcpenney:egifter-catalog",
+    "display_name": "JCPenney",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "JCPenney publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -41189,6 +48599,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/wayfair"
+    ]
+  },
+  {
+    "legacy_id": "merchant:john-lewis:coinsbee-catalog",
+    "display_name": "John Lewis",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "John Lewis publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:john-lewis:cryptorefills-catalog",
+    "display_name": "John Lewis",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "John Lewis publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:john-lewis:dundle-catalog",
+    "display_name": "John Lewis",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "John Lewis publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
     ]
   },
   {
@@ -41605,6 +49105,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:just-eat:coinsbee-catalog",
+    "display_name": "Just Eat",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Just Eat publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:just-eat:cryptorefills-catalog",
+    "display_name": "Just Eat",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Just Eat publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:just-eat:dundle-catalog",
+    "display_name": "Just Eat",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Just Eat publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/food/"
+    ]
+  },
+  {
     "legacy_id": "merchant:just-eat:bitrefill-directory-ie",
     "display_name": "Just Eat IE",
     "country": null,
@@ -41868,6 +49458,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:kfc:coincards-catalog",
+    "display_name": "KFC",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "KFC publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:kfc:coingate-directory",
     "display_name": "KFC",
     "country": null,
@@ -41923,6 +49543,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:kfc:coinsbee-catalog",
+    "display_name": "KFC",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "KFC publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:kfc:cryptorefills-catalog",
+    "display_name": "KFC",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "KFC publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:kfc:dundle-catalog",
+    "display_name": "KFC",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "KFC publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:kfc:egifter-catalog",
+    "display_name": "KFC",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "KFC publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -42857,6 +50597,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:kohl-s:coincards-catalog",
+    "display_name": "Kohl's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Kohl's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:kohl-s:coingate-directory",
     "display_name": "Kohl's",
     "country": null,
@@ -42912,6 +50682,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:kohls:egifter-catalog",
+    "display_name": "Kohl's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Kohl's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -43298,6 +51098,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:lastminute-com:coinsbee-catalog",
+    "display_name": "lastminute.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "lastminute.com publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lastminute-com:cryptorefills-catalog",
+    "display_name": "lastminute.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "lastminute.com publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lastminute-com:dundle-catalog",
+    "display_name": "lastminute.com",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "lastminute.com publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/travel/"
+    ]
+  },
+  {
     "legacy_id": "merchant:launtel:btcpay-directory",
     "display_name": "Launtel",
     "country": null,
@@ -43588,6 +51478,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:league-of-legends:coinsbee-catalog",
+    "display_name": "League of Legends",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "League of Legends publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:league-of-legends:cryptorefills-catalog",
+    "display_name": "League of Legends",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "League of Legends publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:league-of-legends:dundle-catalog",
+    "display_name": "League of Legends",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "League of Legends publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/gaming/"
     ]
   },
   {
@@ -44709,6 +52689,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:lowe-s:coincards-catalog",
+    "display_name": "Lowe's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Lowe's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:lowe-s:coingate-directory",
     "display_name": "Lowe's",
     "country": null,
@@ -44735,6 +52745,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lowe-s:dundle-catalog",
+    "display_name": "Lowe's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Lowe's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
     ]
   },
   {
@@ -44794,6 +52834,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lowes:coinsbee-catalog",
+    "display_name": "Lowe's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Lowe's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lowes:cryptorefills-catalog",
+    "display_name": "Lowe's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Lowe's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lowes:egifter-catalog",
+    "display_name": "Lowe's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Lowe's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -45325,6 +53455,126 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:lyft:coinsbee-catalog",
+    "display_name": "Lyft",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Lyft publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lyft:cryptorefills-catalog",
+    "display_name": "Lyft",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Lyft publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lyft:dundle-catalog",
+    "display_name": "Lyft",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Lyft publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:macy-s:coincards-catalog",
+    "display_name": "Macy's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Macy's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:macy-s:coingate-directory",
     "display_name": "Macy's",
     "country": null,
@@ -45351,6 +53601,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:macy-s:dundle-catalog",
+    "display_name": "Macy's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Macy's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
     ]
   },
   {
@@ -45409,6 +53689,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:macys:coinsbee-catalog",
+    "display_name": "Macy's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Macy's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:macys:cryptorefills-catalog",
+    "display_name": "Macy's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Macy's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:macys:egifter-catalog",
+    "display_name": "Macy's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Macy's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -46030,6 +54400,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:marks-and-spencer:coinsbee-catalog",
+    "display_name": "Marks & Spencer",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Marks & Spencer publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:marks-and-spencer:cryptorefills-catalog",
+    "display_name": "Marks & Spencer",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Marks & Spencer publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
     "legacy_id": "merchant:marks-spencer:bitrefill-directory",
     "display_name": "Marks & Spencer",
     "country": null,
@@ -46056,6 +54486,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/gb/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:marks-spencer:dundle-catalog",
+    "display_name": "Marks & Spencer",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Marks & Spencer publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
     ]
   },
   {
@@ -46237,6 +54697,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:marshalls:coincards-catalog",
+    "display_name": "Marshalls",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Marshalls publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:marshalls:coingate-directory",
     "display_name": "Marshalls",
     "country": null,
@@ -46292,6 +54782,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:marshalls:egifter-catalog",
+    "display_name": "Marshalls",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Marshalls publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -46619,6 +55139,156 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:mcdonald-s:coincards-catalog",
+    "display_name": "McDonald's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "McDonald's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:mcdonald-s:dundle-catalog",
+    "display_name": "McDonald's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "McDonald's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:mcdonalds:coinsbee-catalog",
+    "display_name": "McDonald's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "McDonald's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:mcdonalds:cryptorefills-catalog",
+    "display_name": "McDonald's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "McDonald's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:mcdonalds:egifter-catalog",
+    "display_name": "McDonald's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "McDonald's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:media-expert:bitrefill-directory-pl",
     "display_name": "Media Expert",
     "country": null,
@@ -46790,6 +55460,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:mediamarkt:coinsbee-catalog",
+    "display_name": "MediaMarkt",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "MediaMarkt publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:mediamarkt:cryptorefills-catalog",
+    "display_name": "MediaMarkt",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "MediaMarkt publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:mediamarkt:dundle-catalog",
+    "display_name": "MediaMarkt",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "MediaMarkt publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
     ]
   },
   {
@@ -47348,6 +56108,156 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/si/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:minecraft:coincards-catalog",
+    "display_name": "Minecraft",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Minecraft publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:minecraft:coinsbee-catalog",
+    "display_name": "Minecraft",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Minecraft publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:minecraft:cryptorefills-catalog",
+    "display_name": "Minecraft",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Minecraft publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:minecraft:dundle-catalog",
+    "display_name": "Minecraft",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Minecraft publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:minecraft:egifter-catalog",
+    "display_name": "Minecraft",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Minecraft publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -49010,6 +57920,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:netflix:coincards-catalog",
+    "display_name": "Netflix",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Netflix publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:netflix:coingate-directory",
     "display_name": "Netflix",
     "country": null,
@@ -49036,6 +57976,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:netflix:coinsbee-catalog",
+    "display_name": "Netflix",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Netflix publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:netflix:cryptorefills-catalog",
+    "display_name": "Netflix",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Netflix publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:netflix:dundle-catalog",
+    "display_name": "Netflix",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Netflix publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:netflix:egifter-catalog",
+    "display_name": "Netflix",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Netflix publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -51441,6 +60501,156 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:newegg:coincards-catalog",
+    "display_name": "Newegg",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Newegg publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:newegg:coinsbee-catalog",
+    "display_name": "Newegg",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Newegg publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:newegg:cryptorefills-catalog",
+    "display_name": "Newegg",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Newegg publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:newegg:dundle-catalog",
+    "display_name": "Newegg",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Newegg publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:newegg:egifter-catalog",
+    "display_name": "Newegg",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Newegg publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:newegg-ca:bitpay-directory",
     "display_name": "Newegg Canada",
     "country": null,
@@ -51591,6 +60801,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:nike:coincards-catalog",
+    "display_name": "Nike",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Nike publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:nike:coingate-directory",
     "display_name": "Nike",
     "country": null,
@@ -51646,6 +60886,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nike:coinsbee-catalog",
+    "display_name": "Nike",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Nike publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nike:cryptorefills-catalog",
+    "display_name": "Nike",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Nike publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nike:dundle-catalog",
+    "display_name": "Nike",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Nike publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nike:egifter-catalog",
+    "display_name": "Nike",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Nike publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -52056,6 +61416,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:nintendo-eshop:coincards-catalog",
+    "display_name": "Nintendo eShop",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Nintendo eShop publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:nintendo-eshop:coingate-directory",
     "display_name": "Nintendo eShop",
     "country": null,
@@ -52083,6 +61473,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/habbo"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nintendo-eshop:coinsbee-catalog",
+    "display_name": "Nintendo eShop",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Nintendo eShop publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nintendo-eshop:cryptorefills-catalog",
+    "display_name": "Nintendo eShop",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Nintendo eShop publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nintendo-eshop:dundle-catalog",
+    "display_name": "Nintendo eShop",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Nintendo eShop publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nintendo-eshop:egifter-catalog",
+    "display_name": "Nintendo eShop",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Nintendo eShop publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -52403,6 +61913,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/ng/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nintendo-online:dundle-catalog",
+    "display_name": "Nintendo Online",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Nintendo Online publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/gaming/"
     ]
   },
   {
@@ -52757,6 +62297,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:nordstrom:coincards-catalog",
+    "display_name": "Nordstrom",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Nordstrom publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:nordstrom:coingate-directory",
     "display_name": "Nordstrom",
     "country": null,
@@ -52812,6 +62382,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nordstrom:coinsbee-catalog",
+    "display_name": "Nordstrom",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Nordstrom publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nordstrom:cryptorefills-catalog",
+    "display_name": "Nordstrom",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Nordstrom publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nordstrom:dundle-catalog",
+    "display_name": "Nordstrom",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Nordstrom publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nordstrom:egifter-catalog",
+    "display_name": "Nordstrom",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Nordstrom publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -53762,6 +63452,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:office-depot:coincards-catalog",
+    "display_name": "Office Depot",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Office Depot publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:office-depot:egifter-catalog",
+    "display_name": "Office Depot",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Office Depot publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:office-depot-gt:bitrefill-directory-gt",
     "display_name": "Office Depot GT",
     "country": null,
@@ -53849,6 +63599,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:old-navy:coincards-catalog",
+    "display_name": "Old Navy",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Old Navy publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:old-navy:egifter-catalog",
+    "display_name": "Old Navy",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Old Navy publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:olimpica-co:bitrefill-directory-co",
     "display_name": "Olímpica CO",
     "country": null,
@@ -53875,6 +63685,156 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/co/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:olive-garden:coincards-catalog",
+    "display_name": "Olive Garden",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Olive Garden publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:olive-garden:coinsbee-catalog",
+    "display_name": "Olive Garden",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Olive Garden publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:olive-garden:cryptorefills-catalog",
+    "display_name": "Olive Garden",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Olive Garden publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:olive-garden:dundle-catalog",
+    "display_name": "Olive Garden",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Olive Garden publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:olive-garden:egifter-catalog",
+    "display_name": "Olive Garden",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Olive Garden publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -54655,6 +64615,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:outback-steakhouse:coincards-catalog",
+    "display_name": "Outback Steakhouse",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Outback Steakhouse publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:outback-steakhouse:coingate-directory",
     "display_name": "Outback Steakhouse",
     "country": null,
@@ -54682,6 +64672,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/walmart"
+    ]
+  },
+  {
+    "legacy_id": "merchant:outback-steakhouse:egifter-catalog",
+    "display_name": "Outback Steakhouse",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Outback Steakhouse publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -55029,6 +65049,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:panera-bread:coincards-catalog",
+    "display_name": "Panera Bread",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Panera Bread publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:panera-bread:egifter-catalog",
+    "display_name": "Panera Bread",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Panera Bread publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:panorama-lt:bitrefill-directory-lt",
     "display_name": "PANORAMA LT",
     "country": null,
@@ -55085,6 +65165,306 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/flipkart"
+    ]
+  },
+  {
+    "legacy_id": "merchant:papa-john-s:coincards-catalog",
+    "display_name": "Papa John's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Papa John's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:papa-john-s:dundle-catalog",
+    "display_name": "Papa John's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Papa John's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:papa-johns:coinsbee-catalog",
+    "display_name": "Papa John's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Papa John's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:papa-johns:cryptorefills-catalog",
+    "display_name": "Papa John's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Papa John's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:papa-johns:egifter-catalog",
+    "display_name": "Papa John's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Papa John's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:paramount:dundle-catalog",
+    "display_name": "Paramount+",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Paramount+ publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:paramountplus:coincards-catalog",
+    "display_name": "Paramount+",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Paramount+ publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:paramountplus:coinsbee-catalog",
+    "display_name": "Paramount+",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Paramount+ publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:paramountplus:cryptorefills-catalog",
+    "display_name": "Paramount+",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Paramount+ publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:paramountplus:egifter-catalog",
+    "display_name": "Paramount+",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Paramount+ publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -55876,6 +66256,126 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:petco:coincards-catalog",
+    "display_name": "Petco",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Petco publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:petco:egifter-catalog",
+    "display_name": "Petco",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Petco publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:petsmart:coincards-catalog",
+    "display_name": "PetSmart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "PetSmart publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:petsmart:egifter-catalog",
+    "display_name": "PetSmart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "PetSmart publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:phonepe:coingate-directory",
     "display_name": "PhonePe",
     "country": null,
@@ -56112,6 +66612,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:pizza-hut:coincards-catalog",
+    "display_name": "Pizza Hut",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Pizza Hut publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:pizza-hut:coingate-directory",
     "display_name": "Pizza Hut",
     "country": null,
@@ -56138,6 +66668,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:pizza-hut:coinsbee-catalog",
+    "display_name": "Pizza Hut",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Pizza Hut publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:pizza-hut:cryptorefills-catalog",
+    "display_name": "Pizza Hut",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Pizza Hut publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:pizza-hut:dundle-catalog",
+    "display_name": "Pizza Hut",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Pizza Hut publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:pizza-hut:egifter-catalog",
+    "display_name": "Pizza Hut",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Pizza Hut publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -56375,6 +67025,156 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/gaming"
+    ]
+  },
+  {
+    "legacy_id": "merchant:playstation-store:coincards-catalog",
+    "display_name": "PlayStation Store",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "PlayStation Store publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:playstation-store:coinsbee-catalog",
+    "display_name": "PlayStation Store",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "PlayStation Store publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:playstation-store:cryptorefills-catalog",
+    "display_name": "PlayStation Store",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "PlayStation Store publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:playstation-store:dundle-catalog",
+    "display_name": "PlayStation Store",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "PlayStation Store publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:playstation-store:egifter-catalog",
+    "display_name": "PlayStation Store",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "PlayStation Store publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -58795,6 +69595,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:primark:coinsbee-catalog",
+    "display_name": "Primark",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Primark publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:primark:cryptorefills-catalog",
+    "display_name": "Primark",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Primark publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:primark:dundle-catalog",
+    "display_name": "Primark",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Primark publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
     "legacy_id": "merchant:primark-belgium:bitrefill-directory-be",
     "display_name": "Primark Belgium",
     "country": null,
@@ -59625,6 +70515,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:pubg-mobile:coincards-catalog",
+    "display_name": "PUBG Mobile",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "PUBG Mobile publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:pubg-mobile:egifter-catalog",
+    "display_name": "PUBG Mobile",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "PUBG Mobile publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:pubg-mobile-uc:coingate-directory",
     "display_name": "PUBG Mobile UC",
     "country": null,
@@ -59680,6 +70630,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:pubg-mobile-uc:coinsbee-catalog",
+    "display_name": "PUBG Mobile UC",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "PUBG Mobile UC publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:pubg-mobile-uc:cryptorefills-catalog",
+    "display_name": "PUBG Mobile UC",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "PUBG Mobile UC publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:pubg-mobile-uc:dundle-catalog",
+    "display_name": "PUBG Mobile UC",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "PUBG Mobile UC publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/gaming/"
     ]
   },
   {
@@ -60498,6 +71538,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:razer-gold:coincards-catalog",
+    "display_name": "Razer Gold",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Razer Gold publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:razer-gold:coingate-directory",
     "display_name": "Razer Gold",
     "country": null,
@@ -60553,6 +71623,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:razer-gold:coinsbee-catalog",
+    "display_name": "Razer Gold",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Razer Gold publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:razer-gold:cryptorefills-catalog",
+    "display_name": "Razer Gold",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Razer Gold publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:razer-gold:dundle-catalog",
+    "display_name": "Razer Gold",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Razer Gold publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:razer-gold:egifter-catalog",
+    "display_name": "Razer Gold",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Razer Gold publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -60824,6 +72014,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:red-lobster:coincards-catalog",
+    "display_name": "Red Lobster",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Red Lobster publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:red-lobster:egifter-catalog",
+    "display_name": "Red Lobster",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Red Lobster publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:redswitches:crypto-cryptomus",
     "display_name": "RedSwitches",
     "country": "SG",
@@ -60898,6 +72148,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:regal-cinemas:coincards-catalog",
+    "display_name": "Regal Cinemas",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Regal Cinemas publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:regal-cinemas:egifter-catalog",
+    "display_name": "Regal Cinemas",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Regal Cinemas publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -60996,6 +72306,66 @@ export const generatedProductMerchantsData = [
       "https://regxa.com/",
       "https://regxa.com/legal/sla",
       "https://regxa.com/pay-vps-with-trx"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rei:coincards-catalog",
+    "display_name": "REI",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "REI publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rei:egifter-catalog",
+    "display_name": "REI",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "REI publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -61745,6 +73115,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:rewe:coinsbee-catalog",
+    "display_name": "REWE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "REWE publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rewe:cryptorefills-catalog",
+    "display_name": "REWE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "REWE publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rewe:dundle-catalog",
+    "display_name": "REWE",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "REWE publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
     "legacy_id": "merchant:rewe:bitrefill-directory-de",
     "display_name": "Rewe DE",
     "country": null,
@@ -61888,6 +73348,156 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/se/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:riot-games:coincards-catalog",
+    "display_name": "Riot Games",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Riot Games publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:riot-games:coinsbee-catalog",
+    "display_name": "Riot Games",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Riot Games publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:riot-games:cryptorefills-catalog",
+    "display_name": "Riot Games",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Riot Games publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:riot-games:dundle-catalog",
+    "display_name": "Riot Games",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Riot Games publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:riot-games:egifter-catalog",
+    "display_name": "Riot Games",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Riot Games publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -62183,6 +73793,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:roblox:coincards-catalog",
+    "display_name": "Roblox",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Roblox publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:roblox:coingate-directory",
     "display_name": "Roblox",
     "country": null,
@@ -62238,6 +73878,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:roblox:coinsbee-catalog",
+    "display_name": "Roblox",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Roblox publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:roblox:cryptorefills-catalog",
+    "display_name": "Roblox",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Roblox publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:roblox:dundle-catalog",
+    "display_name": "Roblox",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Roblox publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:roblox:egifter-catalog",
+    "display_name": "Roblox",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Roblox publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -63298,6 +75058,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:sainsbury-s:dundle-catalog",
+    "display_name": "Sainsbury's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Sainsbury's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
     "legacy_id": "merchant:sainsburys:coingate-directory",
     "display_name": "Sainsbury's",
     "country": null,
@@ -63355,6 +75145,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/wayfair"
+    ]
+  },
+  {
+    "legacy_id": "merchant:sainsburys:coinsbee-catalog",
+    "display_name": "Sainsbury's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Sainsbury's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:sainsburys:cryptorefills-catalog",
+    "display_name": "Sainsbury's",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Sainsbury's publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
     ]
   },
   {
@@ -64081,6 +75931,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:sephora:coincards-catalog",
+    "display_name": "Sephora",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Sephora publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:sephora:coingate-directory",
     "display_name": "Sephora",
     "country": null,
@@ -64136,6 +76016,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:sephora:coinsbee-catalog",
+    "display_name": "Sephora",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Sephora publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:sephora:cryptorefills-catalog",
+    "display_name": "Sephora",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Sephora publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:sephora:dundle-catalog",
+    "display_name": "Sephora",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Sephora publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:sephora:egifter-catalog",
+    "display_name": "Sephora",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Sephora publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -65482,6 +77482,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:sling-tv:coincards-catalog",
+    "display_name": "Sling TV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Sling TV publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:sling-tv:egifter-catalog",
+    "display_name": "Sling TV",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Sling TV publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:slot-ng:bitrefill-directory-ng",
     "display_name": "SLOT NG",
     "country": null,
@@ -65836,6 +77896,156 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:southwest-airlines:coincards-catalog",
+    "display_name": "Southwest Airlines",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Southwest Airlines publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:southwest-airlines:coinsbee-catalog",
+    "display_name": "Southwest Airlines",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Southwest Airlines publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:southwest-airlines:cryptorefills-catalog",
+    "display_name": "Southwest Airlines",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Southwest Airlines publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:southwest-airlines:dundle-catalog",
+    "display_name": "Southwest Airlines",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Southwest Airlines publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:southwest-airlines:egifter-catalog",
+    "display_name": "Southwest Airlines",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Southwest Airlines publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:spar-hypermarket:coingate-directory",
     "display_name": "Spar Hypermarket",
     "country": null,
@@ -65955,6 +78165,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:spotify:coincards-catalog",
+    "display_name": "Spotify",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Spotify publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:spotify:coingate-directory",
     "display_name": "Spotify",
     "country": null,
@@ -65981,6 +78221,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:spotify:coinsbee-catalog",
+    "display_name": "Spotify",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Spotify publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:spotify:cryptorefills-catalog",
+    "display_name": "Spotify",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Spotify publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:spotify:dundle-catalog",
+    "display_name": "Spotify",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Spotify publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:spotify:egifter-catalog",
+    "display_name": "Spotify",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Spotify publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -67729,6 +80089,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:staples:coincards-catalog",
+    "display_name": "Staples",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Staples publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:staples:egifter-catalog",
+    "display_name": "Staples",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Staples publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:starbucks:bitrefill-directory",
     "display_name": "Starbucks",
     "country": null,
@@ -67758,6 +80178,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:starbucks:coincards-catalog",
+    "display_name": "Starbucks",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Starbucks publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:starbucks:coingate-directory",
     "display_name": "Starbucks",
     "country": null,
@@ -67784,6 +80234,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:starbucks:coinsbee-catalog",
+    "display_name": "Starbucks",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Starbucks publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:starbucks:cryptorefills-catalog",
+    "display_name": "Starbucks",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Starbucks publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:starbucks:dundle-catalog",
+    "display_name": "Starbucks",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Starbucks publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:starbucks:egifter-catalog",
+    "display_name": "Starbucks",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Starbucks publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -68078,6 +80648,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:steam:coincards-catalog",
+    "display_name": "Steam",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Steam publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:steam:coingate-directory",
     "display_name": "Steam",
     "country": null,
@@ -68133,6 +80733,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:steam:coinsbee-catalog",
+    "display_name": "Steam",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Steam publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:steam:cryptorefills-catalog",
+    "display_name": "Steam",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Steam publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:steam:dundle-catalog",
+    "display_name": "Steam",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Steam publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:steam:egifter-catalog",
+    "display_name": "Steam",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Steam publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -70051,6 +82771,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:subway:coincards-catalog",
+    "display_name": "Subway",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Subway publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:subway:coingate-directory",
     "display_name": "Subway",
     "country": null,
@@ -70106,6 +82856,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:subway:coinsbee-catalog",
+    "display_name": "Subway",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Subway publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:subway:cryptorefills-catalog",
+    "display_name": "Subway",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Subway publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:subway:dundle-catalog",
+    "display_name": "Subway",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Subway publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:subway:egifter-catalog",
+    "display_name": "Subway",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Subway publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -70966,6 +83836,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:taco-bell:coincards-catalog",
+    "display_name": "Taco Bell",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Taco Bell publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:taco-bell:coingate-directory",
     "display_name": "Taco Bell",
     "country": null,
@@ -71021,6 +83921,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:taco-bell:coinsbee-catalog",
+    "display_name": "Taco Bell",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Taco Bell publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:taco-bell:cryptorefills-catalog",
+    "display_name": "Taco Bell",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Taco Bell publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:taco-bell:dundle-catalog",
+    "display_name": "Taco Bell",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Taco Bell publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:taco-bell:egifter-catalog",
+    "display_name": "Taco Bell",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Taco Bell publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -71463,6 +84483,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:target:coincards-catalog",
+    "display_name": "Target",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Target publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:target:coingate-directory",
     "display_name": "Target",
     "country": null,
@@ -71518,6 +84568,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:target:coinsbee-catalog",
+    "display_name": "Target",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Target publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:target:cryptorefills-catalog",
+    "display_name": "Target",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Target publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:target:dundle-catalog",
+    "display_name": "Target",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Target publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:target:egifter-catalog",
+    "display_name": "Target",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Target publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -71815,6 +84985,96 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:tesco:coinsbee-catalog",
+    "display_name": "Tesco",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Tesco publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:tesco:cryptorefills-catalog",
+    "display_name": "Tesco",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Tesco publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:tesco:dundle-catalog",
+    "display_name": "Tesco",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Tesco publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
     "legacy_id": "merchant:tesco:bitrefill-directory-ie",
     "display_name": "Tesco IE",
     "country": null,
@@ -71841,6 +85101,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/ie/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:texas-roadhouse:egifter-catalog",
+    "display_name": "Texas Roadhouse",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Texas Roadhouse publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -71964,6 +85254,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:the-cheesecake-factory:coincards-catalog",
+    "display_name": "The Cheesecake Factory",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "The Cheesecake Factory publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:the-cheesecake-factory:coingate-directory",
     "display_name": "The Cheesecake Factory",
     "country": null,
@@ -71991,6 +85311,36 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/skype"
+    ]
+  },
+  {
+    "legacy_id": "merchant:the-cheesecake-factory:egifter-catalog",
+    "display_name": "The Cheesecake Factory",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "The Cheesecake Factory publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -72110,6 +85460,156 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/expedia"
+    ]
+  },
+  {
+    "legacy_id": "merchant:the-home-depot:coincards-catalog",
+    "display_name": "The Home Depot",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "The Home Depot publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:the-home-depot:coinsbee-catalog",
+    "display_name": "The Home Depot",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "The Home Depot publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:the-home-depot:cryptorefills-catalog",
+    "display_name": "The Home Depot",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "The Home Depot publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:the-home-depot:dundle-catalog",
+    "display_name": "The Home Depot",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "The Home Depot publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:the-home-depot:egifter-catalog",
+    "display_name": "The Home Depot",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "The Home Depot publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -72870,6 +86370,66 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:tj-maxx:coincards-catalog",
+    "display_name": "TJ Maxx",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "TJ Maxx publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:tj-maxx:egifter-catalog",
+    "display_name": "TJ Maxx",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "TJ Maxx publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -73847,6 +87407,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:twitch:coincards-catalog",
+    "display_name": "Twitch",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Twitch publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:twitch:coingate-directory",
     "display_name": "Twitch",
     "country": null,
@@ -73905,6 +87495,126 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:twitch:coinsbee-catalog",
+    "display_name": "Twitch",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Twitch publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:twitch:cryptorefills-catalog",
+    "display_name": "Twitch",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Twitch publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:twitch:dundle-catalog",
+    "display_name": "Twitch",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Twitch publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:twitch:egifter-catalog",
+    "display_name": "Twitch",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Twitch publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:twitch-eu:bitrefill-directory-ee",
     "display_name": "Twitch EU",
     "country": null,
@@ -73960,6 +87670,156 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/lv/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:uber:coincards-catalog",
+    "display_name": "Uber",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Uber publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:uber:coinsbee-catalog",
+    "display_name": "Uber",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Uber publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:uber:cryptorefills-catalog",
+    "display_name": "Uber",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Uber publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:uber:dundle-catalog",
+    "display_name": "Uber",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Uber publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/travel/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:uber:egifter-catalog",
+    "display_name": "Uber",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Uber publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -74425,6 +88285,156 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitpay.com/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:uber-eats:coincards-catalog",
+    "display_name": "Uber Eats",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Uber Eats publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:uber-eats:coinsbee-catalog",
+    "display_name": "Uber Eats",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Uber Eats publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:uber-eats:cryptorefills-catalog",
+    "display_name": "Uber Eats",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Uber Eats publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:uber-eats:dundle-catalog",
+    "display_name": "Uber Eats",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Uber Eats publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/food/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:uber-eats:egifter-catalog",
+    "display_name": "Uber Eats",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Uber Eats publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -75824,6 +89834,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:ulta-beauty:coincards-catalog",
+    "display_name": "Ulta Beauty",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Ulta Beauty publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:ulta-beauty:coingate-directory",
     "display_name": "Ulta Beauty",
     "country": null,
@@ -75850,6 +89890,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ulta-beauty:coinsbee-catalog",
+    "display_name": "Ulta Beauty",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Ulta Beauty publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ulta-beauty:cryptorefills-catalog",
+    "display_name": "Ulta Beauty",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Ulta Beauty publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ulta-beauty:dundle-catalog",
+    "display_name": "Ulta Beauty",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Ulta Beauty publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ulta-beauty:egifter-catalog",
+    "display_name": "Ulta Beauty",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Ulta Beauty publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -76330,6 +90490,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:valorant-points:coinsbee-catalog",
+    "display_name": "Valorant Points",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Valorant Points publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:valorant-points:cryptorefills-catalog",
+    "display_name": "Valorant Points",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Valorant Points publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:valorant-points:dundle-catalog",
+    "display_name": "Valorant Points",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Valorant Points publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/gaming/"
     ]
   },
   {
@@ -77279,6 +91529,66 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:walgreens:coincards-catalog",
+    "display_name": "Walgreens",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Walgreens publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:walgreens:egifter-catalog",
+    "display_name": "Walgreens",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Walgreens publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:wallet-of-satoshi:btcpay-directory",
     "display_name": "Wallet of Satoshi",
     "country": null,
@@ -77369,6 +91679,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:walmart:coincards-catalog",
+    "display_name": "Walmart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Walmart publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:walmart:coingate-directory",
     "display_name": "Walmart",
     "country": null,
@@ -77424,6 +91764,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:walmart:coinsbee-catalog",
+    "display_name": "Walmart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Walmart publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:walmart:cryptorefills-catalog",
+    "display_name": "Walmart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Walmart publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:walmart:dundle-catalog",
+    "display_name": "Walmart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Walmart publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:walmart:egifter-catalog",
+    "display_name": "Walmart",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Walmart publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -77720,6 +92180,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:wayfair:coincards-catalog",
+    "display_name": "Wayfair",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Wayfair publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:wayfair:coingate-directory",
     "display_name": "Wayfair",
     "country": null,
@@ -77775,6 +92265,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:wayfair:coinsbee-catalog",
+    "display_name": "Wayfair",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Wayfair publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:wayfair:cryptorefills-catalog",
+    "display_name": "Wayfair",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Wayfair publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:wayfair:dundle-catalog",
+    "display_name": "Wayfair",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Wayfair publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:wayfair:egifter-catalog",
+    "display_name": "Wayfair",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Wayfair publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -78927,6 +93537,36 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:xbox:coincards-catalog",
+    "display_name": "Xbox",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Xbox publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
     "legacy_id": "merchant:xbox:coingate-directory",
     "display_name": "Xbox",
     "country": null,
@@ -78953,6 +93593,126 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards"
+    ]
+  },
+  {
+    "legacy_id": "merchant:xbox:coinsbee-catalog",
+    "display_name": "Xbox",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Xbox publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:xbox:cryptorefills-catalog",
+    "display_name": "Xbox",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Xbox publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:xbox:dundle-catalog",
+    "display_name": "Xbox",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Xbox publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/gaming/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:xbox:egifter-catalog",
+    "display_name": "Xbox",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Xbox publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
     ]
   },
   {
@@ -80614,6 +95374,156 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:youtube-premium:coincards-catalog",
+    "display_name": "YouTube Premium",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CoinCards",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CoinCards"
+    ],
+    "payment_notes": [
+      "CoinCards",
+      "CoinCards official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "YouTube Premium publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://coincards.com/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:youtube-premium:coinsbee-catalog",
+    "display_name": "YouTube Premium",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "YouTube Premium publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:youtube-premium:cryptorefills-catalog",
+    "display_name": "YouTube Premium",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "YouTube Premium publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:youtube-premium:dundle-catalog",
+    "display_name": "YouTube Premium",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "YouTube Premium publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:youtube-premium:egifter-catalog",
+    "display_name": "YouTube Premium",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "eGifter",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "eGifter"
+    ],
+    "payment_notes": [
+      "eGifter",
+      "eGifter official gift-card marketplace evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "YouTube Premium publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.egifter.com/giftcards"
+    ]
+  },
+  {
     "legacy_id": "merchant:zain-bh:bitrefill-directory-bh",
     "display_name": "Zain BH",
     "country": null,
@@ -80844,6 +95754,96 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/gift-cards/hm"
+    ]
+  },
+  {
+    "legacy_id": "merchant:zalando:coinsbee-catalog",
+    "display_name": "Zalando",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Coinsbee",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Coinsbee"
+    ],
+    "payment_notes": [
+      "Coinsbee",
+      "Coinsbee official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Zalando publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.coinsbee.com/en/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:zalando:cryptorefills-catalog",
+    "display_name": "Zalando",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "CryptoRefills",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "CryptoRefills"
+    ],
+    "payment_notes": [
+      "CryptoRefills",
+      "CryptoRefills official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Zalando publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://www.cryptorefills.com/gift-cards/shopping/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:zalando:dundle-catalog",
+    "display_name": "Zalando",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [],
+    "accepted_chains": [],
+    "payment_methods": [
+      "Dundle",
+      "processor_checkout",
+      "unknown"
+    ],
+    "payment_processors": [
+      "Dundle"
+    ],
+    "payment_notes": [
+      "Dundle",
+      "Dundle official catalog evidence; merchant-side direct crypto acceptance is not implied for gift-card entries.",
+      "Zalando publishes official documentation indicating cryptocurrency payment support."
+    ],
+    "social_links": [],
+    "proposed_mode": "processor",
+    "confidence": "medium",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://dundle.com/gift-cards/shopping/"
     ]
   },
   {
