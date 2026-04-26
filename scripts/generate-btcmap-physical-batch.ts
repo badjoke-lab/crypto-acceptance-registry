@@ -8,6 +8,7 @@ type BtcMapPlace = {
   lon?: number | null
   address?: string | null
   website?: string | null
+  updated_at?: string | null
   verified_at?: string | null
   osm_id?: string | null
   osm_url?: string | null
@@ -43,6 +44,7 @@ type CompactBatch = {
 
 const BATCH_NO = Number(process.argv[2] ?? '40')
 const TARGET_COUNT = Number(process.argv[3] ?? '100')
+const PAGE_LIMIT = Number(process.argv[4] ?? '250')
 const OUT_PATH = path.join(process.cwd(), `data/registry-v2-seeds-batch-${BATCH_NO}.json`)
 
 function slugify(value: string): string {
@@ -75,6 +77,31 @@ function cleanWebsite(website: string | null | undefined): string | null {
   return website
 }
 
+function getExistingBtcMapPlaceIds(): Set<string> {
+  const dataDir = path.join(process.cwd(), 'data')
+  if (!fs.existsSync(dataDir)) return new Set()
+
+  const used = new Set<string>()
+  for (const filename of fs.readdirSync(dataDir)) {
+    if (!/^registry-v2-seeds-batch-\d+\.json$/.test(filename)) continue
+    const filepath = path.join(dataDir, filename)
+    try {
+      const parsed = JSON.parse(fs.readFileSync(filepath, 'utf8')) as { entries?: Array<{ id?: string; notes?: string[] }> }
+      for (const entry of parsed.entries ?? []) {
+        const idMatch = entry.id?.match(/:btcmap-place-([a-z0-9-]+)$/)
+        if (idMatch?.[1]) used.add(idMatch[1])
+        for (const note of entry.notes ?? []) {
+          const noteMatch = note.match(/BTC Map place id: ([^\s]+)/)
+          if (noteMatch?.[1]) used.add(slugify(noteMatch[1]))
+        }
+      }
+    } catch {
+      // Non-compact or malformed files are ignored here; the public build remains the authoritative validator.
+    }
+  }
+  return used
+}
+
 function toEntry(place: BtcMapPlace) {
   const name = place.name?.trim()
   if (!name) return null
@@ -83,6 +110,7 @@ function toEntry(place: BtcMapPlace) {
   const { country, city } = parseAddress(place.address)
   const osmUrl = place.osm_url || (place.osm_id ? `https://www.openstreetmap.org/${place.osm_id.replace(':', '/')}` : null)
   const verified = place.verified_at ? `BTC Map verified_at: ${place.verified_at}` : 'BTC Map place entry has no verified_at value in selected fields.'
+  const updated = place.updated_at ? `BTC Map updated_at: ${place.updated_at}` : null
   const provider = place.payment_provider ? `payment_provider: ${place.payment_provider}` : null
   const latLon = typeof place.lat === 'number' && typeof place.lon === 'number' ? `lat/lon: ${place.lat}, ${place.lon}` : null
 
@@ -94,24 +122,16 @@ function toEntry(place: BtcMapPlace) {
     country,
     city,
     explicit_support: `${name} is listed in BTC Map as a physical place that accepts Bitcoin.`,
-    notes: [verified, osmUrl ? `OSM: ${osmUrl}` : null, provider, latLon].filter((item): item is string => Boolean(item)),
+    notes: [`BTC Map place id: ${placeId}`, verified, updated, osmUrl ? `OSM: ${osmUrl}` : null, provider, latLon].filter(
+      (item): item is string => Boolean(item),
+    ),
   }
 }
 
-async function main() {
-  const fields = [
-    'id',
-    'name',
-    'lat',
-    'lon',
-    'address',
-    'website',
-    'verified_at',
-    'osm_id',
-    'osm_url',
-    'payment_provider',
-  ].join(',')
-  const url = `https://api.btcmap.org/v4/places?fields=${encodeURIComponent(fields)}&limit=${TARGET_COUNT}`
+async function fetchPlaces(updatedSince: string, fields: string): Promise<{ url: string; places: BtcMapPlace[] }> {
+  const url = `https://api.btcmap.org/v4/places?fields=${encodeURIComponent(fields)}&updated_since=${encodeURIComponent(
+    updatedSince,
+  )}&limit=${PAGE_LIMIT}`
   const response = await fetch(url, {
     headers: {
       accept: 'application/json',
@@ -123,11 +143,56 @@ async function main() {
     throw new Error(`BTC Map API request failed: ${response.status} ${response.statusText}`)
   }
 
-  const places = (await response.json()) as BtcMapPlace[]
-  const entries = places.map(toEntry).filter((entry): entry is NonNullable<ReturnType<typeof toEntry>> => Boolean(entry))
+  return { url, places: (await response.json()) as BtcMapPlace[] }
+}
+
+async function main() {
+  const fields = [
+    'id',
+    'name',
+    'lat',
+    'lon',
+    'address',
+    'website',
+    'updated_at',
+    'verified_at',
+    'osm_id',
+    'osm_url',
+    'payment_provider',
+  ].join(',')
+
+  const usedPlaceIds = getExistingBtcMapPlaceIds()
+  const entries: CompactBatch['entries'] = []
+  const seenInRun = new Set<string>()
+  let updatedSince = '1970-01-01T00:00:00Z'
+  let sourceUrl = ''
+
+  for (let page = 0; page < 80 && entries.length < TARGET_COUNT; page++) {
+    const { url, places } = await fetchPlaces(updatedSince, fields)
+    sourceUrl ||= url
+    if (!places.length) break
+
+    for (const place of places) {
+      const placeId = slugify(String(place.id))
+      if (usedPlaceIds.has(placeId) || seenInRun.has(placeId)) continue
+      const entry = toEntry(place)
+      if (!entry) continue
+      entries.push(entry)
+      seenInRun.add(placeId)
+      if (entries.length === TARGET_COUNT) break
+    }
+
+    const updatedValues = places
+      .map((place) => place.updated_at)
+      .filter((value): value is string => Boolean(value))
+      .sort()
+    const nextUpdatedSince = updatedValues.at(-1)
+    if (!nextUpdatedSince || nextUpdatedSince === updatedSince) break
+    updatedSince = nextUpdatedSince
+  }
 
   if (entries.length !== TARGET_COUNT) {
-    throw new Error(`Expected ${TARGET_COUNT} usable entries, got ${entries.length}. Refine fields/source before committing.`)
+    throw new Error(`Expected ${TARGET_COUNT} usable entries, got ${entries.length}. Refine source window before committing.`)
   }
 
   const batch: CompactBatch = {
@@ -153,7 +218,7 @@ async function main() {
     sources: {
       'btcmap-v4-places': {
         label: 'BTC Map REST API v4 places',
-        url,
+        url: sourceUrl || 'https://api.btcmap.org/v4/places',
         publisher: 'BTC Map / OpenStreetMap contributors',
         kind: 'official_store_locator',
       },
