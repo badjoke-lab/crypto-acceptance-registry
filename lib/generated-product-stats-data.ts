@@ -1,17 +1,17 @@
 export const generatedProductStatsData = {
-  "totalMerchants": 3763,
+  "totalMerchants": 4263,
   "modeBreakdown": {
-    "direct": 610,
+    "direct": 1110,
     "processor": 3150,
     "bridge": 3
   },
   "confidenceBreakdown": {
-    "low": 512,
+    "low": 1012,
     "medium": 1267,
     "high": 1984
   },
   "countryBreakdown": {
-    "Unknown": 3715,
+    "Unknown": 4215,
     "NL": 2,
     "LV": 1,
     "IT": 1,
@@ -51,7 +51,7 @@ export const generatedProductStatsData = {
     "CA": 1
   },
   "processorBreakdown": {
-    "Unknown": 612,
+    "Unknown": 1112,
     "BitPay": 207,
     "CoinGate": 810,
     "CoinPayments": 5,
