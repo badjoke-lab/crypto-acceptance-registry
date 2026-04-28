@@ -7,6 +7,7 @@ import type {
   SocialProfileV3,
 } from '../scripts/export/types-v3'
 import { getRegistryV3Seeds } from './registry-v3-seeds'
+import { normalizeRegistryRecordV3 } from './registry-v3-normalize'
 
 type Enrichment = {
   registry_id: string
@@ -37,25 +38,28 @@ export function getRegistryV3FullSeeds(): RegistryRecordV3[] {
   const base = getRegistryV3Seeds()
   return base.map((record) => {
     const patch = enrichmentMap.get(record.registry_id)
-    if (!patch) return record
-    return {
-      ...record,
-      entity_type: patch.entity_type || record.entity_type,
-      legal_or_brand_name: patch.legal_or_brand_name ?? record.legal_or_brand_name,
-      address: {
-        ...record.address,
-        ...(patch.address || {}),
-      },
-      geo: {
-        ...record.geo,
-        ...(patch.geo || {}),
-      },
-      contact_channels: patch.contact_channels ?? record.contact_channels,
-      social_profiles: patch.social_profiles ?? record.social_profiles,
-      acceptance_scope: patch.acceptance_scope || record.acceptance_scope,
-      verification_target: patch.verification_target || record.verification_target,
-      coverage_region: patch.coverage_region || record.coverage_region,
-    }
+    const enriched = !patch
+      ? record
+      : {
+          ...record,
+          entity_type: patch.entity_type || record.entity_type,
+          legal_or_brand_name: patch.legal_or_brand_name ?? record.legal_or_brand_name,
+          address: {
+            ...record.address,
+            ...(patch.address || {}),
+          },
+          geo: {
+            ...record.geo,
+            ...(patch.geo || {}),
+          },
+          contact_channels: patch.contact_channels ?? record.contact_channels,
+          social_profiles: patch.social_profiles ?? record.social_profiles,
+          acceptance_scope: patch.acceptance_scope || record.acceptance_scope,
+          verification_target: patch.verification_target || record.verification_target,
+          coverage_region: patch.coverage_region || record.coverage_region,
+        }
+
+    return normalizeRegistryRecordV3(enriched)
   })
 }
 
