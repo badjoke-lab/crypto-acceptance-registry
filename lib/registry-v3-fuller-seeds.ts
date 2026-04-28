@@ -17,6 +17,7 @@ import coreEnrichmentsBatch15 from '../data/registry-v3-core-enrichments-batch-1
 import coreEnrichmentsBatch16 from '../data/registry-v3-core-enrichments-batch-16.json'
 import coreEnrichmentsBatch17 from '../data/registry-v3-core-enrichments-batch-17.json'
 import { getRegistryV3FullSeeds } from './registry-v3-full-seeds'
+import { normalizeRegistryRecordV3 } from './registry-v3-normalize'
 
 type SocialPatch = {
   registry_id: string
@@ -57,19 +58,21 @@ export function getRegistryV3FullerSeeds() {
   return getRegistryV3FullSeeds().map((record) => {
     const socialPatch = socialMap.get(record.registry_id)
     const corePatch = coreMap.get(record.registry_id)
-    if (!socialPatch && !corePatch) return record
+    const enriched = !socialPatch && !corePatch
+      ? record
+      : {
+          ...record,
+          address: corePatch?.address ? { ...record.address, ...corePatch.address } : record.address,
+          geo: corePatch?.geo ? { ...record.geo, ...corePatch.geo } : record.geo,
+          contact_channels: corePatch?.contact_channels ?? record.contact_channels,
+          social_profiles: socialPatch?.social_profiles ?? record.social_profiles,
+          acceptance_scope: corePatch?.acceptance_scope ?? record.acceptance_scope,
+          verification_target: corePatch?.verification_target ?? record.verification_target,
+          coverage_region: corePatch?.coverage_region ?? record.coverage_region,
+          notes: [...record.notes, ...(socialPatch?.notes_append ?? []), ...(corePatch?.notes_append ?? [])],
+        }
 
-    return {
-      ...record,
-      address: corePatch?.address ? { ...record.address, ...corePatch.address } : record.address,
-      geo: corePatch?.geo ? { ...record.geo, ...corePatch.geo } : record.geo,
-      contact_channels: corePatch?.contact_channels ?? record.contact_channels,
-      social_profiles: socialPatch?.social_profiles ?? record.social_profiles,
-      acceptance_scope: corePatch?.acceptance_scope ?? record.acceptance_scope,
-      verification_target: corePatch?.verification_target ?? record.verification_target,
-      coverage_region: corePatch?.coverage_region ?? record.coverage_region,
-      notes: [...record.notes, ...(socialPatch?.notes_append ?? []), ...(corePatch?.notes_append ?? [])],
-    }
+    return normalizeRegistryRecordV3(enriched)
   })
 }
 
