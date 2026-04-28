@@ -8,14 +8,9 @@ import type {
 } from './export/types'
 import type { RegistryRecordV3, SocialProfileV3 } from './export/types-v3'
 import { getRegistryV3FullerSeeds } from '../lib/registry-v3-fuller-seeds'
+import { buildExtendedProductStats, type ExtendedProductStats } from './public-stats-health'
 
-type ProductStats = {
-  totalMerchants: number
-  modeBreakdown: Record<string, number>
-  confidenceBreakdown: Record<string, number>
-  countryBreakdown: Record<string, number>
-  processorBreakdown: Record<string, number>
-}
+type ProductStats = ExtendedProductStats
 
 type CutoverReport = {
   generatedAt: string
@@ -27,13 +22,7 @@ type CutoverReport = {
     mediumConfidence: number
     lowConfidence: number
   }
-  stats: {
-    totalMerchants: number
-    modeBreakdown: Record<string, number>
-    confidenceBreakdown: Record<string, number>
-    countryBreakdown: Record<string, number>
-    processorBreakdown: Record<string, number>
-  }
+  stats: ProductStats
   reviewQueue: {
     total: number
   }
@@ -54,13 +43,6 @@ function uniqueSorted(values: Array<string | null | undefined>): string[] {
   return [...new Set(values.map((value) => value?.trim()).filter((value): value is string => Boolean(value)))].sort(
     (a, b) => a.localeCompare(b),
   )
-}
-
-function countBy(values: string[]): Record<string, number> {
-  return values.reduce<Record<string, number>>((acc, value) => {
-    acc[value] = (acc[value] ?? 0) + 1
-    return acc
-  }, {})
 }
 
 function mapMode(record: RegistryRecordV3): ClassifiedCandidateRecord['proposed_mode'] {
@@ -186,7 +168,11 @@ export function buildClassifiedCandidates(): ClassifiedCandidateRecord[] {
 }
 
 export function buildPublicArtifacts(): PublicArtifacts {
-  const sourceRecords = buildClassifiedCandidates()
+  const sourceSeedRecords = getTypedFullerSeeds()
+  const sourceById = new Map(sourceSeedRecords.map((record) => [record.registry_id, record]))
+  const sourceRecords = sortClassified(
+    sourceSeedRecords.map((source) => classifyCandidate(toNormalizedCandidate(source), source)),
+  )
   const ready: ClassifiedCandidateRecord[] = []
   const pending: ClassifiedCandidateRecord[] = []
 
@@ -200,17 +186,10 @@ export function buildPublicArtifacts(): PublicArtifacts {
 
   const sortedReady = sortClassified(ready)
   const sortedPending = sortClassified(pending)
-  const stats: ProductStats = {
-    totalMerchants: sortedReady.length,
-    modeBreakdown: countBy(sortedReady.map((record) => record.proposed_mode)),
-    confidenceBreakdown: countBy(sortedReady.map((record) => record.confidence)),
-    countryBreakdown: countBy(sortedReady.map((record) => record.country || 'Unknown')),
-    processorBreakdown: countBy(
-      sortedReady.flatMap((record) =>
-        record.payment_processors.length > 0 ? record.payment_processors : ['Unknown'],
-      ),
-    ),
-  }
+  const sortedReadySourceRecords = sortedReady
+    .map((record) => sourceById.get(record.legacy_id))
+    .filter((record): record is RegistryRecordV3 => Boolean(record))
+  const stats = buildExtendedProductStats(sortedReady, sortedReadySourceRecords)
 
   const cutoverReport: CutoverReport = {
     generatedAt: new Date().toISOString(),
@@ -222,13 +201,7 @@ export function buildPublicArtifacts(): PublicArtifacts {
       mediumConfidence: sortedReady.filter((record) => record.confidence === 'medium').length,
       lowConfidence: sortedReady.filter((record) => record.confidence === 'low').length,
     },
-    stats: {
-      totalMerchants: stats.totalMerchants,
-      modeBreakdown: stats.modeBreakdown,
-      confidenceBreakdown: stats.confidenceBreakdown,
-      countryBreakdown: stats.countryBreakdown,
-      processorBreakdown: stats.processorBreakdown,
-    },
+    stats,
     reviewQueue: {
       total: sortedPending.length,
     },
