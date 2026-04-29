@@ -64,6 +64,11 @@ function cleanWebsite(website: string | null | undefined): string | null {
   return website
 }
 
+function hasUsableName(name: string | null | undefined): name is string {
+  const normalized = name?.trim()
+  return Boolean(normalized && normalized.toLowerCase() !== 'unnamed')
+}
+
 function getExistingBtcMapPlaceIds(): Set<string> {
   const dataDir = path.join(process.cwd(), 'data')
   if (!fs.existsSync(dataDir)) return new Set()
@@ -90,8 +95,8 @@ function getExistingBtcMapPlaceIds(): Set<string> {
 }
 
 function toEntry(place: BtcMapPlace) {
-  const name = place.name?.trim()
-  if (!name) return null
+  if (!hasUsableName(place.name)) return null
+  const name = place.name.trim()
   const placeId = String(place.id).trim()
   if (!placeId) return null
   const osmUrl = place.osm_url || (place.osm_id ? `https://www.openstreetmap.org/${place.osm_id.replace(':', '/')}` : null)
