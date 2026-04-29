@@ -16,31 +16,22 @@ import coreEnrichmentsBatch14 from '../data/registry-v3-core-enrichments-batch-1
 import coreEnrichmentsBatch15 from '../data/registry-v3-core-enrichments-batch-15.json'
 import coreEnrichmentsBatch16 from '../data/registry-v3-core-enrichments-batch-16.json'
 import coreEnrichmentsBatch17 from '../data/registry-v3-core-enrichments-batch-17.json'
+import type { AcceptanceScopeV3, ContactChannelV3, RegistryRecordV3, SocialProfileV3 } from '../scripts/export/types-v3'
 import { getRegistryV3FullSeeds } from './registry-v3-full-seeds'
 import { normalizeRegistryRecordV3 } from './registry-v3-normalize'
 
 type SocialPatch = {
   registry_id: string
-  social_profiles?: Array<{ platform: string; url: string; handle?: string | null }>
+  social_profiles?: SocialProfileV3[]
   notes_append?: string[]
 }
 
 type CorePatch = {
   registry_id: string
-  address?: {
-    address_full?: string | null
-    street?: string | null
-    city?: string | null
-    state_or_region?: string | null
-    postal_code?: string | null
-    country?: string | null
-  }
-  geo?: {
-    lat?: number | null
-    lng?: number | null
-  }
-  contact_channels?: Array<{ type: string; value: string; label?: string | null }>
-  acceptance_scope?: string
+  address?: Partial<RegistryRecordV3['address']>
+  geo?: Partial<RegistryRecordV3['geo']>
+  contact_channels?: ContactChannelV3[]
+  acceptance_scope?: AcceptanceScopeV3
   verification_target?: string
   coverage_region?: string
   notes_append?: string[]
@@ -58,7 +49,7 @@ export function getRegistryV3FullerSeeds() {
   return getRegistryV3FullSeeds().map((record) => {
     const socialPatch = socialMap.get(record.registry_id)
     const corePatch = coreMap.get(record.registry_id)
-    const enriched = !socialPatch && !corePatch
+    const enriched: RegistryRecordV3 = !socialPatch && !corePatch
       ? record
       : {
           ...record,
