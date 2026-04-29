@@ -1,1 +1,1554 @@
-[]
+[
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-2260",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": "https://paydepot.com/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2260",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.683Z",
+      "BTC Map verified_at: 2022-12-30",
+      "lat/lon: 40.599419, -74.3164783",
+      "OSM: https://www.openstreetmap.org/node/10288133893",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-2262",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": "https://paydepot.com/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2262",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.72Z",
+      "BTC Map verified_at: 2022-12-30",
+      "lat/lon: 35.8945063, -78.5597707",
+      "OSM: https://www.openstreetmap.org/node/10288136679",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-2273",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": "https://paydepot.com/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2273",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.685Z",
+      "BTC Map verified_at: 2022-12-30",
+      "lat/lon: 40.4199571, -74.0919292",
+      "OSM: https://www.openstreetmap.org/node/10288209610",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-2314",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": "https://paydepot.com/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2314",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.685Z",
+      "BTC Map verified_at: 2022-12-30",
+      "lat/lon: 40.7865177, -74.3914568",
+      "OSM: https://www.openstreetmap.org/node/10293951992",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-23620",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 23620",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "lat/lon: 38.7829489, -77.0154603",
+      "OSM: https://www.openstreetmap.org/node/12552999973",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&limit=100"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-23621",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 23621",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "lat/lon: 38.782123, -77.0150557",
+      "OSM: https://www.openstreetmap.org/node/12553000010",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&limit=100"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-2372",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": "https://paydepot.com/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2372",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.692Z",
+      "BTC Map verified_at: 2022-12-30",
+      "lat/lon: 40.7256421, -74.2330495",
+      "OSM: https://www.openstreetmap.org/node/10302883056",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-23997",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": "https://locations.coinflip.tech/au/nsw/tamworth/northgate-shopping-centre-1-piper-st",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 23997",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "lat/lon: -31.0775358, 150.9184532",
+      "OSM: https://www.openstreetmap.org/node/12601755191",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&limit=100"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-23999",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": "https://localcoinatm.com/en-au/bitcoin-atm/new-south-wales/tamworth/mobil_tamworth_south-at-2-kathleen-street/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 23999",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.015Z",
+      "lat/lon: -31.1043641, 150.9184662",
+      "OSM: https://www.openstreetmap.org/node/12601742091",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-24039",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 24039",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "lat/lon: 40.1942824, -76.7318202",
+      "OSM: https://www.openstreetmap.org/node/12572443764",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&limit=100"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-24050",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": "https://bxc.ge",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 24050",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "lat/lon: 41.6434394, 41.6211643",
+      "OSM: https://www.openstreetmap.org/node/12607455734",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&limit=100"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-2409",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": "https://paydepot.com/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2409",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.693Z",
+      "BTC Map verified_at: 2022-12-30",
+      "lat/lon: 39.4359659, -75.2116607",
+      "OSM: https://www.openstreetmap.org/node/10307306137",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-2478",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": "https://paydepot.com/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2478",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.693Z",
+      "BTC Map verified_at: 2022-12-30",
+      "lat/lon: 40.5625957, -74.5213128",
+      "OSM: https://www.openstreetmap.org/node/10315398699",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-24895",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 24895",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "lat/lon: 42.340179, -89.0519171",
+      "OSM: https://www.openstreetmap.org/node/12737965302",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&limit=100"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-24915",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 24915",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:29.675Z",
+      "lat/lon: 40.1872633, 44.5088265",
+      "OSM: https://www.openstreetmap.org/node/12743543429",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-24999",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 24999",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:29.676Z",
+      "lat/lon: 54.0722241, 18.4509665",
+      "OSM: https://www.openstreetmap.org/node/12766506821",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-25011",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 25011",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "lat/lon: 19.3353293, -99.1985839",
+      "OSM: https://www.openstreetmap.org/node/12764568341",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&limit=100"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-25014",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 25014",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "lat/lon: 34.2545058, -118.4387319",
+      "OSM: https://www.openstreetmap.org/node/12768619574",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&limit=100"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-25015",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 25015",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "lat/lon: 42.0466044, -87.9867112",
+      "OSM: https://www.openstreetmap.org/node/12768625903",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&limit=100"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-26043",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 26043",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:29.427Z",
+      "lat/lon: 40.845897, 14.2373897",
+      "OSM: https://www.openstreetmap.org/node/12848600284",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-2606",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": "http://www.bitcoinatm.co.za/Home.html",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2606",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.711Z",
+      "BTC Map verified_at: 2023-01-17",
+      "lat/lon: -29.7486718, 30.8137941",
+      "OSM: https://www.openstreetmap.org/node/10561902748",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-2607",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": "http://www.bitcoinatm.co.za/Home.html",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2607",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.712Z",
+      "BTC Map verified_at: 2023-01-17",
+      "lat/lon: -29.5848951, 30.3787545",
+      "OSM: https://www.openstreetmap.org/node/10561910639",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-26268",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 26268",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:29.743Z",
+      "lat/lon: 40.7537737, -73.9230732",
+      "OSM: https://www.openstreetmap.org/node/12145680525",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-26344",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 26344",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:29.876Z",
+      "lat/lon: 32.9451595, -80.0437573",
+      "OSM: https://www.openstreetmap.org/node/12884449560",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-26540",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 26540",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:29.845Z",
+      "lat/lon: 42.970188, -85.6302507",
+      "OSM: https://www.openstreetmap.org/node/12918507853",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-26645",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 26645",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:29.869Z",
+      "lat/lon: 35.2292647, -89.5104281",
+      "OSM: https://www.openstreetmap.org/node/12931390811",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-26787",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": "https://www.unbank.com/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 26787",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.115Z",
+      "lat/lon: 43.1340679, -70.9254452",
+      "OSM: https://www.openstreetmap.org/node/12959487822",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-26788",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": "https://locations.coinflip.tech/us/nh/durham/5-madbury-rd",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 26788",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.115Z",
+      "lat/lon: 43.1345741, -70.9253578",
+      "OSM: https://www.openstreetmap.org/node/12959487828",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-26973",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 26973",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:29.982Z",
+      "lat/lon: 35.5760502, -89.6433549",
+      "OSM: https://www.openstreetmap.org/node/12990522145",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-27475",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 27475",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.205Z",
+      "lat/lon: 35.5805718, -88.8389429",
+      "OSM: https://www.openstreetmap.org/node/13026800464",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-27479",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 27479",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.208Z",
+      "lat/lon: 35.5557065, -88.8104032",
+      "OSM: https://www.openstreetmap.org/node/13028134662",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-27494",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 27494",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.217Z",
+      "lat/lon: 35.6529923, -88.871022",
+      "OSM: https://www.openstreetmap.org/node/13028538027",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-28203",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 28203",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.371Z",
+      "lat/lon: 47.0042212, -123.4054427",
+      "OSM: https://www.openstreetmap.org/node/13042546626",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-28311",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": "https://blockchain.ge",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 28311",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.43Z",
+      "BTC Map verified_at: 2025-08-09",
+      "lat/lon: 41.7100926, 44.7971166",
+      "OSM: https://www.openstreetmap.org/node/13060775172",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-28323",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 28323",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.433Z",
+      "lat/lon: 35.251611, -88.9648573",
+      "OSM: https://www.openstreetmap.org/node/13062026492",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-2848",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2848",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.747Z",
+      "BTC Map verified_at: 2023-02-04",
+      "lat/lon: 39.8024822, -89.6017987",
+      "OSM: https://www.openstreetmap.org/node/10606436660",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-2849",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2849",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.748Z",
+      "BTC Map verified_at: 2023-02-04",
+      "lat/lon: 39.8306541, -89.5834319",
+      "OSM: https://www.openstreetmap.org/node/10606440635",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-2859",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2859",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.748Z",
+      "BTC Map verified_at: 2023-02-04",
+      "lat/lon: 39.8459595, -88.9389867",
+      "OSM: https://www.openstreetmap.org/node/10606473493",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-2863",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2863",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.748Z",
+      "BTC Map verified_at: 2023-02-04",
+      "lat/lon: 39.756113, -89.6175879",
+      "OSM: https://www.openstreetmap.org/node/10606492002",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:unnamed:btcmap-place-8655",
+    "display_name": "Unnamed",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "unknown"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: Lot C-1-6/1-7, block C Jalan Tun Mustapha kota kinabalu 88803",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 8655",
+      "BTC Map record held for review because the source name is empty or Unnamed.",
+      "BTC Map updated_at: 2025-09-18T05:36:30.741Z",
+      "BTC Map verified_at: 2023-02-02",
+      "lat/lon: 5.9516406, 116.0533197",
+      "OSM: https://www.openstreetmap.org/node/2726530155",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Unnamed is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "unknown",
+    "confidence": "low",
+    "review_reasons": [
+      "unknown_mode"
+    ],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  }
+]
