@@ -33,6 +33,7 @@ export type ExtendedProductStats = {
   addressPresenceBreakdown: Record<string, number>
   evidenceCountBreakdown: Record<string, number>
   notesPresenceBreakdown: Record<string, number>
+  duplicateDisplayNameSizeBreakdown: Record<string, number>
   recordHealthBreakdown: Record<string, number>
   invalidCountryValues: PublicStatsHealthIssue[]
   invalidCityValues: PublicStatsHealthIssue[]
@@ -50,6 +51,7 @@ export type ExtendedProductStats = {
   recordsWithDirectCryptoButProcessorOnlyRail: PublicStatsHealthIssue[]
   duplicateRegistryIds: PublicStatsHealthIssue[]
   duplicateDisplayNameGroups: PublicStatsHealthIssue[]
+  duplicateDisplayNameRiskGroups: PublicStatsHealthIssue[]
 }
 
 function countBy(values: string[]): Record<string, number> {
@@ -95,6 +97,18 @@ function issue(record: RegistryRecordV3, reason: string, value?: string | null):
   return { id: record.registry_id, name: record.display_name, value, reason }
 }
 
+function duplicateRiskKey(record: RegistryRecordV3): string {
+  return [
+    record.display_name.trim().toLowerCase(),
+    record.website?.trim().toLowerCase() || 'no_website',
+    record.address.country ?? 'no_country',
+    record.address.city ?? 'no_city',
+    record.acceptance_type,
+    record.supports_program_or_network ?? 'no_program',
+    record.evidence_refs.map((ref) => ref.publisher).sort().join('|') || 'no_publisher',
+  ].join('::')
+}
+
 export function buildExtendedProductStats(
   ready: ClassifiedCandidateRecord[],
   readySourceRecords: RegistryRecordV3[],
@@ -103,10 +117,12 @@ export function buildExtendedProductStats(
   const readySources = ready.map((record) => sourceById.get(record.legacy_id)).filter((record): record is RegistryRecordV3 => Boolean(record))
   const duplicateIds = new Map<string, RegistryRecordV3[]>()
   const duplicateNames = new Map<string, RegistryRecordV3[]>()
+  const duplicateRiskGroups = new Map<string, RegistryRecordV3[]>()
 
   for (const record of readySources) {
     duplicateIds.set(record.registry_id, [...(duplicateIds.get(record.registry_id) ?? []), record])
     duplicateNames.set(record.display_name.toLowerCase(), [...(duplicateNames.get(record.display_name.toLowerCase()) ?? []), record])
+    duplicateRiskGroups.set(duplicateRiskKey(record), [...(duplicateRiskGroups.get(duplicateRiskKey(record)) ?? []), record])
   }
 
   const processorModeRecords = ready.filter((record) => record.proposed_mode === 'processor')
@@ -165,7 +181,13 @@ export function buildExtendedProductStats(
     .flatMap(([, records]) => records.map((record) => issue(record, 'duplicate registry_id')))
   const duplicateDisplayNameGroups = [...duplicateNames.entries()]
     .filter(([, records]) => records.length > 1)
-    .flatMap(([, records]) => records.map((record) => issue(record, 'duplicate display_name group', record.display_name)))
+    .flatMap(([, records]) => records.map((record) => issue(record, 'raw duplicate display_name group', record.display_name)))
+  const duplicateDisplayNameRiskGroups = [...duplicateRiskGroups.entries()]
+    .filter(([, records]) => records.length > 1)
+    .flatMap(([, records]) => records.map((record) => issue(record, 'possible duplicate display_name with same website/location/program/publisher', record.display_name)))
+  const duplicateDisplayNameSizeBreakdown = countBy(
+    [...duplicateNames.values()].filter((records) => records.length > 1).map((records) => countBucket(records.length)),
+  )
 
   const healthIssueCount = [
     invalidCountryValues,
@@ -183,7 +205,7 @@ export function buildExtendedProductStats(
     recordsWithProcessorModeButNoProcessorRail,
     recordsWithDirectCryptoButProcessorOnlyRail,
     duplicateRegistryIds,
-    duplicateDisplayNameGroups,
+    duplicateDisplayNameRiskGroups,
   ].reduce((sum, items) => sum + items.length, 0)
 
   return {
@@ -211,6 +233,7 @@ export function buildExtendedProductStats(
     addressPresenceBreakdown: countBy(readySources.map((record) => (record.address.address_full ? 'with_address_full' : 'without_address_full'))),
     evidenceCountBreakdown: countBy(readySources.map((record) => countBucket(record.evidence_refs.length))),
     notesPresenceBreakdown: countBy(readySources.map((record) => (record.notes.length > 0 ? 'with_notes' : 'without_notes'))),
+    duplicateDisplayNameSizeBreakdown,
     recordHealthBreakdown: { total_health_issues: healthIssueCount, records_scanned: readySources.length },
     invalidCountryValues,
     invalidCityValues,
@@ -228,5 +251,6 @@ export function buildExtendedProductStats(
     recordsWithDirectCryptoButProcessorOnlyRail,
     duplicateRegistryIds,
     duplicateDisplayNameGroups,
+    duplicateDisplayNameRiskGroups,
   }
 }
