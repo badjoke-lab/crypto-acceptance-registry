@@ -157,6 +157,36 @@ function sortClassified(records: ClassifiedCandidateRecord[]): ClassifiedCandida
   })
 }
 
+function confidenceScore(record: ClassifiedCandidateRecord): number {
+  if (record.confidence === 'high') return 3
+  if (record.confidence === 'medium') return 2
+  return 1
+}
+
+function candidateQualityScore(record: ClassifiedCandidateRecord): number {
+  return [
+    confidenceScore(record) * 1000,
+    record.evidence_refs.length * 100,
+    record.website ? 50 : 0,
+    record.payment_processors.length * 10,
+    record.accepted_assets.length + record.accepted_chains.length + record.payment_methods.length,
+    -record.review_reasons.length,
+  ].reduce((sum, value) => sum + value, 0)
+}
+
+function dedupeClassifiedByRegistryId(records: ClassifiedCandidateRecord[]): ClassifiedCandidateRecord[] {
+  const byId = new Map<string, ClassifiedCandidateRecord>()
+
+  for (const record of records) {
+    const existing = byId.get(record.legacy_id)
+    if (!existing || candidateQualityScore(record) > candidateQualityScore(existing)) {
+      byId.set(record.legacy_id, record)
+    }
+  }
+
+  return sortClassified([...byId.values()])
+}
+
 export function buildNormalizedCandidates(): NormalizedCandidateRecord[] {
   return sortNormalized(getTypedFullerSeeds().map(toNormalizedCandidate))
 }
@@ -170,8 +200,8 @@ export function buildClassifiedCandidates(): ClassifiedCandidateRecord[] {
 export function buildPublicArtifacts(): PublicArtifacts {
   const sourceSeedRecords = getTypedFullerSeeds()
   const sourceById = new Map(sourceSeedRecords.map((record) => [record.registry_id, record]))
-  const sourceRecords = sortClassified(
-    sourceSeedRecords.map((source) => classifyCandidate(toNormalizedCandidate(source), source)),
+  const sourceRecords = dedupeClassifiedByRegistryId(
+    sortClassified(sourceSeedRecords.map((source) => classifyCandidate(toNormalizedCandidate(source), source))),
   )
   const ready: ClassifiedCandidateRecord[] = []
   const pending: ClassifiedCandidateRecord[] = []
