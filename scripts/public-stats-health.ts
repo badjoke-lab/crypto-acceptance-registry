@@ -97,15 +97,32 @@ function issue(record: RegistryRecordV3, reason: string, value?: string | null):
   return { id: record.registry_id, name: record.display_name, value, reason }
 }
 
+function normalizedEvidenceUrlKey(record: RegistryRecordV3): string {
+  return record.evidence_refs.map((ref) => ref.url.trim().toLowerCase()).sort().join('|') || 'no_evidence_url'
+}
+
+function normalizedLocationKey(record: RegistryRecordV3): string {
+  if (isBtcMapRecord(record)) {
+    const lat = record.geo.lat === null ? 'no_lat' : record.geo.lat.toFixed(5)
+    const lng = record.geo.lng === null ? 'no_lng' : record.geo.lng.toFixed(5)
+    return [record.address.address_full ?? 'no_address', `${lat},${lng}`].join('::')
+  }
+
+  return [
+    record.address.country ?? 'no_country',
+    record.address.city ?? 'no_city',
+    record.coverage_region ?? 'no_coverage_region',
+  ].join('::')
+}
+
 function duplicateRiskKey(record: RegistryRecordV3): string {
   return [
     record.display_name.trim().toLowerCase(),
     record.website?.trim().toLowerCase() || 'no_website',
-    record.address.country ?? 'no_country',
-    record.address.city ?? 'no_city',
+    normalizedLocationKey(record),
     record.acceptance_type,
     record.supports_program_or_network ?? 'no_program',
-    record.evidence_refs.map((ref) => ref.publisher).sort().join('|') || 'no_publisher',
+    normalizedEvidenceUrlKey(record),
   ].join('::')
 }
 
@@ -184,7 +201,7 @@ export function buildExtendedProductStats(
     .flatMap(([, records]) => records.map((record) => issue(record, 'raw duplicate display_name group', record.display_name)))
   const duplicateDisplayNameRiskGroups = [...duplicateRiskGroups.entries()]
     .filter(([, records]) => records.length > 1)
-    .flatMap(([, records]) => records.map((record) => issue(record, 'possible duplicate display_name with same website/location/program/publisher', record.display_name)))
+    .flatMap(([, records]) => records.map((record) => issue(record, 'possible duplicate display_name with same website/location/program/evidence URL', record.display_name)))
   const duplicateDisplayNameSizeBreakdown = countBy(
     [...duplicateNames.values()].filter((records) => records.length > 1).map((records) => countBucket(records.length)),
   )
