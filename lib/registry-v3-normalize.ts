@@ -1,4 +1,5 @@
 import type { RegistryRecordV3 } from '../scripts/export/types-v3'
+import { normalizeRegistryRecordScope } from './registry-v3-scope-normalize'
 
 function isBtcMapRecord(record: RegistryRecordV3): boolean {
   const program = record.supports_program_or_network?.toLowerCase() ?? ''
@@ -44,7 +45,7 @@ function hasUnusableBtcMapName(record: RegistryRecordV3): boolean {
 }
 
 export function normalizeRegistryRecordV3(record: RegistryRecordV3): RegistryRecordV3 {
-  if (!isBtcMapRecord(record)) return record
+  if (!isBtcMapRecord(record)) return normalizeRegistryRecordScope(record)
 
   const notesToAppend: string[] = []
   const placeId = extractBtcMapPlaceId(record.registry_id)
