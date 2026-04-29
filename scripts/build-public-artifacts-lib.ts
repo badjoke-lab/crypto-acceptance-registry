@@ -8,6 +8,7 @@ import type {
 } from './export/types'
 import type { RegistryRecordV3, SocialProfileV3 } from './export/types-v3'
 import { getRegistryV3FullerSeeds } from '../lib/registry-v3-fuller-seeds'
+import { dedupeClassifiedByDuplicateSignature } from './public-artifact-dedupe'
 import { buildExtendedProductStats, type ExtendedProductStats } from './public-stats-health'
 
 type ProductStats = ExtendedProductStats
@@ -187,6 +188,10 @@ function dedupeClassifiedByRegistryId(records: ClassifiedCandidateRecord[]): Cla
   return sortClassified([...byId.values()])
 }
 
+function dedupeForPublicArtifacts(records: ClassifiedCandidateRecord[]): ClassifiedCandidateRecord[] {
+  return sortClassified(dedupeClassifiedByDuplicateSignature(dedupeClassifiedByRegistryId(records)))
+}
+
 export function buildNormalizedCandidates(): NormalizedCandidateRecord[] {
   return sortNormalized(getTypedFullerSeeds().map(toNormalizedCandidate))
 }
@@ -200,7 +205,7 @@ export function buildClassifiedCandidates(): ClassifiedCandidateRecord[] {
 export function buildPublicArtifacts(): PublicArtifacts {
   const sourceSeedRecords = getTypedFullerSeeds()
   const sourceById = new Map(sourceSeedRecords.map((record) => [record.registry_id, record]))
-  const sourceRecords = dedupeClassifiedByRegistryId(
+  const sourceRecords = dedupeForPublicArtifacts(
     sortClassified(sourceSeedRecords.map((source) => classifyCandidate(toNormalizedCandidate(source), source))),
   )
   const ready: ClassifiedCandidateRecord[] = []
