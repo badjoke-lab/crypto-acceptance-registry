@@ -38,6 +38,11 @@ function extractAddressFull(notes: string[]): string | null {
   return null
 }
 
+function hasUnusableBtcMapName(record: RegistryRecordV3): boolean {
+  const name = record.display_name.trim().toLowerCase()
+  return !name || name === 'unnamed'
+}
+
 export function normalizeRegistryRecordV3(record: RegistryRecordV3): RegistryRecordV3 {
   if (!isBtcMapRecord(record)) return record
 
@@ -52,15 +57,20 @@ export function normalizeRegistryRecordV3(record: RegistryRecordV3): RegistryRec
   if (record.address.city) {
     notesToAppend.push(`BTC Map legacy parsed city/address fragment: ${record.address.city}`)
   }
+  if (hasUnusableBtcMapName(record)) {
+    notesToAppend.push('BTC Map record held for review because the source name is empty or Unnamed.')
+  }
 
   const notes = [...record.notes, ...notesToAppend]
   const extractedGeo = extractLatLon(notes)
   const extractedAddress = extractAddressFull(notes)
+  const holdForNameReview = hasUnusableBtcMapName(record)
 
   return {
     ...record,
     entity_type: 'physical_merchant',
-    acceptance_scope: 'in_store',
+    acceptance_type: holdForNameReview ? 'unknown' : record.acceptance_type,
+    acceptance_scope: holdForNameReview ? 'unknown' : 'in_store',
     verification_target: 'BTC Map / OpenStreetMap physical merchant listing',
     coverage_region: 'BTC Map / OSM unmapped',
     address: {
