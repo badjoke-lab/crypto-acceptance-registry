@@ -1,27 +1,27 @@
 export const generatedCutoverReportData = {
-  "generatedAt": "2026-04-29T15:17:27.337Z",
+  "generatedAt": "2026-04-30T15:12:15.024Z",
   "merchants": {
-    "total": 4541,
-    "withEvidence": 4541,
-    "withWebsite": 930,
+    "total": 4637,
+    "withEvidence": 4637,
+    "withWebsite": 984,
     "highConfidence": 1929,
     "mediumConfidence": 1143,
-    "lowConfidence": 1469
+    "lowConfidence": 1565
   },
   "stats": {
-    "totalMerchants": 4541,
+    "totalMerchants": 4637,
     "modeBreakdown": {
-      "direct": 1567,
+      "direct": 1663,
       "processor": 2971,
       "bridge": 3
     },
     "confidenceBreakdown": {
-      "low": 1469,
+      "low": 1565,
       "medium": 1143,
       "high": 1929
     },
     "countryBreakdown": {
-      "Unknown": 4511,
+      "Unknown": 4607,
       "NL": 2,
       "LV": 1,
       "IT": 1,
@@ -44,7 +44,7 @@ export const generatedCutoverReportData = {
       "CA": 1
     },
     "processorBreakdown": {
-      "Unknown": 1568,
+      "Unknown": 1664,
       "BitPay": 207,
       "CoinGate": 631,
       "CoinPayments": 5,
@@ -67,32 +67,32 @@ export const generatedCutoverReportData = {
       "PaymentWall": 1
     },
     "scopeBreakdown": {
-      "merchant": 4541
+      "merchant": 4637
     },
     "entityTypeBreakdown": {
-      "physical_merchant": 1465,
+      "physical_merchant": 1561,
       "online_service": 3076
     },
     "acceptanceTypeBreakdown": {
-      "direct_crypto": 1567,
+      "direct_crypto": 1663,
       "processor_checkout": 2971,
       "digital_cash": 3
     },
     "acceptanceScopeBreakdown": {
-      "in_store": 1457,
+      "in_store": 1553,
       "online_checkout": 954,
       "selected_products_only": 2129,
       "renewal_only": 1
     },
     "sourceOriginBreakdown": {
-      "community_seed": 1457,
+      "community_seed": 1553,
       "official_seed": 3084
     },
     "verificationMethodBreakdown": {
-      "manual_official_source_review": 4541
+      "manual_official_source_review": 4637
     },
     "coverageRegionBreakdown": {
-      "BTC Map / OSM unmapped": 1457,
+      "BTC Map / OSM unmapped": 1553,
       "Global/Unknown": 3054,
       "NL": 2,
       "airBaltic online booking flow": 1,
@@ -108,7 +108,7 @@ export const generatedCutoverReportData = {
       "Global online travel booking": 1
     },
     "cityBreakdown": {
-      "Unknown": 4517,
+      "Unknown": 4613,
       "Amsterdam": 2,
       "Lidosta Riga, Marupe district": 1,
       "Perugia": 1,
@@ -155,19 +155,19 @@ export const generatedCutoverReportData = {
       "PaymentWall": 1
     },
     "noProcessorReasonBreakdown": {
-      "direct_crypto_no_processor_expected": 1565,
+      "direct_crypto_no_processor_expected": 1661,
       "bridge_no_processor": 3
     },
     "supportRailTypeBreakdown": {
-      "asset": 1701,
-      "chain": 1568,
+      "asset": 1797,
+      "chain": 1664,
       "processor": 2980,
       "card_program": 8,
       "digital_cash_program": 17
     },
     "supportRailLabelBreakdown": {
-      "Bitcoin": 1563,
-      "Lightning Network": 1558,
+      "Bitcoin": 1659,
+      "Lightning Network": 1654,
       "BitPay": 207,
       "CoinGate": 631,
       "Visa / Mastercard": 2,
@@ -238,7 +238,7 @@ export const generatedCutoverReportData = {
       "Credit Card": 1
     },
     "evidenceKindBreakdown": {
-      "official_store_locator": 4499,
+      "official_store_locator": 4595,
       "official_payment_page": 30,
       "official_help_center": 40,
       "official_checkout": 2,
@@ -246,7 +246,7 @@ export const generatedCutoverReportData = {
       "official_press_release": 1
     },
     "evidencePublisherBreakdown": {
-      "BTC Map / OpenStreetMap contributors": 1457,
+      "BTC Map / OpenStreetMap contributors": 1553,
       "BitPay": 195,
       "CoinGate": 627,
       "BTCPay Server": 101,
@@ -298,23 +298,23 @@ export const generatedCutoverReportData = {
       "Windscribe": 2
     },
     "websitePresenceBreakdown": {
-      "without_website": 3611,
-      "with_website": 930
+      "without_website": 3653,
+      "with_website": 984
     },
     "geoPresenceBreakdown": {
-      "with_geo": 1465,
+      "with_geo": 1561,
       "without_geo": 3076
     },
     "addressPresenceBreakdown": {
-      "with_address_full": 1060,
-      "without_address_full": 3481
+      "with_address_full": 1132,
+      "without_address_full": 3505
     },
     "evidenceCountBreakdown": {
-      "1": 4511,
+      "1": 4607,
       "2-3": 30
     },
     "notesPresenceBreakdown": {
-      "with_notes": 2767,
+      "with_notes": 2863,
       "without_notes": 1774
     },
     "duplicateDisplayNameSizeBreakdown": {
@@ -324,7 +324,7 @@ export const generatedCutoverReportData = {
     },
     "recordHealthBreakdown": {
       "total_health_issues": 0,
-      "records_scanned": 4541
+      "records_scanned": 4637
     },
     "invalidCountryValues": [],
     "invalidCityValues": [],
