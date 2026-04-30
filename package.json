@@ -14,7 +14,9 @@
     "build:product-stats": "tsx scripts/build-product-stats.ts",
     "build:cutover-report": "tsx scripts/build-cutover-report.ts",
     "embed:public-artifacts": "tsx scripts/embed-public-artifacts.ts",
-    "release:public": "pnpm run build:public-artifacts && pnpm run embed:public-artifacts && opennextjs-cloudflare build && opennextjs-cloudflare deploy"
+    "check:public-health": "tsx scripts/assert-public-stats-health.ts",
+    "verify:public-artifacts": "pnpm run build:public-artifacts && pnpm run embed:public-artifacts && pnpm run check:public-health && pnpm run build",
+    "release:public": "pnpm run build:public-artifacts && pnpm run embed:public-artifacts && pnpm run check:public-health && opennextjs-cloudflare build && opennextjs-cloudflare deploy"
   },
   "dependencies": {
     "next": "^16.2.3",
