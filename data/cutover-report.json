@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-04-30T15:12:15.024Z",
+  "generatedAt": "2026-04-30T15:31:01.153Z",
   "merchants": {
-    "total": 4637,
-    "withEvidence": 4637,
-    "withWebsite": 984,
+    "total": 4714,
+    "withEvidence": 4714,
+    "withWebsite": 1027,
     "highConfidence": 1929,
     "mediumConfidence": 1143,
-    "lowConfidence": 1565
+    "lowConfidence": 1642
   },
   "stats": {
-    "totalMerchants": 4637,
+    "totalMerchants": 4714,
     "modeBreakdown": {
-      "direct": 1663,
+      "direct": 1740,
       "processor": 2971,
       "bridge": 3
     },
     "confidenceBreakdown": {
-      "low": 1565,
+      "low": 1642,
       "medium": 1143,
       "high": 1929
     },
     "countryBreakdown": {
-      "Unknown": 4607,
+      "Unknown": 4684,
       "NL": 2,
       "LV": 1,
       "IT": 1,
@@ -44,7 +44,7 @@
       "CA": 1
     },
     "processorBreakdown": {
-      "Unknown": 1664,
+      "Unknown": 1741,
       "BitPay": 207,
       "CoinGate": 631,
       "CoinPayments": 5,
@@ -67,32 +67,32 @@
       "PaymentWall": 1
     },
     "scopeBreakdown": {
-      "merchant": 4637
+      "merchant": 4714
     },
     "entityTypeBreakdown": {
-      "physical_merchant": 1561,
+      "physical_merchant": 1638,
       "online_service": 3076
     },
     "acceptanceTypeBreakdown": {
-      "direct_crypto": 1663,
+      "direct_crypto": 1740,
       "processor_checkout": 2971,
       "digital_cash": 3
     },
     "acceptanceScopeBreakdown": {
-      "in_store": 1553,
+      "in_store": 1630,
       "online_checkout": 954,
       "selected_products_only": 2129,
       "renewal_only": 1
     },
     "sourceOriginBreakdown": {
-      "community_seed": 1553,
+      "community_seed": 1630,
       "official_seed": 3084
     },
     "verificationMethodBreakdown": {
-      "manual_official_source_review": 4637
+      "manual_official_source_review": 4714
     },
     "coverageRegionBreakdown": {
-      "BTC Map / OSM unmapped": 1553,
+      "BTC Map / OSM unmapped": 1630,
       "Global/Unknown": 3054,
       "NL": 2,
       "airBaltic online booking flow": 1,
@@ -108,7 +108,7 @@
       "Global online travel booking": 1
     },
     "cityBreakdown": {
-      "Unknown": 4613,
+      "Unknown": 4690,
       "Amsterdam": 2,
       "Lidosta Riga, Marupe district": 1,
       "Perugia": 1,
@@ -155,19 +155,19 @@
       "PaymentWall": 1
     },
     "noProcessorReasonBreakdown": {
-      "direct_crypto_no_processor_expected": 1661,
+      "direct_crypto_no_processor_expected": 1738,
       "bridge_no_processor": 3
     },
     "supportRailTypeBreakdown": {
-      "asset": 1797,
-      "chain": 1664,
+      "asset": 1874,
+      "chain": 1741,
       "processor": 2980,
       "card_program": 8,
       "digital_cash_program": 17
     },
     "supportRailLabelBreakdown": {
-      "Bitcoin": 1659,
-      "Lightning Network": 1654,
+      "Bitcoin": 1736,
+      "Lightning Network": 1731,
       "BitPay": 207,
       "CoinGate": 631,
       "Visa / Mastercard": 2,
@@ -238,7 +238,7 @@
       "Credit Card": 1
     },
     "evidenceKindBreakdown": {
-      "official_store_locator": 4595,
+      "official_store_locator": 4672,
       "official_payment_page": 30,
       "official_help_center": 40,
       "official_checkout": 2,
@@ -246,7 +246,7 @@
       "official_press_release": 1
     },
     "evidencePublisherBreakdown": {
-      "BTC Map / OpenStreetMap contributors": 1553,
+      "BTC Map / OpenStreetMap contributors": 1630,
       "BitPay": 195,
       "CoinGate": 627,
       "BTCPay Server": 101,
@@ -298,33 +298,33 @@
       "Windscribe": 2
     },
     "websitePresenceBreakdown": {
-      "without_website": 3653,
-      "with_website": 984
+      "without_website": 3687,
+      "with_website": 1027
     },
     "geoPresenceBreakdown": {
-      "with_geo": 1561,
+      "with_geo": 1638,
       "without_geo": 3076
     },
     "addressPresenceBreakdown": {
-      "with_address_full": 1132,
-      "without_address_full": 3505
+      "with_address_full": 1201,
+      "without_address_full": 3513
     },
     "evidenceCountBreakdown": {
-      "1": 4607,
+      "1": 4684,
       "2-3": 30
     },
     "notesPresenceBreakdown": {
-      "with_notes": 2863,
+      "with_notes": 2940,
       "without_notes": 1774
     },
     "duplicateDisplayNameSizeBreakdown": {
-      "2-3": 124,
+      "2-3": 126,
       "4-10": 105,
       "11+": 1
     },
     "recordHealthBreakdown": {
       "total_health_issues": 0,
-      "records_scanned": 4637
+      "records_scanned": 4714
     },
     "invalidCountryValues": [],
     "invalidCityValues": [],
@@ -3565,6 +3565,18 @@
         "reason": "raw duplicate display_name group"
       },
       {
+        "id": "merchant:mondo-convenienza:btcmap-place-10753",
+        "name": "Mondo Convenienza",
+        "value": "Mondo Convenienza",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:mondo-convenienza:btcmap-place-15005",
+        "name": "Mondo Convenienza",
+        "value": "Mondo Convenienza",
+        "reason": "raw duplicate display_name group"
+      },
+      {
         "id": "merchant:murilo-cangussu-bento:btcmap-place-24953",
         "name": "Murilo Cangussu Bento",
         "value": "Murilo Cangussu Bento",
@@ -5242,6 +5254,18 @@
         "id": "merchant:the-home-depot:egifter-catalog",
         "name": "The Home Depot",
         "value": "The Home Depot",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:the-royals:btcmap-place-16152",
+        "name": "The Royals",
+        "value": "The Royals",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:the-royals:btcmap-place-16153",
+        "name": "The Royals",
+        "value": "The Royals",
         "reason": "raw duplicate display_name group"
       },
       {
