@@ -1,27 +1,27 @@
 export const generatedCutoverReportData = {
-  "generatedAt": "2026-05-01T12:41:10.198Z",
+  "generatedAt": "2026-05-01T14:01:29.201Z",
   "merchants": {
-    "total": 5091,
-    "withEvidence": 5091,
-    "withWebsite": 1249,
+    "total": 5184,
+    "withEvidence": 5184,
+    "withWebsite": 1298,
     "highConfidence": 1929,
     "mediumConfidence": 1143,
-    "lowConfidence": 2019
+    "lowConfidence": 2112
   },
   "stats": {
-    "totalMerchants": 5091,
+    "totalMerchants": 5184,
     "modeBreakdown": {
-      "direct": 2117,
+      "direct": 2210,
       "processor": 2971,
       "bridge": 3
     },
     "confidenceBreakdown": {
-      "low": 2019,
+      "low": 2112,
       "medium": 1143,
       "high": 1929
     },
     "countryBreakdown": {
-      "Unknown": 5061,
+      "Unknown": 5154,
       "NL": 2,
       "LV": 1,
       "IT": 1,
@@ -44,7 +44,7 @@ export const generatedCutoverReportData = {
       "CA": 1
     },
     "processorBreakdown": {
-      "Unknown": 2118,
+      "Unknown": 2211,
       "BitPay": 207,
       "CoinGate": 631,
       "CoinPayments": 5,
@@ -67,32 +67,32 @@ export const generatedCutoverReportData = {
       "PaymentWall": 1
     },
     "scopeBreakdown": {
-      "merchant": 5091
+      "merchant": 5184
     },
     "entityTypeBreakdown": {
-      "physical_merchant": 2015,
+      "physical_merchant": 2108,
       "online_service": 3076
     },
     "acceptanceTypeBreakdown": {
-      "direct_crypto": 2117,
+      "direct_crypto": 2210,
       "processor_checkout": 2971,
       "digital_cash": 3
     },
     "acceptanceScopeBreakdown": {
-      "in_store": 2007,
+      "in_store": 2100,
       "online_checkout": 954,
       "selected_products_only": 2129,
       "renewal_only": 1
     },
     "sourceOriginBreakdown": {
-      "community_seed": 2007,
+      "community_seed": 2100,
       "official_seed": 3084
     },
     "verificationMethodBreakdown": {
-      "manual_official_source_review": 5091
+      "manual_official_source_review": 5184
     },
     "coverageRegionBreakdown": {
-      "BTC Map / OSM unmapped": 2007,
+      "BTC Map / OSM unmapped": 2100,
       "Global/Unknown": 3054,
       "NL": 2,
       "airBaltic online booking flow": 1,
@@ -108,7 +108,7 @@ export const generatedCutoverReportData = {
       "Global online travel booking": 1
     },
     "cityBreakdown": {
-      "Unknown": 5067,
+      "Unknown": 5160,
       "Amsterdam": 2,
       "Lidosta Riga, Marupe district": 1,
       "Perugia": 1,
@@ -155,19 +155,19 @@ export const generatedCutoverReportData = {
       "PaymentWall": 1
     },
     "noProcessorReasonBreakdown": {
-      "direct_crypto_no_processor_expected": 2115,
+      "direct_crypto_no_processor_expected": 2208,
       "bridge_no_processor": 3
     },
     "supportRailTypeBreakdown": {
-      "asset": 2251,
-      "chain": 2118,
+      "asset": 2344,
+      "chain": 2211,
       "processor": 2980,
       "card_program": 8,
       "digital_cash_program": 17
     },
     "supportRailLabelBreakdown": {
-      "Bitcoin": 2113,
-      "Lightning Network": 2108,
+      "Bitcoin": 2206,
+      "Lightning Network": 2201,
       "BitPay": 207,
       "CoinGate": 631,
       "Visa / Mastercard": 2,
@@ -238,7 +238,7 @@ export const generatedCutoverReportData = {
       "Credit Card": 1
     },
     "evidenceKindBreakdown": {
-      "official_store_locator": 5049,
+      "official_store_locator": 5142,
       "official_payment_page": 30,
       "official_help_center": 40,
       "official_checkout": 2,
@@ -246,7 +246,7 @@ export const generatedCutoverReportData = {
       "official_press_release": 1
     },
     "evidencePublisherBreakdown": {
-      "BTC Map / OpenStreetMap contributors": 2007,
+      "BTC Map / OpenStreetMap contributors": 2100,
       "BitPay": 195,
       "CoinGate": 627,
       "BTCPay Server": 101,
@@ -298,33 +298,33 @@ export const generatedCutoverReportData = {
       "Windscribe": 2
     },
     "websitePresenceBreakdown": {
-      "without_website": 3842,
-      "with_website": 1249
+      "without_website": 3886,
+      "with_website": 1298
     },
     "geoPresenceBreakdown": {
-      "with_geo": 2015,
+      "with_geo": 2108,
       "without_geo": 3076
     },
     "addressPresenceBreakdown": {
-      "with_address_full": 1465,
-      "without_address_full": 3626
+      "with_address_full": 1543,
+      "without_address_full": 3641
     },
     "evidenceCountBreakdown": {
-      "1": 5061,
+      "1": 5154,
       "2-3": 30
     },
     "notesPresenceBreakdown": {
-      "with_notes": 3317,
+      "with_notes": 3410,
       "without_notes": 1774
     },
     "duplicateDisplayNameSizeBreakdown": {
-      "2-3": 131,
+      "2-3": 133,
       "4-10": 106,
       "11+": 1
     },
     "recordHealthBreakdown": {
       "total_health_issues": 0,
-      "records_scanned": 5091
+      "records_scanned": 5184
     },
     "invalidCountryValues": [],
     "invalidCityValues": [],
@@ -3091,6 +3091,12 @@ export const generatedCutoverReportData = {
         "reason": "raw duplicate display_name group"
       },
       {
+        "id": "merchant:ishop:btcmap-place-17567",
+        "name": "iShop",
+        "value": "iShop",
+        "reason": "raw duplicate display_name group"
+      },
+      {
         "id": "merchant:ishop:btcmap-place-17568",
         "name": "iShop",
         "value": "iShop",
@@ -3544,6 +3550,12 @@ export const generatedCutoverReportData = {
         "id": "merchant:marshalls:egifter-catalog",
         "name": "Marshalls",
         "value": "Marshalls",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:mcdonald-s:btcmap-place-10651",
+        "name": "McDonald's",
+        "value": "McDonald's",
         "reason": "raw duplicate display_name group"
       },
       {
@@ -4210,6 +4222,30 @@ export const generatedCutoverReportData = {
         "id": "merchant:pick-n-pay-clothing:btcmap-place-27988",
         "name": "Pick n Pay Clothing",
         "value": "Pick n Pay Clothing",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:pick-n-pay-express:btcmap-place-14692",
+        "name": "Pick n Pay Express",
+        "value": "Pick n Pay Express",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:pick-n-pay-express:btcmap-place-15984",
+        "name": "Pick n Pay Express",
+        "value": "Pick n Pay Express",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:pick-n-pay-hyper:btcmap-place-14694",
+        "name": "Pick n Pay Hyper",
+        "value": "Pick n Pay Hyper",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:pick-n-pay-hyper:btcmap-place-16158",
+        "name": "Pick n Pay Hyper",
+        "value": "Pick n Pay Hyper",
         "reason": "raw duplicate display_name group"
       },
       {
