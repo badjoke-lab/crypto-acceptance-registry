@@ -99,6 +99,9 @@ function toEntry(place: BtcMapPlace) {
   const name = place.name.trim()
   const placeId = String(place.id).trim()
   if (!placeId) return null
+  const placeIdSlug = slugify(placeId)
+  if (!placeIdSlug) return null
+  const nameSlug = slugify(name) || `btcmap-place-${placeIdSlug}`
   const osmUrl = place.osm_url || (place.osm_id ? `https://www.openstreetmap.org/${place.osm_id.replace(':', '/')}` : null)
   const verified = place.verified_at ? `BTC Map verified_at: ${place.verified_at}` : 'BTC Map place entry has no verified_at value in selected fields.'
   const updated = place.updated_at ? `BTC Map updated_at: ${place.updated_at}` : null
@@ -107,7 +110,7 @@ function toEntry(place: BtcMapPlace) {
   const latLon = typeof place.lat === 'number' && typeof place.lon === 'number' ? `lat/lon: ${place.lat}, ${place.lon}` : null
 
   return {
-    id: `merchant:${slugify(name)}:btcmap-place-${slugify(placeId)}`,
+    id: `merchant:${nameSlug}:btcmap-place-${placeIdSlug}`,
     name,
     source: 'btcmap-v4-places',
     website: cleanWebsite(place.website),
