@@ -1,17 +1,17 @@
 export const generatedProductStatsData = {
-  "totalMerchants": 5184,
+  "totalMerchants": 5279,
   "modeBreakdown": {
-    "direct": 2210,
+    "direct": 2305,
     "processor": 2971,
     "bridge": 3
   },
   "confidenceBreakdown": {
-    "low": 2112,
+    "low": 2207,
     "medium": 1143,
     "high": 1929
   },
   "countryBreakdown": {
-    "Unknown": 5154,
+    "Unknown": 5249,
     "NL": 2,
     "LV": 1,
     "IT": 1,
@@ -34,7 +34,7 @@ export const generatedProductStatsData = {
     "CA": 1
   },
   "processorBreakdown": {
-    "Unknown": 2211,
+    "Unknown": 2306,
     "BitPay": 207,
     "CoinGate": 631,
     "CoinPayments": 5,
@@ -57,32 +57,32 @@ export const generatedProductStatsData = {
     "PaymentWall": 1
   },
   "scopeBreakdown": {
-    "merchant": 5184
+    "merchant": 5279
   },
   "entityTypeBreakdown": {
-    "physical_merchant": 2108,
+    "physical_merchant": 2203,
     "online_service": 3076
   },
   "acceptanceTypeBreakdown": {
-    "direct_crypto": 2210,
+    "direct_crypto": 2305,
     "processor_checkout": 2971,
     "digital_cash": 3
   },
   "acceptanceScopeBreakdown": {
-    "in_store": 2100,
+    "in_store": 2195,
     "online_checkout": 954,
     "selected_products_only": 2129,
     "renewal_only": 1
   },
   "sourceOriginBreakdown": {
-    "community_seed": 2100,
+    "community_seed": 2195,
     "official_seed": 3084
   },
   "verificationMethodBreakdown": {
-    "manual_official_source_review": 5184
+    "manual_official_source_review": 5279
   },
   "coverageRegionBreakdown": {
-    "BTC Map / OSM unmapped": 2100,
+    "BTC Map / OSM unmapped": 2195,
     "Global/Unknown": 3054,
     "NL": 2,
     "airBaltic online booking flow": 1,
@@ -98,7 +98,7 @@ export const generatedProductStatsData = {
     "Global online travel booking": 1
   },
   "cityBreakdown": {
-    "Unknown": 5160,
+    "Unknown": 5255,
     "Amsterdam": 2,
     "Lidosta Riga, Marupe district": 1,
     "Perugia": 1,
@@ -145,19 +145,19 @@ export const generatedProductStatsData = {
     "PaymentWall": 1
   },
   "noProcessorReasonBreakdown": {
-    "direct_crypto_no_processor_expected": 2208,
+    "direct_crypto_no_processor_expected": 2303,
     "bridge_no_processor": 3
   },
   "supportRailTypeBreakdown": {
-    "asset": 2344,
-    "chain": 2211,
+    "asset": 2439,
+    "chain": 2306,
     "processor": 2980,
     "card_program": 8,
     "digital_cash_program": 17
   },
   "supportRailLabelBreakdown": {
-    "Bitcoin": 2206,
-    "Lightning Network": 2201,
+    "Bitcoin": 2301,
+    "Lightning Network": 2296,
     "BitPay": 207,
     "CoinGate": 631,
     "Visa / Mastercard": 2,
@@ -228,7 +228,7 @@ export const generatedProductStatsData = {
     "Credit Card": 1
   },
   "evidenceKindBreakdown": {
-    "official_store_locator": 5142,
+    "official_store_locator": 5237,
     "official_payment_page": 30,
     "official_help_center": 40,
     "official_checkout": 2,
@@ -236,7 +236,7 @@ export const generatedProductStatsData = {
     "official_press_release": 1
   },
   "evidencePublisherBreakdown": {
-    "BTC Map / OpenStreetMap contributors": 2100,
+    "BTC Map / OpenStreetMap contributors": 2195,
     "BitPay": 195,
     "CoinGate": 627,
     "BTCPay Server": 101,
@@ -288,33 +288,33 @@ export const generatedProductStatsData = {
     "Windscribe": 2
   },
   "websitePresenceBreakdown": {
-    "without_website": 3886,
-    "with_website": 1298
+    "without_website": 3931,
+    "with_website": 1348
   },
   "geoPresenceBreakdown": {
-    "with_geo": 2108,
+    "with_geo": 2203,
     "without_geo": 3076
   },
   "addressPresenceBreakdown": {
-    "with_address_full": 1543,
-    "without_address_full": 3641
+    "with_address_full": 1597,
+    "without_address_full": 3682
   },
   "evidenceCountBreakdown": {
-    "1": 5154,
+    "1": 5249,
     "2-3": 30
   },
   "notesPresenceBreakdown": {
-    "with_notes": 3410,
+    "with_notes": 3505,
     "without_notes": 1774
   },
   "duplicateDisplayNameSizeBreakdown": {
-    "2-3": 133,
+    "2-3": 134,
     "4-10": 106,
     "11+": 1
   },
   "recordHealthBreakdown": {
     "total_health_issues": 0,
-    "records_scanned": 5184
+    "records_scanned": 5279
   },
   "invalidCountryValues": [],
   "invalidCityValues": [],
@@ -1326,6 +1326,18 @@ export const generatedProductStatsData = {
       "id": "merchant:bitcoin-atm:btcmap-place-2889",
       "name": "Bitcoin ATM",
       "value": "Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-16350",
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "value": "Bitcoin ATM - Shitcoins.club",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-18726",
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "value": "Bitcoin ATM - Shitcoins.club",
       "reason": "raw duplicate display_name group"
     },
     {
