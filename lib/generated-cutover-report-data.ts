@@ -1,27 +1,27 @@
 export const generatedCutoverReportData = {
-  "generatedAt": "2026-04-30T15:31:01.153Z",
+  "generatedAt": "2026-05-01T10:28:09.817Z",
   "merchants": {
-    "total": 4714,
-    "withEvidence": 4714,
-    "withWebsite": 1027,
+    "total": 4802,
+    "withEvidence": 4802,
+    "withWebsite": 1080,
     "highConfidence": 1929,
     "mediumConfidence": 1143,
-    "lowConfidence": 1642
+    "lowConfidence": 1730
   },
   "stats": {
-    "totalMerchants": 4714,
+    "totalMerchants": 4802,
     "modeBreakdown": {
-      "direct": 1740,
+      "direct": 1828,
       "processor": 2971,
       "bridge": 3
     },
     "confidenceBreakdown": {
-      "low": 1642,
+      "low": 1730,
       "medium": 1143,
       "high": 1929
     },
     "countryBreakdown": {
-      "Unknown": 4684,
+      "Unknown": 4772,
       "NL": 2,
       "LV": 1,
       "IT": 1,
@@ -44,7 +44,7 @@ export const generatedCutoverReportData = {
       "CA": 1
     },
     "processorBreakdown": {
-      "Unknown": 1741,
+      "Unknown": 1829,
       "BitPay": 207,
       "CoinGate": 631,
       "CoinPayments": 5,
@@ -67,32 +67,32 @@ export const generatedCutoverReportData = {
       "PaymentWall": 1
     },
     "scopeBreakdown": {
-      "merchant": 4714
+      "merchant": 4802
     },
     "entityTypeBreakdown": {
-      "physical_merchant": 1638,
+      "physical_merchant": 1726,
       "online_service": 3076
     },
     "acceptanceTypeBreakdown": {
-      "direct_crypto": 1740,
+      "direct_crypto": 1828,
       "processor_checkout": 2971,
       "digital_cash": 3
     },
     "acceptanceScopeBreakdown": {
-      "in_store": 1630,
+      "in_store": 1718,
       "online_checkout": 954,
       "selected_products_only": 2129,
       "renewal_only": 1
     },
     "sourceOriginBreakdown": {
-      "community_seed": 1630,
+      "community_seed": 1718,
       "official_seed": 3084
     },
     "verificationMethodBreakdown": {
-      "manual_official_source_review": 4714
+      "manual_official_source_review": 4802
     },
     "coverageRegionBreakdown": {
-      "BTC Map / OSM unmapped": 1630,
+      "BTC Map / OSM unmapped": 1718,
       "Global/Unknown": 3054,
       "NL": 2,
       "airBaltic online booking flow": 1,
@@ -108,7 +108,7 @@ export const generatedCutoverReportData = {
       "Global online travel booking": 1
     },
     "cityBreakdown": {
-      "Unknown": 4690,
+      "Unknown": 4778,
       "Amsterdam": 2,
       "Lidosta Riga, Marupe district": 1,
       "Perugia": 1,
@@ -155,19 +155,19 @@ export const generatedCutoverReportData = {
       "PaymentWall": 1
     },
     "noProcessorReasonBreakdown": {
-      "direct_crypto_no_processor_expected": 1738,
+      "direct_crypto_no_processor_expected": 1826,
       "bridge_no_processor": 3
     },
     "supportRailTypeBreakdown": {
-      "asset": 1874,
-      "chain": 1741,
+      "asset": 1962,
+      "chain": 1829,
       "processor": 2980,
       "card_program": 8,
       "digital_cash_program": 17
     },
     "supportRailLabelBreakdown": {
-      "Bitcoin": 1736,
-      "Lightning Network": 1731,
+      "Bitcoin": 1824,
+      "Lightning Network": 1819,
       "BitPay": 207,
       "CoinGate": 631,
       "Visa / Mastercard": 2,
@@ -238,7 +238,7 @@ export const generatedCutoverReportData = {
       "Credit Card": 1
     },
     "evidenceKindBreakdown": {
-      "official_store_locator": 4672,
+      "official_store_locator": 4760,
       "official_payment_page": 30,
       "official_help_center": 40,
       "official_checkout": 2,
@@ -246,7 +246,7 @@ export const generatedCutoverReportData = {
       "official_press_release": 1
     },
     "evidencePublisherBreakdown": {
-      "BTC Map / OpenStreetMap contributors": 1630,
+      "BTC Map / OpenStreetMap contributors": 1718,
       "BitPay": 195,
       "CoinGate": 627,
       "BTCPay Server": 101,
@@ -298,33 +298,33 @@ export const generatedCutoverReportData = {
       "Windscribe": 2
     },
     "websitePresenceBreakdown": {
-      "without_website": 3687,
-      "with_website": 1027
+      "without_website": 3722,
+      "with_website": 1080
     },
     "geoPresenceBreakdown": {
-      "with_geo": 1638,
+      "with_geo": 1726,
       "without_geo": 3076
     },
     "addressPresenceBreakdown": {
-      "with_address_full": 1201,
-      "without_address_full": 3513
+      "with_address_full": 1271,
+      "without_address_full": 3531
     },
     "evidenceCountBreakdown": {
-      "1": 4684,
+      "1": 4772,
       "2-3": 30
     },
     "notesPresenceBreakdown": {
-      "with_notes": 2940,
+      "with_notes": 3028,
       "without_notes": 1774
     },
     "duplicateDisplayNameSizeBreakdown": {
-      "2-3": 126,
+      "2-3": 128,
       "4-10": 105,
       "11+": 1
     },
     "recordHealthBreakdown": {
       "total_health_issues": 0,
-      "records_scanned": 4714
+      "records_scanned": 4802
     },
     "invalidCountryValues": [],
     "invalidCityValues": [],
@@ -3055,6 +3055,18 @@ export const generatedCutoverReportData = {
         "reason": "raw duplicate display_name group"
       },
       {
+        "id": "merchant:itechnics:btcmap-place-24814",
+        "name": "iTechnics",
+        "value": "iTechnics",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:itechnics:btcmap-place-4153",
+        "name": "iTechnics",
+        "value": "iTechnics",
+        "reason": "raw duplicate display_name group"
+      },
+      {
         "id": "merchant:itunes:coinsbee-catalog",
         "name": "iTunes",
         "value": "iTunes",
@@ -5062,6 +5074,18 @@ export const generatedCutoverReportData = {
         "id": "merchant:subway:egifter-catalog",
         "name": "Subway",
         "value": "Subway",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:super-selectos:btcmap-place-11420",
+        "name": "Super Selectos",
+        "value": "Super Selectos",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:super-selectos:btcmap-place-13242",
+        "name": "Super Selectos",
+        "value": "Super Selectos",
         "reason": "raw duplicate display_name group"
       },
       {
