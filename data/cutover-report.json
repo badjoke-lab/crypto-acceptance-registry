@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-05-01T10:28:09.817Z",
+  "generatedAt": "2026-05-01T10:43:35.924Z",
   "merchants": {
-    "total": 4802,
-    "withEvidence": 4802,
-    "withWebsite": 1080,
+    "total": 4895,
+    "withEvidence": 4895,
+    "withWebsite": 1141,
     "highConfidence": 1929,
     "mediumConfidence": 1143,
-    "lowConfidence": 1730
+    "lowConfidence": 1823
   },
   "stats": {
-    "totalMerchants": 4802,
+    "totalMerchants": 4895,
     "modeBreakdown": {
-      "direct": 1828,
+      "direct": 1921,
       "processor": 2971,
       "bridge": 3
     },
     "confidenceBreakdown": {
-      "low": 1730,
+      "low": 1823,
       "medium": 1143,
       "high": 1929
     },
     "countryBreakdown": {
-      "Unknown": 4772,
+      "Unknown": 4865,
       "NL": 2,
       "LV": 1,
       "IT": 1,
@@ -44,7 +44,7 @@
       "CA": 1
     },
     "processorBreakdown": {
-      "Unknown": 1829,
+      "Unknown": 1922,
       "BitPay": 207,
       "CoinGate": 631,
       "CoinPayments": 5,
@@ -67,32 +67,32 @@
       "PaymentWall": 1
     },
     "scopeBreakdown": {
-      "merchant": 4802
+      "merchant": 4895
     },
     "entityTypeBreakdown": {
-      "physical_merchant": 1726,
+      "physical_merchant": 1819,
       "online_service": 3076
     },
     "acceptanceTypeBreakdown": {
-      "direct_crypto": 1828,
+      "direct_crypto": 1921,
       "processor_checkout": 2971,
       "digital_cash": 3
     },
     "acceptanceScopeBreakdown": {
-      "in_store": 1718,
+      "in_store": 1811,
       "online_checkout": 954,
       "selected_products_only": 2129,
       "renewal_only": 1
     },
     "sourceOriginBreakdown": {
-      "community_seed": 1718,
+      "community_seed": 1811,
       "official_seed": 3084
     },
     "verificationMethodBreakdown": {
-      "manual_official_source_review": 4802
+      "manual_official_source_review": 4895
     },
     "coverageRegionBreakdown": {
-      "BTC Map / OSM unmapped": 1718,
+      "BTC Map / OSM unmapped": 1811,
       "Global/Unknown": 3054,
       "NL": 2,
       "airBaltic online booking flow": 1,
@@ -108,7 +108,7 @@
       "Global online travel booking": 1
     },
     "cityBreakdown": {
-      "Unknown": 4778,
+      "Unknown": 4871,
       "Amsterdam": 2,
       "Lidosta Riga, Marupe district": 1,
       "Perugia": 1,
@@ -155,19 +155,19 @@
       "PaymentWall": 1
     },
     "noProcessorReasonBreakdown": {
-      "direct_crypto_no_processor_expected": 1826,
+      "direct_crypto_no_processor_expected": 1919,
       "bridge_no_processor": 3
     },
     "supportRailTypeBreakdown": {
-      "asset": 1962,
-      "chain": 1829,
+      "asset": 2055,
+      "chain": 1922,
       "processor": 2980,
       "card_program": 8,
       "digital_cash_program": 17
     },
     "supportRailLabelBreakdown": {
-      "Bitcoin": 1824,
-      "Lightning Network": 1819,
+      "Bitcoin": 1917,
+      "Lightning Network": 1912,
       "BitPay": 207,
       "CoinGate": 631,
       "Visa / Mastercard": 2,
@@ -238,7 +238,7 @@
       "Credit Card": 1
     },
     "evidenceKindBreakdown": {
-      "official_store_locator": 4760,
+      "official_store_locator": 4853,
       "official_payment_page": 30,
       "official_help_center": 40,
       "official_checkout": 2,
@@ -246,7 +246,7 @@
       "official_press_release": 1
     },
     "evidencePublisherBreakdown": {
-      "BTC Map / OpenStreetMap contributors": 1718,
+      "BTC Map / OpenStreetMap contributors": 1811,
       "BitPay": 195,
       "CoinGate": 627,
       "BTCPay Server": 101,
@@ -298,33 +298,33 @@
       "Windscribe": 2
     },
     "websitePresenceBreakdown": {
-      "without_website": 3722,
-      "with_website": 1080
+      "without_website": 3754,
+      "with_website": 1141
     },
     "geoPresenceBreakdown": {
-      "with_geo": 1726,
+      "with_geo": 1819,
       "without_geo": 3076
     },
     "addressPresenceBreakdown": {
-      "with_address_full": 1271,
-      "without_address_full": 3531
+      "with_address_full": 1341,
+      "without_address_full": 3554
     },
     "evidenceCountBreakdown": {
-      "1": 4772,
+      "1": 4865,
       "2-3": 30
     },
     "notesPresenceBreakdown": {
-      "with_notes": 3028,
+      "with_notes": 3121,
       "without_notes": 1774
     },
     "duplicateDisplayNameSizeBreakdown": {
-      "2-3": 128,
+      "2-3": 129,
       "4-10": 105,
       "11+": 1
     },
     "recordHealthBreakdown": {
       "total_health_issues": 0,
-      "records_scanned": 4802
+      "records_scanned": 4895
     },
     "invalidCountryValues": [],
     "invalidCityValues": [],
@@ -1310,6 +1310,12 @@
       },
       {
         "id": "merchant:bitcoin-atm:btcmap-place-23271",
+        "name": "Bitcoin ATM",
+        "value": "Bitcoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:bitcoin-atm:btcmap-place-2889",
         "name": "Bitcoin ATM",
         "value": "Bitcoin ATM",
         "reason": "raw duplicate display_name group"
@@ -3052,6 +3058,18 @@
         "id": "merchant:instacart:egifter-catalog",
         "name": "Instacart",
         "value": "Instacart",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:ishop:btcmap-place-17568",
+        "name": "iShop",
+        "value": "iShop",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:ishop:btcmap-place-3371",
+        "name": "iShop",
+        "value": "iShop",
         "reason": "raw duplicate display_name group"
       },
       {
