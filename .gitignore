@@ -20,3 +20,5 @@ data/evidence-audit.json
 data/missing-reference-samples.json
 data/product-merchants.all.json
 data/product-stats.all.json
+
+data/quality/
