@@ -1,17 +1,17 @@
 {
-  "totalMerchants": 5457,
+  "totalMerchants": 5554,
   "modeBreakdown": {
-    "direct": 2483,
+    "direct": 2580,
     "processor": 2971,
     "bridge": 3
   },
   "confidenceBreakdown": {
-    "low": 2385,
+    "low": 2482,
     "medium": 1143,
     "high": 1929
   },
   "countryBreakdown": {
-    "Unknown": 5427,
+    "Unknown": 5524,
     "NL": 2,
     "LV": 1,
     "IT": 1,
@@ -34,7 +34,7 @@
     "CA": 1
   },
   "processorBreakdown": {
-    "Unknown": 2484,
+    "Unknown": 2581,
     "BitPay": 207,
     "CoinGate": 631,
     "CoinPayments": 5,
@@ -57,32 +57,32 @@
     "PaymentWall": 1
   },
   "scopeBreakdown": {
-    "merchant": 5457
+    "merchant": 5554
   },
   "entityTypeBreakdown": {
-    "physical_merchant": 2381,
+    "physical_merchant": 2478,
     "online_service": 3076
   },
   "acceptanceTypeBreakdown": {
-    "direct_crypto": 2483,
+    "direct_crypto": 2580,
     "processor_checkout": 2971,
     "digital_cash": 3
   },
   "acceptanceScopeBreakdown": {
-    "in_store": 2373,
+    "in_store": 2470,
     "online_checkout": 954,
     "selected_products_only": 2129,
     "renewal_only": 1
   },
   "sourceOriginBreakdown": {
-    "community_seed": 2373,
+    "community_seed": 2470,
     "official_seed": 3084
   },
   "verificationMethodBreakdown": {
-    "manual_official_source_review": 5457
+    "manual_official_source_review": 5554
   },
   "coverageRegionBreakdown": {
-    "BTC Map / OSM unmapped": 2373,
+    "BTC Map / OSM unmapped": 2470,
     "Global/Unknown": 3054,
     "NL": 2,
     "airBaltic online booking flow": 1,
@@ -98,7 +98,7 @@
     "Global online travel booking": 1
   },
   "cityBreakdown": {
-    "Unknown": 5433,
+    "Unknown": 5530,
     "Amsterdam": 2,
     "Lidosta Riga, Marupe district": 1,
     "Perugia": 1,
@@ -145,19 +145,19 @@
     "PaymentWall": 1
   },
   "noProcessorReasonBreakdown": {
-    "direct_crypto_no_processor_expected": 2481,
+    "direct_crypto_no_processor_expected": 2578,
     "bridge_no_processor": 3
   },
   "supportRailTypeBreakdown": {
-    "asset": 2617,
-    "chain": 2484,
+    "asset": 2714,
+    "chain": 2581,
     "processor": 2980,
     "card_program": 8,
     "digital_cash_program": 17
   },
   "supportRailLabelBreakdown": {
-    "Bitcoin": 2479,
-    "Lightning Network": 2474,
+    "Bitcoin": 2576,
+    "Lightning Network": 2571,
     "BitPay": 207,
     "CoinGate": 631,
     "Visa / Mastercard": 2,
@@ -228,7 +228,7 @@
     "Credit Card": 1
   },
   "evidenceKindBreakdown": {
-    "official_store_locator": 5415,
+    "official_store_locator": 5512,
     "official_payment_page": 30,
     "official_help_center": 40,
     "official_checkout": 2,
@@ -236,7 +236,7 @@
     "official_press_release": 1
   },
   "evidencePublisherBreakdown": {
-    "BTC Map / OpenStreetMap contributors": 2373,
+    "BTC Map / OpenStreetMap contributors": 2470,
     "BitPay": 195,
     "CoinGate": 627,
     "BTCPay Server": 101,
@@ -288,33 +288,33 @@
     "Windscribe": 2
   },
   "websitePresenceBreakdown": {
-    "without_website": 4002,
-    "with_website": 1455
+    "without_website": 4032,
+    "with_website": 1522
   },
   "geoPresenceBreakdown": {
-    "with_geo": 2381,
+    "with_geo": 2478,
     "without_geo": 3076
   },
   "addressPresenceBreakdown": {
-    "with_address_full": 1706,
-    "without_address_full": 3751
+    "with_address_full": 1752,
+    "without_address_full": 3802
   },
   "evidenceCountBreakdown": {
-    "1": 5427,
+    "1": 5524,
     "2-3": 30
   },
   "notesPresenceBreakdown": {
-    "with_notes": 3683,
+    "with_notes": 3780,
     "without_notes": 1774
   },
   "duplicateDisplayNameSizeBreakdown": {
-    "2-3": 137,
-    "4-10": 106,
-    "11+": 2
+    "2-3": 141,
+    "4-10": 107,
+    "11+": 3
   },
   "recordHealthBreakdown": {
     "total_health_issues": 0,
-    "records_scanned": 5457
+    "records_scanned": 5554
   },
   "invalidCountryValues": [],
   "invalidCityValues": [],
@@ -1347,7 +1347,37 @@
       "reason": "raw duplicate display_name group"
     },
     {
+      "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-17581",
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "value": "Bitcoin ATM - Shitcoins.club",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-17605",
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "value": "Bitcoin ATM - Shitcoins.club",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-17609",
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "value": "Bitcoin ATM - Shitcoins.club",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-17645",
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "value": "Bitcoin ATM - Shitcoins.club",
+      "reason": "raw duplicate display_name group"
+    },
+    {
       "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-18726",
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "value": "Bitcoin ATM - Shitcoins.club",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-19575",
       "name": "Bitcoin ATM - Shitcoins.club",
       "value": "Bitcoin ATM - Shitcoins.club",
       "reason": "raw duplicate display_name group"
@@ -1374,6 +1404,18 @@
       "id": "merchant:bitgo:bitpay-directory",
       "name": "BitGo",
       "value": "BitGo",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:bitnational-bitcoin-atm:btcmap-place-17753",
+      "name": "BitNational Bitcoin ATM",
+      "value": "BitNational Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:bitnational-bitcoin-atm:btcmap-place-17754",
+      "name": "BitNational Bitcoin ATM",
+      "value": "BitNational Bitcoin ATM",
       "reason": "raw duplicate display_name group"
     },
     {
@@ -1758,6 +1800,18 @@
       "id": "merchant:coined:bitrefill-directory-si",
       "name": "CoinEd",
       "value": "CoinEd",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:coinflip-bitcoin-atm:btcmap-place-16317",
+      "name": "CoinFlip Bitcoin ATM",
+      "value": "CoinFlip Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:coinflip-bitcoin-atm:btcmap-place-17780",
+      "name": "CoinFlip Bitcoin ATM",
+      "value": "CoinFlip Bitcoin ATM",
       "reason": "raw duplicate display_name group"
     },
     {
@@ -2907,6 +2961,48 @@
       "reason": "raw duplicate display_name group"
     },
     {
+      "id": "merchant:hilt-bitcoin-atm:btcmap-place-17700",
+      "name": "Hilt Bitcoin ATM",
+      "value": "Hilt Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:hilt-bitcoin-atm:btcmap-place-17701",
+      "name": "Hilt Bitcoin ATM",
+      "value": "Hilt Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:hilt-bitcoin-atm:btcmap-place-17702",
+      "name": "Hilt Bitcoin ATM",
+      "value": "Hilt Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:hodl-bitcoin-atm:btcmap-place-17795",
+      "name": "HODL Bitcoin ATM",
+      "value": "HODL Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:hodl-bitcoin-atm:btcmap-place-17798",
+      "name": "HODL Bitcoin ATM",
+      "value": "HODL Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:hodl-digital-services-bitcoin-atm:btcmap-place-17776",
+      "name": "HODL Digital Services Bitcoin ATM",
+      "value": "HODL Digital Services Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:hodl-digital-services-bitcoin-atm:btcmap-place-17778",
+      "name": "HODL Digital Services Bitcoin ATM",
+      "value": "HODL Digital Services Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
       "id": "merchant:home-depot-bitpay-gift-card",
       "name": "Home Depot",
       "value": "Home Depot",
@@ -2934,6 +3030,84 @@
       "id": "merchant:homegoods:egifter-catalog",
       "name": "HomeGoods",
       "value": "HomeGoods",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:honeybadger-bitcoin-atm:btcmap-place-12862",
+      "name": "HoneyBadger Bitcoin ATM",
+      "value": "HoneyBadger Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:honeybadger-bitcoin-atm:btcmap-place-17722",
+      "name": "HoneyBadger Bitcoin ATM",
+      "value": "HoneyBadger Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:honeybadger-bitcoin-atm:btcmap-place-17723",
+      "name": "HoneyBadger Bitcoin ATM",
+      "value": "HoneyBadger Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:honeybadger-bitcoin-atm:btcmap-place-17725",
+      "name": "HoneyBadger Bitcoin ATM",
+      "value": "HoneyBadger Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:honeybadger-bitcoin-atm:btcmap-place-17727",
+      "name": "HoneyBadger Bitcoin ATM",
+      "value": "HoneyBadger Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:honeybadger-bitcoin-atm:btcmap-place-17728",
+      "name": "HoneyBadger Bitcoin ATM",
+      "value": "HoneyBadger Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:honeybadger-bitcoin-atm:btcmap-place-17748",
+      "name": "HoneyBadger Bitcoin ATM",
+      "value": "HoneyBadger Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:honeybadger-bitcoin-atm:btcmap-place-17749",
+      "name": "HoneyBadger Bitcoin ATM",
+      "value": "HoneyBadger Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:honeybadger-bitcoin-atm:btcmap-place-17750",
+      "name": "HoneyBadger Bitcoin ATM",
+      "value": "HoneyBadger Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:honeybadger-bitcoin-atm:btcmap-place-17751",
+      "name": "HoneyBadger Bitcoin ATM",
+      "value": "HoneyBadger Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:honeybadger-bitcoin-atm:btcmap-place-17773",
+      "name": "HoneyBadger Bitcoin ATM",
+      "value": "HoneyBadger Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:honeybadger-bitcoin-atm:btcmap-place-17774",
+      "name": "HoneyBadger Bitcoin ATM",
+      "value": "HoneyBadger Bitcoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:honeybadger-bitcoin-atm:btcmap-place-17775",
+      "name": "HoneyBadger Bitcoin ATM",
+      "value": "HoneyBadger Bitcoin ATM",
       "reason": "raw duplicate display_name group"
     },
     {
