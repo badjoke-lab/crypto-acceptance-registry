@@ -1,17 +1,17 @@
 export const generatedProductStatsData = {
-  "totalMerchants": 5373,
+  "totalMerchants": 5457,
   "modeBreakdown": {
-    "direct": 2399,
+    "direct": 2483,
     "processor": 2971,
     "bridge": 3
   },
   "confidenceBreakdown": {
-    "low": 2301,
+    "low": 2385,
     "medium": 1143,
     "high": 1929
   },
   "countryBreakdown": {
-    "Unknown": 5343,
+    "Unknown": 5427,
     "NL": 2,
     "LV": 1,
     "IT": 1,
@@ -34,7 +34,7 @@ export const generatedProductStatsData = {
     "CA": 1
   },
   "processorBreakdown": {
-    "Unknown": 2400,
+    "Unknown": 2484,
     "BitPay": 207,
     "CoinGate": 631,
     "CoinPayments": 5,
@@ -57,32 +57,32 @@ export const generatedProductStatsData = {
     "PaymentWall": 1
   },
   "scopeBreakdown": {
-    "merchant": 5373
+    "merchant": 5457
   },
   "entityTypeBreakdown": {
-    "physical_merchant": 2297,
+    "physical_merchant": 2381,
     "online_service": 3076
   },
   "acceptanceTypeBreakdown": {
-    "direct_crypto": 2399,
+    "direct_crypto": 2483,
     "processor_checkout": 2971,
     "digital_cash": 3
   },
   "acceptanceScopeBreakdown": {
-    "in_store": 2289,
+    "in_store": 2373,
     "online_checkout": 954,
     "selected_products_only": 2129,
     "renewal_only": 1
   },
   "sourceOriginBreakdown": {
-    "community_seed": 2289,
+    "community_seed": 2373,
     "official_seed": 3084
   },
   "verificationMethodBreakdown": {
-    "manual_official_source_review": 5373
+    "manual_official_source_review": 5457
   },
   "coverageRegionBreakdown": {
-    "BTC Map / OSM unmapped": 2289,
+    "BTC Map / OSM unmapped": 2373,
     "Global/Unknown": 3054,
     "NL": 2,
     "airBaltic online booking flow": 1,
@@ -98,7 +98,7 @@ export const generatedProductStatsData = {
     "Global online travel booking": 1
   },
   "cityBreakdown": {
-    "Unknown": 5349,
+    "Unknown": 5433,
     "Amsterdam": 2,
     "Lidosta Riga, Marupe district": 1,
     "Perugia": 1,
@@ -145,19 +145,19 @@ export const generatedProductStatsData = {
     "PaymentWall": 1
   },
   "noProcessorReasonBreakdown": {
-    "direct_crypto_no_processor_expected": 2397,
+    "direct_crypto_no_processor_expected": 2481,
     "bridge_no_processor": 3
   },
   "supportRailTypeBreakdown": {
-    "asset": 2533,
-    "chain": 2400,
+    "asset": 2617,
+    "chain": 2484,
     "processor": 2980,
     "card_program": 8,
     "digital_cash_program": 17
   },
   "supportRailLabelBreakdown": {
-    "Bitcoin": 2395,
-    "Lightning Network": 2390,
+    "Bitcoin": 2479,
+    "Lightning Network": 2474,
     "BitPay": 207,
     "CoinGate": 631,
     "Visa / Mastercard": 2,
@@ -228,7 +228,7 @@ export const generatedProductStatsData = {
     "Credit Card": 1
   },
   "evidenceKindBreakdown": {
-    "official_store_locator": 5331,
+    "official_store_locator": 5415,
     "official_payment_page": 30,
     "official_help_center": 40,
     "official_checkout": 2,
@@ -236,7 +236,7 @@ export const generatedProductStatsData = {
     "official_press_release": 1
   },
   "evidencePublisherBreakdown": {
-    "BTC Map / OpenStreetMap contributors": 2289,
+    "BTC Map / OpenStreetMap contributors": 2373,
     "BitPay": 195,
     "CoinGate": 627,
     "BTCPay Server": 101,
@@ -288,33 +288,33 @@ export const generatedProductStatsData = {
     "Windscribe": 2
   },
   "websitePresenceBreakdown": {
-    "without_website": 3980,
-    "with_website": 1393
+    "without_website": 4002,
+    "with_website": 1455
   },
   "geoPresenceBreakdown": {
-    "with_geo": 2297,
+    "with_geo": 2381,
     "without_geo": 3076
   },
   "addressPresenceBreakdown": {
-    "with_address_full": 1651,
-    "without_address_full": 3722
+    "with_address_full": 1706,
+    "without_address_full": 3751
   },
   "evidenceCountBreakdown": {
-    "1": 5343,
+    "1": 5427,
     "2-3": 30
   },
   "notesPresenceBreakdown": {
-    "with_notes": 3599,
+    "with_notes": 3683,
     "without_notes": 1774
   },
   "duplicateDisplayNameSizeBreakdown": {
-    "2-3": 136,
+    "2-3": 137,
     "4-10": 106,
-    "11+": 1
+    "11+": 2
   },
   "recordHealthBreakdown": {
     "total_health_issues": 0,
-    "records_scanned": 5373
+    "records_scanned": 5457
   },
   "invalidCountryValues": [],
   "invalidCityValues": [],
@@ -1317,7 +1317,7 @@ export const generatedProductStatsData = {
       "reason": "raw duplicate display_name group"
     },
     {
-      "id": "merchant:bitcoin-atm:btcmap-place-20",
+      "id": "merchant:bitcoin-atm:btcmap-place-17333",
       "name": "Bitcoin ATM",
       "value": "Bitcoin ATM",
       "reason": "raw duplicate display_name group"
@@ -2241,6 +2241,24 @@ export const generatedProductStatsData = {
       "reason": "raw duplicate display_name group"
     },
     {
+      "id": "merchant:doppelganger:btcmap-place-11807",
+      "name": "Doppelgänger",
+      "value": "Doppelgänger",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:doppelganger:btcmap-place-14077",
+      "name": "Doppelgänger",
+      "value": "Doppelgänger",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:doppelganger:btcmap-place-3197",
+      "name": "Doppelgänger",
+      "value": "Doppelgänger",
+      "reason": "raw duplicate display_name group"
+    },
+    {
       "id": "merchant:douglas:coingate-directory",
       "name": "Douglas",
       "value": "Douglas",
@@ -3102,6 +3120,84 @@ export const generatedProductStatsData = {
       "id": "merchant:instacart:egifter-catalog",
       "name": "Instacart",
       "value": "Instacart",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:instacoin-atm:btcmap-place-17231",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:instacoin-atm:btcmap-place-17238",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:instacoin-atm:btcmap-place-17244",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:instacoin-atm:btcmap-place-17247",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:instacoin-atm:btcmap-place-17248",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:instacoin-atm:btcmap-place-17254",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:instacoin-atm:btcmap-place-17256",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:instacoin-atm:btcmap-place-17257",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:instacoin-atm:btcmap-place-17260",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:instacoin-atm:btcmap-place-17261",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:instacoin-atm:btcmap-place-17263",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:instacoin-atm:btcmap-place-17270",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:instacoin-atm:btcmap-place-17283",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
       "reason": "raw duplicate display_name group"
     },
     {
@@ -5199,7 +5295,7 @@ export const generatedProductStatsData = {
       "reason": "raw duplicate display_name group"
     },
     {
-      "id": "merchant:super-selectos:btcmap-place-11420",
+      "id": "merchant:super-selectos:btcmap-place-11239",
       "name": "Super Selectos",
       "value": "Super Selectos",
       "reason": "raw duplicate display_name group"
