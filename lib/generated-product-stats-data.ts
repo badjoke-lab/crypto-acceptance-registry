@@ -1,17 +1,17 @@
 export const generatedProductStatsData = {
-  "totalMerchants": 6097,
+  "totalMerchants": 6184,
   "modeBreakdown": {
-    "direct": 3123,
+    "direct": 3210,
     "processor": 2971,
     "bridge": 3
   },
   "confidenceBreakdown": {
-    "low": 3025,
+    "low": 3112,
     "medium": 1143,
     "high": 1929
   },
   "countryBreakdown": {
-    "Unknown": 6067,
+    "Unknown": 6154,
     "NL": 2,
     "LV": 1,
     "IT": 1,
@@ -34,7 +34,7 @@ export const generatedProductStatsData = {
     "CA": 1
   },
   "processorBreakdown": {
-    "Unknown": 3124,
+    "Unknown": 3211,
     "BitPay": 207,
     "CoinGate": 631,
     "CoinPayments": 5,
@@ -57,32 +57,32 @@ export const generatedProductStatsData = {
     "PaymentWall": 1
   },
   "scopeBreakdown": {
-    "merchant": 6097
+    "merchant": 6184
   },
   "entityTypeBreakdown": {
-    "physical_merchant": 3021,
+    "physical_merchant": 3108,
     "online_service": 3076
   },
   "acceptanceTypeBreakdown": {
-    "direct_crypto": 3123,
+    "direct_crypto": 3210,
     "processor_checkout": 2971,
     "digital_cash": 3
   },
   "acceptanceScopeBreakdown": {
-    "in_store": 3013,
+    "in_store": 3100,
     "online_checkout": 954,
     "selected_products_only": 2129,
     "renewal_only": 1
   },
   "sourceOriginBreakdown": {
-    "community_seed": 3013,
+    "community_seed": 3100,
     "official_seed": 3084
   },
   "verificationMethodBreakdown": {
-    "manual_official_source_review": 6097
+    "manual_official_source_review": 6184
   },
   "coverageRegionBreakdown": {
-    "BTC Map / OSM unmapped": 3013,
+    "BTC Map / OSM unmapped": 3100,
     "Global/Unknown": 3054,
     "NL": 2,
     "airBaltic online booking flow": 1,
@@ -98,7 +98,7 @@ export const generatedProductStatsData = {
     "Global online travel booking": 1
   },
   "cityBreakdown": {
-    "Unknown": 6073,
+    "Unknown": 6160,
     "Amsterdam": 2,
     "Lidosta Riga, Marupe district": 1,
     "Perugia": 1,
@@ -145,19 +145,19 @@ export const generatedProductStatsData = {
     "PaymentWall": 1
   },
   "noProcessorReasonBreakdown": {
-    "direct_crypto_no_processor_expected": 3121,
+    "direct_crypto_no_processor_expected": 3208,
     "bridge_no_processor": 3
   },
   "supportRailTypeBreakdown": {
-    "asset": 3257,
-    "chain": 3124,
+    "asset": 3344,
+    "chain": 3211,
     "processor": 2980,
     "card_program": 8,
     "digital_cash_program": 17
   },
   "supportRailLabelBreakdown": {
-    "Bitcoin": 3119,
-    "Lightning Network": 3114,
+    "Bitcoin": 3206,
+    "Lightning Network": 3201,
     "BitPay": 207,
     "CoinGate": 631,
     "Visa / Mastercard": 2,
@@ -228,7 +228,7 @@ export const generatedProductStatsData = {
     "Credit Card": 1
   },
   "evidenceKindBreakdown": {
-    "official_store_locator": 6055,
+    "official_store_locator": 6142,
     "official_payment_page": 30,
     "official_help_center": 40,
     "official_checkout": 2,
@@ -236,7 +236,7 @@ export const generatedProductStatsData = {
     "official_press_release": 1
   },
   "evidencePublisherBreakdown": {
-    "BTC Map / OpenStreetMap contributors": 3013,
+    "BTC Map / OpenStreetMap contributors": 3100,
     "BitPay": 195,
     "CoinGate": 627,
     "BTCPay Server": 101,
@@ -288,23 +288,23 @@ export const generatedProductStatsData = {
     "Windscribe": 2
   },
   "websitePresenceBreakdown": {
-    "without_website": 4232,
-    "with_website": 1865
+    "without_website": 4266,
+    "with_website": 1918
   },
   "geoPresenceBreakdown": {
-    "with_geo": 3021,
+    "with_geo": 3108,
     "without_geo": 3076
   },
   "addressPresenceBreakdown": {
-    "with_address_full": 2163,
-    "without_address_full": 3934
+    "with_address_full": 2215,
+    "without_address_full": 3969
   },
   "evidenceCountBreakdown": {
-    "1": 6067,
+    "1": 6154,
     "2-3": 30
   },
   "notesPresenceBreakdown": {
-    "with_notes": 4323,
+    "with_notes": 4410,
     "without_notes": 1774
   },
   "duplicateDisplayNameSizeBreakdown": {
@@ -314,7 +314,7 @@ export const generatedProductStatsData = {
   },
   "recordHealthBreakdown": {
     "total_health_issues": 0,
-    "records_scanned": 6097
+    "records_scanned": 6184
   },
   "invalidCountryValues": [],
   "invalidCityValues": [],
@@ -1509,7 +1509,55 @@ export const generatedProductStatsData = {
       "reason": "raw duplicate display_name group"
     },
     {
+      "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-19051",
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "value": "Bitcoin ATM - Shitcoins.club",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-19055",
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "value": "Bitcoin ATM - Shitcoins.club",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-19056",
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "value": "Bitcoin ATM - Shitcoins.club",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-19058",
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "value": "Bitcoin ATM - Shitcoins.club",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-19059",
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "value": "Bitcoin ATM - Shitcoins.club",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-19075",
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "value": "Bitcoin ATM - Shitcoins.club",
+      "reason": "raw duplicate display_name group"
+    },
+    {
       "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-19575",
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "value": "Bitcoin ATM - Shitcoins.club",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-3200",
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "value": "Bitcoin ATM - Shitcoins.club",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-3310",
       "name": "Bitcoin ATM - Shitcoins.club",
       "value": "Bitcoin ATM - Shitcoins.club",
       "reason": "raw duplicate display_name group"
@@ -1569,7 +1617,7 @@ export const generatedProductStatsData = {
       "reason": "raw duplicate display_name group"
     },
     {
-      "id": "merchant:bitomat-flyingatom:btcmap-place-560",
+      "id": "merchant:bitomat-flyingatom:btcmap-place-3124",
       "name": "Bitomat FlyingAtom",
       "value": "Bitomat FlyingAtom",
       "reason": "raw duplicate display_name group"
@@ -3537,6 +3585,12 @@ export const generatedProductStatsData = {
       "reason": "raw duplicate display_name group"
     },
     {
+      "id": "merchant:instacoin-atm:btcmap-place-17245",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
       "id": "merchant:instacoin-atm:btcmap-place-17246",
       "name": "Instacoin ATM",
       "value": "Instacoin ATM",
@@ -3550,6 +3604,12 @@ export const generatedProductStatsData = {
     },
     {
       "id": "merchant:instacoin-atm:btcmap-place-17248",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:instacoin-atm:btcmap-place-17251",
       "name": "Instacoin ATM",
       "value": "Instacoin ATM",
       "reason": "raw duplicate display_name group"
@@ -3574,6 +3634,12 @@ export const generatedProductStatsData = {
     },
     {
       "id": "merchant:instacoin-atm:btcmap-place-17257",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:instacoin-atm:btcmap-place-17258",
       "name": "Instacoin ATM",
       "value": "Instacoin ATM",
       "reason": "raw duplicate display_name group"
@@ -3639,6 +3705,18 @@ export const generatedProductStatsData = {
       "reason": "raw duplicate display_name group"
     },
     {
+      "id": "merchant:instacoin-atm:btcmap-place-17294",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:instacoin-atm:btcmap-place-17296",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
       "id": "merchant:instacoin-atm:btcmap-place-17298",
       "name": "Instacoin ATM",
       "value": "Instacoin ATM",
@@ -3651,6 +3729,12 @@ export const generatedProductStatsData = {
       "reason": "raw duplicate display_name group"
     },
     {
+      "id": "merchant:instacoin-atm:btcmap-place-17300",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
       "id": "merchant:instacoin-atm:btcmap-place-17301",
       "name": "Instacoin ATM",
       "value": "Instacoin ATM",
@@ -3658,6 +3742,24 @@ export const generatedProductStatsData = {
     },
     {
       "id": "merchant:instacoin-atm:btcmap-place-17302",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:instacoin-atm:btcmap-place-17303",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:instacoin-atm:btcmap-place-17306",
+      "name": "Instacoin ATM",
+      "value": "Instacoin ATM",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:instacoin-atm:btcmap-place-17307",
       "name": "Instacoin ATM",
       "value": "Instacoin ATM",
       "reason": "raw duplicate display_name group"
