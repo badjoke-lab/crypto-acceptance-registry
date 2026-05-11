@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-05-11T16:34:09.271Z",
+  "generatedAt": "2026-05-11T16:46:07.618Z",
   "merchants": {
-    "total": 6184,
-    "withEvidence": 6184,
-    "withWebsite": 1918,
+    "total": 6265,
+    "withEvidence": 6265,
+    "withWebsite": 1985,
     "highConfidence": 1929,
     "mediumConfidence": 1143,
-    "lowConfidence": 3112
+    "lowConfidence": 3193
   },
   "stats": {
-    "totalMerchants": 6184,
+    "totalMerchants": 6265,
     "modeBreakdown": {
-      "direct": 3210,
+      "direct": 3291,
       "processor": 2971,
       "bridge": 3
     },
     "confidenceBreakdown": {
-      "low": 3112,
+      "low": 3193,
       "medium": 1143,
       "high": 1929
     },
     "countryBreakdown": {
-      "Unknown": 6154,
+      "Unknown": 6235,
       "NL": 2,
       "LV": 1,
       "IT": 1,
@@ -44,7 +44,7 @@
       "CA": 1
     },
     "processorBreakdown": {
-      "Unknown": 3211,
+      "Unknown": 3292,
       "BitPay": 207,
       "CoinGate": 631,
       "CoinPayments": 5,
@@ -67,32 +67,32 @@
       "PaymentWall": 1
     },
     "scopeBreakdown": {
-      "merchant": 6184
+      "merchant": 6265
     },
     "entityTypeBreakdown": {
-      "physical_merchant": 3108,
+      "physical_merchant": 3189,
       "online_service": 3076
     },
     "acceptanceTypeBreakdown": {
-      "direct_crypto": 3210,
+      "direct_crypto": 3291,
       "processor_checkout": 2971,
       "digital_cash": 3
     },
     "acceptanceScopeBreakdown": {
-      "in_store": 3100,
+      "in_store": 3181,
       "online_checkout": 954,
       "selected_products_only": 2129,
       "renewal_only": 1
     },
     "sourceOriginBreakdown": {
-      "community_seed": 3100,
+      "community_seed": 3181,
       "official_seed": 3084
     },
     "verificationMethodBreakdown": {
-      "manual_official_source_review": 6184
+      "manual_official_source_review": 6265
     },
     "coverageRegionBreakdown": {
-      "BTC Map / OSM unmapped": 3100,
+      "BTC Map / OSM unmapped": 3181,
       "Global/Unknown": 3054,
       "NL": 2,
       "airBaltic online booking flow": 1,
@@ -108,7 +108,7 @@
       "Global online travel booking": 1
     },
     "cityBreakdown": {
-      "Unknown": 6160,
+      "Unknown": 6241,
       "Amsterdam": 2,
       "Lidosta Riga, Marupe district": 1,
       "Perugia": 1,
@@ -155,19 +155,19 @@
       "PaymentWall": 1
     },
     "noProcessorReasonBreakdown": {
-      "direct_crypto_no_processor_expected": 3208,
+      "direct_crypto_no_processor_expected": 3289,
       "bridge_no_processor": 3
     },
     "supportRailTypeBreakdown": {
-      "asset": 3344,
-      "chain": 3211,
+      "asset": 3425,
+      "chain": 3292,
       "processor": 2980,
       "card_program": 8,
       "digital_cash_program": 17
     },
     "supportRailLabelBreakdown": {
-      "Bitcoin": 3206,
-      "Lightning Network": 3201,
+      "Bitcoin": 3287,
+      "Lightning Network": 3282,
       "BitPay": 207,
       "CoinGate": 631,
       "Visa / Mastercard": 2,
@@ -238,7 +238,7 @@
       "Credit Card": 1
     },
     "evidenceKindBreakdown": {
-      "official_store_locator": 6142,
+      "official_store_locator": 6223,
       "official_payment_page": 30,
       "official_help_center": 40,
       "official_checkout": 2,
@@ -246,7 +246,7 @@
       "official_press_release": 1
     },
     "evidencePublisherBreakdown": {
-      "BTC Map / OpenStreetMap contributors": 3100,
+      "BTC Map / OpenStreetMap contributors": 3181,
       "BitPay": 195,
       "CoinGate": 627,
       "BTCPay Server": 101,
@@ -298,33 +298,33 @@
       "Windscribe": 2
     },
     "websitePresenceBreakdown": {
-      "without_website": 4266,
-      "with_website": 1918
+      "without_website": 4280,
+      "with_website": 1985
     },
     "geoPresenceBreakdown": {
-      "with_geo": 3108,
+      "with_geo": 3189,
       "without_geo": 3076
     },
     "addressPresenceBreakdown": {
-      "with_address_full": 2215,
-      "without_address_full": 3969
+      "with_address_full": 2265,
+      "without_address_full": 4000
     },
     "evidenceCountBreakdown": {
-      "1": 6154,
+      "1": 6235,
       "2-3": 30
     },
     "notesPresenceBreakdown": {
-      "with_notes": 4410,
+      "with_notes": 4491,
       "without_notes": 1774
     },
     "duplicateDisplayNameSizeBreakdown": {
-      "2-3": 146,
-      "4-10": 109,
-      "11+": 4
+      "2-3": 150,
+      "4-10": 111,
+      "11+": 5
     },
     "recordHealthBreakdown": {
       "total_health_issues": 0,
-      "records_scanned": 6184
+      "records_scanned": 6265
     },
     "invalidCountryValues": [],
     "invalidCityValues": [],
@@ -1333,6 +1333,12 @@
         "reason": "raw duplicate display_name group"
       },
       {
+        "id": "merchant:bcash-bitcoin-atm:btcmap-place-18409",
+        "name": "Bcash Bitcoin ATM",
+        "value": "Bcash Bitcoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
         "id": "merchant:bcash-bitcoin-atm:btcmap-place-18410",
         "name": "Bcash Bitcoin ATM",
         "value": "Bcash Bitcoin ATM",
@@ -1555,6 +1561,12 @@
         "reason": "raw duplicate display_name group"
       },
       {
+        "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-19326",
+        "name": "Bitcoin ATM - Shitcoins.club",
+        "value": "Bitcoin ATM - Shitcoins.club",
+        "reason": "raw duplicate display_name group"
+      },
+      {
         "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-19575",
         "name": "Bitcoin ATM - Shitcoins.club",
         "value": "Bitcoin ATM - Shitcoins.club",
@@ -1570,6 +1582,30 @@
         "id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-3310",
         "name": "Bitcoin ATM - Shitcoins.club",
         "value": "Bitcoin ATM - Shitcoins.club",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:bitcoin-depot-atm:btcmap-place-2856",
+        "name": "Bitcoin Depot ATM",
+        "value": "Bitcoin Depot ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:bitcoin-depot-atm:btcmap-place-2858",
+        "name": "Bitcoin Depot ATM",
+        "value": "Bitcoin Depot ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:bitcoin-depot-atm:btcmap-place-2861",
+        "name": "Bitcoin Depot ATM",
+        "value": "Bitcoin Depot ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:bitcoin-depot-atm:btcmap-place-2864",
+        "name": "Bitcoin Depot ATM",
+        "value": "Bitcoin Depot ATM",
         "reason": "raw duplicate display_name group"
       },
       {
@@ -1621,15 +1657,69 @@
         "reason": "raw duplicate display_name group"
       },
       {
+        "id": "merchant:bitomat-cashify:btcmap-place-19270",
+        "name": "Bitomat Cashify",
+        "value": "Bitomat Cashify",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:bitomat-cashify:btcmap-place-19303",
+        "name": "Bitomat Cashify",
+        "value": "Bitomat Cashify",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:bitomat-cashify:btcmap-place-19313",
+        "name": "Bitomat Cashify",
+        "value": "Bitomat Cashify",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:bitomat-cashify:btcmap-place-19318",
+        "name": "Bitomat Cashify",
+        "value": "Bitomat Cashify",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:bitomat-cashify:btcmap-place-19322",
+        "name": "Bitomat Cashify",
+        "value": "Bitomat Cashify",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:bitomat-flyingatom:btcmap-place-14277",
+        "name": "Bitomat FlyingAtom",
+        "value": "Bitomat FlyingAtom",
+        "reason": "raw duplicate display_name group"
+      },
+      {
         "id": "merchant:bitomat-flyingatom:btcmap-place-2170",
         "name": "Bitomat FlyingAtom",
         "value": "Bitomat FlyingAtom",
         "reason": "raw duplicate display_name group"
       },
       {
-        "id": "merchant:bitomat-flyingatom:btcmap-place-3124",
+        "id": "merchant:bitomat-flyingatom:btcmap-place-642",
         "name": "Bitomat FlyingAtom",
         "value": "Bitomat FlyingAtom",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:bitstop-bitcoin-atm:btcmap-place-2840",
+        "name": "Bitstop Bitcoin ATM",
+        "value": "Bitstop Bitcoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:bitstop-bitcoin-atm:btcmap-place-3516",
+        "name": "Bitstop Bitcoin ATM",
+        "value": "Bitstop Bitcoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:bitstop-bitcoin-atm:btcmap-place-2868",
+        "name": "BitStop Bitcoin ATM",
+        "value": "BitStop Bitcoin ATM",
         "reason": "raw duplicate display_name group"
       },
       {
@@ -1873,6 +1963,18 @@
         "reason": "raw duplicate display_name group"
       },
       {
+        "id": "merchant:chainblock-atm:btcmap-place-13051",
+        "name": "Chainblock ATM",
+        "value": "Chainblock ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:chainblock-atm:btcmap-place-13054",
+        "name": "Chainblock ATM",
+        "value": "Chainblock ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
         "id": "merchant:cheapair-coingate:coingate-directory",
         "name": "CheapAir",
         "value": "CheapAir",
@@ -2024,6 +2126,12 @@
       },
       {
         "id": "merchant:coinflip-bitcoin-atm:btcmap-place-17780",
+        "name": "CoinFlip Bitcoin ATM",
+        "value": "CoinFlip Bitcoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:coinflip-bitcoin-atm:btcmap-place-19216",
         "name": "CoinFlip Bitcoin ATM",
         "value": "CoinFlip Bitcoin ATM",
         "reason": "raw duplicate display_name group"
@@ -3673,7 +3781,25 @@
         "reason": "raw duplicate display_name group"
       },
       {
+        "id": "merchant:instacoin-atm:btcmap-place-17268",
+        "name": "Instacoin ATM",
+        "value": "Instacoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
         "id": "merchant:instacoin-atm:btcmap-place-17270",
+        "name": "Instacoin ATM",
+        "value": "Instacoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:instacoin-atm:btcmap-place-17279",
+        "name": "Instacoin ATM",
+        "value": "Instacoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:instacoin-atm:btcmap-place-17281",
         "name": "Instacoin ATM",
         "value": "Instacoin ATM",
         "reason": "raw duplicate display_name group"
@@ -3721,7 +3847,19 @@
         "reason": "raw duplicate display_name group"
       },
       {
+        "id": "merchant:instacoin-atm:btcmap-place-17295",
+        "name": "Instacoin ATM",
+        "value": "Instacoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
         "id": "merchant:instacoin-atm:btcmap-place-17296",
+        "name": "Instacoin ATM",
+        "value": "Instacoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:instacoin-atm:btcmap-place-17297",
         "name": "Instacoin ATM",
         "value": "Instacoin ATM",
         "reason": "raw duplicate display_name group"
@@ -3758,6 +3896,12 @@
       },
       {
         "id": "merchant:instacoin-atm:btcmap-place-17303",
+        "name": "Instacoin ATM",
+        "value": "Instacoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:instacoin-atm:btcmap-place-17305",
         "name": "Instacoin ATM",
         "value": "Instacoin ATM",
         "reason": "raw duplicate display_name group"
@@ -3934,6 +4078,18 @@
         "id": "merchant:kapihan-sa-kilid-dalan:btcmap-place-13117",
         "name": "Kapihan sa Kilid Dalan",
         "value": "Kapihan sa Kilid Dalan",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:kebhouze:btcmap-place-16297",
+        "name": "Kebhouze",
+        "value": "Kebhouze",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:kebhouze:btcmap-place-16416",
+        "name": "Kebhouze",
+        "value": "Kebhouze",
         "reason": "raw duplicate display_name group"
       },
       {
@@ -4210,6 +4366,36 @@
         "id": "merchant:mango:coingate-directory",
         "name": "MANGO",
         "value": "MANGO",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:margo-bitcoin-atm:btcmap-place-19220",
+        "name": "Margo Bitcoin ATM",
+        "value": "Margo Bitcoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:margo-bitcoin-atm:btcmap-place-19221",
+        "name": "Margo Bitcoin ATM",
+        "value": "Margo Bitcoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:margo-bitcoin-atm:btcmap-place-19222",
+        "name": "Margo Bitcoin ATM",
+        "value": "Margo Bitcoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:margo-bitcoin-atm:btcmap-place-19223",
+        "name": "Margo Bitcoin ATM",
+        "value": "Margo Bitcoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:margo-bitcoin-atm:btcmap-place-3314",
+        "name": "Margo Bitcoin ATM",
+        "value": "Margo Bitcoin ATM",
         "reason": "raw duplicate display_name group"
       },
       {
@@ -6646,6 +6832,18 @@
         "id": "merchant:zalando:dundle-catalog",
         "name": "Zalando",
         "value": "Zalando",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:zamecka-restaurace:btcmap-place-11525",
+        "name": "Zámecká restaurace",
+        "value": "Zámecká restaurace",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:zamecka-restaurace:btcmap-place-12806",
+        "name": "Zámecká restaurace",
+        "value": "Zámecká restaurace",
         "reason": "raw duplicate display_name group"
       }
     ],
