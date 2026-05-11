@@ -135,6 +135,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:11th-street-bed-and-breakfast:btcmap-place-12388",
+    "display_name": "11th Street Bed & Breakfast",
+    "country": null,
+    "city": null,
+    "website": "https://pouch.ph/11stbb",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "11th Street Bed & Breakfast is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 11th Street Bacolod 6100",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 12388",
+      "BTC Map updated_at: 2025-09-18T05:36:32.851Z",
+      "BTC Map verified_at: 2023-04-19",
+      "lat/lon: 10.6771614, 122.9557761",
+      "OSM: https://www.openstreetmap.org/node/5325184922",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:1770-marina-cafe:btcmap-place-13939",
     "display_name": "1770 Marina Cafe",
     "country": null,
@@ -747,6 +785,44 @@ export const generatedProductMerchantsData = [
       "BTC Map verified_at: 2024-03-20",
       "lat/lon: 54.1569163, 15.393734",
       "OSM: https://www.openstreetmap.org/node/2641232489",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:40068-pizza-and-more:btcmap-place-16449",
+    "display_name": "40068 Pizza & More",
+    "country": null,
+    "city": null,
+    "website": "https://40068pizzaemore.com/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "40068 Pizza & More is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 34 Via Carlo Iussi San Lazzaro di Savena 40068",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 16449",
+      "BTC Map updated_at: 2025-09-18T05:36:32.869Z",
+      "BTC Map verified_at: 2023-12-17",
+      "lat/lon: 44.46688, 11.4088448",
+      "OSM: https://www.openstreetmap.org/node/4782380198",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -8775,6 +8851,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:albergo-crimea:btcmap-place-14095",
+    "display_name": "Albergo Crimea",
+    "country": null,
+    "city": null,
+    "website": "https://www.hotelcrimea.net/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Albergo Crimea is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 16 Viale Pratogiano Chiavenna 23022",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 14095",
+      "BTC Map updated_at: 2025-09-18T05:36:32.934Z",
+      "BTC Map verified_at: 2024-03-03",
+      "lat/lon: 46.3200178, 9.4071297",
+      "OSM: https://www.openstreetmap.org/node/8912471726",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:albergo-delle-drapperie:btcmap-place-26549",
     "display_name": "Albergo delle Drapperie",
     "country": null,
@@ -13838,6 +13952,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:another-world-hostel-sigiriya:btcmap-place-2092",
+    "display_name": "Another World Hostel Sigiriya",
+    "country": null,
+    "city": null,
+    "website": "https://www.sosigiriya.com/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Another World Hostel Sigiriya is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 266/A Hotel Road 21120",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2092",
+      "BTC Map updated_at: 2025-09-18T05:36:32.852Z",
+      "BTC Map verified_at: 2023-04-10",
+      "lat/lon: 7.9483723, 80.7607808",
+      "OSM: https://www.openstreetmap.org/node/10233127917",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:antica-salumeria:btcmap-place-13187",
     "display_name": "Antica Salumeria",
     "country": null,
@@ -18881,6 +19033,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:athena-bitcoin-atm:btcmap-place-13166",
+    "display_name": "Athena Bitcoin ATM",
+    "country": null,
+    "city": null,
+    "website": "https://athenabitcoin.com/espacio-bitcoin-argentina/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Athena Bitcoin ATM is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 405 Marcelo T. de Alvear Ciudad Autónoma de Buenos Aires 1058",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 13166",
+      "BTC Map updated_at: 2025-09-18T05:36:32.958Z",
+      "BTC Map verified_at: 2024-04-17",
+      "lat/lon: -34.5961247, -58.3733281",
+      "OSM: https://www.openstreetmap.org/node/6391939535",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:athena-bitcoin-atm:btcmap-place-14110",
     "display_name": "Athena Bitcoin ATM",
     "country": null,
@@ -19618,6 +19808,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:auto-eletrica-catarinense:btcmap-place-4691",
+    "display_name": "Auto Elétrica Catarinense",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Auto Elétrica Catarinense is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 318 Rua Paulina Valim Dariva Capão da Canoa 95555-000",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 4691",
+      "BTC Map updated_at: 2025-09-18T05:36:32.975Z",
+      "BTC Map verified_at: 2024-04-20",
+      "lat/lon: -29.7625612, -50.0293389",
+      "OSM: https://www.openstreetmap.org/node/11046556052",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:automercado-cr:bitrefill-directory-cr",
     "display_name": "Auto Mercado CR",
     "country": null,
@@ -19824,6 +20052,44 @@ export const generatedProductMerchantsData = [
       "BTC Map verified_at: 2023-12-20",
       "lat/lon: -37.12977435, -56.8791184",
       "OSM: https://www.openstreetmap.org/way/627366056",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:autoseg-tecnologia:btcmap-place-18964",
+    "display_name": "AutoSeg Tecnologia",
+    "country": null,
+    "city": null,
+    "website": "https://www.autosegbr.com/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "AutoSeg Tecnologia is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 203 Rua Milton Barbosa Campos dos Goytacazes-RJ 28020286",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 18964",
+      "BTC Map updated_at: 2025-09-18T05:36:32.994Z",
+      "BTC Map verified_at: 2024-04-22",
+      "lat/lon: -21.780966, -41.3070319",
+      "OSM: https://www.openstreetmap.org/node/11838346103",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -20149,6 +20415,44 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitpay.com/directory"
+    ]
+  },
+  {
+    "legacy_id": "merchant:avon-valley-adventure-and-wildlife-park:btcmap-place-15646",
+    "display_name": "Avon Valley Adventure And Wildlife Park",
+    "country": null,
+    "city": null,
+    "website": "https://www.avonvalley.co.uk/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Avon Valley Adventure And Wildlife Park is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: Bristol BS31 1TP",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 15646",
+      "BTC Map updated_at: 2025-09-18T05:36:32.859Z",
+      "BTC Map verified_at: 2023-01-26",
+      "lat/lon: 51.4159951, -2.46923665",
+      "OSM: https://www.openstreetmap.org/way/475059737",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
     ]
   },
   {
@@ -21165,6 +21469,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:balance-osteopathy:btcmap-place-2816",
+    "display_name": "Balance Osteopathy",
+    "country": null,
+    "city": null,
+    "website": "https://balanceosteopathy.com",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Balance Osteopathy is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: Albert Road",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2816",
+      "BTC Map updated_at: 2025-09-18T05:36:32.859Z",
+      "BTC Map verified_at: 2023-02-05",
+      "lat/lon: -37.8351159, 144.9721102",
+      "OSM: https://www.openstreetmap.org/node/10600606514",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:balance-pilates:btcmap-place-17811",
     "display_name": "Balance Pilates",
     "country": null,
@@ -22152,6 +22494,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:bar-vicini:btcmap-place-14566",
+    "display_name": "Bar Vicini",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bar Vicini is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 27 Piazza Rodolfo Pestalozzi Chiavenna",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 14566",
+      "BTC Map updated_at: 2025-09-18T05:36:32.969Z",
+      "BTC Map verified_at: 2024-04-18",
+      "lat/lon: 46.3201676, 9.4010194",
+      "OSM: https://www.openstreetmap.org/node/9900326706",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:barbearia-brother-s-club:btcmap-place-5026",
     "display_name": "Barbearia Brother's Club",
     "country": null,
@@ -22771,6 +23151,44 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitpay.com/directory/sports-entertainment/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:basquiat-lounge-bar:btcmap-place-2192",
+    "display_name": "Basquiat Lounge Bar",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Basquiat Lounge Bar is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 48 Via Garibaldi Sestri Levante 16039",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2192",
+      "BTC Map updated_at: 2025-09-18T05:36:32.879Z",
+      "BTC Map verified_at: 2023-03-14",
+      "lat/lon: 44.2706902, 9.3935978",
+      "OSM: https://www.openstreetmap.org/node/10263599344",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
     ]
   },
   {
@@ -23922,6 +24340,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:beauty-by-the-sea:btcmap-place-9142",
+    "display_name": "Beauty by the Sea",
+    "country": null,
+    "city": null,
+    "website": "https://www.beauty-by-the-sea.nl/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Beauty by the Sea is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 6 Nieuwstraat Vlissingen 4381CT",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 9142",
+      "BTC Map updated_at: 2025-09-18T05:36:32.934Z",
+      "BTC Map verified_at: 2024-03-05",
+      "lat/lon: 51.4415247, 3.5745558",
+      "OSM: https://www.openstreetmap.org/node/2815170127",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:beck-and-bulow:btcmap-place-23371",
     "display_name": "Beck and Bulow",
     "country": null,
@@ -23949,6 +24405,43 @@ export const generatedProductMerchantsData = [
       "BTC Map verified_at: 2025-08-14",
       "lat/lon: 35.6633306, -105.9753402",
       "OSM: https://www.openstreetmap.org/node/12077566462",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:beck-s-farmhouse-coffee:btcmap-place-671",
+    "display_name": "Beck's Farmhouse Coffee",
+    "country": null,
+    "city": null,
+    "website": "https://becksfarmhousecoffee.com/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Beck's Farmhouse Coffee is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 671",
+      "BTC Map updated_at: 2025-09-18T05:36:32.941Z",
+      "BTC Map verified_at: 2024-03-19",
+      "lat/lon: 36.362606, -86.8871439",
+      "OSM: https://www.openstreetmap.org/node/10124025759",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -27736,6 +28229,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-13899",
+    "display_name": "Bitcoin ATM - Shitcoins.club",
+    "country": null,
+    "city": null,
+    "website": "https://shitcoins.club/localizzazione-atm/atm-bitcoin-milano-bicocca-village",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bitcoin ATM - Shitcoins.club is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 4 Via Chiese Milano 20126",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 13899",
+      "BTC Map updated_at: 2025-09-18T05:36:32.976Z",
+      "BTC Map verified_at: 2024-04-20",
+      "lat/lon: 45.5222014, 9.2164337",
+      "OSM: https://www.openstreetmap.org/node/8460786530",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-16350",
     "display_name": "Bitcoin ATM - Shitcoins.club",
     "country": null,
@@ -28066,6 +28597,82 @@ export const generatedProductMerchantsData = [
       "BTC Map verified_at: 2023-12-08",
       "lat/lon: 48.4325982, 35.0033728",
       "OSM: https://www.openstreetmap.org/node/11403620844",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-18913",
+    "display_name": "Bitcoin ATM - Shitcoins.club",
+    "country": null,
+    "city": null,
+    "website": "https://shitcoins.club/atm-bitcoin-brasil/caixa-bitcoin-rio_de_janeiro-Shopping_Tijuca",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bitcoin ATM - Shitcoins.club is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 987 Av. Maracanã Rio de Janeiro 20511-000",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 18913",
+      "BTC Map updated_at: 2025-09-18T05:36:32.97Z",
+      "BTC Map verified_at: 2024-04-18",
+      "lat/lon: -22.92191, -43.2351659",
+      "OSM: https://www.openstreetmap.org/node/11828406953",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitcoin-atm-shitcoins-club:btcmap-place-18931",
+    "display_name": "Bitcoin ATM - Shitcoins.club",
+    "country": null,
+    "city": null,
+    "website": "https://shitcoins.club/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bitcoin ATM - Shitcoins.club is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 313 R. Cap. Pacheco e Chaves São Paulo 03126-000",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 18931",
+      "BTC Map updated_at: 2025-09-18T05:36:32.977Z",
+      "BTC Map verified_at: 2024-04-20",
+      "lat/lon: -23.5794446, -46.5942",
+      "OSM: https://www.openstreetmap.org/node/11832082271",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -28694,6 +29301,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:bitcoin-escape-the-system:btcmap-place-5433",
+    "display_name": "Bitcoin Escape The System",
+    "country": null,
+    "city": null,
+    "website": "https://bitcoinescapethesystem.com/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bitcoin Escape The System is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: New Hankach, Bauchrieh Beirut",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 5433",
+      "BTC Map updated_at: 2025-09-18T05:36:32.999Z",
+      "BTC Map verified_at: 2023-10-11",
+      "lat/lon: 33.8907738, 35.5545318",
+      "OSM: https://www.openstreetmap.org/node/11256101173",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:bitcoin-hat-guy:btcpay-directory",
     "display_name": "Bitcoin Hat Guy",
     "country": null,
@@ -29304,6 +29949,43 @@ export const generatedProductMerchantsData = [
       "BTC Map verified_at: 2024-02-04",
       "lat/lon: 43.4797765, -111.9881906",
       "OSM: https://www.openstreetmap.org/node/11585214541",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bitcoinpt8:btcmap-place-3913",
+    "display_name": "Bitcoinpt8",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "Bitcoinpt8 is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 3913",
+      "BTC Map updated_at: 2025-09-18T05:36:33.001Z",
+      "BTC Map verified_at: 2024-04-23",
+      "lat/lon: 38.7950256, -9.186547",
+      "OSM: https://www.openstreetmap.org/node/10937829300",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -32458,6 +33140,44 @@ export const generatedProductMerchantsData = [
       "BTC Map verified_at: 2024-02-28",
       "lat/lon: 50.7220147, 15.1699861",
       "OSM: https://www.openstreetmap.org/node/11039453289",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:bonnyd-sarl:btcmap-place-18900",
+    "display_name": "BonnyD Sàrl",
+    "country": null,
+    "city": null,
+    "website": "https://bonnyd.com/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BonnyD Sàrl is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 2 Rue des Granges Aubonne 1170",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 18900",
+      "BTC Map updated_at: 2025-09-18T05:36:32.958Z",
+      "BTC Map verified_at: 2024-04-17",
+      "lat/lon: 46.4962557, 6.3890598",
+      "OSM: https://www.openstreetmap.org/node/11826253418",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -37788,6 +38508,43 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:cafe-saul:btcmap-place-8653",
+    "display_name": "Cafe Saúl",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 8653",
+      "BTC Map updated_at: 2025-09-18T05:36:32.867Z",
+      "BTC Map verified_at: 2023-11-19",
+      "Cafe Saúl is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 14.5950981, -90.5115923",
+      "OSM: https://www.openstreetmap.org/node/2726463482",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:cafe-zastavka:btcmap-place-3831",
     "display_name": "Café Zastávka",
     "country": null,
@@ -42882,6 +43639,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:cervejaria-dogma-beer-taste-lab:btcmap-place-3825",
+    "display_name": "Cervejaria Dogma (Beer Taste Lab)",
+    "country": null,
+    "city": null,
+    "website": "https://cervejariadogma.com.br/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 669 Avenida Piracema SP 06460-030",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 3825",
+      "BTC Map updated_at: 2025-09-18T05:36:32.866Z",
+      "BTC Map verified_at: 2023-11-03",
+      "Cervejaria Dogma (Beer Taste Lab) is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: -23.4995009, -46.8324763",
+      "OSM: https://www.openstreetmap.org/node/10921377470",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:cervejaria-narcose:btcmap-place-4317",
     "display_name": "Cervejaria Narcose",
     "country": null,
@@ -42946,6 +43741,44 @@ export const generatedProductMerchantsData = [
       "Cervejaria Passopreto is listed in BTC Map as a physical place that accepts Bitcoin.",
       "lat/lon: -21.7851371, -46.5628108",
       "OSM: https://www.openstreetmap.org/node/10927898308",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:cervejaria-zandona:btcmap-place-18928",
+    "display_name": "Cervejaria Zandoná",
+    "country": null,
+    "city": null,
+    "website": "https://www.instagram.com/cervejariazandona/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 101 Rua Rui Barbosa Sacramento 38.190-000",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 18928",
+      "BTC Map updated_at: 2025-09-18T05:36:32.977Z",
+      "BTC Map verified_at: 2024-04-20",
+      "Cervejaria Zandoná is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: -19.8644171, -47.4472592",
+      "OSM: https://www.openstreetmap.org/node/11831577178",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -45373,6 +46206,44 @@ export const generatedProductMerchantsData = [
       "Ciclo Sport is listed in BTC Map as a physical place that accepts Bitcoin.",
       "lat/lon: 10.2964968, -85.8002053",
       "OSM: https://www.openstreetmap.org/node/12950496144",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:ciel-ge:btcmap-place-18579",
+    "display_name": "ciel.ge",
+    "country": null,
+    "city": null,
+    "website": "https://ciel.ge/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 13 თევდორე მღვდლის ქუჩა თბილისი 1102",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 18579",
+      "BTC Map updated_at: 2025-09-18T05:36:32.989Z",
+      "BTC Map verified_at: 2024-03-26",
+      "ciel.ge is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 41.7259333, 44.7944412",
+      "OSM: https://www.openstreetmap.org/node/11763400827",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -50918,6 +51789,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:craft-tailor:btcmap-place-4349",
+    "display_name": "Craft tailor",
+    "country": null,
+    "city": null,
+    "website": "https://instagram.com/craft_accessories2?igshid=MzNlNGNkZWQ4Mg==",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 29 Taleghani",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 4349",
+      "BTC Map updated_at: 2025-09-18T05:36:32.882Z",
+      "BTC Map verified_at: 2024-01-16",
+      "Craft tailor is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 36.2886385, 59.5692716",
+      "OSM: https://www.openstreetmap.org/node/11030322680",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:craig-spratling-and-associates-pty-ltd:btcmap-place-2537",
     "display_name": "Craig Spratling and Associates Pty Ltd",
     "country": null,
@@ -50986,6 +51895,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:crater-coffee-shop-and-bistro:btcmap-place-2014",
+    "display_name": "Cráter Coffee Shop & Bistro",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: Calle al Cerro Verde Santa Ana",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2014",
+      "BTC Map updated_at: 2025-09-18T05:36:32.862Z",
+      "BTC Map verified_at: 2022-11-20",
+      "Cráter Coffee Shop & Bistro is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 13.8363282, -89.6062136",
+      "OSM: https://www.openstreetmap.org/node/10205280607",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:creanova-datacenter:coingate-directory",
     "display_name": "Creanova Datacenter",
     "country": null,
@@ -51043,6 +51990,44 @@ export const generatedProductMerchantsData = [
       "Crêperie Prainha is listed in BTC Map as a physical place that accepts Bitcoin.",
       "lat/lon: 14.7405485, -17.5182508",
       "OSM: https://www.openstreetmap.org/node/10231999843",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:criptolab:btcmap-place-12551",
+    "display_name": "Criptolab",
+    "country": null,
+    "city": null,
+    "website": "https://criptolab.it",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 289 Viale Appio Claudio Roma 00174",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 12551",
+      "BTC Map updated_at: 2025-09-18T05:36:32.877Z",
+      "BTC Map verified_at: 2024-01-06",
+      "Criptolab is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 41.854324, 12.563105",
+      "OSM: https://www.openstreetmap.org/node/5488695124",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -51403,6 +52388,43 @@ export const generatedProductMerchantsData = [
       "CRYO'géni is listed in BTC Map as a physical place that accepts Bitcoin.",
       "lat/lon: 45.7386075, 0.3519757",
       "OSM: https://www.openstreetmap.org/node/10889473484",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:crypstation:btcmap-place-3847",
+    "display_name": "Crypstation",
+    "country": null,
+    "city": null,
+    "website": "https://crypstation.club/en",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 3847",
+      "BTC Map updated_at: 2025-09-18T05:36:32.87Z",
+      "BTC Map verified_at: 2023-12-21",
+      "Crypstation is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: -34.6136036, -58.365629",
+      "OSM: https://www.openstreetmap.org/node/10926199671",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -60734,6 +61756,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:doren-duarte:btcmap-place-18952",
+    "display_name": "Doren duarte",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 220 Rua Doutor José Faustini Pelotas 96080-630",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 18952",
+      "BTC Map updated_at: 2025-09-18T05:36:32.988Z",
+      "BTC Map verified_at: 2024-04-21",
+      "Doren duarte is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: -31.7453654, -52.3165012",
+      "OSM: https://www.openstreetmap.org/node/11836020903",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:dosha-restaurant:btcmap-place-3380",
     "display_name": "Dosha Restaurant",
     "country": null,
@@ -61240,6 +62300,44 @@ export const generatedProductMerchantsData = [
       "Dr Daniel Landim - Especialista em Dor is listed in BTC Map as a physical place that accepts Bitcoin.",
       "lat/lon: -23.6445757, -46.5407874",
       "OSM: https://www.openstreetmap.org/node/12500868090",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dr-daniel-quistorff:btcmap-place-18569",
+    "display_name": "Dr Daniel Quistorff",
+    "country": null,
+    "city": null,
+    "website": "https://www.millhousemedical.co.nz/our_team/doctors/daniel-quistorff",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 2/128 Millhouse Drive Auckland 2013",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 18569",
+      "BTC Map updated_at: 2025-09-18T05:36:32.997Z",
+      "BTC Map verified_at: 2024-03-25",
+      "Dr Daniel Quistorff is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: -36.9191555, 174.9179117",
+      "OSM: https://www.openstreetmap.org/node/11761454164",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -61770,6 +62868,44 @@ export const generatedProductMerchantsData = [
       "lat/lon: -7.095102300000001, -34.8349932",
       "OSM: https://www.openstreetmap.org/way/705563148",
       "payment_provider: coinos",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:dr-sax-calzature-e-pelletterie:btcmap-place-10549",
+    "display_name": "Dr.Sax calzature e pelletterie",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 30 Via Giuseppe Garibaldi Rovereto 38068",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 10549",
+      "BTC Map updated_at: 2025-09-18T05:36:33Z",
+      "BTC Map verified_at: 2024-04-23",
+      "Dr.Sax calzature e pelletterie is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 45.8900918, 11.0411369",
+      "OSM: https://www.openstreetmap.org/node/3253606468",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -64205,6 +65341,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:el-chamo-la-placita:btcmap-place-1165",
+    "display_name": "El Chamo - La Placita",
+    "country": null,
+    "city": null,
+    "website": "https://www.facebook.com/elchamo503/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 87 Avenida Norte San Salvador",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 1165",
+      "BTC Map updated_at: 2025-09-18T05:36:32.861Z",
+      "BTC Map verified_at: 2022-11-15",
+      "El Chamo - La Placita is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 13.7084549, -89.2408466",
+      "OSM: https://www.openstreetmap.org/node/10177277453",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:el-chioschetto:btcmap-place-28199",
     "display_name": "El Chioschetto",
     "country": null,
@@ -65957,6 +67131,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:end-grain-cabinets:btcmap-place-1137",
+    "display_name": "End Grain Cabinets",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 3607 State Highway 14A Penn Yan",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 1137",
+      "BTC Map updated_at: 2025-09-18T05:36:32.858Z",
+      "BTC Map verified_at: 2023-04-12",
+      "End Grain Cabinets is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 42.5896755, -77.0365774",
+      "OSM: https://www.openstreetmap.org/node/10172122759",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:endurance-chiropractic:btcmap-place-18745",
     "display_name": "Endurance Chiropractic",
     "country": null,
@@ -66585,6 +67797,44 @@ export const generatedProductMerchantsData = [
       "Escuela de Manejo Marmel is listed in BTC Map as a physical place that accepts Bitcoin.",
       "lat/lon: 13.7107566, -89.1046815",
       "OSM: https://www.openstreetmap.org/node/11331870043",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:eskin-hn:btcmap-place-16461",
+    "display_name": "Eskin HN",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: Barrio Lara Santa Rita Yoro 23201",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 16461",
+      "BTC Map updated_at: 2025-09-18T05:36:32.915Z",
+      "BTC Map verified_at: 2024-02-03",
+      "Eskin HN is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 15.1976743, -87.88922",
+      "OSM: https://www.openstreetmap.org/node/11365365947",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -70381,6 +71631,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:firefly-meadows-farm:btcmap-place-13118",
+    "display_name": "Firefly Meadows Farm",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 3075 Anchor Road Washington Boro 17582",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 13118",
+      "BTC Map updated_at: 2025-09-18T05:36:32.929Z",
+      "BTC Map verified_at: 2023-11-20",
+      "Firefly Meadows Farm is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 39.9825167, -76.4126742",
+      "OSM: https://www.openstreetmap.org/node/6323184131",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:first-california-escrow-bitpay-directory",
     "display_name": "First California Escrow",
     "country": null,
@@ -73739,6 +75027,45 @@ export const generatedProductMerchantsData = [
       "Forbidden Planet AG / 1Advd.ch is listed in BTC Map as a physical place that accepts Bitcoin.",
       "lat/lon: 47.44098, 8.4669541",
       "OSM: https://www.openstreetmap.org/node/2986375504",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:forest-heaven-hideaway:btcmap-place-20732",
+    "display_name": "Forest Heaven Hideaway",
+    "country": null,
+    "city": null,
+    "website": "https://www.instagram.com/foresthavenhideaway_/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 906 Joe Road Roberts Creek",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 20732",
+      "BTC Map updated_at: 2025-09-18T05:36:32.862Z",
+      "Forest Heaven Hideaway is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 49.4156281, -123.607588",
+      "OSM: https://www.openstreetmap.org/node/12173959184",
+      "payment_provider: coinos",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -77244,6 +78571,44 @@ export const generatedProductMerchantsData = [
       "GeCrypto is listed in BTC Map as a physical place that accepts Bitcoin.",
       "lat/lon: 41.7083266, 44.794478",
       "OSM: https://www.openstreetmap.org/node/10743230350",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:gelateria-l-artigiano:btcmap-place-11849",
+    "display_name": "Gelateria L'Artigiano",
+    "country": null,
+    "city": null,
+    "website": "https://www.instagram.com/l.artigianodeisapori/?hl=it",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 166 Via Natale Bruni Vignola 41058",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 11849",
+      "BTC Map updated_at: 2025-09-18T05:36:32.868Z",
+      "BTC Map verified_at: 2023-11-25",
+      "Gelateria L'Artigiano is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 44.4940189, 11.0197123",
+      "OSM: https://www.openstreetmap.org/node/4769656820",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -81760,6 +83125,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:gran-caffe-roma:btcmap-place-11667",
+    "display_name": "Gran Caffè Roma",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 3 Piazza Roma Frascati 00044",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 11667",
+      "BTC Map updated_at: 2025-09-18T05:36:32.856Z",
+      "BTC Map verified_at: 2023-03-04",
+      "Gran Caffè Roma is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 41.8071006, 12.6797947",
+      "OSM: https://www.openstreetmap.org/node/4483864101",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:granados-contabilidade:btcmap-place-28324",
     "display_name": "GRANADOS Contabilidade",
     "country": null,
@@ -82008,6 +83411,43 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:great-ocean-road-tandem-paragliding-southside-launch:btcmap-place-4059",
+    "display_name": "Great Ocean Road Tandem Paragliding Southside Launch",
+    "country": null,
+    "city": null,
+    "website": "https://www.greatoceanroadparagliding.com.au/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 4059",
+      "BTC Map updated_at: 2025-09-18T05:36:32.862Z",
+      "BTC Map verified_at: 2023-09-25",
+      "Great Ocean Road Tandem Paragliding Southside Launch is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: -38.3721926, 144.2782835",
+      "OSM: https://www.openstreetmap.org/node/10977979230",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:green-admin-it:btcmap-place-7051",
     "display_name": "Green Admin IT",
     "country": null,
@@ -82154,6 +83594,44 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&limit=100"
+    ]
+  },
+  {
+    "legacy_id": "merchant:greenova:btcmap-place-12656",
+    "display_name": "Greenova",
+    "country": null,
+    "city": null,
+    "website": "https://greenova.shop/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 55 Via Cesare Baronio Roma 00179",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 12656",
+      "BTC Map updated_at: 2025-09-18T05:36:32.863Z",
+      "BTC Map verified_at: 2023-09-29",
+      "Greenova is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 41.873423, 12.521397",
+      "OSM: https://www.openstreetmap.org/node/5626826158",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
     ]
   },
   {
@@ -84520,6 +85998,44 @@ export const generatedProductMerchantsData = [
       "Haselböck is listed in BTC Map as a physical place that accepts Bitcoin.",
       "lat/lon: 48.2702682, 14.8817286",
       "OSM: https://www.openstreetmap.org/node/11067179517",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hasenstall:btcmap-place-13229",
+    "display_name": "Hasenstall",
+    "country": null,
+    "city": null,
+    "website": "https://www.derhasenstall.de/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 4 Juliuspromenade 97070",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 13229",
+      "BTC Map updated_at: 2025-09-18T05:36:32.865Z",
+      "BTC Map verified_at: 2023-10-21",
+      "Hasenstall is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 49.7962329, 9.927276",
+      "OSM: https://www.openstreetmap.org/node/6489164430",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -87469,6 +88985,43 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:hooked-surf:btcmap-place-969",
+    "display_name": "Hooked Surf",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 969",
+      "BTC Map updated_at: 2025-09-18T05:36:32.994Z",
+      "BTC Map verified_at: 2024-04-22",
+      "Hooked Surf is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 38.6819283, -9.3382346",
+      "OSM: https://www.openstreetmap.org/node/10140382327",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:hooked-surf-house:btcmap-place-973",
     "display_name": "Hooked Surf House",
     "country": null,
@@ -89126,6 +90679,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:hotel-suenos:btcmap-place-16431",
+    "display_name": "Hotel Sueños",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 11 Calle Poniente, Calle del mirador 4323 San Salvador",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 16431",
+      "BTC Map updated_at: 2025-09-18T05:36:32.868Z",
+      "BTC Map verified_at: 2023-11-23",
+      "Hotel Sueños is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 13.70838375, -89.23834215",
+      "OSM: https://www.openstreetmap.org/way/399726096",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:hotelgift:coingate-directory",
     "display_name": "Hotelgift",
     "country": null,
@@ -89670,6 +91261,44 @@ export const generatedProductMerchantsData = [
       "Hovorčovická krčma is listed in BTC Map as a physical place that accepts Bitcoin.",
       "lat/lon: 50.1808028, 14.5225413",
       "OSM: https://www.openstreetmap.org/node/11039188510",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:hq-forca-and-estrategia:btcmap-place-4228",
+    "display_name": "HQ Força & Estratégia",
+    "country": null,
+    "city": null,
+    "website": "https://www.estrategiahq.com/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 66 Tv. Alberto Sampaio Braga 4760-860",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 4228",
+      "BTC Map updated_at: 2025-09-18T05:36:32.863Z",
+      "BTC Map verified_at: 2023-10-01",
+      "HQ Força & Estratégia is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 41.4019905, -8.529799",
+      "OSM: https://www.openstreetmap.org/node/11005831671",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -90936,6 +92565,43 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://coingate.com/stores/category/gaming"
+    ]
+  },
+  {
+    "legacy_id": "merchant:iii-forks:btcmap-place-5746",
+    "display_name": "III Forks",
+    "country": null,
+    "city": null,
+    "website": "https://www.3forks.com/austin/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 5746",
+      "BTC Map updated_at: 2025-09-18T05:36:32.914Z",
+      "BTC Map verified_at: 2023-12-10",
+      "III Forks is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 30.264198, -97.746747",
+      "OSM: https://www.openstreetmap.org/node/1481364381",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
     ]
   },
   {
@@ -94276,6 +95942,43 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:instacoin-atm:btcmap-place-17291",
+    "display_name": "Instacoin ATM",
+    "country": null,
+    "city": null,
+    "website": "https://www.instacoinatm.com/bitcoin-toronto-kj-variety-en.html",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 17291",
+      "BTC Map updated_at: 2025-09-18T05:36:32.975Z",
+      "BTC Map verified_at: 2024-01-04",
+      "Instacoin ATM is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 43.4387057, -79.7510137",
+      "OSM: https://www.openstreetmap.org/node/9183766189",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:instacoin-atm:btcmap-place-17292",
     "display_name": "Instacoin ATM",
     "country": null,
@@ -94350,6 +96053,117 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:instacoin-atm:btcmap-place-17298",
+    "display_name": "Instacoin ATM",
+    "country": null,
+    "city": null,
+    "website": "https://www.instacoinatm.com/bitcoin-toronto-wonderland-convenience-en.html",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 17298",
+      "BTC Map updated_at: 2025-09-18T05:36:32.979Z",
+      "BTC Map verified_at: 2024-01-04",
+      "Instacoin ATM is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 43.8432851, -79.5342726",
+      "OSM: https://www.openstreetmap.org/node/9205497551",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:instacoin-atm:btcmap-place-17299",
+    "display_name": "Instacoin ATM",
+    "country": null,
+    "city": null,
+    "website": "https://www.instacoinatm.com/bitcoin-etobicoke-holiday-inn-en.html",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 17299",
+      "BTC Map updated_at: 2025-09-18T05:36:32.98Z",
+      "BTC Map verified_at: 2024-01-04",
+      "Instacoin ATM is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 43.6921772, -79.572775",
+      "OSM: https://www.openstreetmap.org/node/9201187272",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:instacoin-atm:btcmap-place-17301",
+    "display_name": "Instacoin ATM",
+    "country": null,
+    "city": null,
+    "website": "https://www.instacoinatm.com/bitcoin-toronto-aarsh-convenience-en.html",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 17301",
+      "BTC Map updated_at: 2025-09-18T05:36:32.988Z",
+      "BTC Map verified_at: 2024-01-04",
+      "Instacoin ATM is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 43.6531988, -79.5733384",
+      "OSM: https://www.openstreetmap.org/node/9201182251",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:instacoin-atm:btcmap-place-17302",
     "display_name": "Instacoin ATM",
     "country": null,
@@ -94413,6 +96227,43 @@ export const generatedProductMerchantsData = [
       "Instacoin ATM is listed in BTC Map as a physical place that accepts Bitcoin.",
       "lat/lon: 43.730901, -79.4671302",
       "OSM: https://www.openstreetmap.org/node/9205591080",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:instacoin-atm:btcmap-place-17309",
+    "display_name": "Instacoin ATM",
+    "country": null,
+    "city": null,
+    "website": "https://www.instacoinatm.com/bitcoin-toronto-js-variety-en.html",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 17309",
+      "BTC Map updated_at: 2025-09-18T05:36:32.989Z",
+      "BTC Map verified_at: 2024-01-04",
+      "Instacoin ATM is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 43.7807127, -79.4154692",
+      "OSM: https://www.openstreetmap.org/node/9212889016",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -95753,6 +97604,44 @@ export const generatedProductMerchantsData = [
       "iTechnics is listed in BTC Map as a physical place that accepts Bitcoin.",
       "lat/lon: 42.2629549, 42.6701873",
       "OSM: https://www.openstreetmap.org/node/10989248152",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:itiopia:btcmap-place-3227",
+    "display_name": "Itiopia",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 51 Rue Ramey Paris 75018",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 3227",
+      "BTC Map updated_at: 2025-09-18T05:36:32.854Z",
+      "BTC Map verified_at: 2023-03-30",
+      "Itiopia is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 48.8900044, 2.345774",
+      "OSM: https://www.openstreetmap.org/node/10772576426",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -99679,6 +101568,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:kape-drip-coffee-shop:btcmap-place-70",
+    "display_name": "Kape Drip Coffee Shop",
+    "country": null,
+    "city": null,
+    "website": "https://peddlr.io/store/kape-drip-coffee-shop-178073",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: Diniwid Road Malay",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 70",
+      "BTC Map updated_at: 2025-09-18T05:36:32.878Z",
+      "BTC Map verified_at: 2024-01-09",
+      "Kape Drip Coffee Shop is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 11.9780427, 121.9142494",
+      "OSM: https://www.openstreetmap.org/node/10038020823",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:kapihan-sa-kilid-dalan:btcmap-place-12204",
     "display_name": "Kapihan sa Kilid Dalan",
     "country": null,
@@ -101488,6 +103415,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:kiose:btcmap-place-15417",
+    "display_name": "Kiose",
+    "country": null,
+    "city": null,
+    "website": "https://www.hotel-kiose.de/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 15 Berthin-Bleeg-Straße Wenningstedt-Braderup (Sylt) 25996",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 15417",
+      "BTC Map updated_at: 2025-09-18T05:36:32.853Z",
+      "BTC Map verified_at: 2023-04-05",
+      "Kiose is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 54.937568299999995, 8.32151735",
+      "OSM: https://www.openstreetmap.org/way/356825690",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:kiosko-citymax:btcmap-place-5449",
     "display_name": "Kiosko CityMax",
     "country": null,
@@ -101514,6 +103479,44 @@ export const generatedProductMerchantsData = [
       "Kiosko CityMax is listed in BTC Map as a physical place that accepts Bitcoin.",
       "lat/lon: -34.6045245, -58.3794429",
       "OSM: https://www.openstreetmap.org/node/11260033706",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:kirkness-bnb:btcmap-place-2883",
+    "display_name": "Kirkness BnB",
+    "country": null,
+    "city": null,
+    "website": "https://www.airbnb.com.au/rooms/592050871156761438?source_impression_id=p3_1675620644_qL%2FupxBjoZ%2FOnK00",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: Mount Dandenong Tourist Road 3766",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2883",
+      "BTC Map updated_at: 2025-09-18T05:36:32.873Z",
+      "BTC Map verified_at: 2023-12-29",
+      "Kirkness BnB is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: -37.8181791, 145.3662941",
+      "OSM: https://www.openstreetmap.org/node/10608609936",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -102577,6 +104580,43 @@ export const generatedProductMerchantsData = [
       "Klub EX is listed in BTC Map as a physical place that accepts Bitcoin.",
       "lat/lon: 50.7321955, 15.168154",
       "OSM: https://www.openstreetmap.org/node/4712297904",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:klub-malych-pivovaru:btcmap-place-11792",
+    "display_name": "Klub Malých Pivovarů",
+    "country": null,
+    "city": null,
+    "website": "https://www.klubmalychpivovaru.cz/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 11792",
+      "BTC Map updated_at: 2025-09-18T05:36:32.987Z",
+      "BTC Map verified_at: 2024-03-12",
+      "Klub Malých Pivovarů is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 49.7453096, 13.3865867",
+      "OSM: https://www.openstreetmap.org/node/4705440994",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -103957,6 +105997,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:la-borsetta:btcmap-place-2155",
+    "display_name": "La Borsetta",
+    "country": null,
+    "city": null,
+    "website": "https://laborsettacomo.it/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: Via Indipendenza Como 22100",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2155",
+      "BTC Map updated_at: 2025-09-18T05:36:32.858Z",
+      "BTC Map verified_at: 2023-02-09",
+      "La Borsetta is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 45.8100673, 9.0841767",
+      "OSM: https://www.openstreetmap.org/node/10247809015",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:la-brusquita:btcmap-place-16539",
     "display_name": "La brusquita",
     "country": null,
@@ -104021,6 +106099,43 @@ export const generatedProductMerchantsData = [
       "La Bulle Emeraude is listed in BTC Map as a physical place that accepts Bitcoin.",
       "lat/lon: 48.5186605, -2.2216308",
       "OSM: https://www.openstreetmap.org/node/10579942345",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:la-cabana-monterrey:btcmap-place-3412",
+    "display_name": "La Cabaña Monterrey",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 3412",
+      "BTC Map updated_at: 2025-09-18T05:36:32.866Z",
+      "BTC Map verified_at: 2023-10-25",
+      "La Cabaña Monterrey is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 14.7409483, -91.1608754",
+      "OSM: https://www.openstreetmap.org/node/10822177769",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -104209,6 +106324,44 @@ export const generatedProductMerchantsData = [
       "La Cave Vinhos e Fondue is listed in BTC Map as a physical place that accepts Bitcoin.",
       "lat/lon: -29.0496544, -50.1419352",
       "OSM: https://www.openstreetmap.org/node/11081735453",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:la-cochera:btcmap-place-18933",
+    "display_name": "La Cochera",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 45 Paseo Andrés Segovia La Herradura 18697",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 18933",
+      "BTC Map updated_at: 2025-09-18T05:36:32.978Z",
+      "BTC Map verified_at: 2024-04-20",
+      "La Cochera is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 36.7369621, -3.7466183",
+      "OSM: https://www.openstreetmap.org/node/10841618105",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -105156,6 +107309,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:la-roca-gym-mejicanos:btcmap-place-15513",
+    "display_name": "La Roca Gym Mejicanos",
+    "country": null,
+    "city": null,
+    "website": "https://www.facebook.com/Gimnaciolarocamejicanos",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: Calle a Mariona Mejicanos 503",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 15513",
+      "BTC Map updated_at: 2025-09-18T05:36:32.858Z",
+      "BTC Map verified_at: 2023-02-13",
+      "La Roca Gym Mejicanos is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 13.72654455, -89.1876981",
+      "OSM: https://www.openstreetmap.org/way/396990916",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:la-sirena-do:bitrefill-directory-do",
     "display_name": "La Sirena DO",
     "country": null,
@@ -105212,6 +107403,44 @@ export const generatedProductMerchantsData = [
       "La Spiaggetta 274 is listed in BTC Map as a physical place that accepts Bitcoin.",
       "lat/lon: 44.2800395, 12.3530336",
       "OSM: https://www.openstreetmap.org/node/12329405780",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:la-spiaggetta-274:btcmap-place-4278",
+    "display_name": "La Spiaggetta 274",
+    "country": null,
+    "city": null,
+    "website": "http://www.laspiaggetta274.it/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 274 Lungomare Antonio Batani Milano Marittima 48015",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 4278",
+      "BTC Map updated_at: 2025-09-18T05:36:32.864Z",
+      "BTC Map verified_at: 2023-08-03",
+      "La Spiaggetta 274 is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 44.2793233, 12.3527166",
+      "OSM: https://www.openstreetmap.org/node/11014217449",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -105609,6 +107838,43 @@ export const generatedProductMerchantsData = [
       "Lake of the Woods Brewing Company is listed in BTC Map as a physical place that accepts Bitcoin.",
       "lat/lon: 49.7654753, -94.48685125",
       "OSM: https://www.openstreetmap.org/way/517784287",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:lamai-fitness:btcmap-place-18906",
+    "display_name": "Lamai Fitness",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 18906",
+      "BTC Map updated_at: 2025-09-18T05:36:32.969Z",
+      "BTC Map verified_at: 2024-04-18",
+      "Lamai Fitness is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "lat/lon: 9.4721956, 100.0473685",
+      "OSM: https://www.openstreetmap.org/node/11827194874",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -111806,6 +114072,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:m-lux-apartments:btcmap-place-2976",
+    "display_name": "M Lux apartments",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 103 Krajiških brigada Banja Luka 78000",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2976",
+      "BTC Map updated_at: 2025-09-18T05:36:32.855Z",
+      "BTC Map verified_at: 2023-02-18",
+      "lat/lon: 44.7776614, 17.1839721",
+      "M Lux apartments is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "OSM: https://www.openstreetmap.org/node/10676541155",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:m-and-r-office-lawyer-and-notary:btcmap-place-28240",
     "display_name": "M&R office Lawyer and Notary",
     "country": null,
@@ -114818,6 +117122,44 @@ export const generatedProductMerchantsData = [
       "lat/lon: 48.0417904, -122.423936",
       "Marty's Place at Strawbridge Farm is listed in BTC Map as a physical place that accepts Bitcoin.",
       "OSM: https://www.openstreetmap.org/node/2991879246",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:marujo-store:btcmap-place-18963",
+    "display_name": "Marujo Store",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: Rua Alarico Cunha Tutóia 65580-000",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 18963",
+      "BTC Map updated_at: 2025-09-18T05:36:32.995Z",
+      "BTC Map verified_at: 2024-04-22",
+      "lat/lon: -2.7590434, -42.2716879",
+      "Marujo Store is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "OSM: https://www.openstreetmap.org/node/11817012548",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -124361,6 +126703,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:nash-electrical-services:btcmap-place-18962",
+    "display_name": "Nash Electrical Services",
+    "country": null,
+    "city": null,
+    "website": "https://www.nashelectrical.co.uk/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 39 Boundstone Road Farnham GU10 4TW",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 18962",
+      "BTC Map updated_at: 2025-09-18T05:36:32.994Z",
+      "BTC Map verified_at: 2024-04-22",
+      "lat/lon: 51.1872229, -0.8125275",
+      "Nash Electrical Services is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "OSM: https://www.openstreetmap.org/node/11838275129",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:nashville-hot-chicken:btcmap-place-25149",
     "display_name": "Nashville Hot Chicken",
     "country": null,
@@ -124539,6 +126919,82 @@ export const generatedProductMerchantsData = [
       "lat/lon: 35.4024764, -80.7586011",
       "Native Ceuticals CBD Concord is listed in BTC Map as a physical place that accepts Bitcoin.",
       "OSM: https://www.openstreetmap.org/node/10141177287",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:native-ceuticals-cornelius:btcmap-place-995",
+    "display_name": "Native Ceuticals Cornelius",
+    "country": null,
+    "city": null,
+    "website": "https://www.nativeceuticals.com/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 19400 Jetton Road Cornelius 28031",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 995",
+      "BTC Map updated_at: 2025-09-18T05:36:32.851Z",
+      "BTC Map verified_at: 2022-10-04",
+      "lat/lon: 35.4766077, -80.8929431",
+      "Native Ceuticals Cornelius is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "OSM: https://www.openstreetmap.org/node/10144387140",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:nature-resort-by-ginepro-and-co:btcmap-place-507",
+    "display_name": "Nature Resort by Ginepro & Co.",
+    "country": null,
+    "city": null,
+    "website": "https://nature-resort.ginepro.co/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: Lungomare Sa Punt'e S'Incudine Putzu Idu 09070",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 507",
+      "BTC Map updated_at: 2025-09-18T05:36:32.861Z",
+      "BTC Map verified_at: 2022-11-03",
+      "lat/lon: 40.0229753, 8.414785",
+      "Nature Resort by Ginepro & Co. is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "OSM: https://www.openstreetmap.org/node/10106351131",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -127446,6 +129902,43 @@ export const generatedProductMerchantsData = [
       "lat/lon: 50.3557488, 11.207103",
       "Networx-Online is listed in BTC Map as a physical place that accepts Bitcoin.",
       "OSM: https://www.openstreetmap.org/node/3301129653",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:neumayr-hutte:btcmap-place-12545",
+    "display_name": "Neumayr-Hütte",
+    "country": null,
+    "city": null,
+    "website": "https://www.neumayr-huette.de/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 12545",
+      "BTC Map updated_at: 2025-09-18T05:36:32.852Z",
+      "BTC Map verified_at: 2023-04-17",
+      "lat/lon: 47.5769249, 10.3397577",
+      "Neumayr-Hütte is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "OSM: https://www.openstreetmap.org/node/5477907740",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
     ],
     "social_links": [],
@@ -131590,6 +134083,43 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/hu/en/gift-cards/retail/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:obecni-restaurace-u-kremlu:btcmap-place-11039",
+    "display_name": "obecní restaurace U Kremlů",
+    "country": null,
+    "city": null,
+    "website": "https://www.ukremlu.cz/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 11039",
+      "BTC Map updated_at: 2025-09-18T05:36:32.998Z",
+      "BTC Map verified_at: 2023-07-23",
+      "lat/lon: 49.6136941, 18.1040227",
+      "obecní restaurace U Kremlů is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "OSM: https://www.openstreetmap.org/node/3561063339",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
     ]
   },
   {
@@ -138417,6 +140947,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:pena-real-madrid:btcmap-place-2205",
+    "display_name": "Peña Real Madrid",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 23 Immenhofer Straße Stuttgart 70180",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2205",
+      "BTC Map updated_at: 2025-09-18T05:36:32.86Z",
+      "BTC Map verified_at: 2022-12-16",
+      "lat/lon: 48.7661443, 9.1759014",
+      "OSM: https://www.openstreetmap.org/node/10269704009",
+      "Peña Real Madrid is listed in BTC Map as a physical place that accepts Bitcoin.",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:penneys:bitrefill-directory-ie",
     "display_name": "Penneys IE",
     "country": null,
@@ -141011,6 +143579,44 @@ export const generatedProductMerchantsData = [
       "OSM: https://www.openstreetmap.org/node/11432595989",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
       "Pionera is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:pipazza-pratza-food:btcmap-place-3000",
+    "display_name": "Pipazza Pratza Food",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 58 Via Santa Barbara Serrenti 09027",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 3000",
+      "BTC Map updated_at: 2025-09-18T05:36:32.856Z",
+      "BTC Map verified_at: 2023-02-24",
+      "lat/lon: 39.4924681, 8.9810833",
+      "OSM: https://www.openstreetmap.org/node/10683990012",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Pipazza Pratza Food is listed in BTC Map as a physical place that accepts Bitcoin."
     ],
     "social_links": [],
     "proposed_mode": "direct",
@@ -145398,6 +148004,43 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:praxis-wallner:btcmap-place-3807",
+    "display_name": "Praxis Wallner",
+    "country": null,
+    "city": null,
+    "website": "https://www.praxis-wallner.ch",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 3807",
+      "BTC Map updated_at: 2025-09-18T05:36:32.944Z",
+      "BTC Map verified_at: 2024-03-24",
+      "lat/lon: 46.9478066, 7.4479166",
+      "OSM: https://www.openstreetmap.org/node/10918482680",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Praxis Wallner is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:prd-nationwide:btcmap-place-11165",
     "display_name": "Prd Nationwide",
     "country": null,
@@ -149098,6 +151741,43 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:radegastovna-tiskarna:btcmap-place-13248",
+    "display_name": "Radegastovna Tiskárna",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 13248",
+      "BTC Map updated_at: 2025-09-18T05:36:32.976Z",
+      "BTC Map verified_at: 2024-04-20",
+      "lat/lon: 49.5941352, 18.0088253",
+      "OSM: https://www.openstreetmap.org/node/6539113210",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Radegastovna Tiskárna is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:radio-nossa:btcmap-place-2070",
     "display_name": "Radio Nossa",
     "country": null,
@@ -152557,6 +155237,43 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:restaurace-u-komendu:btcmap-place-4676",
+    "display_name": "Restaurace U Komendů",
+    "country": null,
+    "city": null,
+    "website": "https://www.facebook.com/RestauraceUKomendu",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 4676",
+      "BTC Map updated_at: 2025-09-18T05:36:32.971Z",
+      "BTC Map verified_at: 2024-04-19",
+      "lat/lon: 49.2630459, 17.7159991",
+      "OSM: https://www.openstreetmap.org/node/11043544141",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Restaurace U Komendů is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:restaurace-u-nahonu:btcmap-place-13454",
     "display_name": "Restaurace U Náhonu",
     "country": null,
@@ -152622,6 +155339,44 @@ export const generatedProductMerchantsData = [
       "OSM: https://www.openstreetmap.org/node/11038779441",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
       "Restaurace U Nováků is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:restaurace-u-radnice:btcmap-place-9758",
+    "display_name": "Restaurace U Radnice",
+    "country": null,
+    "city": null,
+    "website": "https://www.facebook.com/profile.php?id=100055686374882",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 157/16 Masarykovo náměstí Jeseník 79001",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 9758",
+      "BTC Map updated_at: 2025-09-18T05:36:32.972Z",
+      "BTC Map verified_at: 2024-04-19",
+      "lat/lon: 50.2293064, 17.2052438",
+      "OSM: https://www.openstreetmap.org/node/2972062126",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Restaurace U Radnice is listed in BTC Map as a physical place that accepts Bitcoin."
     ],
     "social_links": [],
     "proposed_mode": "direct",
@@ -152698,6 +155453,43 @@ export const generatedProductMerchantsData = [
       "OSM: https://www.openstreetmap.org/node/10938746501",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
       "Restaurant Le Xalam is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:restaurant-mahanaim:btcmap-place-3030",
+    "display_name": "Restaurant Mahanaim",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 3030",
+      "BTC Map updated_at: 2025-09-18T05:36:32.923Z",
+      "BTC Map verified_at: 2024-02-17",
+      "lat/lon: 14.7358536, -91.1578831",
+      "OSM: https://www.openstreetmap.org/node/10700913743",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Restaurant Mahanaim is listed in BTC Map as a physical place that accepts Bitcoin."
     ],
     "social_links": [],
     "proposed_mode": "direct",
@@ -152925,6 +155717,44 @@ export const generatedProductMerchantsData = [
       "OSM: https://www.openstreetmap.org/node/6173005032",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
       "Restaurante Laguna Azul is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:restaurante-mananita:btcmap-place-6183",
+    "display_name": "Restaurante Mananita",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: Rua Santa Maria dos Anjos Esposende 4740-218",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 6183",
+      "BTC Map updated_at: 2025-09-18T05:36:32.953Z",
+      "BTC Map verified_at: 2024-04-12",
+      "lat/lon: 41.5326654, -8.782729",
+      "OSM: https://www.openstreetmap.org/node/2193384267",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Restaurante Mananita is listed in BTC Map as a physical place that accepts Bitcoin."
     ],
     "social_links": [],
     "proposed_mode": "direct",
@@ -153715,6 +156545,44 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/pa/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:rezon-inwestycje:btcmap-place-2401",
+    "display_name": "Rezon Inwestycje",
+    "country": null,
+    "city": null,
+    "website": "https://linktr.ee/rezon_inwestycje",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 2A Marszałka Józefa Piłsudskiego Tarnowskie Góry 42-600",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2401",
+      "BTC Map updated_at: 2025-09-18T05:36:32.863Z",
+      "BTC Map verified_at: 2023-02-03",
+      "lat/lon: 50.4444208, 18.8601867",
+      "OSM: https://www.openstreetmap.org/node/10306125765",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Rezon Inwestycje is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
     ]
   },
   {
@@ -158411,6 +161279,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:satoshi-barbershop:btcmap-place-5018",
+    "display_name": "Satoshi Barbershop",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 4A Magsaysay Road Taguig",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 5018",
+      "BTC Map updated_at: 2025-09-18T05:36:32.867Z",
+      "BTC Map verified_at: 2023-11-12",
+      "lat/lon: 14.5056912, 121.0550204",
+      "OSM: https://www.openstreetmap.org/node/11115581022",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Satoshi Barbershop is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:satoshistore:btcmap-place-4043",
     "display_name": "satoshistore",
     "country": null,
@@ -158439,6 +161345,43 @@ export const generatedProductMerchantsData = [
       "OSM: https://www.openstreetmap.org/node/10973221385",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
       "satoshistore is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:satsdriver-private-bali-taxi-and-tours:btcmap-place-23126",
+    "display_name": "SatsDriver (Private Bali Taxi & Tours)",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place entry has no verified_at value in selected fields.",
+      "BTC Map place id: 23126",
+      "BTC Map updated_at: 2025-09-18T05:36:32.947Z",
+      "lat/lon: -8.509022, 115.2661288",
+      "OSM: https://www.openstreetmap.org/node/12421282378",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "SatsDriver (Private Bali Taxi & Tours) is listed in BTC Map as a physical place that accepts Bitcoin."
     ],
     "social_links": [],
     "proposed_mode": "direct",
@@ -158506,6 +161449,43 @@ export const generatedProductMerchantsData = [
       "OSM: https://www.openstreetmap.org/node/10809674624",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
       "Saul Bistro is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:sauna-pod-vcelnou:btcmap-place-17416",
+    "display_name": "Sauna Pod Včelnou",
+    "country": null,
+    "city": null,
+    "website": "https://www.saunapodvcelnou.cz/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 17416",
+      "BTC Map updated_at: 2025-09-18T05:36:32.922Z",
+      "BTC Map verified_at: 2024-02-15",
+      "lat/lon: 48.9286495, 14.4563987",
+      "OSM: https://www.openstreetmap.org/node/11521673109",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Sauna Pod Včelnou is listed in BTC Map as a physical place that accepts Bitcoin."
     ],
     "social_links": [],
     "proposed_mode": "direct",
@@ -167595,6 +170575,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:spuntino-deli-and-prosecco:btcmap-place-6130",
+    "display_name": "Spuntino Deli&Prosecco",
+    "country": null,
+    "city": null,
+    "website": "https://www.spuntino-liberec.cz/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 658/41 Moskevská Liberec 46001",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 6130",
+      "BTC Map updated_at: 2025-09-18T05:36:32.887Z",
+      "BTC Map verified_at: 2023-08-28",
+      "lat/lon: 50.7671499, 15.058273",
+      "OSM: https://www.openstreetmap.org/node/2082259785",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Spuntino Deli&Prosecco is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:squash-hastal:btcmap-place-11520",
     "display_name": "Squash Haštal",
     "country": null,
@@ -168186,6 +171204,44 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://www.bitrefill.com/us/en/gift-cards/"
+    ]
+  },
+  {
+    "legacy_id": "merchant:starbucks:btcmap-place-14293",
+    "display_name": "Starbucks",
+    "country": null,
+    "city": null,
+    "website": "https://sbsv.premium.sv/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 622 Boulevard del Hipódromo San Salvador",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 14293",
+      "BTC Map updated_at: 2025-09-18T05:36:32.883Z",
+      "BTC Map verified_at: 2024-01-20",
+      "lat/lon: 13.6945715, -89.2429468",
+      "OSM: https://www.openstreetmap.org/node/9291402617",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Starbucks is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
     ]
   },
   {
@@ -177629,6 +180685,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:terminal:btcmap-place-19038",
+    "display_name": "Terminal",
+    "country": null,
+    "city": null,
+    "website": "https://terminal.center/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 73ა დავით აღმაშენებლის გამზირი",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 19038",
+      "BTC Map updated_at: 2025-09-18T05:36:32.976Z",
+      "BTC Map verified_at: 2024-04-20",
+      "lat/lon: 41.7078828, 44.8008616",
+      "OSM: https://www.openstreetmap.org/node/9016328741",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Terminal is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:terminal-x-il:bitrefill-directory-il",
     "display_name": "Terminal X IL",
     "country": null,
@@ -179076,6 +182170,43 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:the-future-cuts:btcmap-place-5162",
+    "display_name": "The Future Cuts",
+    "country": null,
+    "city": null,
+    "website": "https://thefuturecuts.com/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 5162",
+      "BTC Map updated_at: 2025-09-18T05:36:32.864Z",
+      "BTC Map verified_at: 2023-10-19",
+      "lat/lon: 50.0907496, 14.4286777",
+      "OSM: https://www.openstreetmap.org/node/11161665824",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "The Future Cuts is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:the-global-experiences-card:coingate-directory",
     "display_name": "The Global Experiences Card",
     "country": null,
@@ -179815,6 +182946,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:the-royals:btcmap-place-16022",
+    "display_name": "The Royals",
+    "country": null,
+    "city": null,
+    "website": "https://theroyals.com.au/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 105-115 Dover Street 3121",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 16022",
+      "BTC Map updated_at: 2025-09-18T05:36:32.969Z",
+      "BTC Map verified_at: 2024-04-18",
+      "lat/lon: -37.828687650000006, 144.99183845",
+      "OSM: https://www.openstreetmap.org/way/727176503",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "The Royals is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:the-royals:btcmap-place-16152",
     "display_name": "The Royals",
     "country": null,
@@ -179841,44 +183010,6 @@ export const generatedProductMerchantsData = [
       "BTC Map verified_at: 2023-08-18",
       "lat/lon: -37.829231899999996, 144.99121195",
       "OSM: https://www.openstreetmap.org/way/946747457",
-      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
-      "The Royals is listed in BTC Map as a physical place that accepts Bitcoin."
-    ],
-    "social_links": [],
-    "proposed_mode": "direct",
-    "confidence": "low",
-    "review_reasons": [],
-    "evidence_refs": [
-      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
-    ]
-  },
-  {
-    "legacy_id": "merchant:the-royals:btcmap-place-16153",
-    "display_name": "The Royals",
-    "country": null,
-    "city": null,
-    "website": "https://theroyals.com.au/",
-    "verification_status": "ready",
-    "accepted_assets": [
-      "Bitcoin"
-    ],
-    "accepted_chains": [
-      "Lightning Network"
-    ],
-    "payment_methods": [
-      "direct_crypto",
-      "in_store"
-    ],
-    "payment_processors": [],
-    "payment_notes": [
-      "BTC Map / OpenStreetMap",
-      "BTC Map address: 101-113 Cremorne Street 3121",
-      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
-      "BTC Map place id: 16153",
-      "BTC Map updated_at: 2025-09-18T05:36:31.231Z",
-      "BTC Map verified_at: 2023-08-15",
-      "lat/lon: -37.8285312, 144.99094185",
-      "OSM: https://www.openstreetmap.org/way/946747458",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
       "The Royals is listed in BTC Map as a physical place that accepts Bitcoin."
     ],
@@ -179956,6 +183087,43 @@ export const generatedProductMerchantsData = [
       "OSM: https://www.openstreetmap.org/node/11765799176",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
       "The Skill Lab is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:the-social-grill:btcmap-place-2212",
+    "display_name": "The Social Grill",
+    "country": null,
+    "city": null,
+    "website": "https://www.socialgrill.co.za/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2212",
+      "BTC Map updated_at: 2025-09-18T05:36:32.852Z",
+      "BTC Map verified_at: 2023-04-15",
+      "lat/lon: -25.8277274, 28.3190897",
+      "OSM: https://www.openstreetmap.org/node/10271504991",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "The Social Grill is listed in BTC Map as a physical place that accepts Bitcoin."
     ],
     "social_links": [],
     "proposed_mode": "direct",
@@ -180080,6 +183248,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:the-sycamore-inn:btcmap-place-14450",
+    "display_name": "The Sycamore Inn",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 9 Sycamore Road Matlock DE4 3HZ",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 14450",
+      "BTC Map updated_at: 2025-09-18T05:36:32.93Z",
+      "BTC Map verified_at: 2024-02-26",
+      "lat/lon: 53.1441276, -1.5586567",
+      "OSM: https://www.openstreetmap.org/node/963528808",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "The Sycamore Inn is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:the-tipsy-alchemist:btcmap-place-11330",
     "display_name": "The Tipsy Alchemist",
     "country": null,
@@ -180108,6 +183314,44 @@ export const generatedProductMerchantsData = [
       "OSM: https://www.openstreetmap.org/node/3825447599",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
       "The Tipsy Alchemist is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:the-town-barbers:btcmap-place-801",
+    "display_name": "The Town Barbers",
+    "country": null,
+    "city": null,
+    "website": "https://www.thetownbarberstenerife.com/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 18 Calle Las Nieves 38205",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 801",
+      "BTC Map updated_at: 2025-09-18T05:36:32.86Z",
+      "BTC Map verified_at: 2022-10-17",
+      "lat/lon: 28.4768088, -16.2976996",
+      "OSM: https://www.openstreetmap.org/node/10132467404",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "The Town Barbers is listed in BTC Map as a physical place that accepts Bitcoin."
     ],
     "social_links": [],
     "proposed_mode": "direct",
@@ -181587,6 +184831,43 @@ export const generatedProductMerchantsData = [
       "OSM: https://www.openstreetmap.org/node/11392869544",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
       "Tienda Rene is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:tienda-san-jose:btcmap-place-15561",
+    "display_name": "Tienda San José",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 15561",
+      "BTC Map updated_at: 2025-09-18T05:36:32.924Z",
+      "BTC Map verified_at: 2024-02-17",
+      "lat/lon: 14.73617085, -91.15873665000001",
+      "OSM: https://www.openstreetmap.org/way/403956303",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Tienda San José is listed in BTC Map as a physical place that accepts Bitcoin."
     ],
     "social_links": [],
     "proposed_mode": "direct",
@@ -183861,6 +187142,43 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:trebovicky-mlyn:btcmap-place-8945",
+    "display_name": "Třebovický mlýn",
+    "country": null,
+    "city": null,
+    "website": "https://www.trebovickymlyn.cz/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 8945",
+      "BTC Map updated_at: 2025-09-18T05:36:33Z",
+      "BTC Map verified_at: 2024-04-23",
+      "lat/lon: 49.8367389, 18.1987352",
+      "OSM: https://www.openstreetmap.org/node/2769817326",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Třebovický mlýn is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:treinador-victor-comandolli:btcmap-place-17560",
     "display_name": "Treinador Victor Comandolli",
     "country": null,
@@ -184472,6 +187790,44 @@ export const generatedProductMerchantsData = [
       "OSM: https://www.openstreetmap.org/node/13088391233",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
       "Tripta is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:triptus-idiomas:btcmap-place-18896",
+    "display_name": "Triptus Idiomas",
+    "country": null,
+    "city": null,
+    "website": "https://www.triptusidiomas.com.br/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 2015 Av. Sete de Setembro Quaraí 97560-000",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 18896",
+      "BTC Map updated_at: 2025-09-18T05:36:32.958Z",
+      "BTC Map verified_at: 2024-04-17",
+      "lat/lon: -30.3805661, -56.4564768",
+      "OSM: https://www.openstreetmap.org/node/11824931455",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Triptus Idiomas is listed in BTC Map as a physical place that accepts Bitcoin."
     ],
     "social_links": [],
     "proposed_mode": "direct",
@@ -189496,6 +192852,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:vau-social-club:btcmap-place-16228",
+    "display_name": "Vau Social Club",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: 122 Rua 1º de Maio Vau 2510-664",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 16228",
+      "BTC Map updated_at: 2025-09-18T05:36:32.867Z",
+      "BTC Map verified_at: 2023-11-03",
+      "lat/lon: 39.3675969, -9.2227573",
+      "OSM: https://www.openstreetmap.org/node/11310260416",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Vau Social Club is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:vcelar-beekeeper-jiri-vlas:btcmap-place-28214",
     "display_name": "Včelař (beekeeper)- Jiří Vlas",
     "country": null,
@@ -191914,6 +195308,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:vrisch-gewagt-boutique-self-catering-olive-farm:btcmap-place-18180",
+    "display_name": "Vrisch Gewagt Boutique Self-Catering Olive Farm",
+    "country": null,
+    "city": null,
+    "website": "http://www.vrischgewagt.co.za/",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: R407 Prince Albert 6930",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 18180",
+      "BTC Map updated_at: 2025-09-18T05:36:32.935Z",
+      "BTC Map verified_at: 2024-03-05",
+      "lat/lon: -33.2756507, 22.358374",
+      "OSM: https://www.openstreetmap.org/node/7305887529",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Vrisch Gewagt Boutique Self-Catering Olive Farm is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:vrmandat-com:btcmap-place-21609",
     "display_name": "VRMandat.com",
     "country": null,
@@ -192914,6 +196346,43 @@ export const generatedProductMerchantsData = [
     "review_reasons": [],
     "evidence_refs": [
       "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&limit=100"
+    ]
+  },
+  {
+    "legacy_id": "merchant:watam:btcmap-place-2743",
+    "display_name": "watam",
+    "country": null,
+    "city": null,
+    "website": "https://wearetheartmakers.com",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 2743",
+      "BTC Map updated_at: 2025-09-18T05:36:32.853Z",
+      "BTC Map verified_at: 2023-04-11",
+      "lat/lon: 40.9901716, 29.0282267",
+      "OSM: https://www.openstreetmap.org/node/10585980354",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "watam is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
     ]
   },
   {
@@ -200456,6 +203925,44 @@ export const generatedProductMerchantsData = [
     ]
   },
   {
+    "legacy_id": "merchant:zum-wilden-michel:btcmap-place-16820",
+    "display_name": "Zum Wilden Michel",
+    "country": null,
+    "city": null,
+    "website": "https://www.zumwildenmichel.de",
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map address: Linach Furtwangen im Schwarzwald 78120",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 16820",
+      "BTC Map updated_at: 2025-09-18T05:36:32.941Z",
+      "BTC Map verified_at: 2024-03-18",
+      "lat/lon: 48.0245095, 8.2270635",
+      "OSM: https://www.openstreetmap.org/node/513553905",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "Zum Wilden Michel is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
     "legacy_id": "merchant:zzz-projects:btcmap-place-2222",
     "display_name": "ZZZ Projects",
     "country": null,
@@ -200522,6 +204029,43 @@ export const generatedProductMerchantsData = [
       "OSM: https://www.openstreetmap.org/node/10578841994",
       "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
       "表参道燻製堂 is listed in BTC Map as a physical place that accepts Bitcoin."
+    ],
+    "social_links": [],
+    "proposed_mode": "direct",
+    "confidence": "low",
+    "review_reasons": [],
+    "evidence_refs": [
+      "https://api.btcmap.org/v4/places?fields=id%2Cname%2Clat%2Clon%2Caddress%2Cwebsite%2Cupdated_at%2Cverified_at%2Cosm_id%2Cosm_url%2Cpayment_provider&updated_since=1970-01-01T00%3A00%3A00Z&limit=250"
+    ]
+  },
+  {
+    "legacy_id": "merchant:btcmap-place-18953:btcmap-place-18953",
+    "display_name": "与俊达的谈话服务",
+    "country": null,
+    "city": null,
+    "website": null,
+    "verification_status": "ready",
+    "accepted_assets": [
+      "Bitcoin"
+    ],
+    "accepted_chains": [
+      "Lightning Network"
+    ],
+    "payment_methods": [
+      "direct_crypto",
+      "in_store"
+    ],
+    "payment_processors": [],
+    "payment_notes": [
+      "BTC Map / OpenStreetMap",
+      "BTC Map is powered by OpenStreetMap/community-maintained location data.",
+      "BTC Map place id: 18953",
+      "BTC Map updated_at: 2025-09-18T05:36:32.993Z",
+      "BTC Map verified_at: 2024-04-22",
+      "lat/lon: 34.4390225, 115.616802",
+      "OSM: https://www.openstreetmap.org/node/11836255171",
+      "Physical/local merchant seed; verify merchant-side evidence before raising confidence.",
+      "与俊达的谈话服务 is listed in BTC Map as a physical place that accepts Bitcoin."
     ],
     "social_links": [],
     "proposed_mode": "direct",
