@@ -1,17 +1,17 @@
 export const generatedProductStatsData = {
-  "totalMerchants": 5650,
+  "totalMerchants": 5747,
   "modeBreakdown": {
-    "direct": 2676,
+    "direct": 2773,
     "processor": 2971,
     "bridge": 3
   },
   "confidenceBreakdown": {
-    "low": 2578,
+    "low": 2675,
     "medium": 1143,
     "high": 1929
   },
   "countryBreakdown": {
-    "Unknown": 5620,
+    "Unknown": 5717,
     "NL": 2,
     "LV": 1,
     "IT": 1,
@@ -34,7 +34,7 @@ export const generatedProductStatsData = {
     "CA": 1
   },
   "processorBreakdown": {
-    "Unknown": 2677,
+    "Unknown": 2774,
     "BitPay": 207,
     "CoinGate": 631,
     "CoinPayments": 5,
@@ -57,32 +57,32 @@ export const generatedProductStatsData = {
     "PaymentWall": 1
   },
   "scopeBreakdown": {
-    "merchant": 5650
+    "merchant": 5747
   },
   "entityTypeBreakdown": {
-    "physical_merchant": 2574,
+    "physical_merchant": 2671,
     "online_service": 3076
   },
   "acceptanceTypeBreakdown": {
-    "direct_crypto": 2676,
+    "direct_crypto": 2773,
     "processor_checkout": 2971,
     "digital_cash": 3
   },
   "acceptanceScopeBreakdown": {
-    "in_store": 2566,
+    "in_store": 2663,
     "online_checkout": 954,
     "selected_products_only": 2129,
     "renewal_only": 1
   },
   "sourceOriginBreakdown": {
-    "community_seed": 2566,
+    "community_seed": 2663,
     "official_seed": 3084
   },
   "verificationMethodBreakdown": {
-    "manual_official_source_review": 5650
+    "manual_official_source_review": 5747
   },
   "coverageRegionBreakdown": {
-    "BTC Map / OSM unmapped": 2566,
+    "BTC Map / OSM unmapped": 2663,
     "Global/Unknown": 3054,
     "NL": 2,
     "airBaltic online booking flow": 1,
@@ -98,7 +98,7 @@ export const generatedProductStatsData = {
     "Global online travel booking": 1
   },
   "cityBreakdown": {
-    "Unknown": 5626,
+    "Unknown": 5723,
     "Amsterdam": 2,
     "Lidosta Riga, Marupe district": 1,
     "Perugia": 1,
@@ -145,19 +145,19 @@ export const generatedProductStatsData = {
     "PaymentWall": 1
   },
   "noProcessorReasonBreakdown": {
-    "direct_crypto_no_processor_expected": 2674,
+    "direct_crypto_no_processor_expected": 2771,
     "bridge_no_processor": 3
   },
   "supportRailTypeBreakdown": {
-    "asset": 2810,
-    "chain": 2677,
+    "asset": 2907,
+    "chain": 2774,
     "processor": 2980,
     "card_program": 8,
     "digital_cash_program": 17
   },
   "supportRailLabelBreakdown": {
-    "Bitcoin": 2672,
-    "Lightning Network": 2667,
+    "Bitcoin": 2769,
+    "Lightning Network": 2764,
     "BitPay": 207,
     "CoinGate": 631,
     "Visa / Mastercard": 2,
@@ -228,7 +228,7 @@ export const generatedProductStatsData = {
     "Credit Card": 1
   },
   "evidenceKindBreakdown": {
-    "official_store_locator": 5608,
+    "official_store_locator": 5705,
     "official_payment_page": 30,
     "official_help_center": 40,
     "official_checkout": 2,
@@ -236,7 +236,7 @@ export const generatedProductStatsData = {
     "official_press_release": 1
   },
   "evidencePublisherBreakdown": {
-    "BTC Map / OpenStreetMap contributors": 2566,
+    "BTC Map / OpenStreetMap contributors": 2663,
     "BitPay": 195,
     "CoinGate": 627,
     "BTCPay Server": 101,
@@ -288,33 +288,33 @@ export const generatedProductStatsData = {
     "Windscribe": 2
   },
   "websitePresenceBreakdown": {
-    "without_website": 4083,
-    "with_website": 1567
+    "without_website": 4119,
+    "with_website": 1628
   },
   "geoPresenceBreakdown": {
-    "with_geo": 2574,
+    "with_geo": 2671,
     "without_geo": 3076
   },
   "addressPresenceBreakdown": {
-    "with_address_full": 1823,
-    "without_address_full": 3827
+    "with_address_full": 1898,
+    "without_address_full": 3849
   },
   "evidenceCountBreakdown": {
-    "1": 5620,
+    "1": 5717,
     "2-3": 30
   },
   "notesPresenceBreakdown": {
-    "with_notes": 3876,
+    "with_notes": 3973,
     "without_notes": 1774
   },
   "duplicateDisplayNameSizeBreakdown": {
-    "2-3": 140,
+    "2-3": 141,
     "4-10": 108,
     "11+": 3
   },
   "recordHealthBreakdown": {
     "total_health_issues": 0,
-    "records_scanned": 5650
+    "records_scanned": 5747
   },
   "invalidCountryValues": [],
   "invalidCityValues": [],
@@ -5817,6 +5817,18 @@ export const generatedProductStatsData = {
       "reason": "raw duplicate display_name group"
     },
     {
+      "id": "merchant:trezor:btcmap-place-3817",
+      "name": "Trezor",
+      "value": "Trezor",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:trezor:coingate-directory",
+      "name": "Trezor",
+      "value": "Trezor",
+      "reason": "raw duplicate display_name group"
+    },
+    {
       "id": "merchant:twitch:coincards-catalog",
       "name": "Twitch",
       "value": "Twitch",
@@ -6034,6 +6046,12 @@ export const generatedProductStatsData = {
     },
     {
       "id": "merchant:walmart:bitrefill-directory",
+      "name": "Walmart",
+      "value": "Walmart",
+      "reason": "raw duplicate display_name group"
+    },
+    {
+      "id": "merchant:walmart:btcmap-place-18055",
       "name": "Walmart",
       "value": "Walmart",
       "reason": "raw duplicate display_name group"
