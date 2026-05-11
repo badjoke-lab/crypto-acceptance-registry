@@ -1,27 +1,27 @@
 export const generatedCutoverReportData = {
-  "generatedAt": "2026-05-01T14:30:06.333Z",
+  "generatedAt": "2026-05-11T14:55:59.944Z",
   "merchants": {
-    "total": 5279,
-    "withEvidence": 5279,
-    "withWebsite": 1348,
+    "total": 5373,
+    "withEvidence": 5373,
+    "withWebsite": 1393,
     "highConfidence": 1929,
     "mediumConfidence": 1143,
-    "lowConfidence": 2207
+    "lowConfidence": 2301
   },
   "stats": {
-    "totalMerchants": 5279,
+    "totalMerchants": 5373,
     "modeBreakdown": {
-      "direct": 2305,
+      "direct": 2399,
       "processor": 2971,
       "bridge": 3
     },
     "confidenceBreakdown": {
-      "low": 2207,
+      "low": 2301,
       "medium": 1143,
       "high": 1929
     },
     "countryBreakdown": {
-      "Unknown": 5249,
+      "Unknown": 5343,
       "NL": 2,
       "LV": 1,
       "IT": 1,
@@ -44,7 +44,7 @@ export const generatedCutoverReportData = {
       "CA": 1
     },
     "processorBreakdown": {
-      "Unknown": 2306,
+      "Unknown": 2400,
       "BitPay": 207,
       "CoinGate": 631,
       "CoinPayments": 5,
@@ -67,32 +67,32 @@ export const generatedCutoverReportData = {
       "PaymentWall": 1
     },
     "scopeBreakdown": {
-      "merchant": 5279
+      "merchant": 5373
     },
     "entityTypeBreakdown": {
-      "physical_merchant": 2203,
+      "physical_merchant": 2297,
       "online_service": 3076
     },
     "acceptanceTypeBreakdown": {
-      "direct_crypto": 2305,
+      "direct_crypto": 2399,
       "processor_checkout": 2971,
       "digital_cash": 3
     },
     "acceptanceScopeBreakdown": {
-      "in_store": 2195,
+      "in_store": 2289,
       "online_checkout": 954,
       "selected_products_only": 2129,
       "renewal_only": 1
     },
     "sourceOriginBreakdown": {
-      "community_seed": 2195,
+      "community_seed": 2289,
       "official_seed": 3084
     },
     "verificationMethodBreakdown": {
-      "manual_official_source_review": 5279
+      "manual_official_source_review": 5373
     },
     "coverageRegionBreakdown": {
-      "BTC Map / OSM unmapped": 2195,
+      "BTC Map / OSM unmapped": 2289,
       "Global/Unknown": 3054,
       "NL": 2,
       "airBaltic online booking flow": 1,
@@ -108,7 +108,7 @@ export const generatedCutoverReportData = {
       "Global online travel booking": 1
     },
     "cityBreakdown": {
-      "Unknown": 5255,
+      "Unknown": 5349,
       "Amsterdam": 2,
       "Lidosta Riga, Marupe district": 1,
       "Perugia": 1,
@@ -155,19 +155,19 @@ export const generatedCutoverReportData = {
       "PaymentWall": 1
     },
     "noProcessorReasonBreakdown": {
-      "direct_crypto_no_processor_expected": 2303,
+      "direct_crypto_no_processor_expected": 2397,
       "bridge_no_processor": 3
     },
     "supportRailTypeBreakdown": {
-      "asset": 2439,
-      "chain": 2306,
+      "asset": 2533,
+      "chain": 2400,
       "processor": 2980,
       "card_program": 8,
       "digital_cash_program": 17
     },
     "supportRailLabelBreakdown": {
-      "Bitcoin": 2301,
-      "Lightning Network": 2296,
+      "Bitcoin": 2395,
+      "Lightning Network": 2390,
       "BitPay": 207,
       "CoinGate": 631,
       "Visa / Mastercard": 2,
@@ -238,7 +238,7 @@ export const generatedCutoverReportData = {
       "Credit Card": 1
     },
     "evidenceKindBreakdown": {
-      "official_store_locator": 5237,
+      "official_store_locator": 5331,
       "official_payment_page": 30,
       "official_help_center": 40,
       "official_checkout": 2,
@@ -246,7 +246,7 @@ export const generatedCutoverReportData = {
       "official_press_release": 1
     },
     "evidencePublisherBreakdown": {
-      "BTC Map / OpenStreetMap contributors": 2195,
+      "BTC Map / OpenStreetMap contributors": 2289,
       "BitPay": 195,
       "CoinGate": 627,
       "BTCPay Server": 101,
@@ -298,33 +298,33 @@ export const generatedCutoverReportData = {
       "Windscribe": 2
     },
     "websitePresenceBreakdown": {
-      "without_website": 3931,
-      "with_website": 1348
+      "without_website": 3980,
+      "with_website": 1393
     },
     "geoPresenceBreakdown": {
-      "with_geo": 2203,
+      "with_geo": 2297,
       "without_geo": 3076
     },
     "addressPresenceBreakdown": {
-      "with_address_full": 1597,
-      "without_address_full": 3682
+      "with_address_full": 1651,
+      "without_address_full": 3722
     },
     "evidenceCountBreakdown": {
-      "1": 5249,
+      "1": 5343,
       "2-3": 30
     },
     "notesPresenceBreakdown": {
-      "with_notes": 3505,
+      "with_notes": 3599,
       "without_notes": 1774
     },
     "duplicateDisplayNameSizeBreakdown": {
-      "2-3": 134,
+      "2-3": 136,
       "4-10": 106,
       "11+": 1
     },
     "recordHealthBreakdown": {
       "total_health_issues": 0,
-      "records_scanned": 5279
+      "records_scanned": 5373
     },
     "invalidCountryValues": [],
     "invalidCityValues": [],
@@ -904,6 +904,18 @@ export const generatedCutoverReportData = {
         "id": "merchant:american-airlines:egifter-catalog",
         "name": "American Airlines",
         "value": "American Airlines",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:american-crypto-atm:btcmap-place-17085",
+        "name": "American Crypto ATM",
+        "value": "American Crypto ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:american-crypto-atm:btcmap-place-17089",
+        "name": "American Crypto ATM",
+        "value": "American Crypto ATM",
         "reason": "raw duplicate display_name group"
       },
       {
@@ -5149,6 +5161,12 @@ export const generatedCutoverReportData = {
         "reason": "raw duplicate display_name group"
       },
       {
+        "id": "merchant:subway:btcmap-place-11518",
+        "name": "Subway",
+        "value": "Subway",
+        "reason": "raw duplicate display_name group"
+      },
+      {
         "id": "merchant:subway:btcmap-place-6199",
         "name": "Subway",
         "value": "Subway",
@@ -5764,6 +5782,18 @@ export const generatedCutoverReportData = {
         "id": "merchant:wendys:coingate-directory",
         "name": "Wendy's",
         "value": "Wendy's",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:wissol:btcmap-place-22727",
+        "name": "Wissol",
+        "value": "Wissol",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:wissol:btcmap-place-24836",
+        "name": "Wissol",
+        "value": "Wissol",
         "reason": "raw duplicate display_name group"
       },
       {
