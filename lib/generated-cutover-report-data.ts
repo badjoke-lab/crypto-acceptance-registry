@@ -1,27 +1,27 @@
 export const generatedCutoverReportData = {
-  "generatedAt": "2026-05-11T16:11:23.920Z",
+  "generatedAt": "2026-05-11T16:16:54.488Z",
   "merchants": {
-    "total": 5906,
-    "withEvidence": 5906,
-    "withWebsite": 1736,
+    "total": 6003,
+    "withEvidence": 6003,
+    "withWebsite": 1802,
     "highConfidence": 1929,
     "mediumConfidence": 1143,
-    "lowConfidence": 2834
+    "lowConfidence": 2931
   },
   "stats": {
-    "totalMerchants": 5906,
+    "totalMerchants": 6003,
     "modeBreakdown": {
-      "direct": 2932,
+      "direct": 3029,
       "processor": 2971,
       "bridge": 3
     },
     "confidenceBreakdown": {
-      "low": 2834,
+      "low": 2931,
       "medium": 1143,
       "high": 1929
     },
     "countryBreakdown": {
-      "Unknown": 5876,
+      "Unknown": 5973,
       "NL": 2,
       "LV": 1,
       "IT": 1,
@@ -44,7 +44,7 @@ export const generatedCutoverReportData = {
       "CA": 1
     },
     "processorBreakdown": {
-      "Unknown": 2933,
+      "Unknown": 3030,
       "BitPay": 207,
       "CoinGate": 631,
       "CoinPayments": 5,
@@ -67,32 +67,32 @@ export const generatedCutoverReportData = {
       "PaymentWall": 1
     },
     "scopeBreakdown": {
-      "merchant": 5906
+      "merchant": 6003
     },
     "entityTypeBreakdown": {
-      "physical_merchant": 2830,
+      "physical_merchant": 2927,
       "online_service": 3076
     },
     "acceptanceTypeBreakdown": {
-      "direct_crypto": 2932,
+      "direct_crypto": 3029,
       "processor_checkout": 2971,
       "digital_cash": 3
     },
     "acceptanceScopeBreakdown": {
-      "in_store": 2822,
+      "in_store": 2919,
       "online_checkout": 954,
       "selected_products_only": 2129,
       "renewal_only": 1
     },
     "sourceOriginBreakdown": {
-      "community_seed": 2822,
+      "community_seed": 2919,
       "official_seed": 3084
     },
     "verificationMethodBreakdown": {
-      "manual_official_source_review": 5906
+      "manual_official_source_review": 6003
     },
     "coverageRegionBreakdown": {
-      "BTC Map / OSM unmapped": 2822,
+      "BTC Map / OSM unmapped": 2919,
       "Global/Unknown": 3054,
       "NL": 2,
       "airBaltic online booking flow": 1,
@@ -108,7 +108,7 @@ export const generatedCutoverReportData = {
       "Global online travel booking": 1
     },
     "cityBreakdown": {
-      "Unknown": 5882,
+      "Unknown": 5979,
       "Amsterdam": 2,
       "Lidosta Riga, Marupe district": 1,
       "Perugia": 1,
@@ -155,19 +155,19 @@ export const generatedCutoverReportData = {
       "PaymentWall": 1
     },
     "noProcessorReasonBreakdown": {
-      "direct_crypto_no_processor_expected": 2930,
+      "direct_crypto_no_processor_expected": 3027,
       "bridge_no_processor": 3
     },
     "supportRailTypeBreakdown": {
-      "asset": 3066,
-      "chain": 2933,
+      "asset": 3163,
+      "chain": 3030,
       "processor": 2980,
       "card_program": 8,
       "digital_cash_program": 17
     },
     "supportRailLabelBreakdown": {
-      "Bitcoin": 2928,
-      "Lightning Network": 2923,
+      "Bitcoin": 3025,
+      "Lightning Network": 3020,
       "BitPay": 207,
       "CoinGate": 631,
       "Visa / Mastercard": 2,
@@ -238,7 +238,7 @@ export const generatedCutoverReportData = {
       "Credit Card": 1
     },
     "evidenceKindBreakdown": {
-      "official_store_locator": 5864,
+      "official_store_locator": 5961,
       "official_payment_page": 30,
       "official_help_center": 40,
       "official_checkout": 2,
@@ -246,7 +246,7 @@ export const generatedCutoverReportData = {
       "official_press_release": 1
     },
     "evidencePublisherBreakdown": {
-      "BTC Map / OpenStreetMap contributors": 2822,
+      "BTC Map / OpenStreetMap contributors": 2919,
       "BitPay": 195,
       "CoinGate": 627,
       "BTCPay Server": 101,
@@ -298,33 +298,33 @@ export const generatedCutoverReportData = {
       "Windscribe": 2
     },
     "websitePresenceBreakdown": {
-      "without_website": 4170,
-      "with_website": 1736
+      "without_website": 4201,
+      "with_website": 1802
     },
     "geoPresenceBreakdown": {
-      "with_geo": 2830,
+      "with_geo": 2927,
       "without_geo": 3076
     },
     "addressPresenceBreakdown": {
-      "with_address_full": 2023,
-      "without_address_full": 3883
+      "with_address_full": 2098,
+      "without_address_full": 3905
     },
     "evidenceCountBreakdown": {
-      "1": 5876,
+      "1": 5973,
       "2-3": 30
     },
     "notesPresenceBreakdown": {
-      "with_notes": 4132,
+      "with_notes": 4229,
       "without_notes": 1774
     },
     "duplicateDisplayNameSizeBreakdown": {
-      "2-3": 143,
+      "2-3": 144,
       "4-10": 110,
       "11+": 3
     },
     "recordHealthBreakdown": {
       "total_health_issues": 0,
-      "records_scanned": 5906
+      "records_scanned": 6003
     },
     "invalidCountryValues": [],
     "invalidCityValues": [],
@@ -3517,6 +3517,12 @@ export const generatedCutoverReportData = {
         "reason": "raw duplicate display_name group"
       },
       {
+        "id": "merchant:instacoin-atm:btcmap-place-17246",
+        "name": "Instacoin ATM",
+        "value": "Instacoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
         "id": "merchant:instacoin-atm:btcmap-place-17247",
         "name": "Instacoin ATM",
         "value": "Instacoin ATM",
@@ -3583,7 +3589,31 @@ export const generatedCutoverReportData = {
         "reason": "raw duplicate display_name group"
       },
       {
+        "id": "merchant:instacoin-atm:btcmap-place-17286",
+        "name": "Instacoin ATM",
+        "value": "Instacoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:instacoin-atm:btcmap-place-17290",
+        "name": "Instacoin ATM",
+        "value": "Instacoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
         "id": "merchant:instacoin-atm:btcmap-place-17292",
+        "name": "Instacoin ATM",
+        "value": "Instacoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:instacoin-atm:btcmap-place-17293",
+        "name": "Instacoin ATM",
+        "value": "Instacoin ATM",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:instacoin-atm:btcmap-place-17302",
         "name": "Instacoin ATM",
         "value": "Instacoin ATM",
         "reason": "raw duplicate display_name group"
@@ -4058,6 +4088,12 @@ export const generatedCutoverReportData = {
       },
       {
         "id": "merchant:mcdonald-s:btcmap-place-10651",
+        "name": "McDonald's",
+        "value": "McDonald's",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:mcdonald-s:btcmap-place-14031",
         "name": "McDonald's",
         "value": "McDonald's",
         "reason": "raw duplicate display_name group"
@@ -5326,6 +5362,18 @@ export const generatedCutoverReportData = {
         "id": "merchant:sling-tv:egifter-catalog",
         "name": "Sling TV",
         "value": "Sling TV",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:solio-lar-e-residencia-assistida:btcmap-place-18784",
+        "name": "Sólio – Lar e Residência Assistida",
+        "value": "Sólio – Lar e Residência Assistida",
+        "reason": "raw duplicate display_name group"
+      },
+      {
+        "id": "merchant:solio-lar-e-residencia-assistida:btcmap-place-23854",
+        "name": "Sólio – Lar e Residência Assistida",
+        "value": "Sólio – Lar e Residência Assistida",
         "reason": "raw duplicate display_name group"
       },
       {
