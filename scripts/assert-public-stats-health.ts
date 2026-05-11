@@ -74,8 +74,8 @@ function main() {
   }
 
   console.log('Public stats health gate passed.')
-  console.log(`totalMerchants: ${totalMerchants}`)
-  console.log('recordHealthBreakdown.total_health_issues: 0')
+  console.log(`TOTAL PUBLIC MERCHANTS AFTER THIS BATCH: ${totalMerchants}`)
+  console.log('HEALTH ISSUES: 0')
 }
 
 main()
