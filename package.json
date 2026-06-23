@@ -13,6 +13,7 @@
     "build:review-queue": "tsx scripts/build-review-queue.ts",
     "build:product-stats": "tsx scripts/build-product-stats.ts",
     "build:cutover-report": "tsx scripts/build-cutover-report.ts",
+    "audit:registry-quality": "tsx scripts/audit-registry-quality.ts",
     "embed:public-artifacts": "tsx scripts/embed-public-artifacts.ts",
     "check:public-health": "tsx scripts/assert-public-stats-health.ts",
     "verify:public-artifacts": "pnpm run build:public-artifacts && pnpm run embed:public-artifacts && pnpm run check:public-health && pnpm run build",
